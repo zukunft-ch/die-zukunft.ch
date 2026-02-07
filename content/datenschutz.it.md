@@ -1,5 +1,6 @@
 +++
 title = "Protezione dei dati"
+slug = "protezione-dei-dati"
 description = "Informativa sulla privacy di Il Futuro."
 template = "page.html"
 +++

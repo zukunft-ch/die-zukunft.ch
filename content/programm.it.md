@@ -1,5 +1,6 @@
 +++
 title = "Programma"
+slug = "programma"
 description = "I cinque pilastri del nostro programma politico."
 template = "page.html"
 
@@ -12,22 +13,32 @@ cta_text = "Convinti? Sostenete il nostro programma."
 
 Il nostro programma affronta le sfide centrali della transizione strutturale — in modo pragmatico, misurabile e adattato alle condizioni svizzere.
 
-### 1. Contratto sociale per l'automazione
+### 1. Sovranità digitale
 
-Un reddito di base incondizionato come dividendo dell'automazione: meno trappole burocratiche, più libertà per la riqualificazione, la cura, l'imprenditoria e il lavoro flessibile.
+I sistemi digitali critici devono rimanere sotto controllo democratico. Swiss/EU-first per infrastrutture critiche e dati sensibili. Anti-lock-in, open source, sicurezza della catena di approvvigionamento.
 
-### 2. Lavorare senza paura
+[Scopri di più →](/it/sovranita-digitale/)
 
-Riqualificazione, mobilità professionale e supporto alla transizione devono diventare la normalità — non solo in tempi di crisi. L'apprendimento permanente richiede un sistema, non solo appelli.
+### 2. Reindustrializzazione con la robotica
 
-### 3. Sovranità digitale
+Più produzione e valore aggiunto in Svizzera — robusta, moderna, automatizzata. A misura di PMI con finanziamento, laboratori condivisi e procedure accelerate.
 
-Soluzioni svizzere ed europee prima di tutto. Standard aperti invece di lock-in proprietario. Le infrastrutture critiche devono essere sotto controllo democratico.
+[Scopri di più →](/it/robotica/)
 
-### 4. Reindustrializzazione con la robotica
+### 3. Lavorare senza paura
 
-Automazione a misura di PMI grazie a laboratori condivisi, incentivi fiscali e cooperazioni di ricerca pubblica. La produzione locale rafforza la resilienza e l'occupazione.
+Riqualificazione, mobilità professionale e supporto alla transizione come normalità — non solo in tempi di crisi. Meno ostacoli, miglior riconoscimento, formazione modulare.
 
-### 5. Modernizzazione biotech con fiducia
+[Scopri di più →](/it/transizioni/)
 
-Le scienze della vita offrono enormi opportunità — dalla prevenzione alla medicina personalizzata. Chiediamo regole chiare di consenso, verificabilità e trasparenza. Nessuna medicina di Stato opaca.
+### 4. Scienze della vita e salute con fiducia
+
+Rendere possibile il progresso — senza perdita di controllo. Dati sanitari in opt-in, regolamentazione basata sull'evidenza, nessuna medicina di Stato opaca.
+
+[Scopri di più →](/it/scienze-della-vita/)
+
+### 5. Reddito di base come progetto per il futuro
+
+Ridurre l'angoscia esistenziale, diminuire la burocrazia, favorire l'imprenditorialità. Progetto pilota federale con valutazione indipendente.
+
+[Scopri di più →](/it/reddito-di-base/)

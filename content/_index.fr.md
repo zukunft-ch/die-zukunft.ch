@@ -1,10 +1,9 @@
 +++
 template = "index.html"
-sort_by = "weight"
 
 [extra]
 hero_title = "Le Futur"
-hero_subtitle = "La Suisse entre dans une transition structurelle. Nous la rendons gouvernable."
+hero_subtitle = "Prospérité, confort et bien-être pour tous – avec un contrat social moderne qui crée la sécurité et élargit la liberté."
 
 changes_title = "Ce qui change"
 changes = [
@@ -29,6 +28,6 @@ timeline = [
   { phase = "Phase 3", title = "National", text = "Présence dans toutes les régions linguistiques, campagnes nationales et travail politique." },
 ]
 
-cta_title = "Construisons ensemble"
-cta_text = "Rejoignez un mouvement qui ne craint pas le changement, mais le façonne."
+cta_title = "Participer"
+cta_text = "Prospérité au lieu de la pensée de pénurie. Sécurité au lieu de la peur. Souveraineté au lieu de la dépendance."
 +++

@@ -1,5 +1,6 @@
 +++
 title = "Mentions légales"
+slug = "mentions-legales"
 description = "Mentions légales du parti Le Futur."
 template = "page.html"
 +++

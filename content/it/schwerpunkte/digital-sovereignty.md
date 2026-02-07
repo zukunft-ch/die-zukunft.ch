@@ -1,3 +1,8 @@
+----
+title = ""
+template = "page.html"
+----
+
 Digitale Souveränität
 
 Digitale Systeme sind heute Infrastruktur wie Strassen und Strom: Wenn sie intransparent, unsicher oder unkündbar sind, verliert die Demokratie Kontrolle.

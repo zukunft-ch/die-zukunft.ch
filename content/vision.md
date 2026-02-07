@@ -1,6 +1,6 @@
 +++
 title = "Vision"
-description = "Warum es Die Zukunft braucht: Eine Partei für den strukturellen Wandel."
+description = "Die Zukunft ist kein Angstprojekt – sondern ein Versprechen von Wohlstand, Komfort und Wohlergehen."
 template = "page.html"
 
 [extra]
@@ -8,20 +8,30 @@ show_cta = true
 cta_text = "Teilen Sie unsere Vision? Werden Sie Teil der Bewegung."
 +++
 
-## Warum diese Partei?
+## Die Schweiz der Zukunft
 
-KI, Robotik und Lebenswissenschaften werden Produktivität, Arbeit und Gesundheitswesen schneller verändern, als die heutige Politik verarbeiten kann. Die bisherigen Antworten schwanken zwischen Angst und blindem Fortschrittsoptimismus.
+Die Zukunft ist kein Angstprojekt. Wir glauben an Abundance – an Wohlstand, Komfort und Wohlergehen, die durch Produktivität möglich werden. Damit das gelingt, braucht es einen Staat, der Wandel sicher macht und Freiheit real vergrössert.
 
-Wir lehnen beides ab. Wir schlagen ein ruhiges, schweizerisches Upgrade vor: ein modernisierter Gesellschaftsvertrag, der Sicherheit bietet, ohne Stillstand zu erzwingen.
+## Drei Prinzipien
 
-## Unsere Überzeugung
+### 1. Positiv statt Panik
 
-Die Schweiz hat alle Voraussetzungen, diesen Wandel aktiv zu gestalten — nicht zu erleiden. Dafür braucht es:
+Wir definieren, wofür wir stehen – nicht nur, wogegen wir kämpfen. Die Schweiz hat alle Voraussetzungen, diesen Wandel aktiv zu gestalten — nicht zu erleiden.
 
-- **Stabilität durch Grundeinkommen**: Ein Fundament, das Umbrüche abfedert und Eigeninitiative ermöglicht.
-- **Souveränität durch eigene Infrastruktur**: Digitale Unabhängigkeit statt Plattform-Abhängigkeit.
-- **Innovation durch lokale Fertigung**: Reindustrialisierung mit Robotik, angepasst an Schweizer KMU.
-- **Vertrauen durch Transparenz**: Biotech-Fortschritte mit Einwilligung und Nachvollziehbarkeit.
+### 2. Souveränität statt Abhängigkeit
+
+Wer kritische Systeme nicht kontrolliert, wird kontrolliert: durch Lock-in, Intransparenz, Lieferkettenrisiken. Digitale Unabhängigkeit statt Plattform-Abhängigkeit.
+
+### 3. Würde im Fortschritt
+
+Technologie muss dem Menschen dienen. Deshalb: klare Rechte, klare Grenzen, klare Verantwortlichkeit.
+
+## Was sich ändern muss
+
+- Bürokratie muss leichter werden — nicht schwerer.
+- Umschulung und Wechsel müssen normal werden — nicht Ausnahme.
+- Staatliche IT muss auditierbar werden — nicht Black Box.
+- Produktion muss robust werden — nicht fragil.
 
 ## Sicherheit ohne Stillstand
 

@@ -1,5 +1,6 @@
 +++
 title = "Contact"
+slug = "contact"
 description = "Prenez contact avec Le Futur."
 template = "kontakt.html"
 +++

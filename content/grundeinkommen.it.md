@@ -1,5 +1,6 @@
 +++
 title = "Reddito di base"
+slug = "reddito-di-base"
 description = "Il reddito di base come dividendo dell'automazione: stabilità, libertà, semplificazione."
 template = "grundeinkommen.html"
 
@@ -11,6 +12,9 @@ faq = [
   { q = "Le persone smetteranno di lavorare?", a = "La ricerca dimostra di no. Progetti pilota in tutto il mondo mostrano che le persone con una garanzia di base avviano più spesso imprese, si formano di più e lavorano più produttivamente — non meno." },
   { q = "Perché proprio ora?", a = "L'automazione sta accelerando. Senza un fondamento stabilizzante, si rischiano tensioni sociali. Il reddito di base è una misura preventiva, non reattiva." },
   { q = "Vale anche per i non svizzeri?", a = "Le modalità esatte — come l'obbligo di residenza e la durata dei contributi — saranno definite nel processo democratico. Il principio essenziale è quello della garanzia di base universale." },
+  { q = "Cosa succede con le prestazioni sociali esistenti?", a = "Il reddito di base sostituisce e semplifica i trasferimenti esistenti. Non si tratta di aggiungere altro, ma di rendere il sistema più semplice, più trasparente e più equo." },
+  { q = "Perché un progetto pilota e non un'introduzione diretta?", a = "Perché siamo pragmatici. Un pilota federale confronta i modelli (RBI, imposta negativa, ibrido), misura l'impatto e crea una base decisionale solida – invece dell'ideologia." },
+  { q = "Cosa viene misurato?", a = "Tre ambiti chiave: benessere e sicurezza (stress esistenziale, stabilità), creazione di imprese e imprenditorialità, nonché costi burocratici e onere amministrativo." },
 ]
 +++
 

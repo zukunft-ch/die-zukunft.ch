@@ -1,6 +1,6 @@
 +++
 title = "Digitale Souveränität"
-description = "Souveränität beginnt bei der Infrastruktur: Schweizer und europäische Lösungen zuerst."
+description = "Souveränität beginnt bei der Infrastruktur: offen, auditierbar, austauschbar – und sicher."
 template = "page.html"
 
 [extra]
@@ -8,24 +8,35 @@ show_cta = true
 cta_text = "Digitale Souveränität braucht politischen Willen. Werden Sie aktiv."
 +++
 
-## Warum digitale Souveränität?
+Digitale Systeme sind heute Infrastruktur wie Strassen und Strom: Wenn sie intransparent, unsicher oder unkündbar sind, verliert die Demokratie Kontrolle.
 
-Die Schweiz ist bei kritischer digitaler Infrastruktur zunehmend von aussereuropäischen Plattformen abhängig — bei Cloud-Diensten, KI-Modellen, Kommunikationstools und Verwaltungssoftware. Das ist ein strategisches Risiko.
+## Unser Grundsatz
 
-## Unsere Vorschläge
+Swiss/EU-first nur für kritische Infrastruktur und sensible Daten. Sonst gilt: offene Konkurrenz – aber immer mit Auditierbarkeit, Portabilität und Sicherheit als Pflicht.
 
-### Swiss/EU-First-Beschaffung
+## Das Souveränitätspaket
 
-Öffentliche Aufträge sollen bevorzugt an Anbieter mit Sitz und Datenverarbeitung in der Schweiz oder der EU vergeben werden — bei vergleichbarer Leistung und Sicherheit.
+### 1. Anti-Lock-in Gesetz
 
-### Offene Standards
+- Exit-Pläne als Vertragsbestandteil
+- Offene Standards und Formatschnittstellen
+- Datenportabilität und Interoperabilität
 
-Proprietäre Formate und Vendor-Lock-in kosten die Verwaltung und Wirtschaft jährlich Milliarden. Offene Standards schaffen Interoperabilität und Wahlfreiheit.
+### 2. Open-by-default im Staat
 
-### Demokratische Kontrolle über kritische Infrastruktur
+- Open Source, wo sinnvoll (und wartbar)
+- Finanzierung von Maintenance (nicht nur "Build and forget")
+- Transparenzberichte zu grossen staatlichen IT-Systemen (Risiken, Abhängigkeiten, Exit-Status)
 
-Ob Cloud, KI oder digitale Identität: Infrastruktur, die alle betrifft, muss demokratisch kontrollierbar sein. Transparenz und Auditierbarkeit sind keine Optionen, sondern Grundvoraussetzungen.
+### 3. Sicherheit kritischer Systeme
 
-### Förderung lokaler Tech-Kompetenz
+- Mindeststandard: Kontrollen, Audits, Incident-Prozesse
+- Supply-Chain-Sicherheit: SBOM, signierte Builds, nachvollziehbare Herkunft (Provenance)
+- Klare Verantwortlichkeiten statt Zuständigkeits-Nebel
 
-Investitionen in Schweizer Tech-Ausbildung, Hochschulen und Startups stärken die Eigenständigkeit. Souveränität ist kein Protektionismus — sondern Fähigkeitsaufbau.
+## Warum das den Alltag verbessert
+
+- Weniger IT-Fehlinvestitionen
+- Weniger Abhängigkeit von einzelnen Anbietern
+- Weniger Risiken in kritischen Dienstleistungen
+- Mehr Vertrauen durch Transparenz

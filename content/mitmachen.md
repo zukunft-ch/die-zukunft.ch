@@ -1,27 +1,29 @@
 +++
 title = "Mitmachen"
-description = "Werden Sie Teil von Die Zukunft: Newsletter, Mitgliedschaft, Engagement."
+description = "Werden Sie Teil von Die Zukunft: Mitgliedschaft, Newsletter, Spenden."
 template = "page.html"
 +++
 
-## Gestalten Sie mit
+Die Zukunft baut man nicht allein. Wenn du willst, dass Politik wieder Zukunft kann: komm dazu.
 
-Die Zukunft lebt von Menschen, die den Wandel nicht fürchten, sondern aktiv gestalten wollen. Es gibt verschiedene Möglichkeiten, sich einzubringen:
+## Mitglied werden
 
-### Newsletter
+Mitgliedschaft gibt dir Mitbestimmung, Updates und die Möglichkeit, Arbeitsgruppen zu prägen. Schreib uns an [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch).
 
-Bleiben Sie informiert über unsere Arbeit, Veranstaltungen und politische Vorstösse.
+## Newsletter
+
+Kurz, klar, ohne Spam: Vorschläge, Events, Releases.
 
 {{ newsletter_form() }}
 
-### Mitgliedschaft
+## Spenden (Open Collective)
 
-Wir bauen die Partei gerade auf. Wenn Sie Interesse an einer Mitgliedschaft haben, schreiben Sie uns an [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch).
+Transparente Finanzierung, nachvollziehbar für alle. Unterstütze Die Zukunft über Open Collective.
 
-### Freiwilligenarbeit
+## Freiwilligenarbeit
 
-Ob Texte, Organisation, Design oder Kampagnenarbeit — wir freuen uns über jede Unterstützung. [Kontaktieren Sie uns](/kontakt/) und erzählen Sie uns, wo Sie beitragen möchten.
+Ob Texte, Organisation, Design oder Kampagnenarbeit — wir freuen uns über jede Unterstützung. [Kontaktiere uns](/kontakt/) und erzähl uns, wo du beitragen möchtest.
 
-### Vernetzen
+## Vernetzen
 
-Kennen Sie Fachleute, Organisationen oder Initiativen, die ähnliche Ziele verfolgen? Wir suchen aktiv den Austausch und Partnerschaften.
+Kennst du Fachleute, Organisationen oder Initiativen mit ähnlichen Zielen? Wir suchen aktiv den Austausch und Partnerschaften.

@@ -1,3 +1,8 @@
+----
+title = ""
+template = "page.html"
+----
+
 Basiseinkommen: Sicherheit, Freiheit, Einfachheit
 
 Ein gutes Leben braucht ein Fundament. Ein Basiseinkommen reduziert Existenzangst und macht Übergänge möglich – ohne Menschen in bürokratische Fallen zu zwingen.

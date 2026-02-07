@@ -1,5 +1,6 @@
 +++
 title = "Programme"
+slug = "programme"
 description = "Les cinq piliers de notre programme politique."
 template = "page.html"
 
@@ -12,22 +13,32 @@ cta_text = "Convaincu·e ? Soutenez notre programme."
 
 Notre programme aborde les défis centraux de la transition structurelle — de manière pragmatique, mesurable et adaptée aux conditions suisses.
 
-### 1. Contrat social pour l'automatisation
+### 1. Souveraineté numérique
 
-Un revenu de base inconditionnel comme dividende de l'automatisation : moins de pièges bureaucratiques, plus de liberté pour la reconversion, les soins, la création d'entreprise et le travail flexible.
+Les systèmes numériques critiques doivent rester sous contrôle démocratique. Swiss/EU-first pour les infrastructures critiques et les données sensibles. Anti-lock-in, open source, sécurité de la chaîne d'approvisionnement.
 
-### 2. Travailler sans peur
+[En savoir plus →](/fr/souverainete-numerique/)
 
-La reconversion, la mobilité professionnelle et l'accompagnement de transition doivent devenir la norme — pas seulement en temps de crise. L'apprentissage tout au long de la vie nécessite un système, pas seulement des appels.
+### 2. Réindustrialisation par la robotique
 
-### 3. Souveraineté numérique
+Plus de production et de valeur ajoutée en Suisse — robuste, moderne, automatisée. Adaptée aux PME avec financement, laboratoires partagés et procédures accélérées.
 
-Solutions suisses et européennes d'abord. Standards ouverts au lieu de lock-in propriétaire. Les infrastructures critiques doivent être sous contrôle démocratique.
+[En savoir plus →](/fr/robotique/)
 
-### 4. Réindustrialisation par la robotique
+### 3. Travailler sans peur
 
-Automatisation adaptée aux PME grâce à des laboratoires partagés, des incitations fiscales et des coopérations de recherche publique. La production locale renforce la résilience et l'emploi.
+Reconversion, mobilité professionnelle et accompagnement de transition comme normalité — pas seulement en temps de crise. Moins d'obstacles, meilleure reconnaissance, formation modulaire.
 
-### 5. Modernisation biotech avec confiance
+[En savoir plus →](/fr/transitions/)
 
-Les sciences de la vie offrent d'énormes opportunités — de la prévention à la médecine personnalisée. Nous exigeons des règles claires de consentement, la vérifiabilité et la transparence. Pas de médecine d'État opaque.
+### 4. Sciences de la vie & santé avec confiance
+
+Permettre le progrès — sans perte de contrôle. Données de santé en opt-in, réglementation basée sur les preuves, pas de médecine d'État opaque.
+
+[En savoir plus →](/fr/sciences-de-la-vie/)
+
+### 5. Revenu de base comme projet d'avenir
+
+Réduire l'angoisse existentielle, diminuer la bureaucratie, favoriser l'entrepreneuriat. Projet pilote fédéral avec évaluation indépendante.
+
+[En savoir plus →](/fr/revenu-de-base/)

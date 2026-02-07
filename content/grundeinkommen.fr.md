@@ -1,5 +1,6 @@
 +++
 title = "Revenu de base"
+slug = "revenu-de-base"
 description = "Le revenu de base comme dividende de l'automatisation : stabilité, liberté, simplification."
 template = "grundeinkommen.html"
 
@@ -11,6 +12,9 @@ faq = [
   { q = "Les gens arrêteront-ils de travailler ?", a = "La recherche montre que non. Les projets pilotes dans le monde entier démontrent que les personnes bénéficiant d'une garantie de base créent plus souvent des entreprises, se forment davantage et travaillent plus productivement — pas moins." },
   { q = "Pourquoi maintenant ?", a = "L'automatisation s'accélère. Sans un socle stabilisateur, des tensions sociales sont à craindre. Le revenu de base est une mesure préventive, pas réactive." },
   { q = "Cela s'applique-t-il aussi aux non-Suisses ?", a = "Les modalités exactes — comme l'obligation de résidence et la durée de cotisation — seront définies dans le processus démocratique. Le principe essentiel est celui de la garantie de base universelle." },
+  { q = "Qu'advient-il des prestations sociales existantes ?", a = "Le revenu de base remplace et simplifie les transferts existants. Il ne s'agit pas d'en rajouter, mais de rendre le système plus simple, plus transparent et plus juste." },
+  { q = "Pourquoi un projet pilote plutôt qu'une introduction directe ?", a = "Parce que nous sommes pragmatiques. Un pilote fédéral compare les modèles (RBI, impôt négatif, hybride), mesure l'impact et crée une base de décision solide – plutôt que de l'idéologie." },
+  { q = "Que mesure-t-on ?", a = "Trois domaines clés : bien-être et sécurité (stress existentiel, stabilité), créations d'entreprises et entrepreneuriat, ainsi que coûts bureaucratiques et charge administrative." },
 ]
 +++
 

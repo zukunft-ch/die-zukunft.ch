@@ -1,10 +1,9 @@
 +++
 template = "index.html"
-sort_by = "weight"
 
 [extra]
 hero_title = "Die Zukunft"
-hero_subtitle = "Die Schweiz steht vor einem strukturellen Wandel. Wir machen ihn gestaltbar."
+hero_subtitle = "Wohlstand, Komfort und Wohlergehen für alle – mit einem modernen Gesellschaftsvertrag, der Sicherheit schafft und Freiheit vergrössert."
 
 changes_title = "Was sich verändert"
 changes = [
@@ -29,6 +28,6 @@ timeline = [
   { phase = "Phase 3", title = "National", text = "Präsenz in allen Sprachregionen, nationale Kampagnen und politische Arbeit." },
 ]
 
-cta_title = "Gemeinsam gestalten"
-cta_text = "Werden Sie Teil einer Bewegung, die den Wandel nicht fürchtet, sondern gestaltet."
+cta_title = "Mitmachen"
+cta_text = "Wohlstand statt Mangeldenken. Sicherheit statt Angst. Souveränität statt Abhängigkeit."
 +++

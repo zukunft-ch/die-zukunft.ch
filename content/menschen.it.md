@@ -1,12 +1,17 @@
 +++
 title = "Persone"
+slug = "persone"
 description = "I volti dietro Il Futuro."
 template = "page.html"
 +++
 
-## Fondazione
+## Raffael Schneider
 
-Il Futuro è stato fondato a Basilea — con l'obiettivo di formulare una risposta politica pragmatica alla transizione strutturale provocata dall'IA, dalla robotica e dalle scienze della vita.
+Raffael Schneider vive a Basilea e lavora nel settore tecnologico. Si impegna affinché il progresso non crei insicurezza, ma migliori concretamente la vita – con più prosperità, comfort e vera libertà per tutti.
+
+### Perché adesso?
+
+Perché la trasformazione è già in corso. Le nuove tecnologie cambiano il lavoro e la vita quotidiana più velocemente di quanto la politica reagisca. Il Futuro vuole che la Svizzera sia preparata – affinché le persone possano adattarsi senza paura della caduta, e il progresso arrivi a tutti.
 
 ## Comitato
 
@@ -18,4 +23,4 @@ Il Futuro è stato fondato a Basilea — con l'obiettivo di formulare una rispos
 
 ---
 
-Desiderate contribuire al partito? [Contattateci](/it/kontakt/) o [attivatevi](/it/mitmachen/).
+Desiderate contribuire al partito? [Contattateci](/it/contatto/) o [attivatevi](/it/partecipa/).

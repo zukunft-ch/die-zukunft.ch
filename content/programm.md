@@ -12,22 +12,32 @@ cta_text = "Überzeugt? Unterstützen Sie unser Programm."
 
 Unser Programm adressiert die zentralen Herausforderungen des strukturellen Wandels — pragmatisch, messbar und auf Schweizer Verhältnisse zugeschnitten.
 
-### 1. Gesellschaftsvertrag für die Automatisierung
+### 1. Digitale Souveränität
 
-Ein bedingungsloses Grundeinkommen als Automatisierungsdividende: weniger bürokratische Fallstricke, mehr Freiheit für Umschulung, Pflege, Gründung und flexible Arbeit.
+Kritische digitale Systeme müssen unter demokratischer Kontrolle bleiben. Swiss/EU-first für kritische Infrastruktur und sensible Daten. Anti-Lock-in, Open Source, Supply-Chain-Sicherheit.
 
-### 2. Arbeit ohne Angst
+[Mehr erfahren →](/digitale-souveraenitaet/)
 
-Umschulung, berufliche Mobilität und Übergangsunterstützung sollen zur Normalität werden — nicht erst in der Krise. Lebenslanges Lernen braucht ein System, nicht nur Appelle.
+### 2. Reindustrialisierung mit Robotik
 
-### 3. Digitale Souveränität
+Mehr Produktion und Wertschöpfung in der Schweiz — robust, modern, automatisiert. KMU-freundlich mit Finanzierung, geteilten Labs und schnelleren Verfahren.
 
-Schweizer und EU-basierte Lösungen zuerst. Offene Standards statt proprietärer Lock-in. Kritische Infrastruktur gehört unter demokratische Kontrolle.
+[Mehr erfahren →](/robotik/)
 
-### 4. Reindustrialisierung mit Robotik
+### 3. Arbeit ohne Angst
 
-KMU-freundliche Automatisierung durch geteilte Labors, steuerliche Anreize und öffentliche Forschungskooperationen. Lokale Fertigung stärkt Resilienz und Arbeitsplätze.
+Umschulung, berufliche Mobilität und Übergangsunterstützung als Normalität — nicht erst in der Krise. Weniger Hürden, bessere Anerkennung, modulare Ausbildung.
 
-### 5. Biotech-Modernisierung mit Vertrauen
+[Mehr erfahren →](/uebergaenge/)
 
-Lebenswissenschaften bieten enorme Chancen — von Prävention bis personalisierte Medizin. Wir fordern klare Einwilligungsregeln, Prüfbarkeit und Transparenz. Keine Black-Box-Staatsmedizin.
+### 4. Life Science & Gesundheit mit Vertrauen
+
+Fortschritt ermöglichen — ohne Kontrollverlust. Gesundheitsdaten opt-in, evidenzbasierte Regulierung, keine Black-Box-Staatsmedizin.
+
+[Mehr erfahren →](/life-science/)
+
+### 5. Basiseinkommen als Zukunftsprojekt
+
+Existenzangst reduzieren, Bürokratie senken, Gründungen ermöglichen. Bundesweiter Pilot mit unabhängiger Evaluation.
+
+[Mehr erfahren →](/grundeinkommen/)

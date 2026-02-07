@@ -1,27 +1,30 @@
 +++
 title = "Participer"
-description = "Rejoignez Le Futur : newsletter, adhésion, engagement."
+slug = "participer"
+description = "Rejoignez Le Futur : adhésion, newsletter, dons."
 template = "page.html"
 +++
 
-## Participez
+L'avenir ne se construit pas seul. Si vous voulez que la politique puisse à nouveau penser l'avenir : rejoignez-nous.
 
-Le Futur vit grâce aux personnes qui ne craignent pas le changement mais veulent le façonner activement. Il existe plusieurs façons de s'impliquer :
+## Devenir membre
 
-### Newsletter
+L'adhésion vous donne la codécision, des mises à jour et la possibilité de façonner les groupes de travail. Écrivez-nous à [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch).
 
-Restez informé·e de notre travail, de nos événements et de nos initiatives politiques.
+## Newsletter
+
+Concis, clair, sans spam : propositions, événements, publications.
 
 {{ newsletter_form() }}
 
-### Adhésion
+## Dons (Open Collective)
 
-Nous sommes en train de construire le parti. Si vous êtes intéressé·e par une adhésion, écrivez-nous à [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch).
+Financement transparent, traçable pour tous. Soutenez Le Futur via Open Collective.
 
-### Bénévolat
+## Bénévolat
 
-Que ce soit pour la rédaction, l'organisation, le design ou le travail de campagne — nous apprécions tout soutien. [Contactez-nous](/fr/kontakt/) et dites-nous comment vous aimeriez contribuer.
+Que ce soit pour la rédaction, l'organisation, le design ou le travail de campagne — nous apprécions tout soutien. [Contactez-nous](/fr/contact/) et dites-nous comment vous aimeriez contribuer.
 
-### Réseautage
+## Réseautage
 
 Connaissez-vous des expert·e·s, des organisations ou des initiatives poursuivant des objectifs similaires ? Nous cherchons activement l'échange et les partenariats.

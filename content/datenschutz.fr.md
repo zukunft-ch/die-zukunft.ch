@@ -1,5 +1,6 @@
 +++
 title = "Protection des données"
+slug = "protection-des-donnees"
 description = "Politique de confidentialité de Le Futur."
 template = "page.html"
 +++

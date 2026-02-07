@@ -1,6 +1,7 @@
 +++
 title = "Visione"
-description = "Perché esiste Il Futuro: un partito per la transizione strutturale."
+slug = "visione"
+description = "Il Futuro non è un progetto di paura – ma una promessa di prosperità, comfort e benessere."
 template = "page.html"
 
 [extra]
@@ -8,20 +9,30 @@ show_cta = true
 cta_text = "Condividete la nostra visione? Unitevi al movimento."
 +++
 
-## Perché questo partito?
+## La Svizzera del futuro
 
-L'IA, la robotica e le scienze della vita trasformeranno produttività, lavoro e sanità più velocemente di quanto la politica attuale possa assorbire. Le risposte attuali oscillano tra paura e accelerazione cieca.
+Il Futuro non è un progetto di paura. Crediamo nell'abbondanza – nella prosperità, nel comfort e nel benessere resi possibili dalla produttività. Perché questo riesca, serve uno Stato che renda sicura la transizione e allarghi realmente la libertà.
 
-Rifiutiamo entrambe. Proponiamo un aggiornamento calmo e svizzero: un contratto sociale modernizzato che offre sicurezza senza imporre l'immobilismo.
+## Tre principi
 
-## La nostra convinzione
+### 1. Positivo invece di panico
 
-La Svizzera ha tutte le condizioni per plasmare attivamente questa transizione — non per subirla. Ciò richiede:
+Definiamo ciò per cui ci impegniamo – non solo ciò contro cui lottiamo. La Svizzera ha tutte le condizioni per plasmare attivamente questa transizione — non per subirla.
 
-- **Stabilità attraverso il reddito di base**: un fondamento che ammortizza le disruzioni e consente l'iniziativa individuale.
-- **Sovranità attraverso le proprie infrastrutture**: indipendenza digitale invece di dipendenza dalle piattaforme.
-- **Innovazione attraverso la produzione locale**: reindustrializzazione con la robotica, adattata alle PMI svizzere.
-- **Fiducia attraverso la trasparenza**: progressi biotecnologici con consenso e tracciabilità.
+### 2. Sovranità invece di dipendenza
+
+Chi non controlla i sistemi critici viene controllato: dal lock-in, dall'opacità, dai rischi della catena di approvvigionamento. Indipendenza digitale invece di dipendenza dalle piattaforme.
+
+### 3. Dignità nel progresso
+
+La tecnologia deve servire l'essere umano. Per questo: diritti chiari, limiti chiari, responsabilità chiare.
+
+## Cosa deve cambiare
+
+- La burocrazia deve diventare più leggera — non più pesante.
+- La riqualificazione e il cambiamento devono diventare normali — non l'eccezione.
+- L'informatica dello Stato deve essere verificabile — non una scatola nera.
+- La produzione deve diventare robusta — non fragile.
 
 ## Sicurezza senza immobilismo
 

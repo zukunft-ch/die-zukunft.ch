@@ -1,6 +1,7 @@
 +++
 title = "Souveraineté numérique"
-description = "La souveraineté commence par l'infrastructure : solutions suisses et européennes d'abord."
+slug = "souverainete-numerique"
+description = "La souveraineté commence par l'infrastructure : ouverte, auditable, interchangeable – et sûre."
 template = "page.html"
 
 [extra]
@@ -8,24 +9,35 @@ show_cta = true
 cta_text = "La souveraineté numérique nécessite une volonté politique. Engagez-vous."
 +++
 
-## Pourquoi la souveraineté numérique ?
+Les systèmes numériques sont aujourd'hui des infrastructures comme les routes et l'électricité : s'ils sont opaques, peu sûrs ou impossibles à résilier, la démocratie perd le contrôle.
 
-La Suisse dépend de plus en plus de plateformes extra-européennes pour ses infrastructures numériques critiques — services cloud, modèles d'IA, outils de communication et logiciels administratifs. C'est un risque stratégique.
+## Notre principe
 
-## Nos propositions
+Swiss/EU-first uniquement pour les infrastructures critiques et les données sensibles. Sinon : concurrence ouverte – mais toujours avec l'auditabilité, la portabilité et la sécurité comme obligations.
 
-### Achats Swiss/EU-First
+## Le paquet souveraineté
 
-Les marchés publics doivent privilégier les fournisseurs dont le siège et le traitement des données se trouvent en Suisse ou dans l'UE — à performance et sécurité comparables.
+### 1. Loi anti-lock-in
 
-### Standards ouverts
+- Plans de sortie comme partie intégrante des contrats
+- Standards ouverts et interfaces de formats
+- Portabilité des données et interopérabilité
 
-Les formats propriétaires et le verrouillage fournisseur coûtent des milliards chaque année à l'administration et à l'économie. Les standards ouverts créent l'interopérabilité et la liberté de choix.
+### 2. Open-by-default dans l'État
 
-### Contrôle démocratique des infrastructures critiques
+- Open source, là où c'est pertinent (et maintenable)
+- Financement de la maintenance (pas seulement « construire et oublier »)
+- Rapports de transparence sur les grands systèmes informatiques étatiques (risques, dépendances, statut de sortie)
 
-Qu'il s'agisse du cloud, de l'IA ou de l'identité numérique : les infrastructures qui concernent tout le monde doivent être contrôlables démocratiquement. La transparence et l'auditabilité ne sont pas des options, mais des prérequis.
+### 3. Sécurité des systèmes critiques
 
-### Promotion des compétences tech locales
+- Standard minimum : contrôles, audits, processus d'incidents
+- Sécurité de la chaîne d'approvisionnement : SBOM, builds signés, provenance traçable
+- Responsabilités claires au lieu de flou organisationnel
 
-Les investissements dans la formation tech suisse, les hautes écoles et les startups renforcent l'autonomie. La souveraineté n'est pas du protectionnisme — c'est du développement de compétences.
+## Pourquoi cela améliore le quotidien
+
+- Moins de mauvais investissements informatiques
+- Moins de dépendance envers des fournisseurs uniques
+- Moins de risques dans les services critiques
+- Plus de confiance grâce à la transparence

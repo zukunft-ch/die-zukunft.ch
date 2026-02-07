@@ -11,6 +11,9 @@ faq = [
   { q = "Hören die Leute dann auf zu arbeiten?", a = "Die Forschung zeigt: Nein. Pilotprojekte weltweit belegen, dass Menschen mit Grundsicherung häufiger gründen, sich weiterbilden und produktiver arbeiten — nicht weniger." },
   { q = "Warum gerade jetzt?", a = "Die Automatisierung beschleunigt sich. Ohne ein stabilisierendes Fundament drohen soziale Verwerfungen. Das Grundeinkommen ist eine präventive, keine reaktive Massnahme." },
   { q = "Gilt das auch für Nicht-Schweizer?", a = "Die genaue Ausgestaltung — etwa Wohnsitzpflicht und Beitragsdauer — wird im demokratischen Prozess festgelegt. Entscheidend ist das Prinzip der universellen Grundsicherung." },
+  { q = "Was passiert mit bestehenden Sozialleistungen?", a = "Das Grundeinkommen ersetzt und vereinfacht bestehende Transferleistungen. Es geht nicht darum, mehr draufzupacken, sondern das System einfacher, transparenter und gerechter zu machen." },
+  { q = "Warum ein Pilot und nicht gleich einführen?", a = "Weil wir pragmatisch sind. Ein bundesweiter Pilot vergleicht Modelle (UBI, Negative Income Tax, Hybrid), misst Wirkung und schafft eine solide Entscheidungsgrundlage – statt Ideologie." },
+  { q = "Was wird gemessen?", a = "Drei Kernbereiche: Wohlbefinden und Sicherheit (Existenzstress, Stabilität), Gründungen und Unternehmertum, sowie Bürokratiekosten und Verwaltungsaufwand." },
 ]
 +++
 

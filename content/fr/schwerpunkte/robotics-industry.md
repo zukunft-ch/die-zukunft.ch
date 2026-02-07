@@ -1,3 +1,8 @@
+----
+title = ""
+template = "page.html"
+----
+
 Robotik & Re-Industrialisierung
 
 Wenn wir Produktion zurückholen wollen, muss sie modern sein: automatisiert, effizient, resilient. Das ist eine Chance – besonders für KMU.

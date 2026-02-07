@@ -1,6 +1,7 @@
 +++
 title = "Sovranità digitale"
-description = "La sovranità inizia dall'infrastruttura: soluzioni svizzere ed europee prima di tutto."
+slug = "sovranita-digitale"
+description = "La sovranità inizia dall'infrastruttura: aperta, verificabile, sostituibile – e sicura."
 template = "page.html"
 
 [extra]
@@ -8,24 +9,35 @@ show_cta = true
 cta_text = "La sovranità digitale richiede volontà politica. Attivatevi."
 +++
 
-## Perché la sovranità digitale?
+I sistemi digitali sono oggi infrastrutture come strade e corrente elettrica: se sono opachi, insicuri o non rescindibili, la democrazia perde il controllo.
 
-La Svizzera dipende sempre più da piattaforme extra-europee per le sue infrastrutture digitali critiche — servizi cloud, modelli di IA, strumenti di comunicazione e software amministrativi. È un rischio strategico.
+## Il nostro principio
 
-## Le nostre proposte
+Swiss/EU-first solo per le infrastrutture critiche e i dati sensibili. Altrimenti: concorrenza aperta – ma sempre con verificabilità, portabilità e sicurezza come obbligo.
 
-### Approvvigionamento Swiss/EU-First
+## Il pacchetto sovranità
 
-I contratti pubblici devono privilegiare fornitori con sede e trattamento dati in Svizzera o nell'UE — a parità di prestazioni e sicurezza.
+### 1. Legge anti-lock-in
 
-### Standard aperti
+- Piani di uscita come parte integrante dei contratti
+- Standard aperti e interfacce di formato
+- Portabilità dei dati e interoperabilità
 
-I formati proprietari e il vendor lock-in costano miliardi ogni anno all'amministrazione e all'economia. Gli standard aperti creano interoperabilità e libertà di scelta.
+### 2. Open-by-default nello Stato
 
-### Controllo democratico delle infrastrutture critiche
+- Open source, dove ha senso (e manutenibile)
+- Finanziamento della manutenzione (non solo «costruire e dimenticare»)
+- Rapporti di trasparenza sui grandi sistemi informatici statali (rischi, dipendenze, stato di uscita)
 
-Che si tratti di cloud, IA o identità digitale: le infrastrutture che riguardano tutti devono essere controllabili democraticamente. Trasparenza e verificabilità non sono opzioni, ma prerequisiti fondamentali.
+### 3. Sicurezza dei sistemi critici
 
-### Promozione delle competenze tech locali
+- Standard minimo: controlli, audit, processi di gestione degli incidenti
+- Sicurezza della catena di approvvigionamento: SBOM, build firmati, provenienza tracciabile
+- Responsabilità chiare invece di nebbia organizzativa
 
-Gli investimenti nella formazione tech svizzera, nelle università e nelle startup rafforzano l'autonomia. La sovranità non è protezionismo — è sviluppo di competenze.
+## Perché migliora la vita quotidiana
+
+- Meno investimenti informatici sbagliati
+- Meno dipendenza da singoli fornitori
+- Meno rischi nei servizi critici
+- Più fiducia grazie alla trasparenza
