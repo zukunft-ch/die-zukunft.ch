@@ -1,0 +1,18 @@
+[tools]
+zola = "0.19.2"
+
+[tasks.dev]
+description = "Start Zola development server"
+run = "zola serve"
+
+[tasks.build]
+description = "Build the site for production"
+run = "zola build"
+
+[tasks.check]
+description = "Check the site for errors without building"
+run = "zola check"
+
+[tasks.clean]
+description = "Remove the public/ output directory"
+run = "rm -rf public/"

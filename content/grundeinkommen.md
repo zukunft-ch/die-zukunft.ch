@@ -1,0 +1,31 @@
++++
+title = "Grundeinkommen"
+description = "Das Grundeinkommen als Automatisierungsdividende: Stabilität, Freiheit, Vereinfachung."
+template = "grundeinkommen.html"
+
+[extra]
+faq_title = "Häufige Fragen"
+faq = [
+  { q = "Ist das nicht einfach 'Geld für alle'?", a = "Nein. Das Grundeinkommen ersetzt einen grossen Teil der heutigen Sozialversicherungsbürokratie durch eine einfache, universelle Grundsicherung. Es ist eine Vereinfachung des Systems — kein Geschenk." },
+  { q = "Wie wird es finanziert?", a = "Durch eine Kombination aus Automatisierungssteuern, Vereinfachungsgewinnen im Sozialwesen und Umschichtung bestehender Transfers. Konkrete Modelle werden mit Ökonomen und Sozialwissenschaftlern erarbeitet." },
+  { q = "Hören die Leute dann auf zu arbeiten?", a = "Die Forschung zeigt: Nein. Pilotprojekte weltweit belegen, dass Menschen mit Grundsicherung häufiger gründen, sich weiterbilden und produktiver arbeiten — nicht weniger." },
+  { q = "Warum gerade jetzt?", a = "Die Automatisierung beschleunigt sich. Ohne ein stabilisierendes Fundament drohen soziale Verwerfungen. Das Grundeinkommen ist eine präventive, keine reaktive Massnahme." },
+  { q = "Gilt das auch für Nicht-Schweizer?", a = "Die genaue Ausgestaltung — etwa Wohnsitzpflicht und Beitragsdauer — wird im demokratischen Prozess festgelegt. Entscheidend ist das Prinzip der universellen Grundsicherung." },
+]
++++
+
+## Die Automatisierungsdividende
+
+Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil dieser Dividende an die Gesellschaft zurückfliessen. Das Grundeinkommen ist kein Almosen — es ist eine strukturelle Antwort auf eine strukturelle Veränderung.
+
+## Was es ermöglicht
+
+- **Freiheit zur Umschulung**: Wer seinen Job verliert, braucht keine Angst, sondern eine Brücke.
+- **Gründungsfreundlichkeit**: Ein stabiles Fundament ermöglicht Risikobereitschaft für neue Ideen.
+- **Pflegearbeit anerkennen**: Unbezahlte Care-Arbeit wird durch finanzielle Sicherheit sichtbar gemacht.
+- **Bürokratie abbauen**: Dutzende Einzelleistungen werden durch ein transparentes System ersetzt.
+- **Flexible Arbeit**: Teilzeit, Projektarbeit oder Weiterbildung werden ohne existenzielle Angst möglich.
+
+## Kein Experiment — eine Weiterentwicklung
+
+Die Schweiz hat eines der besten Sozialsysteme der Welt. Das Grundeinkommen baut darauf auf: einfacher, direkter, zeitgemässer. Es ist die logische Weiterentwicklung für eine Gesellschaft im Wandel.
