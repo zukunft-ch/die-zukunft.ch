@@ -1,7 +1,7 @@
 +++
 title = "Programma"
 slug = "programma"
-description = "I nove pilastri del nostro programma politico."
+description = "I dieci pilastri del nostro programma politico."
 template = "page.html"
 
 [extra]
@@ -9,7 +9,7 @@ show_cta = true
 cta_text = "Convinti? Sostenete il nostro programma."
 +++
 
-## Nove pilastri per la transizione
+## Dieci pilastri per la transizione
 
 Il nostro programma affronta le sfide centrali della transizione strutturale — in modo pragmatico, misurabile e adattato alle condizioni svizzere.
 
@@ -110,3 +110,24 @@ Tutto ciò che non riguarda la sicurezza nazionale deve essere **standardizzato,
 Apertura sì – ma con protezione: minimizzare i dati personali, anonimizzare/aggregare e security by design.
 
 [Scopri di più →](/it/stato-aperto/)
+
+### 10. Neutralità & pace: protezione anziché escalation
+
+**Obiettivo:** La Svizzera resta **neutrale**, sovrana e credibile – e ridiventa un luogo dove si negozia la pace. Aiutiamo il mondo nel modo migliore quando il nostro stesso paese è stabile, sicuro e funziona in modo esemplare.
+
+**Principio**
+Neutralità significa: nessuna partecipazione alle guerre, nessuna avventura – ma **buoni uffici**, diplomazia e forza umanitaria. La Svizzera può e deve ridiventare un centro per colloqui di pace e accordi.
+
+**Il nostro focus sulla sicurezza (difensivo)**
+- Protezione della popolazione e del territorio
+- Protezione delle infrastrutture critiche (fisiche e digitali)
+- Supporto alle autorità civili in caso di crisi
+- Supporto umanitario e di pace nel quadro di mandati chiari
+
+**Modernizzare l'esercito: focus su protezione e resilienza**
+Vogliamo rafforzare la capacità difensiva, ma modernizzare le priorità:
+- **Rafforzare le capacità di protezione e resilienza** (infrastruttura, cyber, soccorso in caso di catastrofe)
+- dottrina chiaramente difensiva: nessun orientamento offensivo
+- ruolo internazionale: la Svizzera come ospite e facilitatrice, non come parte
+
+[Scopri di più →](/it/neutralita-pace/)

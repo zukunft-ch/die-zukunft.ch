@@ -23,6 +23,7 @@ pillars = [
   { icon = "🔬", title = "Forschung & Innovation", text = "Reallabore, offene Standards und ein schweizweites Innovationsnetz – damit Innovation breit wirkt und nicht in Silos bleibt." },
   { icon = "⚡", title = "Energie & Infrastruktur", text = "Zuverlässige, bezahlbare, robuste Versorgung – Resilienz durch Engineering, nicht durch Ideologie." },
   { icon = "📡", title = "Offener Staat", text = "API-by-default, radikale Transparenz und offene Verfahren – damit Bürger:innen bessere Tools bauen und den Staat effektiv prüfen können." },
+  { icon = "🕊️", title = "Neutralität & Frieden", text = "Strikt defensiv, glaubwürdig neutral – und wieder ein Zentrum für Friedensgespräche und Good Offices." },
 ]
 
 timeline_title = "Wie wir starten"

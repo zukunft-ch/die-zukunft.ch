@@ -1,7 +1,7 @@
 +++
 title = "Programme"
 slug = "programme"
-description = "Les neuf piliers de notre programme politique."
+description = "Les dix piliers de notre programme politique."
 template = "page.html"
 
 [extra]
@@ -9,7 +9,7 @@ show_cta = true
 cta_text = "Convaincu·e ? Soutenez notre programme."
 +++
 
-## Neuf piliers pour la transition
+## Dix piliers pour la transition
 
 Notre programme aborde les défis centraux de la transition structurelle — de manière pragmatique, mesurable et adaptée aux conditions suisses.
 
@@ -110,3 +110,24 @@ Tout ce qui ne relève pas de la sécurité nationale doit être **standardisé,
 Ouverture oui – mais avec protection : minimiser les données personnelles, anonymiser/agréger, et security by design.
 
 [En savoir plus →](/fr/etat-ouvert/)
+
+### 10. Neutralité & paix : protection au lieu d'escalade
+
+**Objectif :** La Suisse reste **neutre**, souveraine et crédible – et redevient un lieu où la paix se négocie. Nous aidons le mieux le monde quand notre propre pays est stable, sûr et fonctionne de manière exemplaire.
+
+**Principe**
+Neutralité signifie : pas de participation aux guerres, pas d'aventures – mais des **bons offices**, de la diplomatie et une force humanitaire. La Suisse peut et doit redevenir un centre pour les pourparlers de paix et les accords.
+
+**Notre focus sécuritaire (défensif)**
+- Protection de la population et du territoire
+- Protection des infrastructures critiques (physiques et numériques)
+- Soutien aux autorités civiles en cas de crise
+- Soutien humanitaire et de paix dans le cadre de mandats clairs
+
+**Moderniser l'armée : focus sur protection et résilience**
+Nous voulons renforcer la capacité défensive, mais moderniser les priorités :
+- **Renforcer les capacités de protection et de résilience** (infrastructure, cyber, aide en cas de catastrophe)
+- doctrine clairement défensive : pas d'orientation offensive
+- rôle international : la Suisse comme hôte et facilitatrice, pas comme partie
+
+[En savoir plus →](/fr/neutralite-paix/)

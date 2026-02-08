@@ -1,6 +1,6 @@
 +++
 title = "Programm"
-description = "Die neun Säulen unseres politischen Programms."
+description = "Die zehn Säulen unseres politischen Programms."
 template = "page.html"
 
 [extra]
@@ -8,7 +8,7 @@ show_cta = true
 cta_text = "Überzeugt? Unterstützen Sie unser Programm."
 +++
 
-## Neun Säulen für den Wandel
+## Zehn Säulen für den Wandel
 
 Unser Programm adressiert die zentralen Herausforderungen des strukturellen Wandels — pragmatisch, messbar und auf Schweizer Verhältnisse zugeschnitten.
 
@@ -109,3 +109,24 @@ Alles, was nicht nationale Sicherheit betrifft, soll **standardisiert, maschinen
 Offenheit ja – aber mit Schutz: personenbezogene Daten minimieren, anonymisieren/aggregieren, und Security-by-design.
 
 [Mehr erfahren →](/offener-staat/)
+
+### 10. Neutralität & Frieden: Schutz statt Eskalation
+
+**Ziel:** Die Schweiz bleibt **neutral**, souverän und glaubwürdig – und wird wieder ein Ort, an dem Frieden verhandelt wird. Wir helfen der Welt am besten, wenn unser eigenes Land stabil, sicher und vorbildlich funktioniert.
+
+**Grundsatz**
+Neutralität heisst: keine Kriegsbeteiligung, keine Abenteuer – dafür **Good Offices**, Diplomatie und humanitäre Stärke. Die Schweiz kann und soll wieder ein Zentrum für Friedensgespräche und Abkommen sein.
+
+**Unser Sicherheitsfokus (defensiv)**
+- Schutz von Bevölkerung und Territorium
+- Schutz kritischer Infrastrukturen (physisch und digital)
+- Unterstützung ziviler Behörden bei Krisen
+- Friedens- und humanitäre Unterstützung im Rahmen klarer Mandate
+
+**Armee modernisieren: Schwerpunkt auf Schutz und Resilienz**
+Wir wollen die Verteidigungsfähigkeit stärken, aber den Schwerpunkt modernisieren:
+- **Schutz- und Resilienzfähigkeiten** ausbauen (Infrastruktur, Cyber, Katastrophenhilfe)
+- klare defensive Doktrin: keine offensive Ausrichtung
+- internationale Rolle: Schweiz als Gastgeberin und Ermöglicherin, nicht als Partei
+
+[Mehr erfahren →](/neutralitaet-frieden/)
