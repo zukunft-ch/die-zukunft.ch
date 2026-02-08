@@ -2,166 +2,85 @@
 title = "Programma"
 slug = "programma"
 description = "Il nostro programma politico per la transizione strutturale."
-template = "page.html"
+template = "programm.html"
 
 [extra]
 show_cta = true
 cta_text = "Convinti? Sostenete il nostro programma."
+
+[[extra.chapters]]
+icon = "🏛️"
+title = "Sovranità digitale"
+text = "I sistemi digitali critici devono rimanere sotto controllo democratico. Swiss/EU-first per infrastrutture critiche e dati sensibili. Anti-lock-in, open source, sicurezza della catena di approvvigionamento."
+link = "/it/sovranita-digitale/"
+
+[[extra.chapters]]
+icon = "🏭"
+title = "Reindustrializzazione con la robotica"
+text = "Più produzione e valore aggiunto in Svizzera — robusta, moderna, automatizzata. A misura di PMI con finanziamento, laboratori condivisi e procedure accelerate."
+link = "/it/robotica/"
+
+[[extra.chapters]]
+icon = "📚"
+title = "Lavorare senza paura"
+text = "Riqualificazione, mobilità professionale e supporto alla transizione come normalità — non solo in tempi di crisi. Meno ostacoli, miglior riconoscimento, formazione modulare."
+link = "/it/transizioni/"
+
+[[extra.chapters]]
+icon = "🧬"
+title = "Scienze della vita e salute con fiducia"
+text = "Rendere possibile il progresso — senza perdita di controllo. Dati sanitari in opt-in, regolamentazione basata sull'evidenza, nessuna medicina di Stato opaca."
+link = "/it/scienze-della-vita/"
+
+[[extra.chapters]]
+icon = "🛡️"
+title = "Reddito di base come progetto per il futuro"
+text = "Ridurre l'angoscia esistenziale, diminuire la burocrazia, favorire l'imprenditorialità. Progetto pilota federale con valutazione indipendente."
+link = "/it/reddito-di-base/"
+
+[[extra.chapters]]
+icon = "🏙️"
+title = "Città & abitare"
+text = "Alloggi accessibili e alta qualità di vita — grazie alla densificazione dove c'è infrastruttura e meno dispersione nelle zone periferiche. Più diritti edificatori intorno ai nodi TP, autorizzazioni accelerate, densità minime."
+link = "/it/urbanistica/"
+
+[[extra.chapters]]
+icon = "🔬"
+title = "Ricerca, innovazione & beni comuni"
+text = "La Svizzera deve essere il luogo in cui si può costruire, testare e scalare responsabilmente l'innovazione più rapidamente — con un chiaro beneficio pubblico e compatibilità europea."
+link = "/it/ricerca-innovazione/"
+
+[[extra.chapters]]
+icon = "⚡"
+title = "Energia & resilienza delle infrastrutture"
+text = "Approvvigionamento affidabile, infrastruttura robusta e costi prevedibili — come base per prosperità, comfort e sovranità. La resilienza è ingegneria: standard chiari, responsabilità chiare, ridondanze chiare."
+link = "/it/energia-resilienza/"
+
+[[extra.chapters]]
+icon = "📡"
+title = "Stato aperto"
+text = "Uno Stato che rende possibile invece di bloccare: API per default, trasparenza radicale e procedure aperte — affinché i cittadini possano costruire strumenti migliori e controllare efficacemente lo Stato."
+link = "/it/stato-aperto/"
+
+[[extra.chapters]]
+icon = "🕊️"
+title = "Neutralità & pace"
+text = "La Svizzera resta neutrale, sovrana e credibile — e ridiventa un luogo dove si negozia la pace. Strettamente difensiva, buoni uffici, diplomazia e forza umanitaria."
+link = "/it/neutralita-pace/"
+
+[[extra.chapters]]
+icon = "🤝"
+title = "Talento, integrazione & Stato di diritto"
+text = "La Svizzera deve essere un magnete per le persone che vogliono costruire qualcosa — e al contempo restare un paese dove sicurezza, ordine e fiducia sono scontati."
+link = "/it/talento-integrazione/"
+
+[[extra.chapters]]
+icon = "🗣️"
+title = "Lingua comune, forte diversità"
+text = "La Svizzera deve diventare il modello europeo della comprensione: più comunicazione comune nella vita quotidiana e nell'economia — senza soppiantare le lingue nazionali."
+link = "/it/lingua-comprensione/"
 +++
 
 ## Il nostro programma per la transizione
 
 Il nostro programma affronta le sfide centrali della transizione strutturale — in modo pragmatico, misurabile e adattato alle condizioni svizzere.
-
-### 1. Sovranità digitale
-
-I sistemi digitali critici devono rimanere sotto controllo democratico. Swiss/EU-first per infrastrutture critiche e dati sensibili. Anti-lock-in, open source, sicurezza della catena di approvvigionamento.
-
-[Scopri di più →](/it/sovranita-digitale/)
-
-### 2. Reindustrializzazione con la robotica
-
-Più produzione e valore aggiunto in Svizzera — robusta, moderna, automatizzata. A misura di PMI con finanziamento, laboratori condivisi e procedure accelerate.
-
-[Scopri di più →](/it/robotica/)
-
-### 3. Lavorare senza paura
-
-Riqualificazione, mobilità professionale e supporto alla transizione come normalità — non solo in tempi di crisi. Meno ostacoli, miglior riconoscimento, formazione modulare.
-
-[Scopri di più →](/it/transizioni/)
-
-### 4. Scienze della vita e salute con fiducia
-
-Rendere possibile il progresso — senza perdita di controllo. Dati sanitari in opt-in, regolamentazione basata sull'evidenza, nessuna medicina di Stato opaca.
-
-[Scopri di più →](/it/scienze-della-vita/)
-
-### 5. Reddito di base come progetto per il futuro
-
-Ridurre l'angoscia esistenziale, diminuire la burocrazia, favorire l'imprenditorialità. Progetto pilota federale con valutazione indipendente.
-
-[Scopri di più →](/it/reddito-di-base/)
-
-### 6. Città & abitare: comfort attraverso la densificazione, natura attraverso la chiarezza
-
-**Obiettivo:** Alloggi accessibili e alta qualità di vita – grazie alla **densificazione dove c'è infrastruttura** e meno dispersione nelle zone periferiche.
-
-**Cosa cambiamo**
-- **Più diritti edificatori intorno ai nodi TP:** Intorno alle stazioni e ai forti assi di tram/bus servono più superficie di piano e più altezza – affinché le persone possano vivere dove mobilità e servizi già esistono.
-- **Autorizzazioni accelerate per progetti abitativi densi:** Scadenze chiare, meno rimbalzi tra uffici, una procedura «sportello unico» – affinché i buoni progetti vengano costruiti più rapidamente.
-- **Densità minime nelle zone definite:** Lungo i corridoi centrali e in prossimità delle stazioni, la densificazione deve essere la norma – non l'eccezione.
-
-**La nostra posizione sull'altezza**
-- **Grattacieli dove hanno senso** (centri/stazioni) con regole chiare di qualità e progettazione.
-- **Più altezza media ovunque abbia senso** (p. es. 6–10 piani), piuttosto che estendere continuamente la superficie urbana.
-
-**Cosa significa «accessibile» (pragmaticamente)**
-- **Più offerta** costruendo dove c'è infrastruttura.
-- **Integrazione mirata** da parte di cooperative/attori di utilità pubblica e modelli di affitto stabili.
-- Risultato: più facile trasferirsi in città, più facile restare, più comfort nella vita quotidiana.
-
-[Scopri di più →](/it/urbanistica/)
-
-### 7. Ricerca, innovazione & «beni comuni»
-
-**Obiettivo:** La Svizzera deve essere il luogo in cui si può costruire, testare e scalare responsabilmente l'innovazione più rapidamente – con un chiaro beneficio pubblico e compatibilità europea.
-
-**Cosa vogliamo**
-- **Testbed & sandbox**: laboratori reali per nuove tecnologie (p. es. amministrazione digitale, robotica in logistica/servizi, health-tech) – misurabili, a termine, valutati in modo trasparente.
-- **Rendimento pubblico dal finanziamento pubblico**: dove lo Stato cofinanzia, standard aperti, interoperabilità e trasferimento di conoscenze devono essere la norma.
-- **Rete d'innovazione a livello svizzero**: collegare università/SUP, startup, PMI e industria – con regole chiare, governance trasparente e attuazione rapida (intercantonale).
-
-**Principio**
-Innovazione sì – ma in modo che **abbia un impatto ampio**: più produttività, servizi migliori, più prosperità e comfort per tutti.
-
-[Scopri di più →](/it/ricerca-innovazione/)
-
-### 8. Energia & resilienza delle infrastrutture (affidabile, accessibile, indipendente)
-
-**Obiettivo:** Una Svizzera che funziona nel quotidiano: approvvigionamento affidabile, infrastruttura robusta e costi prevedibili – come base per prosperità, comfort e sovranità.
-
-**Cosa cambiamo**
-- **Priorità all'affidabilità**: pianificare le infrastrutture per assorbire meglio guasti, picchi di carico e crisi.
-- **Procedure più rapide per le infrastrutture critiche**: competenze e scadenze chiare per i progetti che migliorano approvvigionamento e affidabilità.
-- **Ridurre le dipendenze**: assicurare componenti critici, ricambi e know-how dove le interruzioni costano caro – pragmatico, basato sui rischi, compatibile con l'Europa.
-
-**Principio**
-La resilienza non è un'atmosfera – la resilienza è **ingegneria**: standard chiari, responsabilità chiare, ridondanze chiare.
-
-[Scopri di più →](/it/energia-resilienza/)
-
-### 9. Stato aperto: API, trasparenza, strumenti per i cittadini
-
-**Obiettivo:** Uno Stato che **rende possibile** invece di bloccare: dati e procedure così aperti che cittadini, media e imprese possano costruire strumenti migliori – più velocemente, a costi inferiori, in modo più trasparente.
-
-**Principio**
-Tutto ciò che non riguarda la sicurezza nazionale deve essere **standardizzato, leggibile dalle macchine e pubblico** – come Open Data e **API per default**.
-
-**Misure chiave**
-- **API per default per Stato e amministrazione**: interfacce unificate, versionamento chiaro, disponibilità affidabile.
-- **Procedure aperte**: pratiche amministrative come workflow aperti (stato, requisiti, scadenze) – per poterle svolgere digitalmente, in modo tracciabile e anche con strumenti di terze parti.
-- **Trasparenza radicale** (dove legalmente possibile): budget, appalti, contratti, indicatori, posti, fasce salariali – tracciabili e consultabili.
-- **Trasparenza nel finanziamento politico**: donazioni, flussi finanziari, budget delle campagne – chiari, tempestivi, pubblici.
-- **Rafforzare il controllo dei cittadini**: dati, dashboard, registri di audit – affinché il giornalismo civico e il pubblico possano controllare efficacemente lo Stato.
-- **Meno gatekeeping**: standard invece di eccezioni caso per caso; meno carta, più regole chiare.
-
-**Linea guida**
-Apertura sì – ma con protezione: minimizzare i dati personali, anonimizzare/aggregare e security by design.
-
-[Scopri di più →](/it/stato-aperto/)
-
-### 10. Neutralità & pace: protezione anziché escalation
-
-**Obiettivo:** La Svizzera resta **neutrale**, sovrana e credibile – e ridiventa un luogo dove si negozia la pace. Aiutiamo il mondo nel modo migliore quando il nostro stesso paese è stabile, sicuro e funziona in modo esemplare.
-
-**Principio**
-Neutralità significa: nessuna partecipazione alle guerre, nessuna avventura – ma **buoni uffici**, diplomazia e forza umanitaria. La Svizzera può e deve ridiventare un centro per colloqui di pace e accordi.
-
-**Il nostro focus sulla sicurezza (difensivo)**
-- Protezione della popolazione e del territorio
-- Protezione delle infrastrutture critiche (fisiche e digitali)
-- Supporto alle autorità civili in caso di crisi
-- Supporto umanitario e di pace nel quadro di mandati chiari
-
-**Modernizzare l'esercito: focus su protezione e resilienza**
-Vogliamo rafforzare la capacità difensiva, ma modernizzare le priorità:
-- **Rafforzare le capacità di protezione e resilienza** (infrastruttura, cyber, soccorso in caso di catastrofe)
-- dottrina chiaramente difensiva: nessun orientamento offensivo
-- ruolo internazionale: la Svizzera come ospite e facilitatrice, non come parte
-
-[Scopri di più →](/it/neutralita-pace/)
-
-### 11. Talento, integrazione & Stato di diritto: aperto, chiaro, giusto
-
-**Obiettivo:** La Svizzera deve essere un magnete per le persone che vogliono costruire qualcosa – e al contempo restare un paese dove sicurezza, ordine e fiducia sono scontati.
-
-**Il nostro principio**
-Chi vive in Svizzera deve avere opportunità – e in cambio impegnarsi per le regole della convivenza: **Stato di diritto, rispetto, responsabilità**.
-
-**Cosa vogliamo**
-- **La Svizzera come hub di talenti:** Vogliamo attrarre le menti e i creatori migliori – per la ricerca, le PMI, l'industria, la sanità, la formazione e le startup.
-- **L'integrazione come impegno:** Chi arriva qui deve poter arrivare bene – e diventare attivamente parte della Svizzera (lingua, lavoro, partecipazione sociale).
-- **Aspettative chiare, applicazione giusta:** Le regole valgono per tutti. Chi le infrange deve aspettarsi un'applicazione coerente e conforme allo Stato di diritto – senza sospetti generalizzati né giudizi collettivi.
-
-**Linea guida**
-Apertura e sicurezza non sono in contraddizione. Funzionano quando l'integrazione riesce e lo Stato di diritto è affidabile.
-
-[Scopri di più →](/it/talento-integrazione/)
-
-### 12. Lingua comune, forte diversità
-
-**Obiettivo:** La Svizzera deve diventare il modello europeo della comprensione: più comunicazione comune nella vita quotidiana e nell'economia – senza soppiantare le lingue nazionali.
-
-**Principio**
-Le nostre lingue nazionali restano sostanza culturale. In aggiunta serve una **lingua veicolare comune pratica** che faciliti integrazione, mobilità e collaborazione.
-
-**Cosa vogliamo**
-- **L'inglese come lingua franca pragmatica** (in aggiunta, non in sostituzione): per i servizi amministrativi, i percorsi formativi, la ricerca, le startup, la cooperazione internazionale.
-- **Apertura a modelli neutrali**: esaminiamo anche le lingue costruite (p. es. esperanto) e a lungo termine la possibilità di una lingua veicolare davvero inclusiva a livello globale – come ponte, non come progetto identitario.
-- **Rafforzare la comprensione culturale**: competenze linguistiche e culturali come parte dell'integrazione, della formazione e del servizio pubblico – affinché la diversità funzioni e la fiducia cresca.
-
-**Linea guida**
-Pragmatismo prima del simbolismo: misuriamo se migliora l'integrazione, la produttività e il comfort quotidiano.
-
-[Scopri di più →](/it/lingua-comprensione/)
