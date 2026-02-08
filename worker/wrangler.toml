@@ -1,0 +1,21 @@
+name = "lang-proxy"
+main = "src/worker.js"
+compatibility_date = "2024-09-23"
+
+# le-futur.ch (French)
+[[routes]]
+pattern = "le-futur.ch/*"
+zone_name = "le-futur.ch"
+
+[[routes]]
+pattern = "www.le-futur.ch/*"
+zone_name = "le-futur.ch"
+
+# il-futuro.ch (Italian)
+[[routes]]
+pattern = "il-futuro.ch/*"
+zone_name = "il-futuro.ch"
+
+[[routes]]
+pattern = "www.il-futuro.ch/*"
+zone_name = "il-futuro.ch"
