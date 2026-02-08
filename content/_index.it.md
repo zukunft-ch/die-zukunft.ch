@@ -5,7 +5,8 @@ template = "index.html"
 
 [extra]
 hero_title = "Il Futuro"
-hero_subline = "Un nuovo partito svizzero"
+hero_subline = "Prosperità invece di paura. Sovranità invece di dipendenza."
+hero_descriptor = "Un nuovo partito svizzero"
 hero_subtitle = "Prosperità, comfort e benessere per tutti – con un contratto sociale moderno che crea sicurezza e amplia la libertà."
 
 changes_title = "Cosa sta cambiando"

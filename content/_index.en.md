@@ -5,6 +5,8 @@ template = "index.html"
 
 [extra]
 hero_title = "The Future"
+hero_subline = "Prosperity over fear. Sovereignty over dependence."
+hero_descriptor = "A new Swiss party"
 hero_subtitle = "Prosperity, comfort and well-being for all — with a modern social contract that creates security and expands freedom."
 
 changes_title = "What's changing"

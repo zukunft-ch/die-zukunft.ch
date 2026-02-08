@@ -5,7 +5,8 @@ template = "index.html"
 
 [extra]
 hero_title = "Die Zukunft"
-hero_subline = "Eine neue Schweizer Partei"
+hero_subline = "Wohlstand statt Angst. Souveränität statt Abhängigkeit."
+hero_descriptor = "Eine neue Schweizer Partei"
 hero_subtitle = "Wohlstand, Komfort und Wohlergehen für alle – mit einem modernen Gesellschaftsvertrag, der Sicherheit schafft und Freiheit vergrössert."
 
 changes_title = "Was sich verändert"
