@@ -1,0 +1,13 @@
+# Redirect language-specific domains to the main domain's language paths
+# These rules only apply when the domains are added as custom domains on the same Pages project
+
+# le-futur.ch → die-zukunft.ch/fr/
+https://le-futur.ch/* https://die-zukunft.ch/fr/:splat 301
+https://www.le-futur.ch/* https://die-zukunft.ch/fr/:splat 301
+
+# il-futuro.ch → die-zukunft.ch/it/
+https://il-futuro.ch/* https://die-zukunft.ch/it/:splat 301
+https://www.il-futuro.ch/* https://die-zukunft.ch/it/:splat 301
+
+# www → apex redirect
+https://www.die-zukunft.ch/* https://die-zukunft.ch/:splat 301
