@@ -7,6 +7,9 @@
  * EN stays at die-zukunft.ch/en/.
  */
 
+// Pages deployment origin (fetch target — avoids Cloudflare-to-Cloudflare 522)
+const PAGES_ORIGIN = 'zukunft.pages.dev';
+// Public domain (used for URL rewriting in HTML responses)
 const ORIGIN = 'die-zukunft.ch';
 
 const DOMAIN_CONFIG = {
@@ -63,7 +66,7 @@ export default {
 
     // --- Determine origin URL ---
     const originUrl = new URL(url);
-    originUrl.hostname = ORIGIN;
+    originUrl.hostname = PAGES_ORIGIN;
 
     const isStatic = STATIC_EXT.test(path);
 
@@ -73,7 +76,7 @@ export default {
     }
     // Static assets: keep path as-is (CSS, JS, fonts, images are at root)
 
-    // Fetch from origin
+    // Fetch from Pages origin
     let response = await fetch(originUrl.toString(), {
       method: request.method,
       headers: request.headers,
@@ -84,7 +87,7 @@ export default {
     // retry without prefix (e.g. /favicon.ico requested as page)
     if (response.status === 404 && !isStatic) {
       const fallbackUrl = new URL(url);
-      fallbackUrl.hostname = ORIGIN;
+      fallbackUrl.hostname = PAGES_ORIGIN;
       const fallback = await fetch(fallbackUrl.toString(), {
         method: request.method,
         headers: request.headers,
@@ -209,7 +212,7 @@ function rewriteUrl(location, hostname, prefix, lang) {
  * Fetch origin sitemap, filter to own-language URLs, rewrite domains.
  */
 async function handleSitemap(hostname, prefix, lang) {
-  const res = await fetch(`https://${ORIGIN}/sitemap.xml`);
+  const res = await fetch(`https://${PAGES_ORIGIN}/sitemap.xml`);
   if (!res.ok) {
     return new Response('Sitemap not available', { status: 502 });
   }
