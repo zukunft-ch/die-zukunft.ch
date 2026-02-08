@@ -11,7 +11,7 @@ template = "page.html"
 
 Le Futur
 Bâle, Suisse
-E-mail : [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch)
+E-mail : [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ### Principe
 

@@ -10,7 +10,7 @@ template = "page.html"
 Basilea, Svizzera
 
 **Contatto**
-E-mail: [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch)
+E-mail: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ## Esclusione di responsabilità
 

@@ -1,8 +1,11 @@
 +++
+title = "Schweizer Partei für den strukturellen Wandel"
+description = "Wohlstand, Komfort und Wohlergehen für alle – mit einem modernen Gesellschaftsvertrag, der Sicherheit schafft und Freiheit vergrössert."
 template = "index.html"
 
 [extra]
 hero_title = "Die Zukunft"
+hero_subline = "Eine neue Schweizer Partei"
 hero_subtitle = "Wohlstand, Komfort und Wohlergehen für alle – mit einem modernen Gesellschaftsvertrag, der Sicherheit schafft und Freiheit vergrössert."
 
 changes_title = "Was sich verändert"
@@ -14,7 +17,7 @@ changes = [
 
 pillars_title = "Was wir vorschlagen"
 pillars = [
-  { icon = "🛡️", title = "Grundeinkommen", text = "Ein stabiles Fundament: weniger Bürokratie, mehr Freiheit für Umschulung, Gründung und Pflege." },
+  { icon = "🌱", title = "Grundeinkommen", text = "Ein stabiles Fundament: weniger Bürokratie, mehr Freiheit für Umschulung, Gründung und Pflege." },
   { icon = "📚", title = "Arbeit ohne Angst", text = "Umschulung, Mobilität und Übergangsunterstützung als Normalität — nicht als Notlösung." },
   { icon = "🏛️", title = "Digitale Souveränität", text = "Schweizer und europäische Lösungen zuerst. Offene Standards, kein Vendor-Lock-in." },
   { icon = "🏭", title = "Reindustrialisierung mit Robotik", text = "KMU-freundliche Automatisierung: geteilte Labors, Anreize, lokale Fertigung." },

@@ -1,6 +1,7 @@
 +++
 title = "Impressum"
 description = "Impressum und Angaben zur Partei Die Zukunft."
+updated = 2026-02-08
 template = "page.html"
 +++
 
@@ -10,7 +11,7 @@ template = "page.html"
 Basel, Schweiz
 
 **Kontakt**
-E-Mail: [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch)
+E-Mail: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ## Haftungsausschluss
 

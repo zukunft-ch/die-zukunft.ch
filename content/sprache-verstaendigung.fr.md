@@ -7,37 +7,45 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Renforcer la compréhension. Engagez-vous."
+
+[[extra.sections]]
+title = "Langue & compréhension"
+text = "La Suisse est multilingue – et c'est exactement pour cela que nous savons : la langue est une infrastructure. Elle détermine si les gens arrivent, si le travail fonctionne, si les institutions sont compréhensibles."
+
+[[extra.sections]]
+title = "Notre objectif"
+text = "La Suisse doit devenir le modèle en Europe pour :"
+points = [
+  "Une communication claire et simple",
+  "Une forte diversité culturelle",
+  "Une intégration sans friction",
+]
+
+[[extra.sections]]
+title = "Les langues nationales restent"
+text = "Nous ne voulons supplanter aucune langue nationale. L'allemand, le français, l'italien (et le romanche) font partie de la Suisse. En même temps, il faut une <strong>langue véhiculaire commune supplémentaire</strong> pour faciliter la collaboration à l'échelle nationale et internationale."
+
+[[extra.sections]]
+title = "Pourquoi l'anglais s'impose"
+text = "L'anglais est aujourd'hui la langue-pont la plus pratique :"
+points = [
+  "Science et innovation",
+  "Économie internationale",
+  "Mobilité et échanges en Europe et dans le monde",
+]
+
+[[extra.sections]]
+title = "Ouverture aux langues construites"
+text = "Nous sommes ouverts aux alternatives neutres comme l'espéranto – et à long terme aussi à l'idée d'une langue véhiculaire construite plus globalement inclusive, qui ne reflète pas uniquement les logiques linguistiques européennes. Ce n'est pas une guerre culturelle, mais un projet d'avenir pour la compréhension."
+
+[[extra.sections]]
+title = "Mise en œuvre : progressive et mesurable"
+text = ""
+points = [
+  "Informations administratives multilingues (y compris anglais) là où cela a un impact",
+  "Parcours d'apprentissage volontaires et reconnaissance des compétences linguistiques",
+  "Programmes de compréhension culturelle (école, formation continue, intégration)",
+  "Évaluation : succès d'intégration, qualité des services, bénéfice économique",
+]
 +++
 
-## Langue & compréhension
-La Suisse est multilingue – et c'est exactement pour cela que nous savons : la langue est une infrastructure. Elle détermine si les gens arrivent, si le travail fonctionne, si les institutions sont compréhensibles.
-
-### Notre objectif
-La Suisse doit devenir le modèle en Europe pour :
-- une communication claire et simple
-- une forte diversité culturelle
-- une intégration sans friction
-
-### Les langues nationales restent – mais nous avons besoin d'un pont commun
-Nous ne voulons supplanter aucune langue nationale. L'allemand, le français, l'italien (et le romanche) font partie de la Suisse.
-
-En même temps, il faut une **langue véhiculaire commune supplémentaire** pour faciliter la collaboration à l'échelle nationale et internationale.
-
-### Pourquoi l'anglais s'impose
-L'anglais est aujourd'hui la langue-pont la plus pratique :
-- science et innovation
-- économie internationale
-- mobilité et échanges en Europe et dans le monde
-
-Nous voulons que les services publics importants et les informations centrales soient aussi accessibles en anglais – comme aide réelle à l'intégration et à l'attractivité du site.
-
-### Ouverture aux langues construites
-Nous sommes ouverts aux alternatives neutres comme l'espéranto – et à long terme aussi à l'idée d'une langue véhiculaire construite plus globalement inclusive, qui ne reflète pas uniquement les logiques linguistiques européennes.
-
-L'essentiel pour nous : ce n'est pas une guerre culturelle, mais un projet d'avenir pour la compréhension. Si cela aide de manière mesurable à réduire les malentendus et à inclure plus de personnes, c'est sensé.
-
-### Mise en œuvre : progressive et mesurable
-- informations administratives multilingues (y compris anglais) là où cela a un impact
-- parcours d'apprentissage volontaires et reconnaissance des compétences linguistiques
-- programmes de compréhension culturelle (école, formation continue, intégration)
-- évaluation : succès d'intégration, qualité des services, bénéfice économique

@@ -32,7 +32,7 @@ text = "Fortschritt ermöglichen — ohne Kontrollverlust. Gesundheitsdaten opt-
 link = "/life-science/"
 
 [[extra.chapters]]
-icon = "🛡️"
+icon = "🌱"
 title = "Basiseinkommen als Zukunftsprojekt"
 text = "Existenzangst reduzieren, Bürokratie senken, Gründungen ermöglichen. Bundesweiter Pilot mit unabhängiger Evaluation."
 link = "/grundeinkommen/"

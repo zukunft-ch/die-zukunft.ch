@@ -33,7 +33,7 @@ text = "Rendere possibile il progresso — senza perdita di controllo. Dati sani
 link = "/it/scienze-della-vita/"
 
 [[extra.chapters]]
-icon = "🛡️"
+icon = "🌱"
 title = "Reddito di base come progetto per il futuro"
 text = "Ridurre l'angoscia esistenziale, diminuire la burocrazia, favorire l'imprenditorialità. Progetto pilota federale con valutazione indipendente."
 link = "/it/reddito-di-base/"

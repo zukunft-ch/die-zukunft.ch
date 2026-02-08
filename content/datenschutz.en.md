@@ -11,7 +11,7 @@ template = "page.html"
 
 The Future (Die Zukunft)
 Basel, Switzerland
-Email: [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch)
+Email: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ### Principle
 

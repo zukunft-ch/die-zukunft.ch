@@ -2,9 +2,10 @@
 title = "Basic Income"
 slug = "basic-income"
 description = "Basic income as the automation dividend: stability, freedom, simplification."
-template = "grundeinkommen.html"
+template = "page.html"
 
 [extra]
+show_cta = true
 faq_title = "Frequently asked questions"
 faq = [
   { q = "Isn't this just 'money for everyone'?", a = "No. Basic income replaces a large part of today's social insurance bureaucracy with a simple, universal basic security. It is a simplification of the system — not a handout." },
@@ -16,20 +17,24 @@ faq = [
   { q = "Why a pilot and not immediate implementation?", a = "Because we are pragmatic. A federal pilot compares models (UBI, negative income tax, hybrid), measures impact and creates a solid basis for decision-making — instead of ideology." },
   { q = "What is measured?", a = "Three core areas: well-being and security (existential stress, stability), entrepreneurship and startups, and bureaucracy costs and administrative burden." },
 ]
+
+[[extra.sections]]
+title = "The Automation Dividend"
+text = "When machines produce a growing share of value, part of this dividend must flow back to society. Basic income is not charity — it is a structural answer to a structural change."
+
+[[extra.sections]]
+title = "What It Enables"
+text = ""
+items = [
+  { label = "Freedom to Retrain", text = "Those who lose their job need a bridge, not fear." },
+  { label = "Entrepreneurship-friendly", text = "A stable foundation enables risk-taking for new ideas." },
+  { label = "Recognising Care Work", text = "Unpaid care work is made visible through financial security." },
+  { label = "Cutting Bureaucracy", text = "Dozens of individual benefits are replaced by a transparent system." },
+  { label = "Flexible Work", text = "Part-time, project work or further education become possible without existential fear." },
+]
+
+[[extra.sections]]
+title = "Not an Experiment — an Evolution"
+text = "Switzerland has one of the best social systems in the world. Basic income builds on it: simpler, more direct, more contemporary. It is the logical evolution for a society in transition."
 +++
 
-## The automation dividend
-
-When machines produce a growing share of value, part of this dividend must flow back to society. Basic income is not charity — it is a structural answer to a structural change.
-
-## What it enables
-
-- **Freedom to retrain**: Those who lose their job need a bridge, not fear.
-- **Entrepreneurship-friendly**: A stable foundation enables risk-taking for new ideas.
-- **Recognising care work**: Unpaid care work is made visible through financial security.
-- **Cutting bureaucracy**: Dozens of individual benefits are replaced by a transparent system.
-- **Flexible work**: Part-time, project work or further education become possible without existential fear.
-
-## Not an experiment — an evolution
-
-Switzerland has one of the best social systems in the world. Basic income builds on it: simpler, more direct, more contemporary. It is the logical evolution for a society in transition.

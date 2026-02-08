@@ -2,6 +2,7 @@
 title = "Legal Notice"
 slug = "legal-notice"
 description = "Legal notice and information about the party The Future."
+updated = 2026-02-08
 template = "page.html"
 +++
 
@@ -11,7 +12,7 @@ template = "page.html"
 Basel, Switzerland
 
 **Contact**
-Email: [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch)
+Email: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ## Disclaimer
 

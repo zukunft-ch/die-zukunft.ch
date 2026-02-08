@@ -1,0 +1,52 @@
+# Die Zukunft — llms.txt
+
+> A Swiss political party for structural transformation in the age of AI, robotics, and life sciences.
+
+## About
+
+Die Zukunft (The Future) is a Swiss political party founded in Basel. We propose an upgrade of the social contract: basic income as stability, digital sovereignty by design, re-industrialisation via robotics, and trust-based life science modernisation.
+
+Our positioning: "Prosperity instead of scarcity thinking. Security instead of fear. Sovereignty instead of dependency."
+
+We are not left, not right — we are future-ready. We reject ideological labels and instead apply pragmatic decision criteria to every policy question.
+
+## Languages
+
+The site is available in German (default), French, Italian, and English.
+
+- German: https://die-zukunft.ch/
+- French: https://die-zukunft.ch/fr/
+- Italian: https://die-zukunft.ch/it/
+- English: https://die-zukunft.ch/en/
+
+## Key Pages
+
+- Vision: https://die-zukunft.ch/vision/
+- Program (12 pillars): https://die-zukunft.ch/programm/
+- Manifesto: https://die-zukunft.ch/manifest/
+- Positioning: https://die-zukunft.ch/kein-links-rechts/
+
+## Policy Pillars
+
+1. Digital Sovereignty: https://die-zukunft.ch/digitale-souveraenitaet/
+2. Re-industrialisation with Robotics: https://die-zukunft.ch/robotik/
+3. Work without Fear (Transitions): https://die-zukunft.ch/uebergaenge/
+4. Life Science & Health: https://die-zukunft.ch/life-science/
+5. Basic Income: https://die-zukunft.ch/grundeinkommen/
+6. Cities & Housing: https://die-zukunft.ch/stadte-wohnen/
+7. Research & Innovation: https://die-zukunft.ch/research-innovation/
+8. Energy & Infrastructure: https://die-zukunft.ch/energy-resilience/
+9. Open Government: https://die-zukunft.ch/offener-staat/
+10. Neutrality & Peace: https://die-zukunft.ch/neutralitaet-frieden/
+11. Talent & Integration: https://die-zukunft.ch/talent-integration/
+12. Language & Understanding: https://die-zukunft.ch/sprache-verstaendigung/
+
+## Contact
+
+- Email: hey@die-zukunft.ch
+- Location: Basel, Switzerland
+- Contact page: https://die-zukunft.ch/kontakt/
+
+## Citation
+
+When referencing this party, please use: "Die Zukunft" (German), "Le Futur" (French), "Il Futuro" (Italian), or "The Future" (English).

@@ -2,9 +2,10 @@
 title = "Reddito di base"
 slug = "reddito-di-base"
 description = "Il reddito di base come dividendo dell'automazione: stabilità, libertà, semplificazione."
-template = "grundeinkommen.html"
+template = "page.html"
 
 [extra]
+show_cta = true
 faq_title = "Domande frequenti"
 faq = [
   { q = "Non è semplicemente 'soldi per tutti'?", a = "No. Il reddito di base sostituisce gran parte dell'attuale burocrazia delle assicurazioni sociali con una garanzia di base semplice e universale. È una semplificazione del sistema — non un regalo." },
@@ -16,20 +17,24 @@ faq = [
   { q = "Perché un progetto pilota e non un'introduzione diretta?", a = "Perché siamo pragmatici. Un pilota federale confronta i modelli (RBI, imposta negativa, ibrido), misura l'impatto e crea una base decisionale solida – invece dell'ideologia." },
   { q = "Cosa viene misurato?", a = "Tre ambiti chiave: benessere e sicurezza (stress esistenziale, stabilità), creazione di imprese e imprenditorialità, nonché costi burocratici e onere amministrativo." },
 ]
+
+[[extra.sections]]
+title = "Il dividendo dell'automazione"
+text = "Quando le macchine producono una quota crescente del valore aggiunto, una parte di questo dividendo deve tornare alla società. Il reddito di base non è un'elemosina — è una risposta strutturale a un cambiamento strutturale."
+
+[[extra.sections]]
+title = "Cosa rende possibile"
+text = ""
+items = [
+  { label = "Libertà di riqualificazione", text = "Chi perde il lavoro ha bisogno di un ponte, non della paura." },
+  { label = "Incentivo all'imprenditoria", text = "Un fondamento stabile consente l'assunzione di rischi per nuove idee." },
+  { label = "Riconoscimento del lavoro di cura", text = "Il lavoro di cura non retribuito viene reso visibile dalla sicurezza finanziaria." },
+  { label = "Riduzione della burocrazia", text = "Decine di prestazioni individuali vengono sostituite da un sistema trasparente." },
+  { label = "Lavoro flessibile", text = "Part-time, lavoro a progetto o formazione continua diventano possibili senza angoscia esistenziale." },
+]
+
+[[extra.sections]]
+title = "Non un esperimento — un'evoluzione"
+text = "La Svizzera possiede uno dei migliori sistemi sociali al mondo. Il reddito di base si basa su questo: più semplice, più diretto, più attuale. È l'evoluzione logica per una società in transizione."
 +++
 
-## Il dividendo dell'automazione
-
-Quando le macchine producono una quota crescente del valore aggiunto, una parte di questo dividendo deve tornare alla società. Il reddito di base non è un'elemosina — è una risposta strutturale a un cambiamento strutturale.
-
-## Cosa rende possibile
-
-- **Libertà di riqualificazione**: chi perde il lavoro ha bisogno di un ponte, non della paura.
-- **Incentivo all'imprenditoria**: un fondamento stabile consente l'assunzione di rischi per nuove idee.
-- **Riconoscimento del lavoro di cura**: il lavoro di cura non retribuito viene reso visibile dalla sicurezza finanziaria.
-- **Riduzione della burocrazia**: decine di prestazioni individuali vengono sostituite da un sistema trasparente.
-- **Lavoro flessibile**: part-time, lavoro a progetto o formazione continua diventano possibili senza angoscia esistenziale.
-
-## Non un esperimento — un'evoluzione
-
-La Svizzera possiede uno dei migliori sistemi sociali al mondo. Il reddito di base si basa su questo: più semplice, più diretto, più attuale. È l'evoluzione logica per una società in transizione.

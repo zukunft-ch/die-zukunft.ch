@@ -1,8 +1,11 @@
 +++
+title = "Parti suisse pour la transition structurelle"
+description = "Prospérité, confort et bien-être pour tous – avec un contrat social moderne qui crée la sécurité et élargit la liberté."
 template = "index.html"
 
 [extra]
 hero_title = "Le Futur"
+hero_subline = "Un nouveau parti suisse"
 hero_subtitle = "Prospérité, confort et bien-être pour tous – avec un contrat social moderne qui crée la sécurité et élargit la liberté."
 
 changes_title = "Ce qui change"
@@ -14,7 +17,7 @@ changes = [
 
 pillars_title = "Ce que nous proposons"
 pillars = [
-  { icon = "🛡️", title = "Revenu de base", text = "Un socle stable : moins de bureaucratie, plus de liberté pour la reconversion, l'entrepreneuriat et les soins." },
+  { icon = "🌱", title = "Revenu de base", text = "Un socle stable : moins de bureaucratie, plus de liberté pour la reconversion, l'entrepreneuriat et les soins." },
   { icon = "📚", title = "Travailler sans peur", text = "Reconversion, mobilité et accompagnement de transition comme normalité — pas comme solution d'urgence." },
   { icon = "🏛️", title = "Souveraineté numérique", text = "Solutions suisses et européennes d'abord. Standards ouverts, pas de dépendance à un fournisseur." },
   { icon = "🏭", title = "Réindustrialisation par la robotique", text = "Automatisation adaptée aux PME : laboratoires partagés, incitations, production locale." },

@@ -33,7 +33,7 @@ text = "Permettre le progrès — sans perte de contrôle. Données de santé en
 link = "/fr/sciences-de-la-vie/"
 
 [[extra.chapters]]
-icon = "🛡️"
+icon = "🌱"
 title = "Revenu de base comme projet d'avenir"
 text = "Réduire l'angoisse existentielle, diminuer la bureaucratie, favoriser l'entrepreneuriat. Projet pilote fédéral avec évaluation indépendante."
 link = "/fr/revenu-de-base/"

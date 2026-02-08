@@ -1,0 +1,21 @@
+{
+  "name": "Die Zukunft",
+  "short_name": "Die Zukunft",
+  "description": "Schweizer Partei für den strukturellen Wandel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}

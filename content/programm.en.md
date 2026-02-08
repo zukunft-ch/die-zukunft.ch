@@ -33,7 +33,7 @@ text = "Enabling progress — without losing control. Health data opt-in, eviden
 link = "/en/life-science/"
 
 [[extra.chapters]]
-icon = "🛡️"
+icon = "🌱"
 title = "Basic income as a future project"
 text = "Reducing existential fear, lowering bureaucracy, enabling entrepreneurship. A federal pilot with independent evaluation."
 link = "/en/basic-income/"

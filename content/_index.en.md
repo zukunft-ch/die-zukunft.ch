@@ -1,4 +1,6 @@
 +++
+title = "Swiss Party for Structural Transformation"
+description = "Prosperity, comfort and well-being for all — with a modern social contract that creates security and expands freedom."
 template = "index.html"
 
 [extra]
@@ -14,7 +16,7 @@ changes = [
 
 pillars_title = "What we propose"
 pillars = [
-  { icon = "🛡️", title = "Basic income", text = "A stable foundation: less bureaucracy, more freedom for retraining, entrepreneurship and care." },
+  { icon = "🌱", title = "Basic income", text = "A stable foundation: less bureaucracy, more freedom for retraining, entrepreneurship and care." },
   { icon = "📚", title = "Work without fear", text = "Retraining, mobility and transition support as the norm — not as a last resort." },
   { icon = "🏛️", title = "Digital sovereignty", text = "Swiss and European solutions first. Open standards, no vendor lock-in." },
   { icon = "🏭", title = "Re-industrialisation with robotics", text = "SME-friendly automation: shared labs, incentives, local manufacturing." },

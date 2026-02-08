@@ -11,7 +11,7 @@ template = "page.html"
 Bâle, Suisse
 
 **Contact**
-E-mail : [kontakt@die-zukunft.ch](mailto:kontakt@die-zukunft.ch)
+E-mail : [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ## Clause de non-responsabilité
 

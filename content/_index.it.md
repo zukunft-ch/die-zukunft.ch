@@ -1,8 +1,11 @@
 +++
+title = "Partito svizzero per la transizione strutturale"
+description = "Prosperità, comfort e benessere per tutti – con un contratto sociale moderno che crea sicurezza e amplia la libertà."
 template = "index.html"
 
 [extra]
 hero_title = "Il Futuro"
+hero_subline = "Un nuovo partito svizzero"
 hero_subtitle = "Prosperità, comfort e benessere per tutti – con un contratto sociale moderno che crea sicurezza e amplia la libertà."
 
 changes_title = "Cosa sta cambiando"
@@ -14,7 +17,7 @@ changes = [
 
 pillars_title = "Cosa proponiamo"
 pillars = [
-  { icon = "🛡️", title = "Reddito di base", text = "Un fondamento stabile: meno burocrazia, più libertà per riqualificazione, imprenditoria e cura." },
+  { icon = "🌱", title = "Reddito di base", text = "Un fondamento stabile: meno burocrazia, più libertà per riqualificazione, imprenditoria e cura." },
   { icon = "📚", title = "Lavorare senza paura", text = "Riqualificazione, mobilità e supporto alla transizione come normalità — non come soluzione d'emergenza." },
   { icon = "🏛️", title = "Sovranità digitale", text = "Soluzioni svizzere ed europee prima di tutto. Standard aperti, nessun vendor lock-in." },
   { icon = "🏭", title = "Reindustrializzazione con la robotica", text = "Automazione a misura di PMI: laboratori condivisi, incentivi, produzione locale." },

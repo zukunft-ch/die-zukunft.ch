@@ -1,9 +1,10 @@
 +++
 title = "Grundeinkommen"
 description = "Das Grundeinkommen als Automatisierungsdividende: Stabilität, Freiheit, Vereinfachung."
-template = "grundeinkommen.html"
+template = "page.html"
 
 [extra]
+show_cta = true
 faq_title = "Häufige Fragen"
 faq = [
   { q = "Ist das nicht einfach 'Geld für alle'?", a = "Nein. Das Grundeinkommen ersetzt einen grossen Teil der heutigen Sozialversicherungsbürokratie durch eine einfache, universelle Grundsicherung. Es ist eine Vereinfachung des Systems — kein Geschenk." },
@@ -15,20 +16,24 @@ faq = [
   { q = "Warum ein Pilot und nicht gleich einführen?", a = "Weil wir pragmatisch sind. Ein bundesweiter Pilot vergleicht Modelle (UBI, Negative Income Tax, Hybrid), misst Wirkung und schafft eine solide Entscheidungsgrundlage – statt Ideologie." },
   { q = "Was wird gemessen?", a = "Drei Kernbereiche: Wohlbefinden und Sicherheit (Existenzstress, Stabilität), Gründungen und Unternehmertum, sowie Bürokratiekosten und Verwaltungsaufwand." },
 ]
+
+[[extra.sections]]
+title = "Die Automatisierungsdividende"
+text = "Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil dieser Dividende an die Gesellschaft zurückfliessen. Das Grundeinkommen ist kein Almosen — es ist eine strukturelle Antwort auf eine strukturelle Veränderung."
+
+[[extra.sections]]
+title = "Was es ermöglicht"
+text = ""
+items = [
+  { label = "Freiheit zur Umschulung", text = "Wer seinen Job verliert, braucht keine Angst, sondern eine Brücke." },
+  { label = "Gründungsfreundlichkeit", text = "Ein stabiles Fundament ermöglicht Risikobereitschaft für neue Ideen." },
+  { label = "Pflegearbeit anerkennen", text = "Unbezahlte Care-Arbeit wird durch finanzielle Sicherheit sichtbar gemacht." },
+  { label = "Bürokratie abbauen", text = "Dutzende Einzelleistungen werden durch ein transparentes System ersetzt." },
+  { label = "Flexible Arbeit", text = "Teilzeit, Projektarbeit oder Weiterbildung werden ohne existenzielle Angst möglich." },
+]
+
+[[extra.sections]]
+title = "Kein Experiment — eine Weiterentwicklung"
+text = "Die Schweiz hat eines der besten Sozialsysteme der Welt. Das Grundeinkommen baut darauf auf: einfacher, direkter, zeitgemässer. Es ist die logische Weiterentwicklung für eine Gesellschaft im Wandel."
 +++
 
-## Die Automatisierungsdividende
-
-Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil dieser Dividende an die Gesellschaft zurückfliessen. Das Grundeinkommen ist kein Almosen — es ist eine strukturelle Antwort auf eine strukturelle Veränderung.
-
-## Was es ermöglicht
-
-- **Freiheit zur Umschulung**: Wer seinen Job verliert, braucht keine Angst, sondern eine Brücke.
-- **Gründungsfreundlichkeit**: Ein stabiles Fundament ermöglicht Risikobereitschaft für neue Ideen.
-- **Pflegearbeit anerkennen**: Unbezahlte Care-Arbeit wird durch finanzielle Sicherheit sichtbar gemacht.
-- **Bürokratie abbauen**: Dutzende Einzelleistungen werden durch ein transparentes System ersetzt.
-- **Flexible Arbeit**: Teilzeit, Projektarbeit oder Weiterbildung werden ohne existenzielle Angst möglich.
-
-## Kein Experiment — eine Weiterentwicklung
-
-Die Schweiz hat eines der besten Sozialsysteme der Welt. Das Grundeinkommen baut darauf auf: einfacher, direkter, zeitgemässer. Es ist die logische Weiterentwicklung für eine Gesellschaft im Wandel.
