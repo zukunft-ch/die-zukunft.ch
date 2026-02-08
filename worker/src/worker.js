@@ -158,11 +158,18 @@ function rewriteBody(body, hostname, prefix, selfLang) {
     `https://${hostname}/$1`
   );
 
-  // 4. Rewrite relative prefix links: href="/fr/" → href="/"  and  href="/fr/vision/" → href="/vision/"
+  // 4. Rewrite relative prefix links (quoted and unquoted — Zola minifies away quotes)
+  //    href="/fr/" → href="/"  and  href="/fr/vision/" → href="/vision/"
+  //    href=/fr/   → href=/    and  href=/fr/vision/   → href=/vision/
   body = body.replaceAll(`href="${prefix}/"`, 'href="/"');
   body = body.replace(
     new RegExp(`href="${escapeRegex(prefix)}/([^"]*)"`, 'g'),
     'href="/$1"'
+  );
+  body = body.replaceAll(`href=${prefix}/`, 'href=/');
+  body = body.replace(
+    new RegExp(`href=${escapeRegex(prefix)}/([^> ]*)`, 'g'),
+    'href=/$1'
   );
 
   // 5. Same for hreflang/canonical with relative URLs
