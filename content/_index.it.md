@@ -19,6 +19,10 @@ pillars = [
   { icon = "🏛️", title = "Sovranità digitale", text = "Soluzioni svizzere ed europee prima di tutto. Standard aperti, nessun vendor lock-in." },
   { icon = "🏭", title = "Reindustrializzazione con la robotica", text = "Automazione a misura di PMI: laboratori condivisi, incentivi, produzione locale." },
   { icon = "🧬", title = "Biotech con fiducia", text = "Scienze della vita moderne con consenso, verificabilità e senza medicina di Stato opaca." },
+  { icon = "🏙️", title = "Città & abitare del futuro", text = "Più alloggi accessibili e più qualità di vita grazie alla densificazione intorno ai nodi TP – meno dispersione, più comfort." },
+  { icon = "🔬", title = "Ricerca & innovazione", text = "Laboratori reali, standard aperti e rete d'innovazione a livello svizzero – perché l'innovazione abbia un impatto ampio e non resti nei silos." },
+  { icon = "⚡", title = "Energia & infrastrutture", text = "Approvvigionamento affidabile, accessibile e robusto – resilienza attraverso l'ingegneria, non l'ideologia." },
+  { icon = "📡", title = "Stato aperto", text = "API per default, trasparenza radicale e procedure aperte – perché i cittadini possano costruire strumenti migliori e controllare efficacemente lo Stato." },
 ]
 
 timeline_title = "Come iniziamo"
