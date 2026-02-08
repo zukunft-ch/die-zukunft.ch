@@ -1,7 +1,7 @@
 base_url = "https://die-zukunft.ch"
 theme = "avenir"
 title = "Die Zukunft"
-description = "Eine Schweizer Partei für den strukturellen Wandel: Grundeinkommen, digitale Souveränität, Reindustrialisierung."
+description = "Die Partei der Zukunft. Eine Schweizer Partei für den strukturellen Wandel: Grundeinkommen, digitale Souveränität, Reindustrialisierung."
 default_language = "de"
 compile_sass = true
 ignored_content = ["**/de/**", "**/fr/**", "**/it/**", "**/en/**", "**/schwerpunkte/**"]
@@ -15,19 +15,19 @@ taxonomies = []
 
 [languages.fr]
 title = "Le Futur"
-description = "Un parti suisse pour la transition structurelle : revenu de base, souveraineté numérique, réindustrialisation."
+description = "Le parti du futur. Un parti suisse pour la transition structurelle : revenu de base, souveraineté numérique, réindustrialisation."
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 
 [languages.it]
 title = "Il Futuro"
-description = "Un partito svizzero per la transizione strutturale: reddito di base, sovranità digitale, reindustrializzazione."
+description = "Il partito del futuro. Un partito svizzero per la transizione strutturale: reddito di base, sovranità digitale, reindustrializzazione."
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 
 [languages.en]
 title = "The Future"
-description = "A Swiss party for structural transformation: basic income, digital sovereignty, re-industrialisation."
+description = "The party of the future. A Swiss party for structural transformation: basic income, digital sovereignty, re-industrialisation."
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 
