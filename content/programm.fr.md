@@ -148,3 +148,20 @@ Qui vit en Suisse doit avoir des chances – et en contrepartie s'engager envers
 Ouverture et sécurité ne sont pas contradictoires. Elles fonctionnent quand l'intégration réussit et que l'État de droit est fiable.
 
 [En savoir plus →](/fr/talent-integration/)
+
+### 12. Langue commune, forte diversité
+
+**Objectif :** La Suisse doit devenir le modèle européen de la compréhension : plus de communication commune au quotidien et dans l'économie – sans supplanter les langues nationales.
+
+**Principe**
+Nos langues nationales restent une substance culturelle. En plus, il faut une **langue véhiculaire commune pratique** qui facilite l'intégration, la mobilité et la collaboration.
+
+**Ce que nous voulons**
+- **L'anglais comme lingua franca pragmatique** (en complément, pas en remplacement) : pour les services administratifs, les parcours éducatifs, la recherche, les startups, la coopération internationale.
+- **Ouverture aux modèles neutres** : nous examinons aussi les langues construites (p. ex. espéranto) et à long terme la possibilité d'une langue véhiculaire véritablement inclusive au niveau global – comme pont, pas comme projet identitaire.
+- **Renforcer la compréhension culturelle** : compétences linguistiques et culturelles comme partie de l'intégration, de la formation et du service public – pour que la diversité fonctionne et que la confiance grandisse.
+
+**Garde-fou**
+Le pragmatisme avant le symbolisme : nous mesurons si cela améliore l'intégration, la productivité et le confort quotidien.
+
+[En savoir plus →](/fr/langue-comprehension/)

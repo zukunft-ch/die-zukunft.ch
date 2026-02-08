@@ -25,6 +25,7 @@ pillars = [
   { icon = "📡", title = "État ouvert", text = "API par défaut, transparence radicale et procédures ouvertes – pour que les citoyens puissent construire de meilleurs outils et contrôler efficacement l'État." },
   { icon = "🕊️", title = "Neutralité & paix", text = "Strictement défensif, crédiblement neutre – et à nouveau un centre pour les pourparlers de paix et les bons offices." },
   { icon = "🤝", title = "Talent & intégration", text = "Ouvert aux personnes qui contribuent – clair dans l'État de droit et les règles du vivre ensemble." },
+  { icon = "🗣️", title = "Langue & compréhension", text = "Renforcer les langues nationales, l'anglais comme pont pragmatique – et ouverture à une langue véhiculaire globalement inclusive." },
 ]
 
 timeline_title = "Comment nous démarrons"

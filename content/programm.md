@@ -147,3 +147,20 @@ Wer in der Schweiz lebt, soll Chancen haben – und sich im Gegenzug zu den Rege
 Offenheit und Sicherheit sind kein Widerspruch. Sie funktionieren, wenn Integration gelingt und der Rechtsstaat zuverlässig ist.
 
 [Mehr erfahren →](/talent-integration/)
+
+### 12. Gemeinsame Sprache, starke Vielfalt
+
+**Ziel:** Die Schweiz soll das europäische Vorbild für Verständigung werden: mehr gemeinsame Kommunikation im Alltag und in der Wirtschaft – ohne die Landessprachen zu verdrängen.
+
+**Grundsatz**
+Unsere Landessprachen bleiben kulturelle Substanz. Zusätzlich braucht es eine **praktische gemeinsame Verkehrssprache**, die Integration, Mobilität und Zusammenarbeit erleichtert.
+
+**Was wir wollen**
+- **Englisch als pragmatische Lingua Franca** (als Zusatz, nicht als Ersatz): für Behörden-Services, Bildungspfade, Forschung, Startups, internationale Zusammenarbeit.
+- **Offenheit für neutrale Modelle**: Wir prüfen auch konstruktierte Sprachen (z.B. Esperanto) und langfristig die Möglichkeit einer wirklich global inklusiven Verkehrssprache – als Brücke, nicht als Identitätsprojekt.
+- **Kulturelle Verständigung stärken**: Sprach- und Kulturkompetenz als Teil von Integration, Bildung und öffentlichem Service – damit Vielfalt funktioniert und Vertrauen wächst.
+
+**Leitplanke**
+Pragmatismus vor Symbolik: Wir messen, ob es Integration, Produktivität und Alltagskomfort verbessert.
+
+[Mehr erfahren →](/sprache-verstaendigung/)
