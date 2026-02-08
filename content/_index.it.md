@@ -24,6 +24,7 @@ pillars = [
   { icon = "⚡", title = "Energia & infrastrutture", text = "Approvvigionamento affidabile, accessibile e robusto – resilienza attraverso l'ingegneria, non l'ideologia." },
   { icon = "📡", title = "Stato aperto", text = "API per default, trasparenza radicale e procedure aperte – perché i cittadini possano costruire strumenti migliori e controllare efficacemente lo Stato." },
   { icon = "🕊️", title = "Neutralità & pace", text = "Strettamente difensivo, credibilmente neutrale – e di nuovo un centro per colloqui di pace e buoni uffici." },
+  { icon = "🤝", title = "Talento & integrazione", text = "Aperto a chi contribuisce – chiaro nello Stato di diritto e nelle regole della convivenza." },
 ]
 
 timeline_title = "Come iniziamo"

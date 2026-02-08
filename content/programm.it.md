@@ -1,7 +1,7 @@
 +++
 title = "Programma"
 slug = "programma"
-description = "I dieci pilastri del nostro programma politico."
+description = "Il nostro programma politico per la transizione strutturale."
 template = "page.html"
 
 [extra]
@@ -9,7 +9,7 @@ show_cta = true
 cta_text = "Convinti? Sostenete il nostro programma."
 +++
 
-## Dieci pilastri per la transizione
+## Il nostro programma per la transizione
 
 Il nostro programma affronta le sfide centrali della transizione strutturale — in modo pragmatico, misurabile e adattato alle condizioni svizzere.
 
@@ -131,3 +131,20 @@ Vogliamo rafforzare la capacità difensiva, ma modernizzare le priorità:
 - ruolo internazionale: la Svizzera come ospite e facilitatrice, non come parte
 
 [Scopri di più →](/it/neutralita-pace/)
+
+### 11. Talento, integrazione & Stato di diritto: aperto, chiaro, giusto
+
+**Obiettivo:** La Svizzera deve essere un magnete per le persone che vogliono costruire qualcosa – e al contempo restare un paese dove sicurezza, ordine e fiducia sono scontati.
+
+**Il nostro principio**
+Chi vive in Svizzera deve avere opportunità – e in cambio impegnarsi per le regole della convivenza: **Stato di diritto, rispetto, responsabilità**.
+
+**Cosa vogliamo**
+- **La Svizzera come hub di talenti:** Vogliamo attrarre le menti e i creatori migliori – per la ricerca, le PMI, l'industria, la sanità, la formazione e le startup.
+- **L'integrazione come impegno:** Chi arriva qui deve poter arrivare bene – e diventare attivamente parte della Svizzera (lingua, lavoro, partecipazione sociale).
+- **Aspettative chiare, applicazione giusta:** Le regole valgono per tutti. Chi le infrange deve aspettarsi un'applicazione coerente e conforme allo Stato di diritto – senza sospetti generalizzati né giudizi collettivi.
+
+**Linea guida**
+Apertura e sicurezza non sono in contraddizione. Funzionano quando l'integrazione riesce e lo Stato di diritto è affidabile.
+
+[Scopri di più →](/it/talento-integrazione/)

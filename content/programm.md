@@ -1,6 +1,6 @@
 +++
 title = "Programm"
-description = "Die zehn Säulen unseres politischen Programms."
+description = "Unser politisches Programm für den strukturellen Wandel."
 template = "page.html"
 
 [extra]
@@ -8,7 +8,7 @@ show_cta = true
 cta_text = "Überzeugt? Unterstützen Sie unser Programm."
 +++
 
-## Zehn Säulen für den Wandel
+## Unser Programm für den Wandel
 
 Unser Programm adressiert die zentralen Herausforderungen des strukturellen Wandels — pragmatisch, messbar und auf Schweizer Verhältnisse zugeschnitten.
 
@@ -130,3 +130,20 @@ Wir wollen die Verteidigungsfähigkeit stärken, aber den Schwerpunkt modernisie
 - internationale Rolle: Schweiz als Gastgeberin und Ermöglicherin, nicht als Partei
 
 [Mehr erfahren →](/neutralitaet-frieden/)
+
+### 11. Talent, Integration & Rechtsstaat: offen, klar, fair
+
+**Ziel:** Die Schweiz soll ein Magnet für Menschen sein, die etwas aufbauen wollen – und gleichzeitig ein Land bleiben, in dem Sicherheit, Ordnung und Vertrauen selbstverständlich sind.
+
+**Unser Grundsatz**
+Wer in der Schweiz lebt, soll Chancen haben – und sich im Gegenzug zu den Regeln des Zusammenlebens bekennen: **Rechtsstaat, Respekt, Verantwortung**.
+
+**Was wir wollen**
+- **Schweiz als Talent-Hub:** Wir wollen die besten Köpfe und Macher:innen anziehen – für Forschung, KMU, Industrie, Gesundheit, Bildung und Startups.
+- **Integration als Commitment:** Wer hierherkommt, soll gut ankommen können – und aktiv Teil der Schweiz werden (Sprache, Arbeit, gesellschaftliche Teilhabe).
+- **Klare Erwartungen, faire Durchsetzung:** Regeln gelten für alle. Wer sie verletzt, muss mit konsequenter, rechtsstaatlicher Durchsetzung rechnen – ohne Generalverdacht und ohne Pauschalurteile.
+
+**Leitlinie**
+Offenheit und Sicherheit sind kein Widerspruch. Sie funktionieren, wenn Integration gelingt und der Rechtsstaat zuverlässig ist.
+
+[Mehr erfahren →](/talent-integration/)

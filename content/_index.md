@@ -24,6 +24,7 @@ pillars = [
   { icon = "⚡", title = "Energie & Infrastruktur", text = "Zuverlässige, bezahlbare, robuste Versorgung – Resilienz durch Engineering, nicht durch Ideologie." },
   { icon = "📡", title = "Offener Staat", text = "API-by-default, radikale Transparenz und offene Verfahren – damit Bürger:innen bessere Tools bauen und den Staat effektiv prüfen können." },
   { icon = "🕊️", title = "Neutralität & Frieden", text = "Strikt defensiv, glaubwürdig neutral – und wieder ein Zentrum für Friedensgespräche und Good Offices." },
+  { icon = "🤝", title = "Talent & Integration", text = "Offen für Menschen, die etwas beitragen – klar im Rechtsstaat und in den Regeln des Zusammenlebens." },
 ]
 
 timeline_title = "Wie wir starten"

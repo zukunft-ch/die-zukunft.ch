@@ -1,7 +1,7 @@
 +++
 title = "Programme"
 slug = "programme"
-description = "Les dix piliers de notre programme politique."
+description = "Notre programme politique pour la transition structurelle."
 template = "page.html"
 
 [extra]
@@ -9,7 +9,7 @@ show_cta = true
 cta_text = "Convaincu·e ? Soutenez notre programme."
 +++
 
-## Dix piliers pour la transition
+## Notre programme pour la transition
 
 Notre programme aborde les défis centraux de la transition structurelle — de manière pragmatique, mesurable et adaptée aux conditions suisses.
 
@@ -131,3 +131,20 @@ Nous voulons renforcer la capacité défensive, mais moderniser les priorités :
 - rôle international : la Suisse comme hôte et facilitatrice, pas comme partie
 
 [En savoir plus →](/fr/neutralite-paix/)
+
+### 11. Talent, intégration & État de droit : ouvert, clair, juste
+
+**Objectif :** La Suisse doit être un aimant pour les personnes qui veulent construire quelque chose – et en même temps rester un pays où sécurité, ordre et confiance vont de soi.
+
+**Notre principe**
+Qui vit en Suisse doit avoir des chances – et en contrepartie s'engager envers les règles du vivre ensemble : **État de droit, respect, responsabilité**.
+
+**Ce que nous voulons**
+- **La Suisse comme hub de talents :** Nous voulons attirer les meilleurs esprits et acteurs – pour la recherche, les PME, l'industrie, la santé, l'éducation et les startups.
+- **L'intégration comme engagement :** Qui arrive ici doit pouvoir bien s'installer – et devenir activement partie de la Suisse (langue, travail, participation sociale).
+- **Attentes claires, application juste :** Les règles valent pour tous. Qui les enfreint doit s'attendre à une application conséquente et conforme à l'État de droit – sans suspicion généralisée ni jugements globaux.
+
+**Ligne directrice**
+Ouverture et sécurité ne sont pas contradictoires. Elles fonctionnent quand l'intégration réussit et que l'État de droit est fiable.
+
+[En savoir plus →](/fr/talent-integration/)
