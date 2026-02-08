@@ -33,8 +33,9 @@ pillars = [
 timeline_title = "How we start"
 timeline = [
   { phase = "Phase 1", title = "Basel", text = "Foundation, first members, local roots in the Basel region." },
-  { phase = "Phase 2", title = "German-speaking Switzerland", text = "Expansion into further cantons, building local chapters and partnerships." },
-  { phase = "Phase 3", title = "National", text = "Presence in all language regions, national campaigns and political work." },
+  { phase = "Phase 2", title = "Switzerland", text = "Expansion across all language regions, building local chapters and national political work." },
+  { phase = "Phase 3", title = "Europe", text = "Partnerships with like-minded movements, shared agenda for a future-ready Europe." },
+  { phase = "Phase 4", title = "Global", text = "International network, knowledge transfer and impulses for a new societal policy worldwide." },
 ]
 
 cta_title = "Get involved"

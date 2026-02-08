@@ -34,8 +34,9 @@ pillars = [
 timeline_title = "Comment nous démarrons"
 timeline = [
   { phase = "Phase 1", title = "Bâle", text = "Fondation, premiers membres, ancrage local dans la région de Bâle." },
-  { phase = "Phase 2", title = "Suisse alémanique", text = "Expansion dans d'autres cantons, création de sections locales et partenariats." },
-  { phase = "Phase 3", title = "National", text = "Présence dans toutes les régions linguistiques, campagnes nationales et travail politique." },
+  { phase = "Phase 2", title = "Suisse", text = "Expansion dans toutes les régions linguistiques, création de sections locales et travail politique national." },
+  { phase = "Phase 3", title = "Europe", text = "Partenariats avec des mouvements partageant nos valeurs, agenda commun pour une Europe tournée vers l'avenir." },
+  { phase = "Phase 4", title = "Mondial", text = "Réseau international, transfert de connaissances et impulsions pour une nouvelle politique sociétale dans le monde." },
 ]
 
 cta_title = "Participer"

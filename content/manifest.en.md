@@ -31,5 +31,13 @@ subsections = [
   { title = "3. Change Without Collapse", text = "We restructure the welfare state so that people can switch careers, learn and start businesses — without existential fear." },
   { title = "4. Basic Income, Pragmatically", text = "We start with a federal pilot and measure impact: bureaucracy costs, entrepreneurship, well-being." },
 ]
+
+[[extra.sections]]
+title = "Techno-Optimism as a Stance"
+text = "We see ourselves as part of a broader, international techno-optimist movement: progress is possible — and it happens when people build, research and take responsibility. That is why we appreciate the existence of the <a href=\"https://a16z.com/the-techno-optimist-manifesto/\" target=\"_blank\" rel=\"noopener noreferrer\">Techno-Optimist Manifesto</a> (a16z): it offers a clear counterweight to politics of fear and scarcity, and reminds us that prosperity and quality of life grow above all through innovation."
+subsections = [
+  { title = "Shared Principles", points = ["Abundance over scarcity: productivity and progress create room for everyone.", "Engineering over ideology: solve problems, measure, iterate.", "Energy & infrastructure are the foundation of freedom, security and prosperity.", "Science, entrepreneurship and technology should improve human wellbeing."] },
+  { title = "Our Swiss Variant", text = "The Future pairs techno-optimism with democratic control: an open, auditable state, clear fundamental rights, privacy and security-by-design, and digital sovereignty and resilience for critical infrastructure. Progress should be fast — but legible, verifiable and accountable to the public." },
+]
 +++
 

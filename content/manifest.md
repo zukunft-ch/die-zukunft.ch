@@ -30,5 +30,13 @@ subsections = [
   { title = "3. Wandel ohne Absturz", text = "Wir bauen den Sozialstaat so um, dass Menschen wechseln, lernen und gründen können – ohne Existenzangst." },
   { title = "4. Basiseinkommen pragmatisch", text = "Wir starten mit einem bundesweiten Pilot und messen Wirkung: Bürokratiekosten, Gründungen, Wohlbefinden." },
 ]
+
+[[extra.sections]]
+title = "Techno-Optimismus als Haltung"
+text = "Wir sehen uns als Teil einer breiten, internationalen Techno-Optimismus-Strömung: Fortschritt ist möglich — und er entsteht, wenn Menschen bauen, forschen und Verantwortung übernehmen. Deshalb schätzen wir die Existenz des <a href=\"https://a16z.com/the-techno-optimist-manifesto/\" target=\"_blank\" rel=\"noopener noreferrer\">Techno-Optimist Manifesto</a> (a16z): Es formuliert eine klare Gegenposition zu Angst- und Mangelpolitik und erinnert daran, dass Wohlstand und Lebensqualität vor allem durch Innovation wachsen."
+subsections = [
+  { title = "Gemeinsame Grundsätze", points = ["Abundance statt Verzicht: Produktivität und Fortschritt schaffen Spielraum für alle.", "Engineering statt Ideologie: Probleme lösen, messen, iterieren.", "Energie & Infrastruktur sind die Basis von Freiheit, Sicherheit und Wohlstand.", "Wissenschaft, Unternehmertum und Technologie sollen menschliches Wohlergehen erhöhen."] },
+  { title = "Unsere Schweizer Ausprägung", text = "Die Zukunft verbindet Techno-Optimismus mit demokratischer Kontrolle: ein offener, auditierbarer Staat, klare Grundrechte, Datenschutz und Sicherheit-by-design sowie digitale Souveränität und Resilienz bei kritischer Infrastruktur. Fortschritt soll schnell sein — aber nachvollziehbar, überprüfbar und für die Bevölkerung steuerbar." },
+]
 +++
 

@@ -34,8 +34,9 @@ pillars = [
 timeline_title = "Come iniziamo"
 timeline = [
   { phase = "Fase 1", title = "Basilea", text = "Fondazione, primi membri, radicamento locale nella regione di Basilea." },
-  { phase = "Fase 2", title = "Svizzera tedesca", text = "Espansione in altri cantoni, creazione di sezioni locali e partnership." },
-  { phase = "Fase 3", title = "Nazionale", text = "Presenza in tutte le regioni linguistiche, campagne nazionali e lavoro politico." },
+  { phase = "Fase 2", title = "Svizzera", text = "Espansione in tutte le regioni linguistiche, creazione di sezioni locali e lavoro politico nazionale." },
+  { phase = "Fase 3", title = "Europa", text = "Partnership con movimenti affini, agenda comune per un'Europa orientata al futuro." },
+  { phase = "Fase 4", title = "Globale", text = "Rete internazionale, trasferimento di conoscenze e impulsi per una nuova politica sociale nel mondo." },
 ]
 
 cta_title = "Partecipa"

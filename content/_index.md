@@ -34,8 +34,9 @@ pillars = [
 timeline_title = "Wie wir starten"
 timeline = [
   { phase = "Phase 1", title = "Basel", text = "Gründung, erste Mitglieder, lokale Verankerung in der Region Basel." },
-  { phase = "Phase 2", title = "Deutschschweiz", text = "Ausbau in weitere Kantone, Aufbau von Ortsgruppen und Partnerschaften." },
-  { phase = "Phase 3", title = "National", text = "Präsenz in allen Sprachregionen, nationale Kampagnen und politische Arbeit." },
+  { phase = "Phase 2", title = "Schweiz", text = "Ausbau in alle Sprachregionen, Aufbau von Ortsgruppen und nationale politische Arbeit." },
+  { phase = "Phase 3", title = "Europa", text = "Partnerschaften mit gleichgesinnten Bewegungen, gemeinsame Agenda für ein zukunftsfähiges Europa." },
+  { phase = "Phase 4", title = "Global", text = "Internationale Vernetzung, Wissenstransfer und Impulse für eine neue Gesellschaftspolitik weltweit." },
 ]
 
 cta_title = "Mitmachen"
