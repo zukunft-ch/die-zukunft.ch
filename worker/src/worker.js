@@ -8,7 +8,7 @@
  */
 
 // Pages deployment origin (fetch target — avoids Cloudflare-to-Cloudflare 522)
-const PAGES_ORIGIN = 'zukunft.pages.dev';
+const PAGES_ORIGIN = 'die-zukunft-ch.pages.dev';
 // Public domain (used for URL rewriting in HTML responses)
 const ORIGIN = 'die-zukunft.ch';
 
