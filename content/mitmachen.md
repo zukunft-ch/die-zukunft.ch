@@ -7,6 +7,12 @@ template = "mitmachen.html"
 intro = "Die Zukunft baut man nicht allein. Wenn du willst, dass Politik wieder Zukunft kann: komm dazu."
 
 [[extra.sections]]
+title = "Verein beitreten"
+text = "Werde Mitglied im Verein Die Zukunft und gestalte die Partei aktiv mit. Alle Informationen zur Mitgliedschaft findest du auf unserer Vereinsseite."
+link = "https://collective.die-zukunft.ch"
+link_text = "Zur Vereinsseite"
+
+[[extra.sections]]
 title = "Mitglied werden"
 text = "Mitgliedschaft gibt dir Mitbestimmung, Updates und die Möglichkeit, Arbeitsgruppen zu prägen. Schreib uns an hey@die-zukunft.ch."
 link = "mailto:hey@die-zukunft.ch"

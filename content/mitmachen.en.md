@@ -8,6 +8,12 @@ template = "mitmachen.html"
 intro = "You don't build the future alone. If you want politics that can do future again: join us."
 
 [[extra.sections]]
+title = "Join the association"
+text = "Become a member of The Future association and actively shape the party. All information about membership can be found on our association page."
+link = "https://collective.die-zukunft.ch"
+link_text = "To the association page"
+
+[[extra.sections]]
 title = "Become a member"
 text = "Membership gives you co-determination, updates and the chance to shape working groups. Write to us at hey@die-zukunft.ch."
 link = "mailto:hey@die-zukunft.ch"

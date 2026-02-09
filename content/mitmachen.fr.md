@@ -8,6 +8,12 @@ template = "mitmachen.html"
 intro = "L'avenir ne se construit pas seul. Si vous voulez que la politique puisse à nouveau penser l'avenir : rejoignez-nous."
 
 [[extra.sections]]
+title = "Rejoindre l'association"
+text = "Devenez membre de l'association Le Futur et participez activement à la construction du parti. Toutes les informations sur l'adhésion se trouvent sur notre page associative."
+link = "https://collective.die-zukunft.ch"
+link_text = "Vers la page de l'association"
+
+[[extra.sections]]
 title = "Devenir membre"
 text = "L'adhésion vous donne la codécision, des mises à jour et la possibilité de façonner les groupes de travail. Écrivez-nous à hey@die-zukunft.ch."
 link = "mailto:hey@die-zukunft.ch"
