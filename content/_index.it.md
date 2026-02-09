@@ -10,11 +10,14 @@ hero_descriptor = "Un nuovo partito svizzero"
 hero_subtitle = "Prosperità, comfort e benessere per tutti – con un contratto sociale moderno che crea sicurezza e amplia la libertà."
 
 changes_title = "Cosa sta cambiando"
+changes_intro = "Le cose non vanno peggio – ma cambiano. Lavoro, costi, salute e sicurezza vengono ridistribuiti – a seconda che plasmiamo il futuro o ci limitiamo a reagire."
 changes = [
-  { icon = "⚙️", title = "Automazione", text = "L'IA e la robotica stanno trasformando il mondo del lavoro più velocemente di quanto la politica reagisca. Servono nuove risposte — non vecchi riflessi." },
-  { icon = "💻", title = "Dipendenza digitale", text = "Le infrastrutture critiche si appoggiano a piattaforme straniere. Sovranità significa creare le proprie basi digitali." },
-  { icon = "🔬", title = "Biotech e salute", text = "Le scienze della vita aprono nuove possibilità — dalle terapie personalizzate alla prevenzione. Questo richiede fiducia e trasparenza." },
+  { icon = "💰", title = "Lavoro & reddito", text = "L'IA accelera tutto – e ridistribuisce i compiti. Amministrazione, logistica, medicina, diritto: interi settori professionali si trasformano. La domanda chiave: chi riceve i guadagni di produttività – e chi ne porta il rischio?" },
+  { icon = "🏠", title = "Abitare & quotidiano", text = "Gli alloggi restano scarsi, i percorsi si allungano, il tempo di vita si perde. La questione non è città o campagna, ma: come ottenere più comfort per metro quadrato – senza che tutto diventi più caro?" },
+  { icon = "🧬", title = "Salute & longevità", text = "Biotech e prevenzione migliorano – ma solo con la fiducia. Le persone vogliono innovazione senza scatole nere, con consenso chiaro, verificabilità e protezione dei dati." },
+  { icon = "🔒", title = "Sicurezza digitale", text = "Pagamenti, identità, comunicazione, amministrazione: la nostra vita quotidiana si basa su software. Quando sistemi critici dipendono da poche piattaforme straniere, non è una questione tech – è sovranità nel quotidiano." },
 ]
+changes_cta = "Per questo Il Futuro: rendiamo il cambiamento pianificabile – più libertà, meno paura, più prosperità."
 
 pillars_title = "Cosa proponiamo"
 pillars = [

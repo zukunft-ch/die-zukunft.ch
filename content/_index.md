@@ -10,11 +10,14 @@ hero_descriptor = "Eine neue Schweizer Partei"
 hero_subtitle = "Wohlstand, Komfort und Wohlergehen für alle – mit einem modernen Gesellschaftsvertrag, der Sicherheit schafft und Freiheit vergrössert."
 
 changes_title = "Was sich verändert"
+changes_intro = "Es wird nicht schlechter – aber anders. Arbeit, Kosten, Gesundheit und Sicherheit werden neu verteilt – je nachdem, ob wir gestalten oder nur reagieren."
 changes = [
-  { icon = "⚙️", title = "Automatisierung", text = "KI und Robotik verändern die Arbeitswelt schneller, als die Politik reagiert. Wir brauchen neue Antworten — nicht alte Reflexe." },
-  { icon = "💻", title = "Digitale Abhängigkeit", text = "Kritische Infrastruktur läuft auf fremden Plattformen. Souveränität bedeutet, eigene digitale Grundlagen zu schaffen." },
-  { icon = "🔬", title = "Biotech & Gesundheit", text = "Lebenswissenschaften eröffnen neue Möglichkeiten — von personalisierten Therapien bis zur Prävention. Das braucht Vertrauen und Transparenz." },
+  { icon = "💰", title = "Arbeit & Einkommen", text = "KI macht vieles schneller – und verschiebt Aufgaben. Administration, Logistik, Medizin, Recht: Ganze Berufsfelder verändern sich. Entscheidend ist, wer die Produktivitätsgewinne bekommt – und wer das Risiko trägt." },
+  { icon = "🏠", title = "Wohnen & Alltag", text = "Wohnraum bleibt knapp, Wege werden länger, Lebenszeit geht verloren. Die Frage ist nicht Stadt oder Land, sondern: Wie kriegen wir mehr Komfort pro Quadratmeter – ohne dass alles teurer wird?" },
+  { icon = "🧬", title = "Gesundheit & Langlebigkeit", text = "Biotech und Prävention werden besser – aber nur mit Vertrauen. Menschen wollen Innovation ohne Black Boxes, mit klarer Einwilligung, Prüfbarkeit und Datenschutz." },
+  { icon = "🔒", title = "Digitale Sicherheit", text = "Zahlung, Identität, Kommunikation, Verwaltung: Unser Alltag läuft auf Software. Wenn kritische Systeme von wenigen fremden Plattformen abhängen, ist das kein Tech-Thema – es ist Souveränität im Alltag." },
 ]
+changes_cta = "Darum Die Zukunft: Wir machen Wandel planbar – mehr Freiheit, weniger Angst, mehr Wohlstand."
 
 pillars_title = "Was wir vorschlagen"
 pillars = [

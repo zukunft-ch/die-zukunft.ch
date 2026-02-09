@@ -10,11 +10,14 @@ hero_descriptor = "Un nouveau parti suisse"
 hero_subtitle = "Prospérité, confort et bien-être pour tous – avec un contrat social moderne qui crée la sécurité et élargit la liberté."
 
 changes_title = "Ce qui change"
+changes_intro = "Les choses ne vont pas plus mal – mais elles changent. Travail, coûts, santé et sécurité se redistribuent – selon que nous façonnons l'avenir ou que nous nous contentons de réagir."
 changes = [
-  { icon = "⚙️", title = "Automatisation", text = "L'IA et la robotique transforment le monde du travail plus vite que la politique ne réagit. Nous avons besoin de nouvelles réponses — pas d'anciens réflexes." },
-  { icon = "💻", title = "Dépendance numérique", text = "Les infrastructures critiques reposent sur des plateformes étrangères. La souveraineté, c'est créer nos propres bases numériques." },
-  { icon = "🔬", title = "Biotech & santé", text = "Les sciences de la vie ouvrent de nouvelles possibilités — des thérapies personnalisées à la prévention. Cela nécessite confiance et transparence." },
+  { icon = "💰", title = "Travail & revenus", text = "L'IA accélère tout – et redistribue les tâches. Administration, logistique, médecine, droit : des professions entières se transforment. La question clé : qui reçoit les gains de productivité – et qui en porte le risque ?" },
+  { icon = "🏠", title = "Logement & quotidien", text = "Le logement reste rare, les trajets s'allongent, le temps de vie se perd. La question n'est pas ville ou campagne, mais : comment obtenir plus de confort par mètre carré – sans que tout devienne plus cher ?" },
+  { icon = "🧬", title = "Santé & longévité", text = "Biotech et prévention progressent – mais uniquement avec la confiance. Les gens veulent de l'innovation sans boîtes noires, avec un consentement clair, une vérifiabilité et une protection des données." },
+  { icon = "🔒", title = "Sécurité numérique", text = "Paiement, identité, communication, administration : notre quotidien repose sur des logiciels. Quand des systèmes critiques dépendent de quelques plateformes étrangères, ce n'est pas un sujet tech – c'est la souveraineté au quotidien." },
 ]
+changes_cta = "C'est pourquoi Le Futur : nous rendons le changement planifiable – plus de liberté, moins de peur, plus de prospérité."
 
 pillars_title = "Ce que nous proposons"
 pillars = [

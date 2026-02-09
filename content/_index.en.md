@@ -10,11 +10,14 @@ hero_descriptor = "A new Swiss party"
 hero_subtitle = "Prosperity, comfort and well-being for all — with a modern social contract that creates security and expands freedom."
 
 changes_title = "What's changing"
+changes_intro = "Things aren't getting worse – but they are changing. Work, costs, health and security are being redistributed – depending on whether we shape the future or merely react."
 changes = [
-  { icon = "⚙️", title = "Automation", text = "AI and robotics are transforming the world of work faster than politics can respond. We need new answers — not old reflexes." },
-  { icon = "💻", title = "Digital dependency", text = "Critical infrastructure runs on foreign platforms. Sovereignty means building our own digital foundations." },
-  { icon = "🔬", title = "Biotech & health", text = "Life sciences are opening new possibilities — from personalised therapies to prevention. This requires trust and transparency." },
+  { icon = "💰", title = "Work & income", text = "AI is speeding everything up – and shifting tasks. Administration, logistics, medicine, law: entire professions are transforming. The key question: who gets the productivity gains – and who bears the risk?" },
+  { icon = "🏠", title = "Housing & everyday life", text = "Housing remains scarce, commutes get longer, life time is lost. The question isn't city versus countryside, but: how do we get more comfort per square metre – without everything getting more expensive?" },
+  { icon = "🧬", title = "Health & longevity", text = "Biotech and prevention are improving – but only with trust. People want innovation without black boxes, with clear consent, auditability and data protection." },
+  { icon = "🔒", title = "Digital security", text = "Payments, identity, communication, public services: our daily life runs on software. When critical systems depend on a few foreign platforms, that's not a tech issue – it's everyday sovereignty." },
 ]
+changes_cta = "That's why The Future: we make change plannable – more freedom, less fear, more prosperity."
 
 pillars_title = "What we propose"
 pillars = [
