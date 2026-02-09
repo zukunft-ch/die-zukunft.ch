@@ -1,4 +1,4 @@
-var CACHE = 'dz-v1';
+var CACHE = 'dz-v2';
 var SHELL = [
   '/',
   '/main.css',
@@ -30,6 +30,8 @@ self.addEventListener('activate', function(e) {
 
 self.addEventListener('fetch', function(e) {
   if (e.request.method !== 'GET') return;
+  var url = new URL(e.request.url);
+  if (url.origin !== location.origin) return;
   e.respondWith(
     fetch(e.request).then(function(res) {
       var clone = res.clone();
