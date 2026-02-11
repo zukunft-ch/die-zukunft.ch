@@ -59,4 +59,47 @@ compare_ubi_cost = "UBI-Kosten"
 # Methodology
 methodology_title = "Methodik & Annahmen"
 methodology_text = "Dieses Modell ist eine Vereinfachung. Es basiert auf öffentlich verfügbaren Daten des Bundesamts für Statistik (BFS) und der Eidgenössischen Steuerverwaltung (ESTV). Die tatsächliche Finanzierung hängt von Verhaltenseffekten, wirtschaftlichen Dynamiken und politischen Entscheidungen ab, die ein statisches Modell nicht abbilden kann."
+
+# Sources
+sources_title = "Datenquellen"
+sources_intro = "Alle im Rechner verwendeten Kenngrössen basieren auf öffentlich zugänglichen Schweizer Statistiken. Die Werte sind gerundet."
+sources_col_param = "Kenngrösse"
+sources_col_value = "Wert"
+sources_col_source = "Quelle"
+
+[[extra.sources]]
+param = "Wohnbevölkerung (18+)"
+value = "7,53 Mio."
+source = "BFS, STATPOP 2024"
+url = "https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung.html"
+
+[[extra.sources]]
+param = "Wohnbevölkerung (<18)"
+value = "1,53 Mio."
+source = "BFS, STATPOP 2024"
+url = "https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/stand-entwicklung.html"
+
+[[extra.sources]]
+param = "Steuerbares Einkommen"
+value = "CHF 420 Mrd."
+source = "ESTV, Steuerstatistik natürliche Personen 2021"
+url = "https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv/kennzahlen.html"
+
+[[extra.sources]]
+param = "Konsumausgaben der Haushalte"
+value = "CHF 380 Mrd."
+source = "BFS, Volkswirtschaftliche Gesamtrechnung 2023"
+url = "https://www.bfs.admin.ch/bfs/de/home/statistiken/volkswirtschaft/volkswirtschaftliche-gesamtrechnung.html"
+
+[[extra.sources]]
+param = "Steuerbares Reinvermögen"
+value = "CHF 2'800 Mrd."
+source = "ESTV, Vermögensstatistik natürliche Personen 2021"
+url = "https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv/kennzahlen.html"
+
+[[extra.sources]]
+param = "Sozialausgaben"
+value = "CHF 185 Mrd."
+source = "BSV, Gesamtrechnung der Sozialen Sicherheit 2022"
+url = "https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ueberblick/grsv.html"
 +++

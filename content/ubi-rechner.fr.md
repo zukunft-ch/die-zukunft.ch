@@ -60,4 +60,47 @@ compare_ubi_cost = "Coût RBI"
 # Methodology
 methodology_title = "Méthodologie & hypothèses"
 methodology_text = "Ce modèle est une simplification. Il repose sur des données publiques de l'Office fédéral de la statistique (OFS) et de l'Administration fédérale des contributions (AFC). Le financement réel dépend d'effets comportementaux, de dynamiques économiques et de décisions politiques qu'un modèle statique ne peut pas refléter."
+
+# Sources
+sources_title = "Sources des données"
+sources_intro = "Toutes les valeurs utilisées dans le calculateur proviennent de statistiques suisses publiques. Les valeurs sont arrondies."
+sources_col_param = "Indicateur"
+sources_col_value = "Valeur"
+sources_col_source = "Source"
+
+[[extra.sources]]
+param = "Population résidante (18+)"
+value = "7,53 mio."
+source = "OFS, STATPOP 2024"
+url = "https://www.bfs.admin.ch/bfs/fr/home/statistiques/population/effectif-evolution.html"
+
+[[extra.sources]]
+param = "Population résidante (<18)"
+value = "1,53 mio."
+source = "OFS, STATPOP 2024"
+url = "https://www.bfs.admin.ch/bfs/fr/home/statistiques/population/effectif-evolution.html"
+
+[[extra.sources]]
+param = "Revenu imposable"
+value = "CHF 420 mrd."
+source = "AFC, Statistique fiscale des personnes physiques 2021"
+url = "https://www.estv.admin.ch/estv/fr/accueil/afc/statistiques-fiscales-afc/chiffres-cles.html"
+
+[[extra.sources]]
+param = "Dépenses de consommation des ménages"
+value = "CHF 380 mrd."
+source = "OFS, Comptes nationaux 2023"
+url = "https://www.bfs.admin.ch/bfs/fr/home/statistiques/economie-nationale/comptes-nationaux.html"
+
+[[extra.sources]]
+param = "Fortune imposable nette"
+value = "CHF 2'800 mrd."
+source = "AFC, Statistique de la fortune des personnes physiques 2021"
+url = "https://www.estv.admin.ch/estv/fr/accueil/afc/statistiques-fiscales-afc/chiffres-cles.html"
+
+[[extra.sources]]
+param = "Dépenses sociales"
+value = "CHF 185 mrd."
+source = "OFAS, Comptes globaux de la protection sociale 2022"
+url = "https://www.bsv.admin.ch/bsv/fr/home/assurances-sociales/ueberblick/grsv.html"
 +++

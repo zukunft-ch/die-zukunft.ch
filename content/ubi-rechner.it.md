@@ -60,4 +60,47 @@ compare_ubi_cost = "Costo RBI"
 # Methodology
 methodology_title = "Metodologia & ipotesi"
 methodology_text = "Questo modello è una semplificazione. Si basa su dati pubblici dell'Ufficio federale di statistica (UST) e dell'Amministrazione federale delle contribuzioni (AFC). Il finanziamento effettivo dipende da effetti comportamentali, dinamiche economiche e decisioni politiche che un modello statico non può riflettere."
+
+# Sources
+sources_title = "Fonti dei dati"
+sources_intro = "Tutti i valori utilizzati nel calcolatore provengono da statistiche svizzere pubbliche. I valori sono arrotondati."
+sources_col_param = "Indicatore"
+sources_col_value = "Valore"
+sources_col_source = "Fonte"
+
+[[extra.sources]]
+param = "Popolazione residente (18+)"
+value = "7,53 mio."
+source = "UST, STATPOP 2024"
+url = "https://www.bfs.admin.ch/bfs/it/home/statistiche/popolazione/effettivo-evoluzione.html"
+
+[[extra.sources]]
+param = "Popolazione residente (<18)"
+value = "1,53 mio."
+source = "UST, STATPOP 2024"
+url = "https://www.bfs.admin.ch/bfs/it/home/statistiche/popolazione/effettivo-evoluzione.html"
+
+[[extra.sources]]
+param = "Reddito imponibile"
+value = "CHF 420 mrd."
+source = "AFC, Statistica fiscale delle persone fisiche 2021"
+url = "https://www.estv.admin.ch/estv/it/home/afc/statistiche-fiscali-afc/cifre-chiave.html"
+
+[[extra.sources]]
+param = "Spese di consumo delle economie domestiche"
+value = "CHF 380 mrd."
+source = "UST, Conti nazionali 2023"
+url = "https://www.bfs.admin.ch/bfs/it/home/statistiche/economia-nazionale/conti-nazionali.html"
+
+[[extra.sources]]
+param = "Sostanza imponibile netta"
+value = "CHF 2'800 mrd."
+source = "AFC, Statistica della sostanza delle persone fisiche 2021"
+url = "https://www.estv.admin.ch/estv/it/home/afc/statistiche-fiscali-afc/cifre-chiave.html"
+
+[[extra.sources]]
+param = "Spese sociali"
+value = "CHF 185 mrd."
+source = "UFAS, Conto globale della protezione sociale 2022"
+url = "https://www.bsv.admin.ch/bsv/it/home/assicurazioni-sociali/ueberblick/grsv.html"
 +++
