@@ -9,7 +9,7 @@ minify_html = true
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 
-taxonomies = []
+taxonomies = [{name = "tags", feed = false}]
 
 [markdown]
 
@@ -18,18 +18,21 @@ title = "Le Futur"
 description = "Le parti du futur. Un parti suisse pour la transition structurelle : revenu de base, souveraineté numérique, réindustrialisation."
 generate_feeds = true
 feed_filenames = ["atom.xml"]
+taxonomies = [{name = "tags", feed = false}]
 
 [languages.it]
 title = "Il Futuro"
 description = "Il partito del futuro. Un partito svizzero per la transizione strutturale: reddito di base, sovranità digitale, reindustrializzazione."
 generate_feeds = true
 feed_filenames = ["atom.xml"]
+taxonomies = [{name = "tags", feed = false}]
 
 [languages.en]
 title = "The Future"
 description = "The party of the future. A Swiss party for structural transformation: basic income, digital sovereignty, re-industrialisation."
 generate_feeds = true
 feed_filenames = ["atom.xml"]
+taxonomies = [{name = "tags", feed = false}]
 
 [extra]
 contact_email = "hey@die-zukunft.ch"
@@ -105,6 +108,20 @@ aria_scroll_down = "Nach unten scrollen"
 aria_all_pages = "Alle Seiten"
 search_result_one = "Ergebnis"
 search_result_many = "Ergebnisse"
+nav_zukunftslabor = "Zukunftslabor"
+nav_notizen = "Notizen"
+nav_methodik = "Methodik"
+lab_evidence_stark = "Starke Evidenz"
+lab_evidence_mittel = "Mittlere Evidenz"
+lab_evidence_schwach = "Schwache Evidenz"
+lab_category_datenbriefing = "Datenbriefing"
+lab_category_prototyp = "Prototyp"
+lab_category_frage = "Frage"
+lab_coming_soon = "Demnächst"
+lab_latest_notes = "Aktuelle Notizen"
+lab_all_notes = "Alle Notizen"
+lab_tags = "Schlagwörter"
+lab_read_more = "Weiterlesen"
 
 # --- FR translations ---
 [languages.fr.translations]
@@ -175,6 +192,20 @@ aria_scroll_down = "Défiler vers le bas"
 aria_all_pages = "Toutes les pages"
 search_result_one = "résultat"
 search_result_many = "résultats"
+nav_zukunftslabor = "Laboratoire du futur"
+nav_notizen = "Notes"
+nav_methodik = "Méthodologie"
+lab_evidence_stark = "Évidence forte"
+lab_evidence_mittel = "Évidence moyenne"
+lab_evidence_schwach = "Évidence faible"
+lab_category_datenbriefing = "Briefing données"
+lab_category_prototyp = "Prototype"
+lab_category_frage = "Question"
+lab_coming_soon = "Bientôt"
+lab_latest_notes = "Dernières notes"
+lab_all_notes = "Toutes les notes"
+lab_tags = "Mots-clés"
+lab_read_more = "Lire la suite"
 
 # --- IT translations ---
 [languages.it.translations]
@@ -245,6 +276,20 @@ aria_all_pages = "Tutte le pagine"
 search_result_one = "risultato"
 search_result_many = "risultati"
 footer_newsletter_title = "Iscriviti alla newsletter"
+nav_zukunftslabor = "Laboratorio del futuro"
+nav_notizen = "Note"
+nav_methodik = "Metodologia"
+lab_evidence_stark = "Evidenza forte"
+lab_evidence_mittel = "Evidenza media"
+lab_evidence_schwach = "Evidenza debole"
+lab_category_datenbriefing = "Briefing dati"
+lab_category_prototyp = "Prototipo"
+lab_category_frage = "Domanda"
+lab_coming_soon = "Prossimamente"
+lab_latest_notes = "Note recenti"
+lab_all_notes = "Tutte le note"
+lab_tags = "Etichette"
+lab_read_more = "Continua"
 
 # --- EN translations ---
 [languages.en.translations]
@@ -315,3 +360,17 @@ aria_scroll_down = "Scroll down"
 aria_all_pages = "All pages"
 search_result_one = "result"
 search_result_many = "results"
+nav_zukunftslabor = "Future Lab"
+nav_notizen = "Notes"
+nav_methodik = "Methodology"
+lab_evidence_stark = "Strong evidence"
+lab_evidence_mittel = "Medium evidence"
+lab_evidence_schwach = "Weak evidence"
+lab_category_datenbriefing = "Data briefing"
+lab_category_prototyp = "Prototype"
+lab_category_frage = "Question"
+lab_coming_soon = "Coming soon"
+lab_latest_notes = "Latest notes"
+lab_all_notes = "All notes"
+lab_tags = "Tags"
+lab_read_more = "Read more"
