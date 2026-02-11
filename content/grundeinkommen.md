@@ -5,6 +5,8 @@ template = "page.html"
 
 [extra]
 show_cta = true
+cta_secondary_path = "@/ubi-rechner.md"
+cta_secondary_text = "UBI-Rechner ausprobieren"
 faq_title = "Häufige Fragen"
 faq = [
   { q = "Ist das nicht einfach 'Geld für alle'?", a = "Nein. Das Grundeinkommen ersetzt einen grossen Teil der heutigen Sozialversicherungsbürokratie durch eine einfache, universelle Grundsicherung. Es ist eine Vereinfachung des Systems — kein Geschenk." },

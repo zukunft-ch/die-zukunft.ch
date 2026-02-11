@@ -6,6 +6,8 @@ template = "page.html"
 
 [extra]
 show_cta = true
+cta_secondary_path = "@/ubi-rechner.md"
+cta_secondary_text = "Try the UBI Calculator"
 faq_title = "Frequently asked questions"
 faq = [
   { q = "Isn't this just 'money for everyone'?", a = "No. Basic income replaces a large part of today's social insurance bureaucracy with a simple, universal basic security. It is a simplification of the system — not a handout." },

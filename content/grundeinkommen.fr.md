@@ -6,6 +6,8 @@ template = "page.html"
 
 [extra]
 show_cta = true
+cta_secondary_path = "@/ubi-rechner.md"
+cta_secondary_text = "Essayer le calculateur RBI"
 faq_title = "Questions fréquentes"
 faq = [
   { q = "N'est-ce pas simplement «de l'argent pour tous» ?", a = "Non. Le revenu de base remplace une grande partie de la bureaucratie actuelle des assurances sociales par une garantie de base simple et universelle. C'est une simplification du système — pas un cadeau." },
