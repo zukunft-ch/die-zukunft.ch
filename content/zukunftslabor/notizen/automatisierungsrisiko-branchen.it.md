@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Quali settori sono più colpiti dall'automazione"
 description = "Circa 899'000 posti di lavoro in Svizzera presentano un elevato rischio di automazione — soprattutto nell'industria manifatturiera, nel commercio e nella ristorazione."
 slug = "automatisierungsrisiko-branchen"

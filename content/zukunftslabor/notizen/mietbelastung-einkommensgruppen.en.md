@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "40% of Income Goes to Rent — Lowest Earners Hit Hardest"
 description = "The bottom income quintile spends 40% on rent. A basic income would sharply reduce the burden — with large cantonal differences."
 slug = "mietbelastung-einkommensgruppen"

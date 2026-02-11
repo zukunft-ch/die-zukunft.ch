@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "40% des Einkommens für Miete — unterste Einkommen besonders belastet"
 description = "Das unterste Einkommensquintil gibt 40% für Miete aus. Ein Grundeinkommen würde die Belastung deutlich senken — mit starken kantonalen Unterschieden."
 slug = "mietbelastung-einkommensgruppen"

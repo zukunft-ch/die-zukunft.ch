@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "La Suisse numérique : cyberadministration en dessous de la moyenne UE"
 description = "La Suisse se situe en dessous de la moyenne européenne en matière de disponibilité de cyberadministration. Le référendum sur l'e-ID le montre : la population veut une infrastructure numérique étatique."
 slug = "egov-nutzung-vergleich"

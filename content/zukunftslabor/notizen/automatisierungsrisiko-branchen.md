@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Welche Branchen die Automatisierung am stärksten trifft"
 description = "Rund 899'000 Schweizer Arbeitsplätze tragen ein hohes Automatisierungsrisiko — vor allem im Gewerbe, Handel und Gastgewerbe."
 slug = "automatisierungsrisiko-branchen"

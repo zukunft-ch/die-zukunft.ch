@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Méthodologie"
 description = "Nos garde-fous éditoriaux : niveaux de preuve, politique de correction, transparence des sources."
 template = "page.html"

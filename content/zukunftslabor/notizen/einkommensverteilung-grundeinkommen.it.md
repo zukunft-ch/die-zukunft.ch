@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Cosa cambierebbe un reddito di base nella distribuzione dei redditi"
 description = "Microsimulazione: un reddito di base incondizionato di CHF 2'500/mese rafforza soprattutto i redditi bassi e riduce il coefficiente di Gini."
 slug = "einkommensverteilung-grundeinkommen"

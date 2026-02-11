@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Ce qu'un revenu de base changerait dans la distribution des revenus"
 description = "Microsimulation : un revenu de base inconditionnel de CHF 2'500/mois renforce surtout les revenus les plus bas et fait baisser le coefficient de Gini."
 slug = "einkommensverteilung-grundeinkommen"

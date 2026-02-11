@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Switzerland Digital: E-Government Below the EU Average"
 description = "Switzerland's e-government availability falls below the European average. The E-ID referendum shows that voters want state-run digital infrastructure."
 slug = "egov-nutzung-vergleich"

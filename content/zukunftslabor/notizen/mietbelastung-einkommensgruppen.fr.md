@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "40% du revenu pour le loyer — les revenus les plus bas particulièrement touchés"
 description = "Le quintile de revenu le plus bas consacre 40% au loyer. Un revenu de base réduirait nettement cette charge — avec de fortes disparités cantonales."
 slug = "mietbelastung-einkommensgruppen"

@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Methodology"
 description = "Our editorial guardrails: evidence levels, correction policy, source transparency."
 template = "page.html"

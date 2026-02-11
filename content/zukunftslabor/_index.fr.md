@@ -12,7 +12,7 @@ icon = "📝"
 title = "Notes"
 text = "Analyses courtes et fondées sur les données sur les sujets qui comptent pour la Suisse."
 link = "@/zukunftslabor/notizen/_index.md"
-active = true
+active = false
 
 [[extra.areas]]
 key = "methodik"
@@ -20,7 +20,7 @@ icon = "📐"
 title = "Méthodologie"
 text = "Nos garde-fous éditoriaux : niveaux de preuve, politique de correction, transparence des sources."
 link = "@/zukunftslabor/methodik.md"
-active = true
+active = false
 
 [[extra.areas]]
 key = "dossiers"

@@ -12,7 +12,7 @@ icon = "📝"
 title = "Notizen"
 text = "Kurze, datenbasierte Analysen zu Themen, die die Schweiz bewegen."
 link = "@/zukunftslabor/notizen/_index.md"
-active = true
+active = false
 
 [[extra.areas]]
 key = "methodik"
@@ -20,7 +20,7 @@ icon = "📐"
 title = "Methodik"
 text = "Unsere redaktionellen Leitplanken: Evidenzstufen, Korrekturpolitik, Quellentransparenz."
 link = "@/zukunftslabor/methodik.md"
-active = true
+active = false
 
 [[extra.areas]]
 key = "dossiers"

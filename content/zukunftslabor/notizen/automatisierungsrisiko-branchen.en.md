@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Which Industries Automation Hits Hardest"
 description = "Around 899,000 Swiss jobs carry a high automation risk — especially in manufacturing, retail and hospitality."
 slug = "automatisierungsrisiko-branchen"

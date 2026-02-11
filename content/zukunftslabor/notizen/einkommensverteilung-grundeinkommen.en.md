@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "What a Basic Income Would Change About Income Distribution"
 description = "Microsimulation: An unconditional basic income of CHF 2,500/month strengthens lower incomes most and reduces the Gini coefficient."
 slug = "einkommensverteilung-grundeinkommen"

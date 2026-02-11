@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Was ein Grundeinkommen an der Einkommensverteilung ändern würde"
 description = "Mikrosimulation: Ein bedingungsloses Grundeinkommen von CHF 2'500/Monat stärkt vor allem die unteren Einkommen und senkt den Gini-Koeffizienten."
 slug = "einkommensverteilung-grundeinkommen"

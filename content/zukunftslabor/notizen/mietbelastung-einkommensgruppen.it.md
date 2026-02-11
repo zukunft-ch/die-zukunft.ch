@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Il 40% del reddito per l'affitto — i redditi più bassi sono i più gravati"
 description = "Il quintile di reddito più basso spende il 40% per l'affitto. Un reddito di base ridurrebbe sensibilmente l'onere — con forti differenze cantonali."
 slug = "mietbelastung-einkommensgruppen"

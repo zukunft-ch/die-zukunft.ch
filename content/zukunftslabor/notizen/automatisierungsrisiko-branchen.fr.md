@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Quelles branches sont les plus touchées par l'automatisation"
 description = "Environ 899'000 emplois en Suisse présentent un risque d'automatisation élevé — surtout dans l'industrie, le commerce et l'hôtellerie-restauration."
 slug = "automatisierungsrisiko-branchen"
