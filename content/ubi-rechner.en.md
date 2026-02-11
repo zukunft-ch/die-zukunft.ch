@@ -48,6 +48,9 @@ impact_title = "Net effect per person"
 impact_subtitle = "Monthly income"
 impact_net_gain = "Net gain"
 impact_net_loss = "Net loss"
+impact_ubi_received = "UBI received"
+impact_additional_taxes = "Additional taxes"
+result_total_revenue = "Total revenue"
 
 # Comparison section
 compare_title = "Comparison"

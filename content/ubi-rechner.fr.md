@@ -48,6 +48,9 @@ impact_title = "Effet net par personne"
 impact_subtitle = "Revenu mensuel"
 impact_net_gain = "Gain net"
 impact_net_loss = "Perte nette"
+impact_ubi_received = "RBI reçu"
+impact_additional_taxes = "Impôts supplémentaires"
+result_total_revenue = "Total recettes"
 
 # Comparison section
 compare_title = "Comparaison"
