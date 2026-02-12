@@ -1,56 +1,48 @@
 +++
 draft = true
-title = "Welche Branchen die Automatisierung am stärksten trifft"
-description = "Rund 899'000 Schweizer Arbeitsplätze tragen ein hohes Automatisierungsrisiko — vor allem im Gewerbe, Handel und Gastgewerbe."
+title = "Automatisierung: Wie KI die Risikolandkarte verschiebt"
+description = "LLM-fähige KI verändert das Automatisierungsrisiko: Bürojobs stärker exponiert, manuelle Arbeit weniger."
 slug = "automatisierungsrisiko-branchen"
-date = 2026-02-11
+date = 2026-02-12
 template = "notiz.html"
 
 [extra]
 category = "datenbriefing"
 evidence = "mittel"
-tags = ["automatisierung", "arbeit", "branchen", "uebergaenge"]
-charts = ["beschaeftigung_branchen.svg", "automatisierungsrisiko_branchen.svg", "exponierte_arbeitsplaetze.svg"]
+tags = ["automatisierung", "ki", "arbeitsmarkt", "branchen", "llm"]
+charts = ["automatisierung_beschaeftigung.svg", "automatisierung_pre_post_llm.svg", "automatisierung_risikoverschiebung.svg", "automatisierung_exponierte_stellen.svg"]
 +++
 
-Rund 899'000 Arbeitsplätze in der Schweiz tragen ein hohes
-Automatisierungsrisiko (>70% nach OECD-Methodik). Besonders exponiert:
-Verarbeitendes Gewerbe, Handel und Gastgewerbe. Die Daten zeigen, wo
-Übergangsstrategien — wie ein Grundeinkommen — am dringendsten wirken.
-
+LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
+Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
+weniger.
 
 <!-- more -->
 
 ## Methodik
 
-Die Analyse kombiniert BFS-SAKE-Beschäftigungsdaten (2024) mit OECD-
-Automatisierungsrisikoschätzungen (Nedelkoska & Quintini 2018, aktualisiert).
-Die OECD-Methodik schätzt das Risiko auf Berufsebene (ISCO) und wird hier
-auf Branchenebene (NOGA) aggregiert.
-
-«Hohes Risiko» bedeutet: >70% der Tätigkeiten in einem Beruf sind potenziell
-automatisierbar. Das heisst nicht, dass der Beruf verschwindet — sondern dass
-sich das Tätigkeitsprofil grundlegend verändert.
+BFS-SAKE-Beschäftigungsdaten und zwei Risikomodelle:
+OECD/Frey-Osborne (2018, Routinetätigkeiten) und IMF AI Preparedness
+Index (2024, LLM-Fähigkeiten). Exponierte Stellen = Beschäftigte × Risikoanteil.
 
 ## Ergebnisse
 
-![Beschäftigung nach Branchen](/zukunftslabor/charts/beschaeftigung_branchen.svg)
+![Beschäftigung](/zukunftslabor/charts/automatisierung_beschaeftigung.svg)
 
-![Automatisierungsrisiko](/zukunftslabor/charts/automatisierungsrisiko_branchen.svg)
+![Pre vs. Post LLM](/zukunftslabor/charts/automatisierung_pre_post_llm.svg)
 
-![Exponierte Arbeitsplätze](/zukunftslabor/charts/exponierte_arbeitsplaetze.svg)
+![Risikoverschiebung](/zukunftslabor/charts/automatisierung_risikoverschiebung.svg)
 
-## Politische Einordnung
+![Exponierte Stellen](/zukunftslabor/charts/automatisierung_exponierte_stellen.svg)
 
-Die Automatisierung trifft vor allem Branchen mit geringerer Qualifikation
-und tieferen Löhnen. Ein Grundeinkommen bietet hier eine doppelte Funktion:
+## Einschränkungen
 
-1. **Sicherheitsnetz** während beruflicher Übergänge
-2. **Ermöglicher** für Weiterbildung und neue Tätigkeitsformen
+- Risikoschätzungen sind Branchendurchschnitte, nicht berufsspezifisch
+- Post-LLM-Schätzungen vorläufig (LLM-Fähigkeiten entwickeln sich schnell)
+- Tatsächliche Jobverluste hängen von Regulierung und Komplementarität ab
 
 ## Datenquellen
 
-- BFS SAKE 2024: Erwerbstätige nach Wirtschaftsabschnitt
-- OECD (2018): Automation and Independent Work in a Digital Economy
-- Nedelkoska & Quintini (2018): Automation, skills use and training (OECD Social, Employment and Migration Working Papers No. 202)
-
+- BFS SAKE: Erwerbstätige nach Wirtschaftsabschnitt
+- OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
+- IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
