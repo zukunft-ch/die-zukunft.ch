@@ -12,16 +12,16 @@ evidence = "mittel"
 tags = ["automatisierung", "ki", "arbeitsmarkt", "branchen", "llm"]
 charts = ["automatisierung_beschaeftigung.svg", "automatisierung_pre_post_llm.svg", "automatisierung_risikoverschiebung.svg", "automatisierung_exponierte_stellen.svg"]
 +++
-
 LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
 Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
-weniger.
+weniger. ~1271965'000 Stellen unter Post-LLM-Risiko.
+
 
 <!-- more -->
 
 ## Methodik
 
-BFS-SAKE-Beschäftigungsdaten und zwei Risikomodelle:
+BFS-SAKE-Beschäftigungsdaten (2024) und zwei Risikomodelle:
 OECD/Frey-Osborne (2018, Routinetätigkeiten) und IMF AI Preparedness
 Index (2024, LLM-Fähigkeiten). Exponierte Stellen = Beschäftigte × Risikoanteil.
 
@@ -43,6 +43,7 @@ Index (2024, LLM-Fähigkeiten). Exponierte Stellen = Beschäftigte × Risikoante
 
 ## Datenquellen
 
-- BFS SAKE: Erwerbstätige nach Wirtschaftsabschnitt
+- BFS SAKE 2024: Erwerbstätige nach Wirtschaftsabschnitt
 - OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
+

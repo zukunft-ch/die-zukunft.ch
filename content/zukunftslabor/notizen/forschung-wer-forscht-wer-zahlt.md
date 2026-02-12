@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Forschung: Wer forscht, wer zahlt — und was kommt zurück?"
-description = "Die Schweiz ist Weltspitze bei F&E pro Kopf und Patenteffizienz. Aber die Privatwirtschaft dominiert — und die Frage nach dem öffentlichen Ertrag bleibt offen."
+description = "Die Schweiz ist Weltspitze bei F&E pro Kopf und Patenteffizienz. Aber die Privatwirtschaft dominiert — und die Frage nach dem öffentlichen Ertrag öffentlicher Forschung bleibt offen."
 slug = "forschung-wer-forscht-wer-zahlt"
 date = 2026-02-12
 template = "notiz.html"
@@ -12,19 +12,21 @@ evidence = "stark"
 tags = ["forschung", "innovation", "patente", "oecd", "f-und-e"]
 charts = ["forschung_sektoren_zeitreihe.svg", "forschung_privat_oeffentlich_ratio.svg", "forschung_patente_effizienz.svg", "forschung_konzentration.svg"]
 +++
+Die Schweiz investiert 25.6 Mrd. CHF in F&E
+(2023) und erzielt mit 182 EPO-Patenten pro Milliarde weltweit die
+höchste Patenteffizienz. Aber die Privatwirtschaft überwiegt die öffentliche
+Forschung um das 2.37-Fache — und die Top 2 Sektoren
+vereinen 45.4% der Ausgaben.
 
-Die Schweiz ist Weltspitze bei F&E und Patenteffizienz. Aber die
-Privatwirtschaft überwiegt die öffentliche Forschung — und die Frage
-nach dem öffentlichen Ertrag öffentlich finanzierter Forschung bleibt offen.
 
 <!-- more -->
 
 ## Methodik
 
-BFS-Forschungsstatistik (intramuros F&E-Aufwendungen nach Sektor) und
-EPO-Patentdaten (Annual Report 2023). Die Privatwirtschaft umfasst Pharma,
-Metallurgie, ICT, Instrumente und andere Industriesektoren. Öffentlich:
-Hochschulen, ETH-Bereich, Bundesämter.
+Grundlage sind die BFS-Forschungsstatistik (intramuros F&E-Aufwendungen nach Sektor,
+2000–2023) und EPO-Patentdaten (Annual Report 2023). Die
+Privatwirtschaft umfasst Pharma, Metallurgie, ICT, Instrumente und andere
+Industriesektoren. Öffentlich: Hochschulen, ETH-Bereich, Bundesämter.
 
 ## Ergebnisse
 
@@ -53,6 +55,7 @@ Hochschulen, ETH-Bereich, Bundesämter.
 
 ## Datenquellen
 
-- BFS: Forschung und Entwicklung — Intramuros-Aufwendungen
+- BFS: Forschung und Entwicklung — Intramuros-Aufwendungen (2000–2023)
 - EPO: Annual Report 2023 — Patentanmeldungen nach Herkunftsland
 - OECD: Main Science and Technology Indicators (GERD)
+

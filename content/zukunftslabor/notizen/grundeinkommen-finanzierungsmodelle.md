@@ -1,55 +1,71 @@
 +++
 draft = true
 title = "Grundeinkommen: Drei Finanzierungsmodelle im Vergleich"
-description = "Flat Tax, Transferersatz oder Konsumsteuer? Drei Wege zum Grundeinkommen — und was jeder für die Einkommensverteilung bedeutet."
+description = "Was passiert mit der Einkommensverteilung, wenn ein UBI über Einkommensteuer, Transferablösung oder Konsumsteuer finanziert wird? Dezil-Simulation mit BFS-Daten."
 slug = "grundeinkommen-finanzierungsmodelle"
 date = 2026-02-12
 template = "notiz.html"
 
 [extra]
 category = "datenbriefing"
-evidence = "stark"
-tags = ["grundeinkommen", "finanzierung", "ungleichheit", "steuern", "simulation"]
+evidence = "mittel"
+tags = ["grundeinkommen", "finanzierung", "einkommen", "ungleichheit", "simulation"]
 charts = ["grundeinkommen_baseline_dezile.svg", "grundeinkommen_szenarien_vergleich.svg", "grundeinkommen_gini_szenarien.svg", "grundeinkommen_gewinner_verlierer.svg"]
 +++
+Drei Finanzierungsmodelle für ein bedingungsloses Grundeinkommen von CHF 2'500/Monat
+zeigen grundlegend verschiedene Verteilungswirkungen. Eine pauschale Einkommensteuer
+senkt den Gini am stärksten. Die Ablösung bestehender Transfers spart zwar Steuern,
+kann aber die ärmsten Haushalte schlechter stellen — ein nicht-trivialer Befund.
+Eine Konsumsteuer wirkt progressiv, aber schwächer.
 
-Flat Tax, Transferersatz oder Konsumsteuer? Drei Wege zum
-Grundeinkommen — und jeder verändert die Einkommensverteilung anders.
-Der Transferersatz-Ansatz birgt eine Überraschung: Einige der ärmsten
-Haushalte könnten schlechter gestellt werden.
 
 <!-- more -->
 
 ## Methodik
 
-Grundlage: BFS-SILC-Einkommensdaten nach Dezil. Drei Finanzierungsszenarien
-für ein UBI von CHF 2'500/Monat (~CHF 258 Mrd./Jahr Gesamtkosten):
+Grundlage sind die Einkommensanteile nach Dezilen aus der
+Haushaltsbudgeterhebung (HABE) 2018 des BFS. Daraus werden absolute
+Monatseinkommen pro Dezil geschätzt (Anteil × Mittelwert × 10).
 
-- **Szenario A (Flat Tax)**: Pauschale Einkommenssteuer-Erhöhung
-- **Szenario B (Transferersatz)**: Bestehende Transfers (AHV/IV/EL/Sozialhilfe) ersetzen
-- **Szenario C (Konsumsteuer)**: MWST-Erhöhung, mit Konsumquoten nach Dezil
+Drei Finanzierungsszenarien werden simuliert:
 
-Für jedes Szenario: Netto-Einkommenseffekt pro Dezil und Gini-Koeffizient.
+- **A — Pauschale Einkommensteuer**: Bruttokosten (CHF 222.0 Mrd./Jahr)
+  werden über einen linearen Einkommensteuerzuschlag finanziert.
+- **B — Transferablösung**: AHV, IV, EL, Sozialhilfe, ALV und Familienzulagen
+  (CHF 79.0 Mrd.) werden durch das UBI ersetzt.
+  Der verbleibende Betrag wird über Einkommensteuer finanziert.
+- **C — Konsumsteuer**: Die Finanzierung erfolgt über einen MwSt.-Zuschlag.
+  Konsumquoten variieren nach Dezil (D1: 95%, D10: 55%).
 
 ## Ergebnisse
 
-![Baseline Dezile](/zukunftslabor/charts/grundeinkommen_baseline_dezile.svg)
+### Baseline: Einkommensverteilung 2018
 
-![Szenarien Vergleich](/zukunftslabor/charts/grundeinkommen_szenarien_vergleich.svg)
+![Einkommensanteile nach Dezil](/zukunftslabor/charts/grundeinkommen_baseline_dezile.svg)
 
-![Gini Vergleich](/zukunftslabor/charts/grundeinkommen_gini_szenarien.svg)
+### Nettowirkung der drei Szenarien
+
+![Szenarien-Vergleich](/zukunftslabor/charts/grundeinkommen_szenarien_vergleich.svg)
+
+### Gini-Koeffizient nach Szenario
+
+![Gini-Vergleich](/zukunftslabor/charts/grundeinkommen_gini_szenarien.svg)
+
+### Relative Gewinner und Verlierer
 
 ![Gewinner und Verlierer](/zukunftslabor/charts/grundeinkommen_gewinner_verlierer.svg)
 
 ## Einschränkungen
 
-- Pauschale Dezil-Durchschnitte (innerhalb Dezile grosse Variation)
-- Transferschätzungen vereinfacht (nicht alle Transfers erfasst)
-- Konsumquoten aus internationalen Studien (keine CH-spezifischen Daten)
-- Verhaltensänderungen nicht modelliert
+- Aggregierte Dezildaten statt Mikrodaten (Individualdaten erfordern BFS-Antrag)
+- Keine Verhaltensanpassungen (Arbeitsangebot, Konsummuster)
+- Transferverteilung auf Dezile geschätzt (nicht direkt aus SILC-Mikrodaten)
+- Konsumquoten nach Dezil basieren auf Literaturwerten, nicht BFS-HABE-Detail
+- Daten nur bis 2018 verfügbar (neueste BFS-HABE-Publikation)
 
 ## Datenquellen
 
-- BFS SILC: Einkommensverteilung nach Dezil
-- BSV: Sozialversicherungsstatistik (AHV/IV/EL-Ausgaben)
-- BFS: Haushaltsbudgeterhebung (Konsumquoten)
+- BFS HABE 2018: Einkommensanteile nach Dezilen (Verfügbares Äquivalenzeinkommen)
+- BSV Sozialversicherungsstatistik: Transfervolumen AHV, IV, EL, ALV
+- BFS SILC: publizierte Verteilungsanteile der Sozialtransfers
+

@@ -1,7 +1,7 @@
 +++
 draft = true
-title = "Energieresilienz: Was passiert bei Trockenheit + Atomausstieg?"
-description = "Was passiert mit der Schweizer Stromversorgung unter Stress? Vier Szenarien zeigen die Importabhängigkeit."
+title = "Stresstest Strom: Was passiert bei Trockenheit plus Atomausstieg?"
+description = "Vier Szenarien zeigen, wie verwundbar die Schweizer Stromversorgung ist — von der Baseline bis zum Worst Case aus Trockenheit und Kernkraft-Abschaltung."
 slug = "energieresilienz-stressszenarien"
 date = 2026-02-12
 template = "notiz.html"
@@ -9,47 +9,58 @@ template = "notiz.html"
 [extra]
 category = "datenbriefing"
 evidence = "stark"
-tags = ["energie", "strom", "resilienz", "szenarien", "import"]
+tags = ["energie", "resilienz", "strom", "szenarien", "infrastruktur"]
 charts = ["energie_strommix_real.svg", "energie_verbrauch_sektoren.svg", "energie_szenarien_vergleich.svg", "energie_importluecke_kosten.svg"]
 +++
+Vier Stressszenarien auf Basis realer BFE-Daten (2024) zeigen:
+Im Worst Case (Trockenjahr + Atomausstieg) müsste die Schweiz
+39.1% ihres Stroms importieren — Kosten
+2.29 Mrd. CHF/Jahr bei aktuellen Spotpreisen.
 
-Was passiert mit der Schweizer Stromversorgung unter Stress? Vier
-Szenarien — von Baseline bis Trockenheit + Atomausstieg — zeigen,
-wie schnell die Importabhängigkeit wächst.
 
 <!-- more -->
 
 ## Methodik
 
-BFE-Elektrizitätsbilanz (Erzeugung nach Quelle) und BFE-Gesamtenergiebilanz
-(Endverbrauch nach Sektor). Vier Stressszenarien:
+Grundlage ist die BFE-Elektrizitätsbilanz (OGD, 2024). Vier Szenarien
+modifizieren die Produktionszahlen des Basisjahres:
 
-- **A: Baseline** — aktueller Produktionsmix
-- **B: Trockenjahr** — Wasserkraft -30%
-- **C: Atomausstieg** — Kernkraft = 0
-- **D: Kombination** — Trockenjahr + Atomausstieg
+- **A — Baseline**: Reale Produktion 2024
+- **B — Trockenjahr**: -30% Wasserkraftproduktion (historisch plausibel, z.B. 2022)
+- **C — Atomausstieg**: Kernkraftwerke abgeschaltet (-22983 GWh)
+- **D — Kombiniert**: Trockenjahr + Atomausstieg
 
-Importlücke × europäischer Spotpreis (~90 EUR/MWh).
+Importkosten berechnet bei 90 EUR/MWh (europ. Spotpreis-Durchschnitt).
+Endenergieverbrauch nach Sektor aus der BFE-Gesamtenergiebilanz.
 
 ## Ergebnisse
 
+### Strommix
+
 ![Strommix](/zukunftslabor/charts/energie_strommix_real.svg)
 
-![Verbrauch nach Sektoren](/zukunftslabor/charts/energie_verbrauch_sektoren.svg)
+### Endenergieverbrauch nach Sektor
 
-![Szenarien Vergleich](/zukunftslabor/charts/energie_szenarien_vergleich.svg)
+![Verbrauch nach Sektor](/zukunftslabor/charts/energie_verbrauch_sektoren.svg)
 
-![Importlücke Kosten](/zukunftslabor/charts/energie_importluecke_kosten.svg)
+### Stressszenarien
+
+![Szenarien-Vergleich](/zukunftslabor/charts/energie_szenarien_vergleich.svg)
+
+### Importkosten
+
+![Importkosten](/zukunftslabor/charts/energie_importluecke_kosten.svg)
 
 ## Einschränkungen
 
-- Szenarien sind statisch (keine Nachfrageelastizität)
-- Europäischer Spotpreis schwankt stark (90 EUR/MWh = Durchschnitt 2023)
-- Kein Ausbau erneuerbarer Energien berücksichtigt
-- Speicherwasserkraft teilweise flexibel einsetzbar
+- Statische Szenarien (kein Ausbau Solar/Wind, keine Nachfragereduktion)
+- Importpreise schwanken stark (2022: bis 400 EUR/MWh)
+- Saisonale Effekte nicht modelliert (Winterlücke > Jahresdurchschnitt)
+- Keine Speichereffekte (Pumpspeicher, Batterien)
 
 ## Datenquellen
 
-- BFE: Elektrizitätsbilanz der Schweiz (Jahreswerte)
-- BFE: Gesamtenergiebilanz (Endverbrauch nach Sektor)
-- ENTSO-E: European electricity spot prices
+- BFE: Schweizerische Elektrizitätsbilanz (OGD, Jahreswerte)
+- BFE: Schweizerische Gesamtenergiebilanz (Endenergieverbrauch nach Sektor)
+- ENTSO-E: Europäische Strompreise (Day-Ahead-Spotmarkt)
+

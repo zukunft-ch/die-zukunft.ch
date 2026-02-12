@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Weiterbildung: Wer bildet sich weiter — und wer nicht?"
-description = "Die Schere bei der Weiterbildung ist riesig: Hochqualifizierte bilden sich 2.6× häufiger weiter als Geringqualifizierte."
+description = "Die Schere bei der Weiterbildung ist riesig: Hochqualifizierte bilden sich 2.6× häufiger weiter als Geringqualifizierte. Gerade die am stärksten exponierten Branchen investieren zu wenig."
 slug = "weiterbildung-teilnahme-luecken"
 date = 2026-02-12
 template = "notiz.html"
@@ -12,10 +12,10 @@ evidence = "mittel"
 tags = ["weiterbildung", "bildung", "automatisierung", "arbeitsmarkt"]
 charts = ["weiterbildung_bildungsniveau.svg", "weiterbildung_altersgruppe.svg", "weiterbildung_zeitreihe.svg", "weiterbildung_automatisierung_kreuz.svg"]
 +++
-
 Die Weiterbildungsteilnahme stagniert bei 60% — und die Schere zwischen
 Hoch- und Geringqualifizierten (79% vs. 30%) ist enorm. Branchen mit
 hohem Automatisierungsrisiko bilden sich oft unterdurchschnittlich weiter.
+
 
 <!-- more -->
 
@@ -23,8 +23,8 @@ hohem Automatisierungsrisiko bilden sich oft unterdurchschnittlich weiter.
 
 Weiterbildungsdaten aus dem BFS Mikrozensus Aus- und Weiterbildung
 (2011, 2016, 2021). Teilnahme an nicht-formaler Weiterbildung (Kurse,
-Seminare, betriebliche Schulungen). Beschäftigungsdaten aus BFS SAKE.
-Automatisierungsrisiko: IMF AI Preparedness Index 2024.
+Seminare, betriebliche Schulungen). Beschäftigungsdaten aus BFS SAKE
+(2024). Automatisierungsrisiko: IMF AI Preparedness Index 2024.
 
 ## Ergebnisse
 
@@ -54,5 +54,6 @@ Automatisierungsrisiko: IMF AI Preparedness Index 2024.
 ## Datenquellen
 
 - BFS: Mikrozensus Aus- und Weiterbildung 2011, 2016, 2021
-- BFS: SAKE — Erwerbstätige nach Wirtschaftsabschnitt
+- BFS: SAKE 2024 — Erwerbstätige nach Wirtschaftsabschnitt
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
+

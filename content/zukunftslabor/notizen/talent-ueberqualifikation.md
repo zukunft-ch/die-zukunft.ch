@@ -12,17 +12,18 @@ evidence = "mittel"
 tags = ["migration", "talent", "ueberqualifikation", "arbeitsmarkt", "integration"]
 charts = ["migration_herkunft_trend.svg", "migration_nettowanderung.svg", "migration_ueberqualifikation.svg", "migration_ueberqualifikation_sektoren.svg"]
 +++
+Die Schweiz hat 2024 eine Nettowanderung von +82792 Personen.
+Doch Qualifikationen werden systematisch verschwendet: 36% der Drittstaatsangehörigen
+arbeiten unter Niveau (vs. 13% der Schweizer/innen). Der geschätzte Wertschöpfungsverlust
+beträgt ~3.6 Mrd. CHF jährlich.
 
-Die Schweiz verzeichnet hohe Nettowanderung. Doch Qualifikationen werden
-systematisch verschwendet: 36% der Drittstaatsangehörigen arbeiten unter
-Niveau (vs. 13% der Schweizer/innen).
 
 <!-- more -->
 
 ## Methodik
 
-Bevölkerungsdaten: BFS Statistik der Bevölkerung und der Haushalte (STATPOP).
-Wanderungsdaten: BFS Wanderungsstatistik (internationale Wanderungen).
+Bevölkerungsdaten: BFS Statistik der Bevölkerung und der Haushalte (2010–2024).
+Wanderungsdaten: BFS Wanderungsstatistik (1991–2024).
 Überqualifikation: BFS Strukturerhebung / SAKE (Selbsteinschätzung + formale Qualifikation),
 ergänzt durch OECD Indicators of Talent Attractiveness 2023.
 
@@ -57,3 +58,4 @@ ergänzt durch OECD Indicators of Talent Attractiveness 2023.
 - BFS: Wanderungsstatistik (internationale Wanderungen)
 - BFS: Strukturerhebung — Erwerbstätigkeit nach Qualifikation und Nationalität
 - OECD: Indicators of Talent Attractiveness 2023
+
