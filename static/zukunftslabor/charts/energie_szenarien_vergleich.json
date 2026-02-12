@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "GWh": 75165,
+        "Szenario": "A: Baseline",
+        "Typ": "Eigenproduktion",
+        "order": 0
+      },
+      {
+        "GWh": 0,
+        "Szenario": "A: Baseline",
+        "Typ": "Importlücke",
+        "order": 0
+      },
+      {
+        "GWh": 60664,
+        "Szenario": "B: Trockenjahr (-30% Hydro)",
+        "Typ": "Eigenproduktion",
+        "order": 1
+      },
+      {
+        "GWh": 1174,
+        "Szenario": "B: Trockenjahr (-30% Hydro)",
+        "Typ": "Importlücke",
+        "order": 1
+      },
+      {
+        "GWh": 52182,
+        "Szenario": "C: Atomausstieg",
+        "Typ": "Eigenproduktion",
+        "order": 2
+      },
+      {
+        "GWh": 9656,
+        "Szenario": "C: Atomausstieg",
+        "Typ": "Importlücke",
+        "order": 2
+      },
+      {
+        "GWh": 37681,
+        "Szenario": "D: Trockenjahr + Atomausstieg",
+        "Typ": "Eigenproduktion",
+        "order": 3
+      },
+      {
+        "GWh": 24157,
+        "Szenario": "D: Trockenjahr + Atomausstieg",
+        "Typ": "Importlücke",
+        "order": 3
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Typ",
+      "scale": {
+        "domain": [
+          "Eigenproduktion",
+          "Importlücke"
+        ],
+        "range": [
+          "#3b82f6",
+          "#ef4444"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "axis": {
+        "labelAngle": -15
+      },
+      "field": "Szenario",
+      "sort": {
+        "field": "order"
+      },
+      "title": null,
+      "type": "nominal"
+    },
+    "y": {
+      "field": "GWh",
+      "stack": "zero",
+      "title": "GWh",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "cornerRadiusEnd": 3,
+    "type": "bar"
+  },
+  "title": "Stressszenarien: Eigenproduktion vs. Importlücke (2024er Basis)",
+  "width": 720
+}

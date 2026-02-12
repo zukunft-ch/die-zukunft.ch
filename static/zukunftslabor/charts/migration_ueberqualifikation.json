@@ -1,0 +1,74 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Gruppe": "Schweizer/innen",
+        "Überqualifikation %": 13
+      },
+      {
+        "Gruppe": "EU/EFTA-Bürger",
+        "Überqualifikation %": 21
+      },
+      {
+        "Gruppe": "Drittstaaten (Total)",
+        "Überqualifikation %": 36
+      },
+      {
+        "Gruppe": "  davon: Afrika/Nahost",
+        "Überqualifikation %": 48
+      },
+      {
+        "Gruppe": "  davon: Asien",
+        "Überqualifikation %": 32
+      },
+      {
+        "Gruppe": "  davon: Lateinamerika",
+        "Überqualifikation %": 29
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Überqualifikation %",
+      "legend": null,
+      "scale": {
+        "scheme": "reds"
+      },
+      "type": "quantitative"
+    },
+    "x": {
+      "field": "Überqualifikation %",
+      "scale": {
+        "domain": [
+          0,
+          55
+        ]
+      },
+      "title": "Arbeiten unter Qualifikationsniveau (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Gruppe",
+      "sort": {
+        "field": "Überqualifikation %",
+        "order": "descending"
+      },
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 350,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Überqualifikationsrate nach Herkunftsgruppe (BFS/OECD 2023)",
+  "width": 720
+}

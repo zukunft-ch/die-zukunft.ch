@@ -1,0 +1,200 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Dezil": 1,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": 1919
+      },
+      {
+        "Dezil": 2,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": 1363
+      },
+      {
+        "Dezil": 3,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": 1110
+      },
+      {
+        "Dezil": 4,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": 911
+      },
+      {
+        "Dezil": 5,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": 667
+      },
+      {
+        "Dezil": 6,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": 416
+      },
+      {
+        "Dezil": 7,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": 167
+      },
+      {
+        "Dezil": 8,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": -179
+      },
+      {
+        "Dezil": 9,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": -643
+      },
+      {
+        "Dezil": 10,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung CHF/Mt": -2349
+      },
+      {
+        "Dezil": 1,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 92
+      },
+      {
+        "Dezil": 2,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 225
+      },
+      {
+        "Dezil": 3,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 413
+      },
+      {
+        "Dezil": 4,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 566
+      },
+      {
+        "Dezil": 5,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 619
+      },
+      {
+        "Dezil": 6,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 633
+      },
+      {
+        "Dezil": 7,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 613
+      },
+      {
+        "Dezil": 8,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 496
+      },
+      {
+        "Dezil": 9,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": 302
+      },
+      {
+        "Dezil": 10,
+        "Szenario": "B: Transferablösung",
+        "Veränderung CHF/Mt": -690
+      },
+      {
+        "Dezil": 1,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 1711
+      },
+      {
+        "Dezil": 2,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 1005
+      },
+      {
+        "Dezil": 3,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 752
+      },
+      {
+        "Dezil": 4,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 570
+      },
+      {
+        "Dezil": 5,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 404
+      },
+      {
+        "Dezil": 6,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 267
+      },
+      {
+        "Dezil": 7,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 167
+      },
+      {
+        "Dezil": 8,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": 12
+      },
+      {
+        "Dezil": 9,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": -195
+      },
+      {
+        "Dezil": 10,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung CHF/Mt": -1311
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Szenario",
+      "legend": {
+        "orient": "top"
+      },
+      "scale": {
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Dezil",
+      "title": "Einkommensdezil",
+      "type": "ordinal"
+    },
+    "xOffset": {
+      "field": "Szenario",
+      "type": "nominal"
+    },
+    "y": {
+      "field": "Veränderung CHF/Mt",
+      "title": "Nettoveränderung (CHF/Monat)",
+      "type": "quantitative"
+    }
+  },
+  "height": 420,
+  "mark": {
+    "cornerRadiusEnd": 3,
+    "type": "bar"
+  },
+  "title": "Nettoveränderung des Monatseinkommens pro Dezil — drei Finanzierungsmodelle",
+  "width": 720
+}

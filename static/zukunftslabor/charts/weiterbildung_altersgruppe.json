@@ -1,0 +1,66 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Altersgruppe": "25–34",
+        "Teilnahme %": 72
+      },
+      {
+        "Altersgruppe": "35–44",
+        "Teilnahme %": 68
+      },
+      {
+        "Altersgruppe": "45–54",
+        "Teilnahme %": 62
+      },
+      {
+        "Altersgruppe": "55–64",
+        "Teilnahme %": 51
+      },
+      {
+        "Altersgruppe": "65–75",
+        "Teilnahme %": 35
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Teilnahme %",
+      "legend": null,
+      "scale": {
+        "scheme": "purples"
+      },
+      "type": "quantitative"
+    },
+    "x": {
+      "field": "Teilnahme %",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ]
+      },
+      "title": "Teilnahme (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Altersgruppe",
+      "title": null,
+      "type": "ordinal"
+    }
+  },
+  "height": 300,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Weiterbildungsteilnahme nach Altersgruppe (BFS Mikrozensus 2021)",
+  "width": 720
+}

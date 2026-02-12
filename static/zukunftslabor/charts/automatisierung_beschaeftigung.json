@@ -1,0 +1,131 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Code": "Q",
+        "Erwerbstätige": 788539,
+        "Sektor": "Gesundheits-, Sozialwesen"
+      },
+      {
+        "Code": "B-C",
+        "Erwerbstätige": 658492,
+        "Sektor": "Verarbeitendes Gewerbe, Bergbau"
+      },
+      {
+        "Code": "G",
+        "Erwerbstätige": 592462,
+        "Sektor": "Handel, Reparatur"
+      },
+      {
+        "Code": "M",
+        "Erwerbstätige": 465590,
+        "Sektor": "Freiberufliche, wiss. Dienstl."
+      },
+      {
+        "Code": "P",
+        "Erwerbstätige": 386453,
+        "Sektor": "Erziehung und Unterricht"
+      },
+      {
+        "Code": "N",
+        "Erwerbstätige": 356614,
+        "Sektor": "Sonstige wirtsch. Dienstl."
+      },
+      {
+        "Code": "F",
+        "Erwerbstätige": 350822,
+        "Sektor": "Baugewerbe"
+      },
+      {
+        "Code": "H",
+        "Erwerbstätige": 253055,
+        "Sektor": "Verkehr, Lagerei"
+      },
+      {
+        "Code": "I",
+        "Erwerbstätige": 252386,
+        "Sektor": "Gastgewerbe, Beherbergung"
+      },
+      {
+        "Code": "K",
+        "Erwerbstätige": 241105,
+        "Sektor": "Finanz-, Versicherungsdienstl."
+      },
+      {
+        "Code": "O",
+        "Erwerbstätige": 205712,
+        "Sektor": "Öffentliche Verwaltung"
+      },
+      {
+        "Code": "J",
+        "Erwerbstätige": 193424,
+        "Sektor": "Information, Kommunikation"
+      },
+      {
+        "Code": "S",
+        "Erwerbstätige": 161090,
+        "Sektor": "Sonstige Dienstleistungen"
+      },
+      {
+        "Code": "A",
+        "Erwerbstätige": 125159,
+        "Sektor": "Land- und Forstwirtschaft"
+      },
+      {
+        "Code": "R",
+        "Erwerbstätige": 109567,
+        "Sektor": "Kunst, Unterhaltung, Erholung"
+      },
+      {
+        "Code": "T",
+        "Erwerbstätige": 78954,
+        "Sektor": "Private Haushalte"
+      },
+      {
+        "Code": "L",
+        "Erwerbstätige": 69272,
+        "Sektor": "Grundstücks-, Wohnungswesen"
+      },
+      {
+        "Code": "D",
+        "Erwerbstätige": 32203,
+        "Sektor": "Energieversorgung"
+      },
+      {
+        "Code": "E",
+        "Erwerbstätige": 21008,
+        "Sektor": "Wasserversorgung, Entsorgung"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#a855f7"
+    },
+    "x": {
+      "field": "Erwerbstätige",
+      "title": "Erwerbstätige (Tsd.)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Sektor",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 450,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Erwerbstätige nach Wirtschaftsabschnitt — Schweiz (2024, in Tsd.)",
+  "width": 720
+}

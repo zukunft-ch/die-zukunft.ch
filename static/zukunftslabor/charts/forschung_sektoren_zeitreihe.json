@@ -1,0 +1,317 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Ausgaben_Mio_CHF": 6062.7,
+        "Jahr": 2023,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 5550.5,
+        "Jahr": 2023,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 3459.8,
+        "Jahr": 2023,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2792.7,
+        "Jahr": 2023,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2420.6,
+        "Jahr": 2023,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1981.3,
+        "Jahr": 2023,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 6743.8,
+        "Jahr": 2021,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 5297.8,
+        "Jahr": 2021,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2841.5,
+        "Jahr": 2021,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2376.2,
+        "Jahr": 2021,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2104.1,
+        "Jahr": 2021,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1802.0,
+        "Jahr": 2021,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 5673.5,
+        "Jahr": 2019,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 5041.8,
+        "Jahr": 2019,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2924.4,
+        "Jahr": 2019,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2096.2,
+        "Jahr": 2019,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2013.9,
+        "Jahr": 2019,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1790.3,
+        "Jahr": 2019,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 5444.8,
+        "Jahr": 2017,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 4796.0,
+        "Jahr": 2017,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2513.3,
+        "Jahr": 2017,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1931.7,
+        "Jahr": 2017,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1798.7,
+        "Jahr": 2017,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1650.7,
+        "Jahr": 2017,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 4764.0,
+        "Jahr": 2015,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 4557.0,
+        "Jahr": 2015,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2379.6,
+        "Jahr": 2015,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2073.8,
+        "Jahr": 2015,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1908.7,
+        "Jahr": 2015,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1711.4,
+        "Jahr": 2015,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 4305.6,
+        "Jahr": 2012,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 4094.0,
+        "Jahr": 2012,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2176.7,
+        "Jahr": 2012,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2015.0,
+        "Jahr": 2012,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1851.8,
+        "Jahr": 2012,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1387.3,
+        "Jahr": 2012,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 5198.2,
+        "Jahr": 2008,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 3085.0,
+        "Jahr": 2008,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1831.9,
+        "Jahr": 2008,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1590.3,
+        "Jahr": 2008,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1569.2,
+        "Jahr": 2008,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1077.8,
+        "Jahr": 2008,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 4252.6,
+        "Jahr": 2004,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2385.0,
+        "Jahr": 2004,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1548.8,
+        "Jahr": 2004,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1385.8,
+        "Jahr": 2004,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1186.4,
+        "Jahr": 2004,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 448.9,
+        "Jahr": 2004,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2475.0,
+        "Jahr": 2000,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben_Mio_CHF": 2052.8,
+        "Jahr": 2000,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1935.0,
+        "Jahr": 2000,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben_Mio_CHF": 1000.6,
+        "Jahr": 2000,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben_Mio_CHF": 876.2,
+        "Jahr": 2000,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben_Mio_CHF": 851.8,
+        "Jahr": 2000,
+        "Sektor": "Autres non répartis"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Sektor",
+      "scale": {
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4",
+          "#10b981",
+          "#f59e0b",
+          "#ef4444"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Ausgaben_Mio_CHF",
+      "stack": "zero",
+      "title": "Mio. CHF",
+      "type": "quantitative"
+    }
+  },
+  "height": 420,
+  "mark": {
+    "opacity": 0.8,
+    "type": "area"
+  },
+  "title": "F&E-Ausgaben nach Sektor — Schweiz (2000–2023)",
+  "width": 720
+}

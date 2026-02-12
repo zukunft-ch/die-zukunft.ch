@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Bereich": "Personal & Ausbildung",
+        "Typ": "Budget-Anteil",
+        "Wert %": 58
+      },
+      {
+        "Bereich": "Personal & Ausbildung",
+        "Typ": "Bevölkerungspriorität",
+        "Wert %": 35
+      },
+      {
+        "Bereich": "Cyber & Informationssicherheit",
+        "Typ": "Budget-Anteil",
+        "Wert %": 4
+      },
+      {
+        "Bereich": "Cyber & Informationssicherheit",
+        "Typ": "Bevölkerungspriorität",
+        "Wert %": 82
+      },
+      {
+        "Bereich": "Rüstung & Material",
+        "Typ": "Budget-Anteil",
+        "Wert %": 22
+      },
+      {
+        "Bereich": "Rüstung & Material",
+        "Typ": "Bevölkerungspriorität",
+        "Wert %": 45
+      },
+      {
+        "Bereich": "Infrastruktur & Immobilien",
+        "Typ": "Budget-Anteil",
+        "Wert %": 10
+      },
+      {
+        "Bereich": "Infrastruktur & Immobilien",
+        "Typ": "Bevölkerungspriorität",
+        "Wert %": 28
+      },
+      {
+        "Bereich": "Katastrophenhilfe",
+        "Typ": "Budget-Anteil",
+        "Wert %": 3
+      },
+      {
+        "Bereich": "Katastrophenhilfe",
+        "Typ": "Bevölkerungspriorität",
+        "Wert %": 88
+      },
+      {
+        "Bereich": "Forschung & Innovation",
+        "Typ": "Budget-Anteil",
+        "Wert %": 3
+      },
+      {
+        "Bereich": "Forschung & Innovation",
+        "Typ": "Bevölkerungspriorität",
+        "Wert %": 55
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Typ",
+      "scale": {
+        "domain": [
+          "Budget-Anteil",
+          "Bevölkerungspriorität"
+        ],
+        "range": [
+          "#a855f7",
+          "#ef4444"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Wert %",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ]
+      },
+      "title": "Anteil (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Bereich",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "filled": true,
+    "size": 120,
+    "type": "point"
+  },
+  "title": "Verteidigungsbudget vs. Sicherheitsprioritäten der Bevölkerung (2024)",
+  "width": 720
+}

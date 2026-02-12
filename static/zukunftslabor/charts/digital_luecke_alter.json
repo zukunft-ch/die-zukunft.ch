@@ -1,0 +1,167 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Anteil %": 78.7,
+        "Jahr": 2014,
+        "Kategorie": "Internetnutzung"
+      },
+      {
+        "Anteil %": 66.6,
+        "Jahr": 2014,
+        "Kategorie": "E-Gov-Nutzung"
+      },
+      {
+        "Anteil %": 12.1,
+        "Jahr": 2014,
+        "Kategorie": "Lücke"
+      },
+      {
+        "Anteil %": 84.4,
+        "Jahr": 2017,
+        "Kategorie": "Internetnutzung"
+      },
+      {
+        "Anteil %": 70.6,
+        "Jahr": 2017,
+        "Kategorie": "E-Gov-Nutzung"
+      },
+      {
+        "Anteil %": 13.8,
+        "Jahr": 2017,
+        "Kategorie": "Lücke"
+      },
+      {
+        "Anteil %": 87.2,
+        "Jahr": 2019,
+        "Kategorie": "Internetnutzung"
+      },
+      {
+        "Anteil %": 71.2,
+        "Jahr": 2019,
+        "Kategorie": "E-Gov-Nutzung"
+      },
+      {
+        "Anteil %": 16.0,
+        "Jahr": 2019,
+        "Kategorie": "Lücke"
+      },
+      {
+        "Anteil %": 88.1,
+        "Jahr": 2021,
+        "Kategorie": "Internetnutzung"
+      },
+      {
+        "Anteil %": 79.8,
+        "Jahr": 2021,
+        "Kategorie": "E-Gov-Nutzung"
+      },
+      {
+        "Anteil %": 8.3,
+        "Jahr": 2021,
+        "Kategorie": "Lücke"
+      },
+      {
+        "Anteil %": 90.0,
+        "Jahr": 2023,
+        "Kategorie": "Internetnutzung"
+      },
+      {
+        "Anteil %": 81.5,
+        "Jahr": 2023,
+        "Kategorie": "E-Gov-Nutzung"
+      },
+      {
+        "Anteil %": 8.5,
+        "Jahr": 2023,
+        "Kategorie": "Lücke"
+      },
+      {
+        "Anteil %": 90.2,
+        "Jahr": 2025,
+        "Kategorie": "Internetnutzung"
+      },
+      {
+        "Anteil %": 77.0,
+        "Jahr": 2025,
+        "Kategorie": "E-Gov-Nutzung"
+      },
+      {
+        "Anteil %": 13.2,
+        "Jahr": 2025,
+        "Kategorie": "Lücke"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Kategorie",
+      "scale": {
+        "domain": [
+          "Internetnutzung",
+          "E-Gov-Nutzung",
+          "Lücke"
+        ],
+        "range": [
+          "#3b82f6",
+          "#a855f7",
+          "#ef4444"
+        ]
+      },
+      "type": "nominal"
+    },
+    "strokeDash": {
+      "field": "Kategorie",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Internetnutzung",
+          "E-Gov-Nutzung",
+          "Lücke"
+        ],
+        "range": [
+          [],
+          [],
+          [
+            5,
+            5
+          ]
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Anteil %",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ]
+      },
+      "title": "Anteil der Bevölkerung (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "point": {
+      "size": 60
+    },
+    "strokeWidth": 2,
+    "type": "line"
+  },
+  "title": "Digitale Bereitschaftslücke: Internetnutzung vs. E-Government-Nutzung",
+  "width": 720
+}

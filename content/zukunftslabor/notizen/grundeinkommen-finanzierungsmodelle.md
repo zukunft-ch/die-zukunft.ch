@@ -1,10 +1,10 @@
 +++
-draft = true
 title = "Grundeinkommen: Drei Finanzierungsmodelle im Vergleich"
 description = "Was passiert mit der Einkommensverteilung, wenn ein UBI über Einkommensteuer, Transferablösung oder Konsumsteuer finanziert wird? Dezil-Simulation mit BFS-Daten."
 slug = "grundeinkommen-finanzierungsmodelle"
 date = 2026-02-12
 template = "notiz.html"
+draft = true
 
 [extra]
 category = "datenbriefing"
@@ -12,6 +12,7 @@ evidence = "mittel"
 tags = ["grundeinkommen", "finanzierung", "einkommen", "ungleichheit", "simulation"]
 charts = ["grundeinkommen_baseline_dezile.svg", "grundeinkommen_szenarien_vergleich.svg", "grundeinkommen_gini_szenarien.svg", "grundeinkommen_gewinner_verlierer.svg"]
 +++
+
 Drei Finanzierungsmodelle für ein bedingungsloses Grundeinkommen von CHF 2'500/Monat
 zeigen grundlegend verschiedene Verteilungswirkungen. Eine pauschale Einkommensteuer
 senkt den Gini am stärksten. Die Ablösung bestehender Transfers spart zwar Steuern,
@@ -20,6 +21,8 @@ Eine Konsumsteuer wirkt progressiv, aber schwächer.
 
 
 <!-- more -->
+
+---
 
 ## Methodik
 
@@ -37,23 +40,39 @@ Drei Finanzierungsszenarien werden simuliert:
 - **C — Konsumsteuer**: Die Finanzierung erfolgt über einen MwSt.-Zuschlag.
   Konsumquoten variieren nach Dezil (D1: 95%, D10: 55%).
 
-## Ergebnisse
+---
 
 ### Baseline: Einkommensverteilung 2018
 
-![Einkommensanteile nach Dezil](/zukunftslabor/charts/grundeinkommen_baseline_dezile.svg)
+{% chart(spec="grundeinkommen_baseline_dezile", alt="Einkommensanteile nach Dezil") %}
+Die heutige Einkommensverteilung zeigt eine starke Konzentration: Das oberste Dezil verfügt über rund einen Viertel des Gesamteinkommens, das unterste über weniger als 3%. Diese Baseline ist der Ausgangspunkt für alle drei Szenarien — sie zeigt, von welcher Ausgangslage aus Umverteilung wirkt.
+{% end %}
+
+---
 
 ### Nettowirkung der drei Szenarien
 
-![Szenarien-Vergleich](/zukunftslabor/charts/grundeinkommen_szenarien_vergleich.svg)
+{% chart(spec="grundeinkommen_szenarien_vergleich", alt="Nettowirkung der drei UBI-Szenarien auf die Dezile") %}
+Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkommensteuer) verteilt linear um — untere Dezile gewinnen, obere verlieren. Szenario B (Transferablösung) produziert ein Paradox: Die untersten Dezile können netto verlieren, weil bestehende Transfers höher waren als das UBI. Szenario C (Konsumsteuer) belastet untere Dezile stärker über ihre höhere Konsumquote.
+{% end %}
+
+---
 
 ### Gini-Koeffizient nach Szenario
 
-![Gini-Vergleich](/zukunftslabor/charts/grundeinkommen_gini_szenarien.svg)
+{% chart(spec="grundeinkommen_gini_szenarien", alt="Gini-Koeffizient: Baseline vs. drei Szenarien") %}
+Der Gini-Koeffizient misst die Einkommenskonzentration (0 = perfekte Gleichheit, 1 = totale Ungleichheit). Szenario A senkt den Gini am stärksten, weil die progressive Finanzierung direkt umverteilt. Szenario B verändert ihn kaum, weil es bestehende Transfers nur ersetzt. Szenario C wirkt sogar leicht regressiv.
+{% end %}
+
+---
 
 ### Relative Gewinner und Verlierer
 
-![Gewinner und Verlierer](/zukunftslabor/charts/grundeinkommen_gewinner_verlierer.svg)
+{% chart(spec="grundeinkommen_gewinner_verlierer", alt="Gewinner und Verlierer nach Dezil und Szenario") %}
+Hier wird sichtbar, welche Dezile netto gewinnen oder verlieren. Der Wendepunkt variiert je nach Finanzierungsmodell. In Szenario B zeigt sich das Transferparadox am deutlichsten: Dezile 1–2, die stark von bestehenden Sozialleistungen abhängen, profitieren weniger als die Mittelschicht — ein kontraintuitives Ergebnis, das bei der politischen Umsetzung entscheidend ist.
+{% end %}
+
+---
 
 ## Einschränkungen
 
@@ -62,6 +81,8 @@ Drei Finanzierungsszenarien werden simuliert:
 - Transferverteilung auf Dezile geschätzt (nicht direkt aus SILC-Mikrodaten)
 - Konsumquoten nach Dezil basieren auf Literaturwerten, nicht BFS-HABE-Detail
 - Daten nur bis 2018 verfügbar (neueste BFS-HABE-Publikation)
+
+---
 
 ## Datenquellen
 

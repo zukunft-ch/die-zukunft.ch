@@ -1,0 +1,91 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Aktive": 140000,
+        "Budget Mrd. USD": 6.1,
+        "Land": "Schweiz (Miliz)",
+        "Pro Soldat USD": 43571,
+        "System": "Miliz"
+      },
+      {
+        "Aktive": 27000,
+        "Budget Mrd. USD": 4.3,
+        "Land": "Österreich",
+        "Pro Soldat USD": 159259,
+        "System": "Berufsarmee"
+      },
+      {
+        "Aktive": 24400,
+        "Budget Mrd. USD": 9.7,
+        "Land": "Schweden",
+        "Pro Soldat USD": 397541,
+        "System": "Berufsarmee"
+      },
+      {
+        "Aktive": 31000,
+        "Budget Mrd. USD": 6.8,
+        "Land": "Finnland",
+        "Pro Soldat USD": 219355,
+        "System": "Wehrpflicht"
+      },
+      {
+        "Aktive": 181600,
+        "Budget Mrd. USD": 66.8,
+        "Land": "Deutschland",
+        "Pro Soldat USD": 367841,
+        "System": "Berufsarmee"
+      },
+      {
+        "Aktive": 169500,
+        "Budget Mrd. USD": 23.4,
+        "Land": "Israel",
+        "Pro Soldat USD": 138053,
+        "System": "Wehrpflicht"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "System",
+      "scale": {
+        "domain": [
+          "Miliz",
+          "Wehrpflicht",
+          "Berufsarmee"
+        ],
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#6b7280"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Pro Soldat USD",
+      "title": "USD pro aktivem Soldaten/AdA",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Land",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 380,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Verteidigungsausgaben pro aktivem Soldaten (USD, 2023/24)",
+  "width": 720
+}

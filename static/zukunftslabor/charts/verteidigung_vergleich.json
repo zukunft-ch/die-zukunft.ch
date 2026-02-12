@@ -1,0 +1,88 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "BIP-Anteil %": 3.304,
+        "Land": "USA"
+      },
+      {
+        "BIP-Anteil %": 2.008,
+        "Land": "Finnland"
+      },
+      {
+        "BIP-Anteil %": 1.951,
+        "Land": "Frankreich"
+      },
+      {
+        "BIP-Anteil %": 1.501,
+        "Land": "Schweden"
+      },
+      {
+        "BIP-Anteil %": 1.488,
+        "Land": "Deutschland"
+      },
+      {
+        "BIP-Anteil %": 0.871,
+        "Land": "Österreich"
+      },
+      {
+        "BIP-Anteil %": 0.706,
+        "Land": "Schweiz"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Land",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Schweiz",
+          "Österreich",
+          "Schweden",
+          "Finnland",
+          "Deutschland",
+          "Frankreich",
+          "Israel",
+          "USA"
+        ],
+        "range": [
+          "#a855f7",
+          "#8b5cf6",
+          "#3b82f6",
+          "#06b6d4",
+          "#10b981",
+          "#f59e0b",
+          "#ef4444",
+          "#6b7280"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "BIP-Anteil %",
+      "title": "Verteidigungsausgaben (% BIP)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Land",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 380,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Verteidigungsausgaben im internationalen Vergleich (2023, % BIP)",
+  "width": 720
+}

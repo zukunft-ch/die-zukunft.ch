@@ -1,0 +1,100 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "F&E_Mrd_USD": 24.1,
+        "Land": "Schweiz",
+        "Patente/Mrd": 182
+      },
+      {
+        "F&E_Mrd_USD": 21.8,
+        "Land": "Schweden",
+        "Patente/Mrd": 115
+      },
+      {
+        "F&E_Mrd_USD": 24.3,
+        "Land": "Niederlande",
+        "Patente/Mrd": 109
+      },
+      {
+        "F&E_Mrd_USD": 142.0,
+        "Land": "Deutschland",
+        "Patente/Mrd": 87
+      },
+      {
+        "F&E_Mrd_USD": 17.4,
+        "Land": "Österreich",
+        "Patente/Mrd": 79
+      },
+      {
+        "F&E_Mrd_USD": 72.8,
+        "Land": "Frankreich",
+        "Patente/Mrd": 59
+      },
+      {
+        "F&E_Mrd_USD": 806.0,
+        "Land": "USA",
+        "Patente/Mrd": 37
+      },
+      {
+        "F&E_Mrd_USD": 174.0,
+        "Land": "Japan",
+        "Patente/Mrd": 25
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Land",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Schweiz",
+          "Schweden",
+          "Niederlande",
+          "Deutschland",
+          "Österreich",
+          "Frankreich",
+          "USA",
+          "Japan"
+        ],
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4",
+          "#10b981",
+          "#f59e0b",
+          "#ef4444",
+          "#6b7280",
+          "#8b5cf6"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Patente/Mrd",
+      "title": "EPO-Patentanmeldungen pro Mrd. USD F&E",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Land",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 380,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Patenteffizienz: EPO-Patentanmeldungen pro Milliarde F&E-Ausgaben (2023)",
+  "width": 720
+}

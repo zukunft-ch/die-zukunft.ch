@@ -1,0 +1,87 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Anteil überqualifiziert %": 42,
+        "Migrantenanteil %": 51,
+        "Sektor": "Gastgewerbe, Beherbergung"
+      },
+      {
+        "Anteil überqualifiziert %": 38,
+        "Migrantenanteil %": 62,
+        "Sektor": "Reinigung, Hauswirtschaft"
+      },
+      {
+        "Anteil überqualifiziert %": 28,
+        "Migrantenanteil %": 35,
+        "Sektor": "Detailhandel"
+      },
+      {
+        "Anteil überqualifiziert %": 25,
+        "Migrantenanteil %": 48,
+        "Sektor": "Lagerei, Logistik"
+      },
+      {
+        "Anteil überqualifiziert %": 22,
+        "Migrantenanteil %": 38,
+        "Sektor": "Gesundheit (Pflege)"
+      },
+      {
+        "Anteil überqualifiziert %": 18,
+        "Migrantenanteil %": 44,
+        "Sektor": "Baugewerbe"
+      },
+      {
+        "Anteil überqualifiziert %": 15,
+        "Migrantenanteil %": 32,
+        "Sektor": "Industrie, Produktion"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Anteil überqualifiziert %",
+      "legend": null,
+      "scale": {
+        "scheme": "reds"
+      },
+      "type": "quantitative"
+    },
+    "size": {
+      "field": "Anteil überqualifiziert %",
+      "legend": null,
+      "scale": {
+        "range": [
+          200,
+          1200
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": {
+      "field": "Sektor",
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Anteil überqualifiziert %",
+      "title": "Überqualifikationsrate (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Migrantenanteil %",
+      "title": "Migrantenanteil in Sektor (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": "circle",
+  "title": "Sektoren mit hohem Anteil überqualifizierter Migrant/innen",
+  "width": 720
+}

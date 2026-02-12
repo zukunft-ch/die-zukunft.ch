@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Argument": "Privatwirtschaftliche Lösung",
+        "Typ": "Contra",
+        "Zustimmung": 72
+      },
+      {
+        "Argument": "Datenschutzbedenken",
+        "Typ": "Contra",
+        "Zustimmung": 68
+      },
+      {
+        "Argument": "Staat soll E-ID herausgeben",
+        "Typ": "Contra",
+        "Zustimmung": 65
+      },
+      {
+        "Argument": "Digitalisierung notwendig",
+        "Typ": "Pro",
+        "Zustimmung": 58
+      },
+      {
+        "Argument": "Internationaler Anschluss",
+        "Typ": "Pro",
+        "Zustimmung": 42
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Typ",
+      "scale": {
+        "domain": [
+          "Contra",
+          "Pro"
+        ],
+        "range": [
+          "#ef4444",
+          "#3b82f6"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Zustimmung",
+      "title": "Zustimmung zum Argument (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Argument",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 300,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "E-ID-Referendum 2021: Abstimmungsmotive (VOX/Sotomo)",
+  "width": 720
+}

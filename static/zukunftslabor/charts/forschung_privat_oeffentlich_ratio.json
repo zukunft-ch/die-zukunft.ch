@@ -1,0 +1,98 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Jahr": 2000,
+        "Privat": 7888,
+        "Verhältnis": 3.11,
+        "Öffentlich": 2535
+      },
+      {
+        "Jahr": 2004,
+        "Privat": 9659,
+        "Verhältnis": 3.11,
+        "Öffentlich": 3110
+      },
+      {
+        "Jahr": 2008,
+        "Privat": 11979,
+        "Verhältnis": 2.96,
+        "Öffentlich": 4043
+      },
+      {
+        "Jahr": 2012,
+        "Privat": 12819,
+        "Verhältnis": 2.41,
+        "Öffentlich": 5323
+      },
+      {
+        "Jahr": 2015,
+        "Privat": 13961,
+        "Verhältnis": 2.31,
+        "Öffentlich": 6053
+      },
+      {
+        "Jahr": 2017,
+        "Privat": 14120,
+        "Verhältnis": 2.21,
+        "Öffentlich": 6383
+      },
+      {
+        "Jahr": 2019,
+        "Privat": 15491,
+        "Verhältnis": 2.28,
+        "Öffentlich": 6792
+      },
+      {
+        "Jahr": 2021,
+        "Privat": 16776,
+        "Verhältnis": 2.35,
+        "Öffentlich": 7137
+      },
+      {
+        "Jahr": 2023,
+        "Privat": 17958,
+        "Verhältnis": 2.37,
+        "Öffentlich": 7580
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#a855f7"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Verhältnis",
+      "scale": {
+        "domain": [
+          0,
+          4
+        ]
+      },
+      "title": "Privat ÷ Öffentlich",
+      "type": "quantitative"
+    }
+  },
+  "height": 350,
+  "mark": {
+    "point": {
+      "size": 80
+    },
+    "strokeWidth": 2.5,
+    "type": "line"
+  },
+  "title": "Verhältnis Privatwirtschaft / Öffentliche Hand bei F&E-Ausgaben",
+  "width": 720
+}

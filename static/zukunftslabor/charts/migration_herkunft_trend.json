@@ -1,0 +1,197 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2010,
+        "Personen": 576962
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2010,
+        "Personen": 1112344
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2011,
+        "Personen": 609327
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2011,
+        "Personen": 1129480
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2012,
+        "Personen": 609095
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2012,
+        "Personen": 1177609
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2013,
+        "Personen": 615554
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2013,
+        "Personen": 1227906
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2014,
+        "Personen": 647159
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2014,
+        "Personen": 1255793
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2015,
+        "Personen": 676413
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2015,
+        "Personen": 1273495
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2016,
+        "Personen": 688789
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2016,
+        "Personen": 1297244
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2017,
+        "Personen": 692306
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2017,
+        "Personen": 1318567
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2018,
+        "Personen": 693896
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2018,
+        "Personen": 1342232
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2019,
+        "Personen": 709989
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2019,
+        "Personen": 1356729
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2020,
+        "Personen": 733325
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2020,
+        "Personen": 1372762
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2021,
+        "Personen": 759769
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2021,
+        "Personen": 1384560
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2022,
+        "Personen": 809025
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2022,
+        "Personen": 1389969
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2023,
+        "Personen": 868459
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2023,
+        "Personen": 1392613
+      },
+      {
+        "Bewilligung": "Aufenthalter (B)",
+        "Jahr": 2024,
+        "Personen": 915566
+      },
+      {
+        "Bewilligung": "Niedergelassener (C)",
+        "Jahr": 2024,
+        "Personen": 1400159
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Bewilligung",
+      "scale": {
+        "domain": [
+          "Niedergelassener (C)",
+          "Aufenthalter (B)"
+        ],
+        "range": [
+          "#a855f7",
+          "#3b82f6"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Personen",
+      "stack": "zero",
+      "title": "Personen",
+      "type": "quantitative"
+    }
+  },
+  "height": 380,
+  "mark": {
+    "opacity": 0.8,
+    "type": "area"
+  },
+  "title": "Ständige ausländische Wohnbevölkerung nach Bewilligungstyp",
+  "width": 720
+}

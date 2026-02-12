@@ -1,0 +1,98 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Auswanderung": 11714,
+        "Einwanderung": 25075,
+        "Land": "Deutschland",
+        "Nettowanderung": 13361
+      },
+      {
+        "Auswanderung": 9608,
+        "Einwanderung": 20056,
+        "Land": "Frankreich",
+        "Nettowanderung": 10448
+      },
+      {
+        "Auswanderung": 10716,
+        "Einwanderung": 20328,
+        "Land": "Asien",
+        "Nettowanderung": 9612
+      },
+      {
+        "Auswanderung": 10447,
+        "Einwanderung": 18644,
+        "Land": "Italien",
+        "Nettowanderung": 8197
+      },
+      {
+        "Auswanderung": 4786,
+        "Einwanderung": 9563,
+        "Land": "Spanien",
+        "Nettowanderung": 4777
+      },
+      {
+        "Auswanderung": 3535,
+        "Einwanderung": 8300,
+        "Land": "Afrika",
+        "Nettowanderung": 4765
+      },
+      {
+        "Auswanderung": 1765,
+        "Einwanderung": 5821,
+        "Land": "Türkei",
+        "Nettowanderung": 4056
+      },
+      {
+        "Auswanderung": 5608,
+        "Einwanderung": 9276,
+        "Land": "Amerika",
+        "Nettowanderung": 3668
+      },
+      {
+        "Auswanderung": 10260,
+        "Einwanderung": 12388,
+        "Land": "Portugal",
+        "Nettowanderung": 2128
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Nettowanderung",
+      "legend": null,
+      "scale": {
+        "scheme": "purples"
+      },
+      "type": "quantitative"
+    },
+    "x": {
+      "field": "Nettowanderung",
+      "title": "Nettowanderung (Personen)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Land",
+      "sort": {
+        "field": "Nettowanderung",
+        "order": "descending"
+      },
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Nettowanderung nach Herkunftsland/Region (2024)",
+  "width": 720
+}

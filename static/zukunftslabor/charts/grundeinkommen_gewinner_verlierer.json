@@ -1,0 +1,204 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Dezil": 1,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": 153.2
+      },
+      {
+        "Dezil": 2,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": 55.6
+      },
+      {
+        "Dezil": 3,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": 37.0
+      },
+      {
+        "Dezil": 4,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": 26.6
+      },
+      {
+        "Dezil": 5,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": 16.9
+      },
+      {
+        "Dezil": 6,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": 9.3
+      },
+      {
+        "Dezil": 7,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": 3.3
+      },
+      {
+        "Dezil": 8,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": -3.1
+      },
+      {
+        "Dezil": 9,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": -9.5
+      },
+      {
+        "Dezil": 10,
+        "Szenario": "A: Einkommensteuer",
+        "Veränderung %": -22.5
+      },
+      {
+        "Dezil": 1,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 7.3
+      },
+      {
+        "Dezil": 2,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 9.2
+      },
+      {
+        "Dezil": 3,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 13.8
+      },
+      {
+        "Dezil": 4,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 16.5
+      },
+      {
+        "Dezil": 5,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 15.7
+      },
+      {
+        "Dezil": 6,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 14.1
+      },
+      {
+        "Dezil": 7,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 12.2
+      },
+      {
+        "Dezil": 8,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 8.6
+      },
+      {
+        "Dezil": 9,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": 4.5
+      },
+      {
+        "Dezil": 10,
+        "Szenario": "B: Transferablösung",
+        "Veränderung %": -6.6
+      },
+      {
+        "Dezil": 1,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 136.6
+      },
+      {
+        "Dezil": 2,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 41.0
+      },
+      {
+        "Dezil": 3,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 25.1
+      },
+      {
+        "Dezil": 4,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 16.6
+      },
+      {
+        "Dezil": 5,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 10.2
+      },
+      {
+        "Dezil": 6,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 5.9
+      },
+      {
+        "Dezil": 7,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 3.3
+      },
+      {
+        "Dezil": 8,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": 0.2
+      },
+      {
+        "Dezil": 9,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": -2.9
+      },
+      {
+        "Dezil": 10,
+        "Szenario": "C: Konsumsteuer",
+        "Veränderung %": -12.5
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Szenario",
+      "legend": {
+        "orient": "top"
+      },
+      "scale": {
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4"
+        ]
+      },
+      "type": "nominal"
+    },
+    "strokeDash": {
+      "field": "Szenario",
+      "legend": null,
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Dezil",
+      "title": "Einkommensdezil",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Veränderung %",
+      "title": "Relative Veränderung (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "point": {
+      "size": 60
+    },
+    "strokeWidth": 2,
+    "type": "line"
+  },
+  "title": "Relative Einkommensveränderung nach Dezil und Szenario",
+  "width": 720
+}

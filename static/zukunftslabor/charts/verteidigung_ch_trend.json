@@ -1,0 +1,137 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "BIP-Anteil %": 1.029,
+        "Jahr": 2000
+      },
+      {
+        "BIP-Anteil %": 0.992,
+        "Jahr": 2001
+      },
+      {
+        "BIP-Anteil %": 0.956,
+        "Jahr": 2002
+      },
+      {
+        "BIP-Anteil %": 0.927,
+        "Jahr": 2003
+      },
+      {
+        "BIP-Anteil %": 0.889,
+        "Jahr": 2004
+      },
+      {
+        "BIP-Anteil %": 0.833,
+        "Jahr": 2005
+      },
+      {
+        "BIP-Anteil %": 0.754,
+        "Jahr": 2006
+      },
+      {
+        "BIP-Anteil %": 0.718,
+        "Jahr": 2007
+      },
+      {
+        "BIP-Anteil %": 0.722,
+        "Jahr": 2008
+      },
+      {
+        "BIP-Anteil %": 0.732,
+        "Jahr": 2009
+      },
+      {
+        "BIP-Anteil %": 0.687,
+        "Jahr": 2010
+      },
+      {
+        "BIP-Anteil %": 0.695,
+        "Jahr": 2011
+      },
+      {
+        "BIP-Anteil %": 0.669,
+        "Jahr": 2012
+      },
+      {
+        "BIP-Anteil %": 0.713,
+        "Jahr": 2013
+      },
+      {
+        "BIP-Anteil %": 0.635,
+        "Jahr": 2014
+      },
+      {
+        "BIP-Anteil %": 0.651,
+        "Jahr": 2015
+      },
+      {
+        "BIP-Anteil %": 0.665,
+        "Jahr": 2016
+      },
+      {
+        "BIP-Anteil %": 0.666,
+        "Jahr": 2017
+      },
+      {
+        "BIP-Anteil %": 0.653,
+        "Jahr": 2018
+      },
+      {
+        "BIP-Anteil %": 0.696,
+        "Jahr": 2019
+      },
+      {
+        "BIP-Anteil %": 0.773,
+        "Jahr": 2020
+      },
+      {
+        "BIP-Anteil %": 0.673,
+        "Jahr": 2021
+      },
+      {
+        "BIP-Anteil %": 0.682,
+        "Jahr": 2022
+      },
+      {
+        "BIP-Anteil %": 0.706,
+        "Jahr": 2023
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#a855f7"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "BIP-Anteil %",
+      "scale": {
+        "zero": false
+      },
+      "title": "Verteidigungsausgaben (% BIP)",
+      "type": "quantitative"
+    }
+  },
+  "height": 350,
+  "mark": {
+    "point": {
+      "size": 60
+    },
+    "strokeWidth": 2.5,
+    "type": "line"
+  },
+  "title": "Schweizer Verteidigungsausgaben (% BIP) — 2000–2023",
+  "width": 720
+}

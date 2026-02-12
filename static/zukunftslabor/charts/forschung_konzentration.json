@@ -1,0 +1,92 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Ausgaben": 6062.7,
+        "Sektor": "Chimie, pharmacie"
+      },
+      {
+        "Ausgaben": 5550.5,
+        "Sektor": "Hautes écoles universitaires"
+      },
+      {
+        "Ausgaben": 3459.8,
+        "Sektor": "Autres non répartis"
+      },
+      {
+        "Ausgaben": 2792.7,
+        "Sektor": "Recherche et développement"
+      },
+      {
+        "Ausgaben": 2420.6,
+        "Sektor": "Technologie de l'information et de la communication"
+      },
+      {
+        "Ausgaben": 1981.3,
+        "Sektor": "Métallurgie, machines"
+      },
+      {
+        "Ausgaben": 1174.9,
+        "Sektor": "Instruments haute technologie"
+      },
+      {
+        "Ausgaben": 1023.2,
+        "Sektor": "Hautes écoles spécialisées"
+      },
+      {
+        "Ausgaben": 784.9,
+        "Sektor": "Etablissements de recherche du domaine des EPF"
+      },
+      {
+        "Ausgaben": 187.4,
+        "Sektor": "Département fédéral de l'économie, de la formation et de la recherche"
+      },
+      {
+        "Ausgaben": 66.2,
+        "Sektor": "Alimentation"
+      },
+      {
+        "Ausgaben": 17.6,
+        "Sektor": "Autres"
+      },
+      {
+        "Ausgaben": 17.1,
+        "Sektor": "Département fédéral de la défense, de la protection de la population et des sports"
+      },
+      {
+        "Ausgaben": 16.5,
+        "Sektor": "Département fédéral de l'intérieur"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#a855f7"
+    },
+    "x": {
+      "field": "Ausgaben",
+      "title": "Mio. CHF",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Sektor",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "F&E-Ausgaben nach Sektor — 2023 (ohne Total-Zeilen)",
+  "width": 720
+}

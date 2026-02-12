@@ -1,0 +1,115 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Richtung": "Risiko gesunken",
+        "Sektor": "Verkehr, Lagerei",
+        "Verschiebung PP": -13
+      },
+      {
+        "Richtung": "Risiko gesunken",
+        "Sektor": "Gastgewerbe, Beherbergung",
+        "Verschiebung PP": -12
+      },
+      {
+        "Richtung": "Risiko gesunken",
+        "Sektor": "Baugewerbe",
+        "Verschiebung PP": -10
+      },
+      {
+        "Richtung": "Risiko gesunken",
+        "Sektor": "Sonstige wirtsch. Dienstl.",
+        "Verschiebung PP": -8
+      },
+      {
+        "Richtung": "Risiko gesunken",
+        "Sektor": "Verarbeitendes Gewerbe, Bergbau",
+        "Verschiebung PP": -7
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Handel, Reparatur",
+        "Verschiebung PP": 4
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Gesundheits-, Sozialwesen",
+        "Verschiebung PP": 6
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Grundstücks-, Wohnungswesen",
+        "Verschiebung PP": 7
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Erziehung und Unterricht",
+        "Verschiebung PP": 10
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Öffentliche Verwaltung",
+        "Verschiebung PP": 13
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Finanz-, Versicherungsdienstl.",
+        "Verschiebung PP": 23
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Information, Kommunikation",
+        "Verschiebung PP": 27
+      },
+      {
+        "Richtung": "Risiko gestiegen",
+        "Sektor": "Freiberufliche, wiss. Dienstl.",
+        "Verschiebung PP": 28
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Richtung",
+      "scale": {
+        "domain": [
+          "Risiko gestiegen",
+          "Risiko gesunken"
+        ],
+        "range": [
+          "#ef4444",
+          "#10b981"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Verschiebung PP",
+      "title": "Veränderung (Prozentpunkte)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Sektor",
+      "sort": {
+        "field": "Verschiebung PP",
+        "order": "ascending"
+      },
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 450,
+  "mark": {
+    "cornerRadiusEnd": 3,
+    "type": "bar"
+  },
+  "title": "Risikoverschiebung durch LLM: Veränderung des Automatisierungsrisikos (PP)",
+  "width": 720
+}

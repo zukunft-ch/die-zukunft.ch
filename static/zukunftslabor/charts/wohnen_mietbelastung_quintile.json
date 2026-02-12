@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Belastung %": 40,
+        "Quintil": "Q1 (unterstes)"
+      },
+      {
+        "Belastung %": 28,
+        "Quintil": "Q2"
+      },
+      {
+        "Belastung %": 22,
+        "Quintil": "Q3"
+      },
+      {
+        "Belastung %": 18,
+        "Quintil": "Q4"
+      },
+      {
+        "Belastung %": 12,
+        "Quintil": "Q5 (oberstes)"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Quintil",
+      "legend": null,
+      "scale": {
+        "range": [
+          "#ef4444",
+          "#f59e0b",
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4"
+        ]
+      },
+      "type": "ordinal"
+    },
+    "x": {
+      "field": "Quintil",
+      "title": "Einkommensquintil",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Belastung %",
+      "scale": {
+        "domain": [
+          0,
+          50
+        ]
+      },
+      "title": "Mietbelastung (% des Einkommens)",
+      "type": "quantitative"
+    }
+  },
+  "height": 350,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Mietbelastungsquote nach Einkommensquintil (BFS SILC 2022)",
+  "width": 720
+}

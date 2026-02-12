@@ -1,0 +1,171 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Anteil": 77.0,
+        "Indikator": "Behördenkontakte (gesamt)",
+        "Jahr": 2025
+      },
+      {
+        "Anteil": 81.5,
+        "Indikator": "Behördenkontakte (gesamt)",
+        "Jahr": 2023
+      },
+      {
+        "Anteil": 79.8,
+        "Indikator": "Behördenkontakte (gesamt)",
+        "Jahr": 2021
+      },
+      {
+        "Anteil": 71.2,
+        "Indikator": "Behördenkontakte (gesamt)",
+        "Jahr": 2019
+      },
+      {
+        "Anteil": 70.6,
+        "Indikator": "Behördenkontakte (gesamt)",
+        "Jahr": 2017
+      },
+      {
+        "Anteil": 66.6,
+        "Indikator": "Behördenkontakte (gesamt)",
+        "Jahr": 2014
+      },
+      {
+        "Anteil": 67.9,
+        "Indikator": "Informationen suchen",
+        "Jahr": 2025
+      },
+      {
+        "Anteil": 72.3,
+        "Indikator": "Informationen suchen",
+        "Jahr": 2023
+      },
+      {
+        "Anteil": 72.1,
+        "Indikator": "Informationen suchen",
+        "Jahr": 2021
+      },
+      {
+        "Anteil": 63.5,
+        "Indikator": "Informationen suchen",
+        "Jahr": 2019
+      },
+      {
+        "Anteil": 63.5,
+        "Indikator": "Informationen suchen",
+        "Jahr": 2017
+      },
+      {
+        "Anteil": 58.0,
+        "Indikator": "Informationen suchen",
+        "Jahr": 2014
+      },
+      {
+        "Anteil": 60.6,
+        "Indikator": "Formulare herunterladen",
+        "Jahr": 2025
+      },
+      {
+        "Anteil": 66.1,
+        "Indikator": "Formulare herunterladen",
+        "Jahr": 2023
+      },
+      {
+        "Anteil": 65.3,
+        "Indikator": "Formulare herunterladen",
+        "Jahr": 2021
+      },
+      {
+        "Anteil": 55.7,
+        "Indikator": "Formulare herunterladen",
+        "Jahr": 2019
+      },
+      {
+        "Anteil": 55.4,
+        "Indikator": "Formulare herunterladen",
+        "Jahr": 2017
+      },
+      {
+        "Anteil": 46.1,
+        "Indikator": "Formulare herunterladen",
+        "Jahr": 2014
+      },
+      {
+        "Anteil": 64.5,
+        "Indikator": "Formulare ausfüllen",
+        "Jahr": 2025
+      },
+      {
+        "Anteil": 67.9,
+        "Indikator": "Formulare ausfüllen",
+        "Jahr": 2023
+      },
+      {
+        "Anteil": 68.1,
+        "Indikator": "Formulare ausfüllen",
+        "Jahr": 2021
+      },
+      {
+        "Anteil": 42.6,
+        "Indikator": "Formulare ausfüllen",
+        "Jahr": 2019
+      },
+      {
+        "Anteil": 39.8,
+        "Indikator": "Formulare ausfüllen",
+        "Jahr": 2017
+      },
+      {
+        "Anteil": 40.0,
+        "Indikator": "Formulare ausfüllen",
+        "Jahr": 2014
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Indikator",
+      "scale": {
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4",
+          "#10b981"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Anteil",
+      "scale": {
+        "domain": [
+          30,
+          90
+        ]
+      },
+      "title": "Anteil der Bevölkerung (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "point": true,
+    "strokeWidth": 2,
+    "type": "line"
+  },
+  "title": "E-Government-Nutzung in der Schweiz (BFS Omnibus ICT, 2014–2025)",
+  "width": 720
+}

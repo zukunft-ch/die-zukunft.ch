@@ -1,0 +1,127 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Automatisierungsrisiko %": 28,
+        "Erwerbstätige Tsd": 658492,
+        "Sektor": "Verarbeitendes Gewerbe",
+        "Weiterbildungsquote %": 52
+      },
+      {
+        "Automatisierungsrisiko %": 32,
+        "Erwerbstätige Tsd": 592462,
+        "Sektor": "Handel, Reparatur",
+        "Weiterbildungsquote %": 55
+      },
+      {
+        "Automatisierungsrisiko %": 30,
+        "Erwerbstätige Tsd": 252386,
+        "Sektor": "Gastgewerbe",
+        "Weiterbildungsquote %": 35
+      },
+      {
+        "Automatisierungsrisiko %": 25,
+        "Erwerbstätige Tsd": 253055,
+        "Sektor": "Verkehr, Lagerei",
+        "Weiterbildungsquote %": 40
+      },
+      {
+        "Automatisierungsrisiko %": 45,
+        "Erwerbstätige Tsd": 241105,
+        "Sektor": "Finanz-, Versicherungsdienstl.",
+        "Weiterbildungsquote %": 75
+      },
+      {
+        "Automatisierungsrisiko %": 18,
+        "Erwerbstätige Tsd": 788539,
+        "Sektor": "Gesundheits-, Sozialwesen",
+        "Weiterbildungsquote %": 70
+      },
+      {
+        "Automatisierungsrisiko %": 35,
+        "Erwerbstätige Tsd": 193424,
+        "Sektor": "Information, Kommunikation",
+        "Weiterbildungsquote %": 78
+      },
+      {
+        "Automatisierungsrisiko %": 15,
+        "Erwerbstätige Tsd": 350822,
+        "Sektor": "Baugewerbe",
+        "Weiterbildungsquote %": 42
+      },
+      {
+        "Automatisierungsrisiko %": 15,
+        "Erwerbstätige Tsd": 386453,
+        "Sektor": "Erziehung und Unterricht",
+        "Weiterbildungsquote %": 82
+      },
+      {
+        "Automatisierungsrisiko %": 28,
+        "Erwerbstätige Tsd": 205712,
+        "Sektor": "Öffentliche Verwaltung",
+        "Weiterbildungsquote %": 72
+      },
+      {
+        "Automatisierungsrisiko %": 38,
+        "Erwerbstätige Tsd": 465590,
+        "Sektor": "Freiberufliche Dienstl.",
+        "Weiterbildungsquote %": 76
+      },
+      {
+        "Automatisierungsrisiko %": 22,
+        "Erwerbstätige Tsd": 356614,
+        "Sektor": "Sonstige wirtsch. Dienstl.",
+        "Weiterbildungsquote %": 38
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Automatisierungsrisiko %",
+      "legend": null,
+      "scale": {
+        "reverse": true,
+        "scheme": "redyellowgreen"
+      },
+      "type": "quantitative"
+    },
+    "size": {
+      "field": "Erwerbstätige Tsd",
+      "legend": {
+        "title": "Erwerbstätige Tsd"
+      },
+      "scale": {
+        "range": [
+          100,
+          1500
+        ]
+      },
+      "type": "quantitative"
+    },
+    "tooltip": {
+      "field": "Sektor",
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Automatisierungsrisiko %",
+      "title": "Post-LLM Automatisierungsrisiko (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Weiterbildungsquote %",
+      "title": "Weiterbildungsquote (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 450,
+  "mark": "circle",
+  "title": "Weiterbildungsquote vs. Automatisierungsrisiko (r = 0.28)",
+  "width": 720
+}

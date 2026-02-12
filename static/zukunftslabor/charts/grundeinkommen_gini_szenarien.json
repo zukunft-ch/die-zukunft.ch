@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Gini": 0.2839,
+        "Szenario": "Status quo",
+        "order": 0
+      },
+      {
+        "Gini": 0.1419,
+        "Szenario": "A: Einkommensteuer",
+        "order": 1
+      },
+      {
+        "Gini": 0.2534,
+        "Szenario": "B: Transferablösung",
+        "order": 2
+      },
+      {
+        "Gini": 0.1834,
+        "Szenario": "C: Konsumsteuer",
+        "order": 3
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Szenario",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Status quo",
+          "A: Einkommensteuer",
+          "B: Transferablösung",
+          "C: Konsumsteuer"
+        ],
+        "range": [
+          "#6b7280",
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Szenario",
+      "sort": {
+        "field": "order"
+      },
+      "title": null,
+      "type": "nominal"
+    },
+    "y": {
+      "field": "Gini",
+      "scale": {
+        "domain": [
+          0.0,
+          0.35
+        ]
+      },
+      "title": "Gini-Koeffizient",
+      "type": "quantitative"
+    }
+  },
+  "height": 300,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Gini-Koeffizient nach Finanzierungsszenario",
+  "width": 720
+}

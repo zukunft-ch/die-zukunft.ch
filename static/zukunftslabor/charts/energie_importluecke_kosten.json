@@ -1,0 +1,85 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Importabhängigkeit %": 0.0,
+        "Importlücke GWh": 0,
+        "Kosten Mrd. CHF": 0.0,
+        "Szenario": "A: Baseline",
+        "order": 0
+      },
+      {
+        "Importabhängigkeit %": 1.9,
+        "Importlücke GWh": 1174,
+        "Kosten Mrd. CHF": 0.11,
+        "Szenario": "B: Trockenjahr (-30% Hydro)",
+        "order": 1
+      },
+      {
+        "Importabhängigkeit %": 15.6,
+        "Importlücke GWh": 9656,
+        "Kosten Mrd. CHF": 0.91,
+        "Szenario": "C: Atomausstieg",
+        "order": 2
+      },
+      {
+        "Importabhängigkeit %": 39.1,
+        "Importlücke GWh": 24157,
+        "Kosten Mrd. CHF": 2.29,
+        "Szenario": "D: Trockenjahr + Atomausstieg",
+        "order": 3
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Szenario",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "A: Baseline",
+          "B: Trockenjahr (-30% Hydro)",
+          "C: Atomausstieg",
+          "D: Trockenjahr + Atomausstieg"
+        ],
+        "range": [
+          "#6b7280",
+          "#f59e0b",
+          "#3b82f6",
+          "#ef4444"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "axis": {
+        "labelAngle": -15
+      },
+      "field": "Szenario",
+      "sort": {
+        "field": "order"
+      },
+      "title": null,
+      "type": "nominal"
+    },
+    "y": {
+      "field": "Kosten Mrd. CHF",
+      "title": "Importkosten (Mrd. CHF/Jahr)",
+      "type": "quantitative"
+    }
+  },
+  "height": 350,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Geschätzte Importkosten pro Szenario (bei 90 EUR/MWh)",
+  "width": 720
+}

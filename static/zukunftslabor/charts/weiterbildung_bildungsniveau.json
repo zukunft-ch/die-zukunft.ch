@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Bildungsniveau": "Obligatorische Schule",
+        "Teilnahme %": 30
+      },
+      {
+        "Bildungsniveau": "Sekundarstufe II: Berufsbildung",
+        "Teilnahme %": 56
+      },
+      {
+        "Bildungsniveau": "Sekundarstufe II: Allgemeinbildung",
+        "Teilnahme %": 64
+      },
+      {
+        "Bildungsniveau": "Höhere Berufsbildung",
+        "Teilnahme %": 74
+      },
+      {
+        "Bildungsniveau": "Hochschule (FH/Uni/ETH)",
+        "Teilnahme %": 79
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Teilnahme %",
+      "legend": null,
+      "scale": {
+        "scheme": "purples"
+      },
+      "type": "quantitative"
+    },
+    "x": {
+      "field": "Teilnahme %",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ]
+      },
+      "title": "Teilnahme an nicht-formaler Weiterbildung (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Bildungsniveau",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 350,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Weiterbildungsteilnahme nach Bildungsniveau (BFS Mikrozensus 2021)",
+  "width": 720
+}

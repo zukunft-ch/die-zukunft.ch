@@ -1,0 +1,144 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Kanton": "Zug",
+        "Miete CHF": 1813
+      },
+      {
+        "Kanton": "Zürich",
+        "Miete CHF": 1681
+      },
+      {
+        "Kanton": "Schwyz",
+        "Miete CHF": 1647
+      },
+      {
+        "Kanton": "Waadt",
+        "Miete CHF": 1457
+      },
+      {
+        "Kanton": "Genf",
+        "Miete CHF": 1452
+      },
+      {
+        "Kanton": "Nidwalden",
+        "Miete CHF": 1449
+      },
+      {
+        "Kanton": "Schweiz",
+        "Miete CHF": 1410
+      },
+      {
+        "Kanton": "Basel-Landschaft",
+        "Miete CHF": 1400
+      },
+      {
+        "Kanton": "Basel-Stadt",
+        "Miete CHF": 1399
+      },
+      {
+        "Kanton": "Aargau",
+        "Miete CHF": 1398
+      },
+      {
+        "Kanton": "Luzern",
+        "Miete CHF": 1395
+      },
+      {
+        "Kanton": "Graubünden",
+        "Miete CHF": 1372
+      },
+      {
+        "Kanton": "Obwalden",
+        "Miete CHF": 1328
+      },
+      {
+        "Kanton": "St.Gallen",
+        "Miete CHF": 1295
+      },
+      {
+        "Kanton": "Thurgau",
+        "Miete CHF": 1280
+      },
+      {
+        "Kanton": "Appenzell A.Rh.",
+        "Miete CHF": 1273
+      },
+      {
+        "Kanton": "Freiburg",
+        "Miete CHF": 1265
+      },
+      {
+        "Kanton": "Appenzell I.Rh.",
+        "Miete CHF": 1253
+      },
+      {
+        "Kanton": "Bern",
+        "Miete CHF": 1244
+      },
+      {
+        "Kanton": "Wallis",
+        "Miete CHF": 1241
+      },
+      {
+        "Kanton": "Tessin",
+        "Miete CHF": 1216
+      },
+      {
+        "Kanton": "Schaffhausen",
+        "Miete CHF": 1189
+      },
+      {
+        "Kanton": "Solothurn",
+        "Miete CHF": 1185
+      },
+      {
+        "Kanton": "Uri",
+        "Miete CHF": 1174
+      },
+      {
+        "Kanton": "Glarus",
+        "Miete CHF": 1153
+      },
+      {
+        "Kanton": "Neuenburg",
+        "Miete CHF": 1010
+      },
+      {
+        "Kanton": "Jura",
+        "Miete CHF": 926
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#a855f7"
+    },
+    "x": {
+      "field": "Miete CHF",
+      "title": "CHF/Monat",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Kanton",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 600,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Durchschnittliche Miete 3-Zimmer-Wohnung nach Kanton (2023)",
+  "width": 720
+}

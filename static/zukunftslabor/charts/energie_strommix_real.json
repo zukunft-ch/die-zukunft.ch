@@ -1,0 +1,805 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "GWh": 28934,
+        "Jahr": 2024,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 22983,
+        "Jahr": 2024,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 19403,
+        "Jahr": 2024,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 5961,
+        "Jahr": 2024,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1097,
+        "Jahr": 2024,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 171,
+        "Jahr": 2024,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 23334,
+        "Jahr": 2023,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 23289,
+        "Jahr": 2023,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17491,
+        "Jahr": 2023,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 4914,
+        "Jahr": 2023,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1051,
+        "Jahr": 2023,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 169,
+        "Jahr": 2023,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 23113,
+        "Jahr": 2022,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 18011,
+        "Jahr": 2022,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 15490,
+        "Jahr": 2022,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 4067,
+        "Jahr": 2022,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1094,
+        "Jahr": 2022,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 150,
+        "Jahr": 2022,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 22538,
+        "Jahr": 2021,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 18530,
+        "Jahr": 2021,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 16962,
+        "Jahr": 2021,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 2964,
+        "Jahr": 2021,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1115,
+        "Jahr": 2021,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 145,
+        "Jahr": 2021,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 22990,
+        "Jahr": 2020,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 22968,
+        "Jahr": 2020,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17648,
+        "Jahr": 2020,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 2692,
+        "Jahr": 2020,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1184,
+        "Jahr": 2020,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 145,
+        "Jahr": 2020,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 25280,
+        "Jahr": 2019,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 22856,
+        "Jahr": 2019,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17700,
+        "Jahr": 2019,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 2178,
+        "Jahr": 2019,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1177,
+        "Jahr": 2019,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 146,
+        "Jahr": 2019,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 24414,
+        "Jahr": 2018,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 20520,
+        "Jahr": 2018,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 16908,
+        "Jahr": 2018,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 1945,
+        "Jahr": 2018,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1169,
+        "Jahr": 2018,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 122,
+        "Jahr": 2018,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 20720,
+        "Jahr": 2017,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 19499,
+        "Jahr": 2017,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 15946,
+        "Jahr": 2017,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 1683,
+        "Jahr": 2017,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1182,
+        "Jahr": 2017,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 133,
+        "Jahr": 2017,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 20235,
+        "Jahr": 2016,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 19752,
+        "Jahr": 2016,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 16574,
+        "Jahr": 2016,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 1334,
+        "Jahr": 2016,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1182,
+        "Jahr": 2016,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 109,
+        "Jahr": 2016,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 22891,
+        "Jahr": 2015,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 22095,
+        "Jahr": 2015,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 16595,
+        "Jahr": 2015,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 1119,
+        "Jahr": 2015,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 1115,
+        "Jahr": 2015,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 110,
+        "Jahr": 2015,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 26370,
+        "Jahr": 2014,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 22065,
+        "Jahr": 2014,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17243,
+        "Jahr": 2014,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 1108,
+        "Jahr": 2014,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 842,
+        "Jahr": 2014,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 101,
+        "Jahr": 2014,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 24871,
+        "Jahr": 2013,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 21813,
+        "Jahr": 2013,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17759,
+        "Jahr": 2013,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 1050,
+        "Jahr": 2013,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 500,
+        "Jahr": 2013,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 90,
+        "Jahr": 2013,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 24345,
+        "Jahr": 2012,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 22074,
+        "Jahr": 2012,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17832,
+        "Jahr": 2012,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 1015,
+        "Jahr": 2012,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 299,
+        "Jahr": 2012,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 88,
+        "Jahr": 2012,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 25560,
+        "Jahr": 2011,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 19062,
+        "Jahr": 2011,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 14733,
+        "Jahr": 2011,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 963,
+        "Jahr": 2011,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 168,
+        "Jahr": 2011,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 70,
+        "Jahr": 2011,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 25205,
+        "Jahr": 2010,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 21420,
+        "Jahr": 2010,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 16030,
+        "Jahr": 2010,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 928,
+        "Jahr": 2010,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 94,
+        "Jahr": 2010,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 37,
+        "Jahr": 2010,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 26119,
+        "Jahr": 2009,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 21026,
+        "Jahr": 2009,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 16110,
+        "Jahr": 2009,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 884,
+        "Jahr": 2009,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 54,
+        "Jahr": 2009,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 23,
+        "Jahr": 2009,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 26132,
+        "Jahr": 2008,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 20873,
+        "Jahr": 2008,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 16686,
+        "Jahr": 2008,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 921,
+        "Jahr": 2008,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 37,
+        "Jahr": 2008,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 19,
+        "Jahr": 2008,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 26344,
+        "Jahr": 2007,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 19826,
+        "Jahr": 2007,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 16547,
+        "Jahr": 2007,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 919,
+        "Jahr": 2007,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 29,
+        "Jahr": 2007,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 16,
+        "Jahr": 2007,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 26244,
+        "Jahr": 2006,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 16738,
+        "Jahr": 2006,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 15819,
+        "Jahr": 2006,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 937,
+        "Jahr": 2006,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 24,
+        "Jahr": 2006,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 15,
+        "Jahr": 2006,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 22020,
+        "Jahr": 2005,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 17761,
+        "Jahr": 2005,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 14998,
+        "Jahr": 2005,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 838,
+        "Jahr": 2005,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 21,
+        "Jahr": 2005,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 8,
+        "Jahr": 2005,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 25432,
+        "Jahr": 2004,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 19078,
+        "Jahr": 2004,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 16039,
+        "Jahr": 2004,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 797,
+        "Jahr": 2004,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 18,
+        "Jahr": 2004,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 6,
+        "Jahr": 2004,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 25931,
+        "Jahr": 2003,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 21047,
+        "Jahr": 2003,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 15398,
+        "Jahr": 2003,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 752,
+        "Jahr": 2003,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 18,
+        "Jahr": 2003,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 5,
+        "Jahr": 2003,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 25692,
+        "Jahr": 2002,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 18888,
+        "Jahr": 2002,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17625,
+        "Jahr": 2002,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 735,
+        "Jahr": 2002,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 15,
+        "Jahr": 2002,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 5,
+        "Jahr": 2002,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 25293,
+        "Jahr": 2001,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 24510,
+        "Jahr": 2001,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17751,
+        "Jahr": 2001,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 705,
+        "Jahr": 2001,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 13,
+        "Jahr": 2001,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 4,
+        "Jahr": 2001,
+        "Quelle": "Wind"
+      },
+      {
+        "GWh": 24949,
+        "Jahr": 2000,
+        "Quelle": "Kernkraftwerke"
+      },
+      {
+        "GWh": 20285,
+        "Jahr": 2000,
+        "Quelle": "Speicherkraftwerke"
+      },
+      {
+        "GWh": 17566,
+        "Jahr": 2000,
+        "Quelle": "Laufkraftwerke"
+      },
+      {
+        "GWh": 670,
+        "Jahr": 2000,
+        "Quelle": "Andere Erneuerbare + Abfälle"
+      },
+      {
+        "GWh": 11,
+        "Jahr": 2000,
+        "Quelle": "Photovoltaik"
+      },
+      {
+        "GWh": 3,
+        "Jahr": 2000,
+        "Quelle": "Wind"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Quelle",
+      "scale": {
+        "domain": [
+          "Laufkraftwerke",
+          "Speicherkraftwerke",
+          "Kernkraftwerke",
+          "Photovoltaik",
+          "Wind",
+          "Andere Erneuerbare + Abfälle"
+        ],
+        "range": [
+          "#3b82f6",
+          "#06b6d4",
+          "#f59e0b",
+          "#a855f7",
+          "#10b981",
+          "#6b7280"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "GWh",
+      "stack": "zero",
+      "title": "Produktion (GWh)",
+      "type": "quantitative"
+    }
+  },
+  "height": 420,
+  "mark": {
+    "opacity": 0.85,
+    "type": "area"
+  },
+  "title": "Schweizer Elektrizitätsproduktion nach Quelle (2000–2024, BFE)",
+  "width": 720
+}

@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Exponierte Stellen Tsd": 189588,
+        "Risiko %": 32,
+        "Sektor": "Handel, Reparatur"
+      },
+      {
+        "Exponierte Stellen Tsd": 184378,
+        "Risiko %": 28,
+        "Sektor": "Verarbeitendes Gewerbe, Bergbau"
+      },
+      {
+        "Exponierte Stellen Tsd": 176924,
+        "Risiko %": 38,
+        "Sektor": "Freiberufliche, wiss. Dienstl."
+      },
+      {
+        "Exponierte Stellen Tsd": 141937,
+        "Risiko %": 18,
+        "Sektor": "Gesundheits-, Sozialwesen"
+      },
+      {
+        "Exponierte Stellen Tsd": 108497,
+        "Risiko %": 45,
+        "Sektor": "Finanz-, Versicherungsdienstl."
+      },
+      {
+        "Exponierte Stellen Tsd": 78455,
+        "Risiko %": 22,
+        "Sektor": "Sonstige wirtsch. Dienstl."
+      },
+      {
+        "Exponierte Stellen Tsd": 75716,
+        "Risiko %": 30,
+        "Sektor": "Gastgewerbe, Beherbergung"
+      },
+      {
+        "Exponierte Stellen Tsd": 67698,
+        "Risiko %": 35,
+        "Sektor": "Information, Kommunikation"
+      },
+      {
+        "Exponierte Stellen Tsd": 63264,
+        "Risiko %": 25,
+        "Sektor": "Verkehr, Lagerei"
+      },
+      {
+        "Exponierte Stellen Tsd": 57968,
+        "Risiko %": 15,
+        "Sektor": "Erziehung und Unterricht"
+      },
+      {
+        "Exponierte Stellen Tsd": 57599,
+        "Risiko %": 28,
+        "Sektor": "Öffentliche Verwaltung"
+      },
+      {
+        "Exponierte Stellen Tsd": 52623,
+        "Risiko %": 15,
+        "Sektor": "Baugewerbe"
+      },
+      {
+        "Exponierte Stellen Tsd": 17318,
+        "Risiko %": 25,
+        "Sektor": "Grundstücks-, Wohnungswesen"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#ef4444"
+    },
+    "x": {
+      "field": "Exponierte Stellen Tsd",
+      "title": "Exponierte Stellen Tsd",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Sektor",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 450,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Geschätzte exponierte Arbeitsplätze nach Post-LLM-Modell (Tsd.)",
+  "width": 720
+}

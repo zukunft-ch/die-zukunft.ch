@@ -1,0 +1,923 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Jahr": 2019,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 21652.5
+      },
+      {
+        "Jahr": 2019,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 16769.4
+      },
+      {
+        "Jahr": 2019,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 15730.2
+      },
+      {
+        "Jahr": 2019,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 12602.4
+      },
+      {
+        "Jahr": 2019,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 6675.7
+      },
+      {
+        "Jahr": 2019,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 3326.0
+      },
+      {
+        "Jahr": 2019,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1829.0
+      },
+      {
+        "Jahr": 2018,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 20753.5
+      },
+      {
+        "Jahr": 2018,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 16374.3
+      },
+      {
+        "Jahr": 2018,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 15547.7
+      },
+      {
+        "Jahr": 2018,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 12213.7
+      },
+      {
+        "Jahr": 2018,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 6188.4
+      },
+      {
+        "Jahr": 2018,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 3215.6
+      },
+      {
+        "Jahr": 2018,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 2126.1
+      },
+      {
+        "Jahr": 2017,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 21108.2
+      },
+      {
+        "Jahr": 2017,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 15942.8
+      },
+      {
+        "Jahr": 2017,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 15718.3
+      },
+      {
+        "Jahr": 2017,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 12088.4
+      },
+      {
+        "Jahr": 2017,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 6028.4
+      },
+      {
+        "Jahr": 2017,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 3157.1
+      },
+      {
+        "Jahr": 2017,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1937.1
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 20436.4
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 15758.0
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 15448.7
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 11702.1
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 5552.6
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 3103.2
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1894.0
+      },
+      {
+        "Jahr": 2015,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 19541.4
+      },
+      {
+        "Jahr": 2015,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 15385.9
+      },
+      {
+        "Jahr": 2015,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 15129.3
+      },
+      {
+        "Jahr": 2015,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 11100.1
+      },
+      {
+        "Jahr": 2015,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 5037.2
+      },
+      {
+        "Jahr": 2015,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2935.1
+      },
+      {
+        "Jahr": 2015,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1877.6
+      },
+      {
+        "Jahr": 2014,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 18680.8
+      },
+      {
+        "Jahr": 2014,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 14947.4
+      },
+      {
+        "Jahr": 2014,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 14627.9
+      },
+      {
+        "Jahr": 2014,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 10604.1
+      },
+      {
+        "Jahr": 2014,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 4766.9
+      },
+      {
+        "Jahr": 2014,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2870.1
+      },
+      {
+        "Jahr": 2014,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1852.4
+      },
+      {
+        "Jahr": 2013,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 17687.6
+      },
+      {
+        "Jahr": 2013,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 14791.2
+      },
+      {
+        "Jahr": 2013,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 14255.1
+      },
+      {
+        "Jahr": 2013,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 10418.9
+      },
+      {
+        "Jahr": 2013,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 4414.1
+      },
+      {
+        "Jahr": 2013,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2845.1
+      },
+      {
+        "Jahr": 2013,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1780.6
+      },
+      {
+        "Jahr": 2012,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 16924.5
+      },
+      {
+        "Jahr": 2012,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 14176.3
+      },
+      {
+        "Jahr": 2012,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 13831.6
+      },
+      {
+        "Jahr": 2012,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 10181.5
+      },
+      {
+        "Jahr": 2012,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 3966.3
+      },
+      {
+        "Jahr": 2012,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2898.9
+      },
+      {
+        "Jahr": 2012,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1699.7
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 16108.7
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 13582.5
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 13256.8
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 10097.6
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 3716.6
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2996.1
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1695.8
+      },
+      {
+        "Jahr": 2010,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 15808.3
+      },
+      {
+        "Jahr": 2010,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 13373.4
+      },
+      {
+        "Jahr": 2010,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 12589.3
+      },
+      {
+        "Jahr": 2010,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 10083.0
+      },
+      {
+        "Jahr": 2010,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 3322.2
+      },
+      {
+        "Jahr": 2010,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2918.4
+      },
+      {
+        "Jahr": 2010,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1706.7
+      },
+      {
+        "Jahr": 2009,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 14989.1
+      },
+      {
+        "Jahr": 2009,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 14456.9
+      },
+      {
+        "Jahr": 2009,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 12171.8
+      },
+      {
+        "Jahr": 2009,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 10014.3
+      },
+      {
+        "Jahr": 2009,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2801.6
+      },
+      {
+        "Jahr": 2009,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 2058.6
+      },
+      {
+        "Jahr": 2009,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1907.8
+      },
+      {
+        "Jahr": 2008,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 14473.3
+      },
+      {
+        "Jahr": 2008,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 13957.5
+      },
+      {
+        "Jahr": 2008,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 11565.6
+      },
+      {
+        "Jahr": 2008,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 9529.9
+      },
+      {
+        "Jahr": 2008,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2727.4
+      },
+      {
+        "Jahr": 2008,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 2008.7
+      },
+      {
+        "Jahr": 2008,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1749.0
+      },
+      {
+        "Jahr": 2007,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 13681.7
+      },
+      {
+        "Jahr": 2007,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 13088.7
+      },
+      {
+        "Jahr": 2007,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 11056.2
+      },
+      {
+        "Jahr": 2007,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 9131.1
+      },
+      {
+        "Jahr": 2007,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2519.6
+      },
+      {
+        "Jahr": 2007,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1872.9
+      },
+      {
+        "Jahr": 2007,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1668.0
+      },
+      {
+        "Jahr": 2006,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 13059.7
+      },
+      {
+        "Jahr": 2006,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 12584.8
+      },
+      {
+        "Jahr": 2006,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 10464.2
+      },
+      {
+        "Jahr": 2006,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 8878.8
+      },
+      {
+        "Jahr": 2006,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2422.4
+      },
+      {
+        "Jahr": 2006,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1815.2
+      },
+      {
+        "Jahr": 2006,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1493.8
+      },
+      {
+        "Jahr": 2005,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 12699.2
+      },
+      {
+        "Jahr": 2005,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 12584.0
+      },
+      {
+        "Jahr": 2005,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 10350.5
+      },
+      {
+        "Jahr": 2005,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 8936.3
+      },
+      {
+        "Jahr": 2005,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2331.5
+      },
+      {
+        "Jahr": 2005,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1828.7
+      },
+      {
+        "Jahr": 2005,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1440.4
+      },
+      {
+        "Jahr": 2004,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 12927.1
+      },
+      {
+        "Jahr": 2004,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 11959.0
+      },
+      {
+        "Jahr": 2004,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 9989.9
+      },
+      {
+        "Jahr": 2004,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 8821.5
+      },
+      {
+        "Jahr": 2004,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2296.8
+      },
+      {
+        "Jahr": 2004,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1731.5
+      },
+      {
+        "Jahr": 2004,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1440.8
+      },
+      {
+        "Jahr": 2003,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 12454.1
+      },
+      {
+        "Jahr": 2003,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 11535.0
+      },
+      {
+        "Jahr": 2003,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 9553.6
+      },
+      {
+        "Jahr": 2003,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 8526.1
+      },
+      {
+        "Jahr": 2003,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2211.5
+      },
+      {
+        "Jahr": 2003,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1587.3
+      },
+      {
+        "Jahr": 2003,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1388.8
+      },
+      {
+        "Jahr": 2002,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 12103.6
+      },
+      {
+        "Jahr": 2002,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 11139.3
+      },
+      {
+        "Jahr": 2002,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 9230.3
+      },
+      {
+        "Jahr": 2002,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 8012.9
+      },
+      {
+        "Jahr": 2002,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2175.3
+      },
+      {
+        "Jahr": 2002,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1564.6
+      },
+      {
+        "Jahr": 2002,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1339.7
+      },
+      {
+        "Jahr": 2001,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 11618.4
+      },
+      {
+        "Jahr": 2001,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 10790.3
+      },
+      {
+        "Jahr": 2001,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 8595.2
+      },
+      {
+        "Jahr": 2001,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 7908.1
+      },
+      {
+        "Jahr": 2001,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2084.8
+      },
+      {
+        "Jahr": 2001,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1521.6
+      },
+      {
+        "Jahr": 2001,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1303.5
+      },
+      {
+        "Jahr": 2000,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 10786.1
+      },
+      {
+        "Jahr": 2000,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 10243.5
+      },
+      {
+        "Jahr": 2000,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 8029.1
+      },
+      {
+        "Jahr": 2000,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 7453.2
+      },
+      {
+        "Jahr": 2000,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2040.0
+      },
+      {
+        "Jahr": 2000,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1463.5
+      },
+      {
+        "Jahr": 2000,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1235.4
+      },
+      {
+        "Jahr": 1999,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 10610.2
+      },
+      {
+        "Jahr": 1999,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 9774.2
+      },
+      {
+        "Jahr": 1999,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 7592.8
+      },
+      {
+        "Jahr": 1999,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 7097.8
+      },
+      {
+        "Jahr": 1999,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 2003.7
+      },
+      {
+        "Jahr": 1999,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1409.5
+      },
+      {
+        "Jahr": 1999,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1208.9
+      },
+      {
+        "Jahr": 1998,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 10343.7
+      },
+      {
+        "Jahr": 1998,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 9409.0
+      },
+      {
+        "Jahr": 1998,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 7441.3
+      },
+      {
+        "Jahr": 1998,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 6758.6
+      },
+      {
+        "Jahr": 1998,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 1999.1
+      },
+      {
+        "Jahr": 1998,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1366.4
+      },
+      {
+        "Jahr": 1998,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1148.6
+      },
+      {
+        "Jahr": 1997,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 10166.2
+      },
+      {
+        "Jahr": 1997,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 8865.7
+      },
+      {
+        "Jahr": 1997,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 7110.1
+      },
+      {
+        "Jahr": 1997,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 6559.9
+      },
+      {
+        "Jahr": 1997,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 1930.7
+      },
+      {
+        "Jahr": 1997,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1256.0
+      },
+      {
+        "Jahr": 1997,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1103.7
+      },
+      {
+        "Jahr": 1996,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 10120.6
+      },
+      {
+        "Jahr": 1996,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 8662.1
+      },
+      {
+        "Jahr": 1996,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 6860.9
+      },
+      {
+        "Jahr": 1996,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 6253.8
+      },
+      {
+        "Jahr": 1996,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 1916.2
+      },
+      {
+        "Jahr": 1996,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1252.5
+      },
+      {
+        "Jahr": 1996,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1120.5
+      },
+      {
+        "Jahr": 1995,
+        "Kategorie": "Stationäre Kurativbehandlung",
+        "Mio. CHF": 9742.4
+      },
+      {
+        "Jahr": 1995,
+        "Kategorie": "Ambulante Kurativbehandlung",
+        "Mio. CHF": 8336.0
+      },
+      {
+        "Jahr": 1995,
+        "Kategorie": "Langzeitpflege",
+        "Mio. CHF": 6446.0
+      },
+      {
+        "Jahr": 1995,
+        "Kategorie": "Gesundheitsgüter",
+        "Mio. CHF": 5961.2
+      },
+      {
+        "Jahr": 1995,
+        "Kategorie": "Verwaltung",
+        "Mio. CHF": 1725.0
+      },
+      {
+        "Jahr": 1995,
+        "Kategorie": "Unterstützende Dienste",
+        "Mio. CHF": 1231.2
+      },
+      {
+        "Jahr": 1995,
+        "Kategorie": "Prävention",
+        "Mio. CHF": 1098.6
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Kategorie",
+      "scale": {
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4",
+          "#10b981",
+          "#ef4444",
+          "#f59e0b",
+          "#8b5cf6"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Mio. CHF",
+      "stack": "zero",
+      "title": "Mio. CHF",
+      "type": "quantitative"
+    }
+  },
+  "height": 420,
+  "mark": {
+    "opacity": 0.8,
+    "type": "area"
+  },
+  "title": "Gesundheitsausgaben nach Kategorie — Schweiz (1995–2019)",
+  "width": 720
+}

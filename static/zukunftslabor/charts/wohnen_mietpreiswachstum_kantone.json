@@ -1,0 +1,166 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "CAGR %": 1.67,
+        "Kanton": "Appenzell A.Rh.",
+        "Miete_last": 1273
+      },
+      {
+        "CAGR %": 1.56,
+        "Kanton": "Wallis",
+        "Miete_last": 1241
+      },
+      {
+        "CAGR %": 1.47,
+        "Kanton": "Schwyz",
+        "Miete_last": 1647
+      },
+      {
+        "CAGR %": 1.41,
+        "Kanton": "Waadt",
+        "Miete_last": 1457
+      },
+      {
+        "CAGR %": 1.36,
+        "Kanton": "Schaffhausen",
+        "Miete_last": 1189
+      },
+      {
+        "CAGR %": 1.35,
+        "Kanton": "Thurgau",
+        "Miete_last": 1280
+      },
+      {
+        "CAGR %": 1.31,
+        "Kanton": "Zürich",
+        "Miete_last": 1681
+      },
+      {
+        "CAGR %": 1.29,
+        "Kanton": "Luzern",
+        "Miete_last": 1395
+      },
+      {
+        "CAGR %": 1.25,
+        "Kanton": "Aargau",
+        "Miete_last": 1398
+      },
+      {
+        "CAGR %": 1.16,
+        "Kanton": "St.Gallen",
+        "Miete_last": 1295
+      },
+      {
+        "CAGR %": 1.15,
+        "Kanton": "Basel-Stadt",
+        "Miete_last": 1399
+      },
+      {
+        "CAGR %": 1.08,
+        "Kanton": "Freiburg",
+        "Miete_last": 1265
+      },
+      {
+        "CAGR %": 1.0,
+        "Kanton": "Glarus",
+        "Miete_last": 1153
+      },
+      {
+        "CAGR %": 1.0,
+        "Kanton": "Jura",
+        "Miete_last": 926
+      },
+      {
+        "CAGR %": 0.99,
+        "Kanton": "Obwalden",
+        "Miete_last": 1328
+      },
+      {
+        "CAGR %": 0.99,
+        "Kanton": "Solothurn",
+        "Miete_last": 1185
+      },
+      {
+        "CAGR %": 0.96,
+        "Kanton": "Graubünden",
+        "Miete_last": 1372
+      },
+      {
+        "CAGR %": 0.9,
+        "Kanton": "Neuenburg",
+        "Miete_last": 1010
+      },
+      {
+        "CAGR %": 0.86,
+        "Kanton": "Bern",
+        "Miete_last": 1244
+      },
+      {
+        "CAGR %": 0.8,
+        "Kanton": "Uri",
+        "Miete_last": 1174
+      },
+      {
+        "CAGR %": 0.8,
+        "Kanton": "Zug",
+        "Miete_last": 1813
+      },
+      {
+        "CAGR %": 0.73,
+        "Kanton": "Tessin",
+        "Miete_last": 1216
+      },
+      {
+        "CAGR %": 0.7,
+        "Kanton": "Appenzell I.Rh.",
+        "Miete_last": 1253
+      },
+      {
+        "CAGR %": 0.66,
+        "Kanton": "Basel-Landschaft",
+        "Miete_last": 1400
+      },
+      {
+        "CAGR %": 0.65,
+        "Kanton": "Genf",
+        "Miete_last": 1452
+      },
+      {
+        "CAGR %": 0.53,
+        "Kanton": "Nidwalden",
+        "Miete_last": 1449
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#ef4444"
+    },
+    "x": {
+      "field": "CAGR %",
+      "title": "CAGR (%/Jahr)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Kanton",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 600,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Jährliches Mietpreiswachstum (CAGR) — 2010–2023",
+  "width": 720
+}

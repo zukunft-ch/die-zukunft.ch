@@ -1,0 +1,551 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Jahr": 2024,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 295360
+      },
+      {
+        "Jahr": 2024,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 212720
+      },
+      {
+        "Jahr": 2024,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 137240
+      },
+      {
+        "Jahr": 2024,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 121900
+      },
+      {
+        "Jahr": 2023,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 290250
+      },
+      {
+        "Jahr": 2023,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 211170
+      },
+      {
+        "Jahr": 2023,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 136540
+      },
+      {
+        "Jahr": 2023,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 121230
+      },
+      {
+        "Jahr": 2022,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 277370
+      },
+      {
+        "Jahr": 2022,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 212810
+      },
+      {
+        "Jahr": 2022,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 145250
+      },
+      {
+        "Jahr": 2022,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 122670
+      },
+      {
+        "Jahr": 2021,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 253000
+      },
+      {
+        "Jahr": 2021,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 242670
+      },
+      {
+        "Jahr": 2021,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 154050
+      },
+      {
+        "Jahr": 2021,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 136630
+      },
+      {
+        "Jahr": 2020,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 246620
+      },
+      {
+        "Jahr": 2020,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 220100
+      },
+      {
+        "Jahr": 2020,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 145750
+      },
+      {
+        "Jahr": 2020,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 128130
+      },
+      {
+        "Jahr": 2019,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 315570
+      },
+      {
+        "Jahr": 2019,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 227440
+      },
+      {
+        "Jahr": 2019,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 150540
+      },
+      {
+        "Jahr": 2019,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 134880
+      },
+      {
+        "Jahr": 2018,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 315190
+      },
+      {
+        "Jahr": 2018,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 224580
+      },
+      {
+        "Jahr": 2018,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 150880
+      },
+      {
+        "Jahr": 2018,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 134320
+      },
+      {
+        "Jahr": 2017,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 309080
+      },
+      {
+        "Jahr": 2017,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 237310
+      },
+      {
+        "Jahr": 2017,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 156340
+      },
+      {
+        "Jahr": 2017,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 140390
+      },
+      {
+        "Jahr": 2016,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 308850
+      },
+      {
+        "Jahr": 2016,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 242000
+      },
+      {
+        "Jahr": 2016,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 155410
+      },
+      {
+        "Jahr": 2016,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 142460
+      },
+      {
+        "Jahr": 2015,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 306230
+      },
+      {
+        "Jahr": 2015,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 233540
+      },
+      {
+        "Jahr": 2015,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 155090
+      },
+      {
+        "Jahr": 2015,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 138530
+      },
+      {
+        "Jahr": 2014,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 312580
+      },
+      {
+        "Jahr": 2014,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 219720
+      },
+      {
+        "Jahr": 2014,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 157650
+      },
+      {
+        "Jahr": 2014,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 131150
+      },
+      {
+        "Jahr": 2013,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 313540
+      },
+      {
+        "Jahr": 2013,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 260260
+      },
+      {
+        "Jahr": 2013,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 165220
+      },
+      {
+        "Jahr": 2013,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 150270
+      },
+      {
+        "Jahr": 2012,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 313840
+      },
+      {
+        "Jahr": 2012,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 245210
+      },
+      {
+        "Jahr": 2012,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 164270
+      },
+      {
+        "Jahr": 2012,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 143680
+      },
+      {
+        "Jahr": 2011,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 310430
+      },
+      {
+        "Jahr": 2011,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 226730
+      },
+      {
+        "Jahr": 2011,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 162600
+      },
+      {
+        "Jahr": 2011,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 135680
+      },
+      {
+        "Jahr": 2010,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 309250
+      },
+      {
+        "Jahr": 2010,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 266350
+      },
+      {
+        "Jahr": 2010,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 168920
+      },
+      {
+        "Jahr": 2010,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 152180
+      },
+      {
+        "Jahr": 2009,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 307190
+      },
+      {
+        "Jahr": 2009,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 246820
+      },
+      {
+        "Jahr": 2009,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 161210
+      },
+      {
+        "Jahr": 2009,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 142800
+      },
+      {
+        "Jahr": 2008,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 312980
+      },
+      {
+        "Jahr": 2008,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 249000
+      },
+      {
+        "Jahr": 2008,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 171310
+      },
+      {
+        "Jahr": 2008,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 144610
+      },
+      {
+        "Jahr": 2007,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 303420
+      },
+      {
+        "Jahr": 2007,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 234460
+      },
+      {
+        "Jahr": 2007,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 168580
+      },
+      {
+        "Jahr": 2007,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 137410
+      },
+      {
+        "Jahr": 2006,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 295410
+      },
+      {
+        "Jahr": 2006,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 255050
+      },
+      {
+        "Jahr": 2006,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 170530
+      },
+      {
+        "Jahr": 2006,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 145680
+      },
+      {
+        "Jahr": 2005,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 290470
+      },
+      {
+        "Jahr": 2005,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 261350
+      },
+      {
+        "Jahr": 2005,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 166920
+      },
+      {
+        "Jahr": 2005,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 148750
+      },
+      {
+        "Jahr": 2004,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 288180
+      },
+      {
+        "Jahr": 2004,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 255720
+      },
+      {
+        "Jahr": 2004,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 165000
+      },
+      {
+        "Jahr": 2004,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 144260
+      },
+      {
+        "Jahr": 2003,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 289440
+      },
+      {
+        "Jahr": 2003,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 253710
+      },
+      {
+        "Jahr": 2003,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 162540
+      },
+      {
+        "Jahr": 2003,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 144830
+      },
+      {
+        "Jahr": 2002,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 291990
+      },
+      {
+        "Jahr": 2002,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 242060
+      },
+      {
+        "Jahr": 2002,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 158820
+      },
+      {
+        "Jahr": 2002,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 138750
+      },
+      {
+        "Jahr": 2001,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 296840
+      },
+      {
+        "Jahr": 2001,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 247470
+      },
+      {
+        "Jahr": 2001,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 166260
+      },
+      {
+        "Jahr": 2001,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 143930
+      },
+      {
+        "Jahr": 2000,
+        "Sektor": "Verkehr",
+        "Verbrauch_TJ": 304120
+      },
+      {
+        "Jahr": 2000,
+        "Sektor": "Haushalte",
+        "Verbrauch_TJ": 236490
+      },
+      {
+        "Jahr": 2000,
+        "Sektor": "Industrie",
+        "Verbrauch_TJ": 160770
+      },
+      {
+        "Jahr": 2000,
+        "Sektor": "Dienstleistungen",
+        "Verbrauch_TJ": 137200
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Sektor",
+      "scale": {
+        "domain": [
+          "Verkehr",
+          "Haushalte",
+          "Industrie",
+          "Dienstleistungen"
+        ],
+        "range": [
+          "#ef4444",
+          "#3b82f6",
+          "#f59e0b",
+          "#10b981"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Verbrauch_TJ",
+      "stack": "zero",
+      "title": "Endenergieverbrauch (TJ)",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "opacity": 0.8,
+    "type": "area"
+  },
+  "title": "Endenergieverbrauch nach Sektor — Schweiz (2000–2024, BFE)",
+  "width": 720
+}

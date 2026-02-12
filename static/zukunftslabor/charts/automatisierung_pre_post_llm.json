@@ -1,0 +1,178 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Hohes Risiko %": 35,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Verarbeitendes Gewerbe, Bergbau"
+      },
+      {
+        "Hohes Risiko %": 28,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Verarbeitendes Gewerbe, Bergbau"
+      },
+      {
+        "Hohes Risiko %": 28,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Handel, Reparatur"
+      },
+      {
+        "Hohes Risiko %": 32,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Handel, Reparatur"
+      },
+      {
+        "Hohes Risiko %": 42,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Gastgewerbe, Beherbergung"
+      },
+      {
+        "Hohes Risiko %": 30,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Gastgewerbe, Beherbergung"
+      },
+      {
+        "Hohes Risiko %": 38,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Verkehr, Lagerei"
+      },
+      {
+        "Hohes Risiko %": 25,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Verkehr, Lagerei"
+      },
+      {
+        "Hohes Risiko %": 22,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Finanz-, Versicherungsdienstl."
+      },
+      {
+        "Hohes Risiko %": 45,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Finanz-, Versicherungsdienstl."
+      },
+      {
+        "Hohes Risiko %": 12,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Gesundheits-, Sozialwesen"
+      },
+      {
+        "Hohes Risiko %": 18,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Gesundheits-, Sozialwesen"
+      },
+      {
+        "Hohes Risiko %": 8,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Information, Kommunikation"
+      },
+      {
+        "Hohes Risiko %": 35,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Information, Kommunikation"
+      },
+      {
+        "Hohes Risiko %": 25,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Baugewerbe"
+      },
+      {
+        "Hohes Risiko %": 15,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Baugewerbe"
+      },
+      {
+        "Hohes Risiko %": 5,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Erziehung und Unterricht"
+      },
+      {
+        "Hohes Risiko %": 15,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Erziehung und Unterricht"
+      },
+      {
+        "Hohes Risiko %": 15,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Öffentliche Verwaltung"
+      },
+      {
+        "Hohes Risiko %": 28,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Öffentliche Verwaltung"
+      },
+      {
+        "Hohes Risiko %": 10,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Freiberufliche, wiss. Dienstl."
+      },
+      {
+        "Hohes Risiko %": 38,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Freiberufliche, wiss. Dienstl."
+      },
+      {
+        "Hohes Risiko %": 30,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Sonstige wirtsch. Dienstl."
+      },
+      {
+        "Hohes Risiko %": 22,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Sonstige wirtsch. Dienstl."
+      },
+      {
+        "Hohes Risiko %": 18,
+        "Modell": "Pre-LLM (OECD 2018)",
+        "Sektor": "Grundstücks-, Wohnungswesen"
+      },
+      {
+        "Hohes Risiko %": 25,
+        "Modell": "Post-LLM (IMF 2024)",
+        "Sektor": "Grundstücks-, Wohnungswesen"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Modell",
+      "scale": {
+        "domain": [
+          "Pre-LLM (OECD 2018)",
+          "Post-LLM (IMF 2024)"
+        ],
+        "range": [
+          "#6b7280",
+          "#a855f7"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Hohes Risiko %",
+      "title": "Anteil mit hohem Automatisierungsrisiko (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Sektor",
+      "sort": "-x",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 500,
+  "mark": {
+    "filled": true,
+    "size": 100,
+    "type": "point"
+  },
+  "title": "Automatisierungsrisiko: Pre-LLM (2018) vs. Post-LLM (2024)",
+  "width": 720
+}

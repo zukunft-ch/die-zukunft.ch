@@ -1,0 +1,102 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Jahr": 2011,
+        "Kategorie": "Total",
+        "Teilnahme %": 63
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Total",
+        "Teilnahme %": 62
+      },
+      {
+        "Jahr": 2021,
+        "Kategorie": "Total",
+        "Teilnahme %": 60
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Obligatorische Schule",
+        "Teilnahme %": 32
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Obligatorische Schule",
+        "Teilnahme %": 31
+      },
+      {
+        "Jahr": 2021,
+        "Kategorie": "Obligatorische Schule",
+        "Teilnahme %": 30
+      },
+      {
+        "Jahr": 2011,
+        "Kategorie": "Hochschule",
+        "Teilnahme %": 77
+      },
+      {
+        "Jahr": 2016,
+        "Kategorie": "Hochschule",
+        "Teilnahme %": 80
+      },
+      {
+        "Jahr": 2021,
+        "Kategorie": "Hochschule",
+        "Teilnahme %": 79
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Kategorie",
+      "scale": {
+        "domain": [
+          "Total",
+          "Obligatorische Schule",
+          "Hochschule"
+        ],
+        "range": [
+          "#a855f7",
+          "#ef4444",
+          "#3b82f6"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Erhebungsjahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Teilnahme %",
+      "scale": {
+        "domain": [
+          20,
+          90
+        ]
+      },
+      "title": "Teilnahme (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 350,
+  "mark": {
+    "point": {
+      "size": 80
+    },
+    "strokeWidth": 2.5,
+    "type": "line"
+  },
+  "title": "Weiterbildungsteilnahme im Zeitverlauf (BFS Mikrozensus)",
+  "width": 720
+}

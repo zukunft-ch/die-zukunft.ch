@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Kategorie": "CH Verwaltungsanteil",
+        "Wert %": 5.2
+      },
+      {
+        "Kategorie": "OECD-Schnitt",
+        "Wert %": 3.3
+      },
+      {
+        "Kategorie": "Überschuss",
+        "Wert %": 1.9000000000000004
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Kategorie",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "CH Verwaltungsanteil",
+          "OECD-Schnitt",
+          "Überschuss"
+        ],
+        "range": [
+          "#a855f7",
+          "#6b7280",
+          "#ef4444"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Wert %",
+      "title": "Anteil (%)",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Kategorie",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Verwaltungsüberschuss der Schweiz",
+  "width": 720
+}

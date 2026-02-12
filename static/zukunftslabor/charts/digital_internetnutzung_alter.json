@@ -1,0 +1,145 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Altersgruppe": "15–29",
+        "Jahr": 2025,
+        "Nutzung %": 94.6
+      },
+      {
+        "Altersgruppe": "15–29",
+        "Jahr": 2023,
+        "Nutzung %": 95.3
+      },
+      {
+        "Altersgruppe": "15–29",
+        "Jahr": 2021,
+        "Nutzung %": 95.7
+      },
+      {
+        "Altersgruppe": "15–29",
+        "Jahr": 2019,
+        "Nutzung %": 95.9
+      },
+      {
+        "Altersgruppe": "15–29",
+        "Jahr": 2017,
+        "Nutzung %": 96.3
+      },
+      {
+        "Altersgruppe": "15–29",
+        "Jahr": 2014,
+        "Nutzung %": 95.7
+      },
+      {
+        "Altersgruppe": "30–59",
+        "Jahr": 2025,
+        "Nutzung %": 95.5
+      },
+      {
+        "Altersgruppe": "30–59",
+        "Jahr": 2023,
+        "Nutzung %": 94.6
+      },
+      {
+        "Altersgruppe": "30–59",
+        "Jahr": 2021,
+        "Nutzung %": 93.6
+      },
+      {
+        "Altersgruppe": "30–59",
+        "Jahr": 2019,
+        "Nutzung %": 92.6
+      },
+      {
+        "Altersgruppe": "30–59",
+        "Jahr": 2017,
+        "Nutzung %": 90.6
+      },
+      {
+        "Altersgruppe": "30–59",
+        "Jahr": 2014,
+        "Nutzung %": 87.8
+      },
+      {
+        "Altersgruppe": "60+",
+        "Jahr": 2025,
+        "Nutzung %": 78.9
+      },
+      {
+        "Altersgruppe": "60+",
+        "Jahr": 2023,
+        "Nutzung %": 78.5
+      },
+      {
+        "Altersgruppe": "60+",
+        "Jahr": 2021,
+        "Nutzung %": 72.8
+      },
+      {
+        "Altersgruppe": "60+",
+        "Jahr": 2019,
+        "Nutzung %": 70.4
+      },
+      {
+        "Altersgruppe": "60+",
+        "Jahr": 2017,
+        "Nutzung %": 62.7
+      },
+      {
+        "Altersgruppe": "60+",
+        "Jahr": 2014,
+        "Nutzung %": 48.1
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Altersgruppe",
+      "scale": {
+        "domain": [
+          "15–29",
+          "30–59",
+          "60+"
+        ],
+        "range": [
+          "#a855f7",
+          "#3b82f6",
+          "#06b6d4"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "field": "Jahr",
+      "title": "Jahr",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Nutzung %",
+      "scale": {
+        "domain": [
+          40,
+          100
+        ]
+      },
+      "title": "Anteil der Bevölkerung (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 380,
+  "mark": {
+    "point": true,
+    "strokeWidth": 2,
+    "type": "line"
+  },
+  "title": "Internetnutzung nach Altersgruppe — Schweiz (BFS Omnibus ICT, 2014–2025)",
+  "width": 720
+}

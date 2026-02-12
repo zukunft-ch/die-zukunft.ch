@@ -1,0 +1,207 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Belastung %": 45.5,
+        "CAGR %": 1.67,
+        "Kanton": "Appenzell A.Rh.",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 44.3,
+        "CAGR %": 1.56,
+        "Kanton": "Wallis",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 58.8,
+        "CAGR %": 1.47,
+        "Kanton": "Schwyz",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 52.0,
+        "CAGR %": 1.41,
+        "Kanton": "Waadt",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 42.5,
+        "CAGR %": 1.36,
+        "Kanton": "Schaffhausen",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 45.7,
+        "CAGR %": 1.35,
+        "Kanton": "Thurgau",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 60.0,
+        "CAGR %": 1.31,
+        "Kanton": "Zürich",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 49.8,
+        "CAGR %": 1.29,
+        "Kanton": "Luzern",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 49.9,
+        "CAGR %": 1.25,
+        "Kanton": "Aargau",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 46.3,
+        "CAGR %": 1.16,
+        "Kanton": "St.Gallen",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 50.0,
+        "CAGR %": 1.15,
+        "Kanton": "Basel-Stadt",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 45.2,
+        "CAGR %": 1.08,
+        "Kanton": "Freiburg",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 41.2,
+        "CAGR %": 1.0,
+        "Kanton": "Glarus",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 33.1,
+        "CAGR %": 1.0,
+        "Kanton": "Jura",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 47.4,
+        "CAGR %": 0.99,
+        "Kanton": "Obwalden",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 42.3,
+        "CAGR %": 0.99,
+        "Kanton": "Solothurn",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 49.0,
+        "CAGR %": 0.96,
+        "Kanton": "Graubünden",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 36.1,
+        "CAGR %": 0.9,
+        "Kanton": "Neuenburg",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 44.4,
+        "CAGR %": 0.86,
+        "Kanton": "Bern",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 41.9,
+        "CAGR %": 0.8,
+        "Kanton": "Uri",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 64.8,
+        "CAGR %": 0.8,
+        "Kanton": "Zug",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 43.4,
+        "CAGR %": 0.73,
+        "Kanton": "Tessin",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 44.8,
+        "CAGR %": 0.7,
+        "Kanton": "Appenzell I.Rh.",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 50.0,
+        "CAGR %": 0.66,
+        "Kanton": "Basel-Landschaft",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 51.9,
+        "CAGR %": 0.65,
+        "Kanton": "Genf",
+        "Schwelle erreicht": 2023
+      },
+      {
+        "Belastung %": 51.7,
+        "CAGR %": 0.53,
+        "Kanton": "Nidwalden",
+        "Schwelle erreicht": 2023
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "Schwelle erreicht",
+      "legend": null,
+      "scale": {
+        "reverse": true,
+        "scheme": "redyellowgreen"
+      },
+      "type": "quantitative"
+    },
+    "x": {
+      "field": "Schwelle erreicht",
+      "scale": {
+        "domain": [
+          2020,
+          2060
+        ]
+      },
+      "title": "Jahr der 30%-Überschreitung",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Kanton",
+      "sort": {
+        "field": "Schwelle erreicht",
+        "order": "ascending"
+      },
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "height": 500,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Wann erreicht Q1 die 30%-Schwelle? (bei 1% Einkommenswachstum)",
+  "width": 720
+}

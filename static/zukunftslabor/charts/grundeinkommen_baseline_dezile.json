@@ -1,0 +1,75 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Anteil": 2.69,
+        "Dezil": 1
+      },
+      {
+        "Anteil": 5.26,
+        "Dezil": 2
+      },
+      {
+        "Anteil": 6.43,
+        "Dezil": 3
+      },
+      {
+        "Anteil": 7.35,
+        "Dezil": 4
+      },
+      {
+        "Anteil": 8.48,
+        "Dezil": 5
+      },
+      {
+        "Anteil": 9.64,
+        "Dezil": 6
+      },
+      {
+        "Anteil": 10.79,
+        "Dezil": 7
+      },
+      {
+        "Anteil": 12.39,
+        "Dezil": 8
+      },
+      {
+        "Anteil": 14.54,
+        "Dezil": 9
+      },
+      {
+        "Anteil": 22.43,
+        "Dezil": 10
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "value": "#a855f7"
+    },
+    "x": {
+      "field": "Dezil",
+      "title": "Einkommensdezil",
+      "type": "ordinal"
+    },
+    "y": {
+      "field": "Anteil",
+      "title": "Anteil am Gesamteinkommen (%)",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "cornerRadiusEnd": 4,
+    "type": "bar"
+  },
+  "title": "Einkommensanteile nach Dezil — Verfügbares Äquivalenzeinkommen (2018)",
+  "width": 720
+}
