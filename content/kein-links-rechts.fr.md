@@ -2,11 +2,78 @@
 title = "Ni gauche. Ni droite. Tournés vers l'avenir."
 slug = "au-dela-gauche-droite"
 description = "Pourquoi Le Futur ne rentre pas dans le schéma gauche-droite – et comment nous décidons à la place."
-template = "page.html"
+template = "kein-links-rechts.html"
 
 [extra]
 show_cta = true
 cta_text = "Assez de la logique des camps ? Rejoignez-nous."
+
+# Radar viz
+radar_title = "Le radar politique"
+radar_intro = "Gauche et droite ne sont qu'un seul axe. Les vrais défis de la Suisse se jouent sur au moins cinq. Ce radar montre où se situent les positions typiques de gauche et de droite – et où se positionne Le Futur."
+axes_title = "Cinq axes, cinq positions"
+axes_example_label = "Exemple"
+
+# Profile labels + colors
+profile_left_label = "Typiquement Gauche"
+profile_left_short = "G"
+profile_left_color = "#ef4444"
+profile_right_label = "Typiquement Droite"
+profile_right_short = "D"
+profile_right_color = "#f97316"
+profile_zukunft_label = "Le Futur"
+profile_zukunft_short = "F"
+profile_zukunft_color = "#a855f7"
+
+[[extra.radar_axes]]
+label = "Souveraineté"
+low_label = "Dépendant"
+high_label = "Souverain"
+description = "À quel point un pays est-il indépendant dans ses infrastructures critiques, ses données, son énergie et sa technologie ? La souveraineté ne signifie pas l'isolement – mais la capacité d'action stratégique."
+example = "Infrastructure numérique sur des serveurs suisses plutôt que sur des plateformes cloud étrangères dont l'accès peut être coupé à tout moment."
+v_left = 4
+v_right = 5
+v_zukunft = 9
+
+[[extra.radar_axes]]
+label = "Fonctionnalité"
+low_label = "Bureaucratique"
+high_label = "Fonctionnel"
+description = "Les administrations, les autorisations et les services publics fonctionnent-ils comme on est en droit de l'attendre au 21e siècle ? Ou l'État reste-t-il un labyrinthe de formulaires ?"
+example = "Créer une entreprise en 48 heures au lieu de 6 semaines – de manière numérique, simple, sans montagne de papiers."
+v_left = 3
+v_right = 6
+v_zukunft = 9
+
+[[extra.radar_axes]]
+label = "Transparence"
+low_label = "Boîte noire"
+high_label = "Transparent"
+description = "Les citoyennes et citoyens peuvent-ils comprendre comment les décisions sont prises, où vont les fonds et quels algorithmes les jugent ?"
+example = "Des algorithmes ouverts pour les primes d'assurance maladie et les calculs AVS au lieu de modèles opaques derrière des portes closes."
+v_left = 5
+v_right = 3
+v_zukunft = 9
+
+[[extra.radar_axes]]
+label = "Abondance"
+low_label = "Pensée de pénurie"
+high_label = "Abondance"
+description = "Les gains de productivité sont-ils perçus comme une menace – ou comme une chance de distribuer la prospérité plus largement ? L'abondance signifie : assez pour tous, si nous organisons bien."
+example = "L'automatisation dans les soins soulage le personnel des tâches routinières au lieu de supprimer des postes – plus de temps pour les personnes."
+v_left = 4
+v_right = 5
+v_zukunft = 8
+
+[[extra.radar_axes]]
+label = "Courage de mise en œuvre"
+low_label = "Politique symbolique"
+high_label = "Mise en œuvre"
+description = "La politique est-elle mesurée à ses déclarations d'intention – ou à ses résultats mesurables ? Le courage de mise en œuvre signifie : lancer des projets pilotes, mesurer, passer à l'échelle."
+example = "Tester un revenu de base dans une commune pilote au lieu de débattre pendant des années de sa faisabilité théorique."
+v_left = 4
+v_right = 4
+v_zukunft = 9
 
 [[extra.sections]]
 title = "Ni gauche. Ni droite. Tournés vers l'avenir."
@@ -68,4 +135,3 @@ points = [
 title = "Ce que nous défendons"
 text = "Un État qui rend le changement possible, au lieu de le gérer. Une Suisse qui reste souveraine et coopère de manière constructive avec l'Europe. Une société qui traduit l'abondance en prospérité, confort et bien-être. Si vous en avez assez de la logique des camps : bienvenue."
 +++
-
