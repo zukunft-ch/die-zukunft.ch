@@ -37,7 +37,7 @@ taxonomies = [{name = "tags", feed = false}]
 [extra]
 contact_email = "hey@die-zukunft.ch"
 contact_city = "Basel, Schweiz"
-formspree_endpoint = "https://formspree.io/f/your-form-id"
+forms_endpoint = "https://api.die-zukunft.ch"
 
 # --- DE translations (default) ---
 [translations]
@@ -122,6 +122,11 @@ lab_latest_notes = "Aktuelle Notizen"
 lab_all_notes = "Alle Notizen"
 lab_tags = "Schlagwörter"
 lab_read_more = "Weiterlesen"
+btn_send = "Absenden"
+btn_subscribe = "Abonnieren"
+form_success = "Vielen Dank! Ihre Nachricht wurde gesendet."
+form_error = "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+sub_success = "Danke! Sie sind jetzt angemeldet."
 
 # --- FR translations ---
 [languages.fr.translations]
@@ -206,6 +211,11 @@ lab_latest_notes = "Dernières notes"
 lab_all_notes = "Toutes les notes"
 lab_tags = "Mots-clés"
 lab_read_more = "Lire la suite"
+btn_send = "Envoyer"
+btn_subscribe = "S'abonner"
+form_success = "Merci ! Votre message a été envoyé."
+form_error = "Une erreur s'est produite. Veuillez réessayer."
+sub_success = "Merci ! Vous êtes inscrit(e)."
 
 # --- IT translations ---
 [languages.it.translations]
@@ -290,6 +300,11 @@ lab_latest_notes = "Note recenti"
 lab_all_notes = "Tutte le note"
 lab_tags = "Etichette"
 lab_read_more = "Continua"
+btn_send = "Inviare"
+btn_subscribe = "Iscriviti"
+form_success = "Grazie! Il tuo messaggio è stato inviato."
+form_error = "Si è verificato un errore. Riprova."
+sub_success = "Grazie! Sei iscritto/a."
 
 # --- EN translations ---
 [languages.en.translations]
@@ -374,3 +389,8 @@ lab_latest_notes = "Latest notes"
 lab_all_notes = "All notes"
 lab_tags = "Tags"
 lab_read_more = "Read more"
+btn_send = "Send"
+btn_subscribe = "Subscribe"
+form_success = "Thank you! Your message has been sent."
+form_error = "An error occurred. Please try again."
+sub_success = "Thank you! You're subscribed."

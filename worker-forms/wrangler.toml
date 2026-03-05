@@ -1,0 +1,19 @@
+name = "form-handler"
+main = "src/worker.js"
+compatibility_date = "2024-09-23"
+
+[[routes]]
+pattern = "api.die-zukunft.ch/*"
+zone_name = "die-zukunft.ch"
+
+[[kv_namespaces]]
+binding = "FORMS"
+id = "bba8fc0a26a54981ae5c716e8808dd18"
+
+[vars]
+NOTIFY_FROM = "forms@die-zukunft.ch"
+NOTIFY_TO = "raffael.schneider@protonmail.com"
+
+[[send_email]]
+name = "EMAIL"
+destination_address = "raffael.schneider@protonmail.com"

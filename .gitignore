@@ -2,3 +2,4 @@ public/
 .DS_Store
 .nova/
 node_modules/
+docs/
