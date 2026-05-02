@@ -3,6 +3,9 @@ title = "Il primo posto non è un piano"
 description = "Per il quindicesimo anno consecutivo la Svizzera è in testa al Global Innovation Index. Questo descrive il passato. La sostanza sulla quale saremo misurati si costruisce oggi."
 date = 2026-05-01
 template = "page.html"
+
+[extra]
+og_image = "og/aktuelles/platz-1-ist-kein-plan.it.png"
 +++
 
 Per il quindicesimo anno consecutivo la Svizzera è in testa al Global Innovation Index. 66,0 punti su 100, davanti a Svezia, Stati Uniti, Corea e Singapore. È un risultato notevole. È anche una descrizione del passato.

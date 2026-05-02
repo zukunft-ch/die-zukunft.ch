@@ -3,6 +3,9 @@ title = "Switzerland Is Number One. That Should Worry Us."
 description = "Switzerland tops the Global Innovation Index for the fifteenth year running. That describes the past. The substance we will be measured on is being built today."
 date = 2026-05-01
 template = "page.html"
+
+[extra]
+og_image = "og/aktuelles/platz-1-ist-kein-plan.en.png"
 +++
 
 Switzerland tops the Global Innovation Index for the fifteenth consecutive year. 66.0 out of 100, ahead of Sweden, the United States, Korea, and Singapore. It is a remarkable result. It is also a description of the past.

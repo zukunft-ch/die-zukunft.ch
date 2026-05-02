@@ -3,6 +3,9 @@ title = "Platz 1 ist kein Plan"
 description = "Die Schweiz steht zum fünfzehnten Mal in Folge an der Spitze des Global Innovation Index. Das beschreibt die Vergangenheit. Die Substanz, an der wir gemessen werden, baut sich heute."
 date = 2026-05-01
 template = "page.html"
+
+[extra]
+og_image = "og/aktuelles/platz-1-ist-kein-plan.de.png"
 +++
 
 Die Schweiz steht zum fünfzehnten Mal in Folge an der Spitze des Global Innovation Index. 66,0 von 100 Punkten, vor Schweden, den USA, Korea und Singapur. Das ist eine bemerkenswerte Leistung. Es ist auch eine Beschreibung der Vergangenheit.

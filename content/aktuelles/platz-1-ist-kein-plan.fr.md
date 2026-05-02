@@ -3,6 +3,9 @@ title = "La première place n'est pas un plan"
 description = "Pour la quinzième année consécutive, la Suisse est en tête de l'indice mondial de l'innovation. Cela décrit le passé. La substance sur laquelle nous serons mesurés se construit aujourd'hui."
 date = 2026-05-01
 template = "page.html"
+
+[extra]
+og_image = "og/aktuelles/platz-1-ist-kein-plan.fr.png"
 +++
 
 Pour la quinzième année consécutive, la Suisse est en tête du Global Innovation Index. 66,0 sur 100, devant la Suède, les États-Unis, la Corée et Singapour. C'est une performance remarquable. C'est aussi une description du passé.
