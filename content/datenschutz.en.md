@@ -19,7 +19,7 @@ The protection of your personal data is important to us. We only collect data th
 
 ### Contact form
 
-When you contact us via the contact form, your details (name, email, message) are processed through the service Formspree. This data is used exclusively to handle your enquiry and is not shared with third parties.
+When you contact us via the contact form, your details (name, email, message) are processed by our own application running on Cloudflare infrastructure. This data is used exclusively to handle your enquiry and is not shared with third parties.
 
 ### Newsletter
 

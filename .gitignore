@@ -3,3 +3,4 @@ public/
 .nova/
 node_modules/
 docs/
+.claude/settings.local.json

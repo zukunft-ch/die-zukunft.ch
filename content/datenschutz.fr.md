@@ -19,7 +19,7 @@ La protection de vos données personnelles nous tient à cœur. Nous ne collecto
 
 ### Formulaire de contact
 
-Lorsque vous nous contactez via le formulaire de contact, vos informations (nom, e-mail, message) sont traitées par le service Formspree. Ces données sont utilisées exclusivement pour répondre à votre demande et ne sont pas transmises à des tiers.
+Lorsque vous nous contactez via le formulaire de contact, vos informations (nom, e-mail, message) sont traitées par notre propre application hébergée sur l'infrastructure de Cloudflare. Ces données sont utilisées exclusivement pour répondre à votre demande et ne sont pas transmises à des tiers.
 
 ### Newsletter
 

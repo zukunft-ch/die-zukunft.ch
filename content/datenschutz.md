@@ -19,7 +19,7 @@ Der Schutz Ihrer persönlichen Daten ist uns wichtig. Wir erheben nur die Daten,
 
 ### Kontaktformular
 
-Wenn Sie uns über das Kontaktformular kontaktieren, werden Ihre Angaben (Name, E-Mail, Nachricht) über den Dienst Formspree verarbeitet. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage verwendet und nicht an Dritte weitergegeben.
+Wenn Sie uns über das Kontaktformular kontaktieren, werden Ihre Angaben (Name, E-Mail, Nachricht) über unsere eigene Anwendung auf der Infrastruktur von Cloudflare verarbeitet. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage verwendet und nicht an Dritte weitergegeben.
 
 ### Newsletter
 

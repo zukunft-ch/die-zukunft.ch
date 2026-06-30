@@ -19,7 +19,7 @@ La protezione dei vostri dati personali è importante per noi. Raccogliamo solo 
 
 ### Modulo di contatto
 
-Quando ci contattate tramite il modulo di contatto, le vostre informazioni (nome, e-mail, messaggio) vengono elaborate dal servizio Formspree. Questi dati vengono utilizzati esclusivamente per rispondere alla vostra richiesta e non vengono trasmessi a terzi.
+Quando ci contattate tramite il modulo di contatto, le vostre informazioni (nome, e-mail, messaggio) vengono elaborate dalla nostra applicazione ospitata sull'infrastruttura di Cloudflare. Questi dati vengono utilizzati esclusivamente per rispondere alla vostra richiesta e non vengono trasmessi a terzi.
 
 ### Newsletter
 
