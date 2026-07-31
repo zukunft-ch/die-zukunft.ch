@@ -4,6 +4,13 @@ description = "Wohlstand, Komfort und Wohlergehen für alle – mit einem modern
 template = "index.html"
 
 [extra]
+# 1. August banner (homepage meta-slot 0x00F0). Date-gated + dismissable via JS.
+# Remove these four keys after the Bundesfeiertag to retire the banner.
+banner_eyebrow = "1. August · Bundesfeiertag"
+banner_title = "Zur Schweiz von morgen."
+banner_text = "735 Jahre nach 1291 feiern wir eine Idee, die modern geblieben ist: die eigene Zukunft selbst gestalten."
+banner_cta = "Unsere Botschaft lesen"
+
 hero_title = "Die Zukunft"
 hero_subline = "Wohlstand statt Angst. Souveränität statt Abhängigkeit."
 hero_descriptor = "Eine neue Schweizer Partei"

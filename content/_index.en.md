@@ -4,6 +4,13 @@ description = "Prosperity, comfort and well-being for all — with a modern soci
 template = "index.html"
 
 [extra]
+# 1 August banner (homepage meta-slot 0x00F0). Date-gated + dismissable via JS.
+# Remove these four keys after National Day to retire the banner.
+banner_eyebrow = "1 August · Swiss National Day"
+banner_title = "Toward the Switzerland of tomorrow."
+banner_text = "735 years after 1291, we celebrate an idea that stayed modern: shaping your own future."
+banner_cta = "Read our message"
+
 hero_title = "The Future"
 hero_subline = "Prosperity over fear. Sovereignty over dependence."
 hero_descriptor = "A new Swiss party"

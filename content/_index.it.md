@@ -4,6 +4,13 @@ description = "Prosperità, comfort e benessere per tutti – con un contratto s
 template = "index.html"
 
 [extra]
+# Banner del 1° agosto (meta-slot 0x00F0 della home). Condizionato dalla data + chiudibile via JS.
+# Rimuovere queste quattro chiavi dopo la Festa nazionale per ritirare il banner.
+banner_eyebrow = "1° agosto · Festa nazionale"
+banner_title = "Verso la Svizzera di domani."
+banner_text = "735 anni dopo il 1291 celebriamo un'idea rimasta moderna: costruire da sé il proprio futuro."
+banner_cta = "Leggi il nostro messaggio"
+
 hero_title = "Il Futuro"
 hero_subline = "Prosperità invece di paura. Sovranità invece di dipendenza."
 hero_descriptor = "Un nuovo partito svizzero"
