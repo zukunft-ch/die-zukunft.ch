@@ -1,5 +1,5 @@
 +++
-title = "Open Government: API-by-default"
+title = "Open Government"
 slug = "open-government"
 description = "A state that enables rather than blocks: data and procedures open, machine-readable and available via APIs."
 template = "page.html"

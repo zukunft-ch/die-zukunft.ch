@@ -1,5 +1,5 @@
 +++
-title = "Transitions & Upskilling"
+title = "Work Without Fear"
 slug = "transitions"
 description = "Career changes, learning, fresh starts as the norm — not the exception."
 template = "page.html"

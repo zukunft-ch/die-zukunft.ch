@@ -28,18 +28,18 @@ changes_cta = "That's why The Future: we make change plannable – more freedom,
 
 pillars_title = "What we propose"
 pillars = [
-  { icon = "🌱", title = "Basic income", text = "A stable foundation: less bureaucracy, more freedom for retraining, entrepreneurship and care.", link = "@/grundeinkommen.md" },
-  { icon = "📚", title = "Work without fear", text = "Retraining, mobility and transition support as the norm — not as a last resort.", link = "@/uebergaenge.md" },
-  { icon = "🏛️", title = "Digital sovereignty", text = "Swiss and European solutions first. Open standards, no vendor lock-in.", link = "@/digitale-souveraenitaet.md" },
-  { icon = "🏭", title = "Re-industrialisation with robotics", text = "SME-friendly automation: shared labs, incentives, local manufacturing.", link = "@/robotik.md" },
-  { icon = "🧬", title = "Biotech with trust", text = "Modern life sciences with consent, auditability and no black-box state medicine.", link = "@/life-science.md" },
-  { icon = "🏙️", title = "Cities & housing for the future", text = "More affordable housing and quality of life through densification at transit hubs — less sprawl, more comfort.", link = "@/stadte-wohnen.md" },
-  { icon = "🔬", title = "Research & innovation", text = "Testbeds, open standards and a nationwide innovation network — so innovation has broad impact and doesn't stay in silos.", link = "@/research-innovation.md" },
-  { icon = "⚡", title = "Energy & infrastructure", text = "Reliable, affordable, robust supply — resilience through engineering, not ideology.", link = "@/energy-resilience.md" },
-  { icon = "📡", title = "Open government", text = "API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.", link = "@/offener-staat.md" },
-  { icon = "🕊️", title = "Neutrality & peace", text = "Strictly defensive, credibly neutral — and once again a centre for peace talks and good offices.", link = "@/neutralitaet-frieden.md" },
-  { icon = "🤝", title = "Talent & integration", text = "Open to people who contribute — clear on the rule of law and the rules of coexistence.", link = "@/talent-integration.md" },
-  { icon = "🗣️", title = "Language & understanding", text = "Strengthening national languages, English as a pragmatic bridge — and openness to a globally inclusive lingua franca.", link = "@/sprache-verstaendigung.md" },
+  { icon = "🌱", title = "Basic Income", text = "A stable foundation: less bureaucracy, more freedom for retraining, entrepreneurship and care.", link = "@/grundeinkommen.md" },
+  { icon = "📚", title = "Work Without Fear", text = "Retraining, mobility and transition support as the norm — not as a last resort.", link = "@/uebergaenge.md" },
+  { icon = "🏛️", title = "Digital Sovereignty", text = "Swiss and European solutions first. Open standards, no vendor lock-in.", link = "@/digitale-souveraenitaet.md" },
+  { icon = "🏭", title = "Re-industrialisation with Robotics", text = "SME-friendly automation: shared labs, incentives, local manufacturing.", link = "@/robotik.md" },
+  { icon = "🧬", title = "Life Science & Health", text = "Modern life sciences with consent, auditability and no black-box state medicine.", link = "@/life-science.md" },
+  { icon = "🏙️", title = "Cities & Housing", text = "More affordable housing and quality of life through densification at transit hubs — less sprawl, more comfort.", link = "@/stadte-wohnen.md" },
+  { icon = "🔬", title = "Research, Innovation & Commons", text = "Testbeds, open standards and a nationwide innovation network — so innovation has broad impact and doesn't stay in silos.", link = "@/research-innovation.md" },
+  { icon = "⚡", title = "Energy & Infrastructure Resilience", text = "Reliable, affordable, robust supply — resilience through engineering, not ideology.", link = "@/energy-resilience.md" },
+  { icon = "📡", title = "Open Government", text = "API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.", link = "@/offener-staat.md" },
+  { icon = "🕊️", title = "Neutrality & Peace", text = "Strictly defensive, credibly neutral — and once again a centre for peace talks and good offices.", link = "@/neutralitaet-frieden.md" },
+  { icon = "🤝", title = "Talent, Integration & Rule of Law", text = "Open to people who contribute — clear on the rule of law and the rules of coexistence.", link = "@/talent-integration.md" },
+  { icon = "🗣️", title = "Language & Understanding", text = "Strengthening national languages, English as a pragmatic bridge — and openness to a globally inclusive lingua franca.", link = "@/sprache-verstaendigung.md" },
 ]
 
 timeline_title = "How we start"

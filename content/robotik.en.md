@@ -1,5 +1,5 @@
 +++
-title = "Robotics & Re-industrialisation"
+title = "Re-industrialisation with Robotics"
 slug = "robotics"
 description = "More production and value creation in Switzerland — modern, automated, SME-friendly."
 template = "page.html"
