@@ -4,7 +4,6 @@ description = "Die Schere bei der Weiterbildung ist riesig: Hochqualifizierte bi
 slug = "weiterbildung-teilnahme-luecken"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

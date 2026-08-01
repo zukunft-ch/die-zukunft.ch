@@ -4,7 +4,6 @@ description = "Vier Szenarien zeigen, wie verwundbar die Schweizer Stromversorgu
 slug = "energieresilienz-stressszenarien"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

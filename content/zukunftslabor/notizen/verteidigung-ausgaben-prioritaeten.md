@@ -4,7 +4,6 @@ description = "Die Schweiz gibt 0.706% des BIP für Verteidigung aus. 58% gehen 
 slug = "verteidigung-ausgaben-prioritaeten"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

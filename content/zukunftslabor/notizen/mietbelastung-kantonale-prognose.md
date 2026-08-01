@@ -4,7 +4,6 @@ description = "Das unterste Quintil zahlt 40% f√ºr Miete. Bei aktuellen Trends √
 slug = "mietbelastung-kantonale-prognose"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

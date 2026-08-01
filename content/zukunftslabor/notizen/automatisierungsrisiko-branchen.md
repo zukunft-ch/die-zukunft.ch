@@ -4,7 +4,6 @@ description = "LLM-fähige KI verändert das Automatisierungsrisiko: Bürojobs s
 slug = "automatisierungsrisiko-branchen"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

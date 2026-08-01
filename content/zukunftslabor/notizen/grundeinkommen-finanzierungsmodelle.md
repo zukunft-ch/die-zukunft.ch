@@ -4,7 +4,6 @@ description = "Was passiert mit der Einkommensverteilung, wenn ein UBI über Ein
 slug = "grundeinkommen-finanzierungsmodelle"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

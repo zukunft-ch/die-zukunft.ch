@@ -4,7 +4,6 @@ description = "Die Schweiz ist Weltspitze bei F&E pro Kopf und Patenteffizienz. 
 slug = "forschung-wer-forscht-wer-zahlt"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

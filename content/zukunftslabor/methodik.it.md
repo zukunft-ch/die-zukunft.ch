@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Metodologia"
 description = "Le nostre linee guida editoriali: livelli di evidenza, politica di correzione, trasparenza delle fonti."
 template = "page.html"

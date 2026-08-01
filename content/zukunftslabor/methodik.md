@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Methodik"
 description = "Unsere redaktionellen Leitplanken: Evidenzstufen, Korrekturpolitik, Quellentransparenz."
 template = "page.html"

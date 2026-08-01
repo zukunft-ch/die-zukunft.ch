@@ -4,7 +4,6 @@ description = "36% der Drittstaatsangehörigen arbeiten unter ihrem Qualifikatio
 slug = "talent-ueberqualifikation"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

@@ -4,7 +4,6 @@ description = "Die Schweiz gibt 5.2% der Gesundheitsausgaben für Verwaltung aus
 slug = "gesundheitskosten-verwaltung-fokus"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"

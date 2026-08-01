@@ -4,7 +4,6 @@ description = "90% der Schweizer nutzen das Internet, aber E-Government und Open
 slug = "digitale-souveraenitaet-luecke"
 date = 2026-02-12
 template = "notiz.html"
-draft = true
 
 [extra]
 category = "datenbriefing"
