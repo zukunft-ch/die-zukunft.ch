@@ -1,5 +1,5 @@
 +++
-title = "Stato aperto: API per default"
+title = "Stato aperto"
 slug = "stato-aperto"
 description = "Uno Stato che rende possibile invece di bloccare: dati e procedure aperti, leggibili dalle macchine e accessibili via API."
 template = "page.html"

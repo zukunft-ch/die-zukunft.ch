@@ -4,23 +4,17 @@ description = "Votations populaires fédérales — aperçu des objets, mis en p
 template = "page.html"
 +++
 
-La Suisse vote quatre fois par an sur des objets fédéraux. Cette page est une vue d'ensemble permanente : pour chaque dimanche de votation, une brève mise en perspective par objet le long des douze piliers de notre [programme](/fr/programm/). Nous ne donnons délibérément pas encore de consigne de vote : les mots d'ordre relèvent d'un processus démocratique de parti, avec des membres et des assemblées – et c'est précisément ce que nous, jeune parti, sommes en train de construire. D'ici là, nous décrivons où un objet rencontre le programme et quelle tension se trouve derrière.
+La Suisse vote quatre fois par an sur des objets fédéraux. Cette page est une vue d'ensemble permanente : pour chaque dimanche de votation, une brève mise en perspective par objet le long des douze piliers de notre [programme](@/programm.fr.md). Nous ne donnons délibérément pas encore de consigne de vote : les mots d'ordre relèvent d'un processus démocratique de parti, avec des membres et des assemblées – et c'est précisément ce que nous, jeune parti, sommes en train de construire. D'ici là, nous décrivons où un objet rencontre le programme et quelle tension se trouve derrière.
 
 ---
 
-## Prochaine votation — 14 juin 2026
+## Prochaine votation — 27 septembre 2026
 
-Deux objets sont soumis au vote. La mise en perspective détaillée se trouve dans l'article [Votation du 14 juin 2026 : deux objets, trois piliers](/fr/aktuelles/abstimmung-14-juni-2026/).
+Deux initiatives populaires sont soumises au vote. Nous compléterons la mise en perspective le long de nos piliers à l'approche de la date.
 
-**Initiative populaire « Non à une Suisse à 10 millions ! »** Un plafond démographique rigide vise le mauvais levier. Le vrai problème est l'infrastructure, pas le nombre de personnes. → Piliers [Talents et intégration](/fr/talent-integration/) et [Villes et logement](/fr/stadte-wohnen/). Conseil fédéral et Parlement : non.
+**Initiative populaire « Sauvegarde de la neutralité suisse (initiative sur la neutralité) ».** Veut inscrire la neutralité armée et permanente dans la Constitution et exclure les alliances militaires ainsi que les mesures de contrainte non décidées par l'ONU. → Pilier [Neutralité et paix](@/neutralitaet-frieden.fr.md).
 
-**Modification de la loi sur le service civil.** Conditions d'admission plus strictes au service civil. Tension réelle entre force de l'armée et résilience civile. → Pilier [Neutralité et paix](/fr/neutralitaet-frieden/). Conseil fédéral et Parlement : oui.
-
----
-
-## Prévu — 27 septembre 2026
-
-Les objets officiels sont publiés par le Conseil fédéral quelques mois avant le dimanche de votation. Nous compléterons la mise en perspective dès que les objets seront connus.
+**Initiative populaire « Pour une alimentation sûre (initiative sur l'alimentation) ».** Veut renforcer durablement la production alimentaire indigène, augmenter la part des aliments végétaux et garantir une eau potable propre. → Piliers [Énergie et résilience](@/energy-resilience.fr.md) et [Sciences de la vie et santé](@/life-science.fr.md).
 
 ---
 
@@ -30,19 +24,29 @@ Les objets officiels sont publiés par le Conseil fédéral quelques mois avant 
 
 ---
 
-## Dernière votation — 8 mars 2026
+## Dernière votation — 14 juin 2026
+
+Deux objets, deux résultats. La mise en perspective détaillée se trouve dans l'article [Votation du 14 juin 2026 : deux objets, trois piliers](@/aktuelles/abstimmung-14-juni-2026.fr.md).
+
+**Initiative populaire « Non à une Suisse à 10 millions ! »** Un plafond démographique rigide vise le mauvais levier : le vrai problème est l'infrastructure, pas le nombre de personnes. → Piliers [Talents et intégration](@/talent-integration.fr.md) et [Villes et logement](@/stadte-wohnen.fr.md). Peuple : non (54,8 %).
+
+**Modification de la loi sur le service civil.** Conditions d'admission plus strictes au service civil — tension réelle entre force de l'armée et résilience civile. → Pilier [Neutralité et paix](@/neutralitaet-frieden.fr.md). Peuple : oui (53,0 %).
+
+---
+
+## Auparavant — 8 mars 2026
 
 Cinq objets, trois résultats qui comptent à long terme.
 
-**Initiative espèces.** Inscrire les espèces dans la Constitution. → Pilier [Souveraineté numérique](/fr/digitale-souveraenitaet/). Peuple : non.
+**Initiative espèces.** Inscrire les espèces dans la Constitution. → Pilier [Souveraineté numérique](@/digitale-souveraenitaet.fr.md). Peuple : non.
 
-**Contre-projet espèces.** Protéger l'argent liquide sans règle quantitative rigide. → Pilier [Souveraineté numérique](/fr/digitale-souveraenitaet/). Peuple : oui.
+**Contre-projet espèces.** Protéger l'argent liquide sans règle quantitative rigide. → Pilier [Souveraineté numérique](@/digitale-souveraenitaet.fr.md). Peuple : oui.
 
-**Initiative SSR.** Plafonner la redevance radio-TV à 200 francs par an. → Pilier [Langue et compréhension](/fr/sprache-verstaendigung/). Peuple : non.
+**Initiative SSR.** Plafonner la redevance radio-TV à 200 francs par an. → Pilier [Langue et compréhension](@/sprache-verstaendigung.fr.md). Peuple : non.
 
-**Initiative fonds climat.** Fonds fédéral pour les investissements climatiques. → Pilier [Énergie et résilience](/fr/energy-resilience/). Peuple : non.
+**Initiative fonds climat.** Fonds fédéral pour les investissements climatiques. → Pilier [Énergie et résilience](@/energy-resilience.fr.md). Peuple : non.
 
-**Imposition individuelle.** Taxation séparée pour les couples mariés. → Pilier [État ouvert](/fr/offener-staat/). Peuple : oui.
+**Imposition individuelle.** Taxation séparée pour les couples mariés. → Pilier [État ouvert](@/offener-staat.fr.md). Peuple : oui.
 
 ---
 

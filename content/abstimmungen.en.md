@@ -4,23 +4,17 @@ description = "Swiss federal popular votes — overview of proposals, framed alo
 template = "page.html"
 +++
 
-Switzerland votes on federal proposals four times a year. This page is a permanent overview: for each voting Sunday, a short framing per proposal along the twelve pillars of our [program](/en/programm/). We deliberately don't issue voting recommendations yet: ballot positions belong to a democratic party process with members and assemblies — and as a young party, we are building exactly that. Until then, we describe where a proposal meets the program and what tension sits behind it.
+Switzerland votes on federal proposals four times a year. This page is a permanent overview: for each voting Sunday, a short framing per proposal along the twelve pillars of our [program](@/programm.en.md). We deliberately don't issue voting recommendations yet: ballot positions belong to a democratic party process with members and assemblies — and as a young party, we are building exactly that. Until then, we describe where a proposal meets the program and what tension sits behind it.
 
 ---
 
-## Next vote — 14 June 2026
+## Next vote — 27 September 2026
 
-Two proposals are on the ballot. The full framing is in the article [14 June 2026 vote: two proposals, three pillars](/en/aktuelles/abstimmung-14-juni-2026/).
+Two popular initiatives are on the ballot. We will add the full framing along our pillars closer to the date.
 
-**Popular initiative "No to a Switzerland with 10 million!"** A rigid population cap pulls the wrong lever. The honest problem is infrastructure, not headcount. → Pillars [Talent & integration](/en/talent-integration/) and [Cities & housing](/en/stadte-wohnen/). Federal Council and Parliament: no.
+**Popular initiative "Preserving Swiss neutrality (Neutrality Initiative)".** Seeks to enshrine perpetual, armed neutrality in the constitution and to rule out military alliances and coercive measures not mandated by the UN. → Pillar [Neutrality & peace](@/neutralitaet-frieden.en.md).
 
-**Amendment to the Civilian Service Act.** Higher admission hurdles to civilian service. Real tension between army strength and civil resilience. → Pillar [Neutrality & peace](/en/neutralitaet-frieden/). Federal Council and Parliament: yes.
-
----
-
-## Planned — 27 September 2026
-
-The official proposals are published by the Federal Council a few months before voting Sunday. We will add the framing as soon as the proposals are known.
+**Popular initiative "For secure nutrition (Nutrition Initiative)".** Seeks to strengthen sustainable domestic food production, raise the share of plant-based food and secure clean drinking water. → Pillars [Energy & resilience](@/energy-resilience.en.md) and [Life science & health](@/life-science.en.md).
 
 ---
 
@@ -30,19 +24,29 @@ The official proposals are published by the Federal Council a few months before 
 
 ---
 
-## Last vote — 8 March 2026
+## Last vote — 14 June 2026
+
+Two proposals, two results. The full framing is in the article [14 June 2026 vote: two proposals, three pillars](@/aktuelles/abstimmung-14-juni-2026.en.md).
+
+**Popular initiative "No to a Switzerland with 10 million!"** A rigid population cap pulls the wrong lever: the honest problem is infrastructure, not headcount. → Pillars [Talent & integration](@/talent-integration.en.md) and [Cities & housing](@/stadte-wohnen.en.md). People: no (54.8%).
+
+**Amendment to the Civilian Service Act.** Higher admission hurdles to civilian service — real tension between army strength and civil resilience. → Pillar [Neutrality & peace](@/neutralitaet-frieden.en.md). People: yes (53.0%).
+
+---
+
+## Before that — 8 March 2026
 
 Five proposals, three results that count long-term.
 
-**Cash initiative.** Anchor cash in the constitution. → Pillar [Digital sovereignty](/en/digitale-souveraenitaet/). People: no.
+**Cash initiative.** Anchor cash in the constitution. → Pillar [Digital sovereignty](@/digitale-souveraenitaet.en.md). People: no.
 
-**Cash counter-proposal.** Protect cash without a rigid quantity rule. → Pillar [Digital sovereignty](/en/digitale-souveraenitaet/). People: yes.
+**Cash counter-proposal.** Protect cash without a rigid quantity rule. → Pillar [Digital sovereignty](@/digitale-souveraenitaet.en.md). People: yes.
 
-**SBC initiative.** Cap the radio and TV licence fee at 200 francs per year. → Pillar [Language & understanding](/en/sprache-verstaendigung/). People: no.
+**SBC initiative.** Cap the radio and TV licence fee at 200 francs per year. → Pillar [Language & understanding](@/sprache-verstaendigung.en.md). People: no.
 
-**Climate Fund initiative.** Federal fund for climate-protection investments. → Pillar [Energy & resilience](/en/energy-resilience/). People: no.
+**Climate Fund initiative.** Federal fund for climate-protection investments. → Pillar [Energy & resilience](@/energy-resilience.en.md). People: no.
 
-**Individual taxation.** Separate tax assessment for married couples. → Pillar [Open state](/en/offener-staat/). People: yes.
+**Individual taxation.** Separate tax assessment for married couples. → Pillar [Open state](@/offener-staat.en.md). People: yes.
 
 ---
 

@@ -7,6 +7,8 @@ template = "page.html"
 
 Il 14 giugno 2026 la Svizzera vota su due oggetti federali: l'iniziativa popolare « No a una Svizzera da 10 milioni! (Iniziativa per la sostenibilità) » e la modifica della legge sul servizio civile. Entrambi toccano questioni su cui lavoriamo dall'inizio — come attrarre talenti, come tenere città e infrastruttura sostenibili, come costruire allo stesso tempo la prontezza civile e militare. Non diamo indicazioni di voto. Mostriamo dove questi due oggetti incontrano il nostro programma, e dove a nostro avviso si trovano le tensioni oneste.
 
+**Aggiornamento (risultato).** Entrambi gli oggetti sono decisi: l'iniziativa popolare « No a una Svizzera da 10 milioni! » è stata respinta con il 54,8 % di no e la modifica della legge sul servizio civile accettata con il 53,0 % di sì (partecipazione 58,9 %). La contestualizzazione qui sotto è stata scritta prima della domenica di votazione e resta invariata come lettura di programma.
+
 ---
 
 ## Oggetto 1: « No a una Svizzera da 10 milioni! »
@@ -41,12 +43,12 @@ Secondo la logica del nostro programma non è una pura questione dell'esercito. 
 
 Entrambi gli oggetti affrontano problemi svizzeri reali — pressione sull'infrastruttura e architettura della sicurezza — con strumenti che riteniamo troppo stretti. Un tetto demografico non è una politica dell'abitazione. Una barriera d'ammissione non è una strategia di protezione civile.
 
-Il nostro contributo non è dire alla popolazione dove mettere la crocetta. Il nostro contributo è descrivere la sostanza a lungo termine su cui la Svizzera sarà misurata nei prossimi vent'anni. L'abbiamo riassunta nel nostro [programma](/it/programm/) in dodici pilastri. I due oggetti del 14 giugno ne toccano tre. Chi vota può prendere questa lettura come una voce tra le altre.
+Il nostro contributo non è dire alla popolazione dove mettere la crocetta. Il nostro contributo è descrivere la sostanza a lungo termine su cui la Svizzera sarà misurata nei prossimi vent'anni. L'abbiamo riassunta nel nostro [programma](@/programm.it.md) in dodici pilastri. I due oggetti del 14 giugno ne toccano tre. Chi vota può prendere questa lettura come una voce tra le altre.
 
 ---
 
 ## Sul tracker
 
-Stiamo costruendo sotto [/it/abstimmungen/](/it/abstimmungen/) una panoramica permanente delle votazioni popolari federali. Vi si trova per ogni domenica di votazione una breve contestualizzazione per oggetto, lungo i nostri pilastri — senza indicazione di voto, ma con una chiara prospettiva di programma. Prossime date: 14 giugno 2026, 27 settembre 2026, 29 novembre 2026.
+Stiamo costruendo sotto [/it/abstimmungen/](@/abstimmungen.it.md) una panoramica permanente delle votazioni popolari federali. Vi si trova per ogni domenica di votazione una breve contestualizzazione per oggetto, lungo i nostri pilastri — senza indicazione di voto, ma con una chiara prospettiva di programma. Prossime date: 27 settembre 2026, 29 novembre 2026.
 
 Fonti: [Cancelleria federale — 14 giugno 2026](https://www.admin.ch/en/popular-vote-of-14-june-2026), [ch.ch — Votazione del 14 giugno 2026](https://www.ch.ch/de/abstimmungen-und-wahlen/abstimmungen/volksabstimmmung-vom14-juni-2026/), [DEFR sulla modifica della legge sul servizio civile](https://www.wbf.admin.ch/de/newnsb/NqqjJZsMpWsniYOTjgfl8), [Consiglio federale sulla modifica del servizio civile](https://www.admin.ch/de/aenderung-zivildienst), [easyvote](https://www.easyvote.ch/de/abstimmungen/14-juni-2026/zivildienstgesetz).

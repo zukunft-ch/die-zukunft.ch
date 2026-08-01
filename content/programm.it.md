@@ -28,13 +28,13 @@ link = "/it/transizioni/"
 
 [[extra.chapters]]
 icon = "🧬"
-title = "Scienze della vita e salute con fiducia"
+title = "Scienze della vita e salute"
 text = "Rendere possibile il progresso — senza perdita di controllo. Dati sanitari in opt-in, regolamentazione basata sull'evidenza, nessuna medicina di Stato opaca."
 link = "/it/scienze-della-vita/"
 
 [[extra.chapters]]
 icon = "🌱"
-title = "Reddito di base come progetto per il futuro"
+title = "Reddito di base"
 text = "Ridurre l'angoscia esistenziale, diminuire la burocrazia, favorire l'imprenditorialità. Progetto pilota federale con valutazione indipendente."
 link = "/it/reddito-di-base/"
 
@@ -76,7 +76,7 @@ link = "/it/talento-integrazione/"
 
 [[extra.chapters]]
 icon = "🗣️"
-title = "Lingua comune, forte diversità"
+title = "Lingua & comprensione"
 text = "La Svizzera deve diventare il modello europeo della comprensione: più comunicazione comune nella vita quotidiana e nell'economia — senza soppiantare le lingue nazionali."
 link = "/it/lingua-comprensione/"
 +++

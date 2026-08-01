@@ -7,6 +7,8 @@ template = "page.html"
 
 On 14 June 2026 Switzerland votes on two federal proposals: the popular initiative "No to a Switzerland with 10 million! (Sustainability Initiative)" and the amendment to the Civilian Service Act. Both touch questions we have worked on from the start — how to attract talent, how to keep cities and infrastructure sustainable, how to build civil and military readiness at the same time. We do not issue a voting recommendation here. We show where the two proposals meet our program, and where, from our perspective, the honest tensions lie.
 
+**Update (result).** Both proposals have been decided: the popular initiative "No to a Switzerland with 10 million!" was rejected with 54.8% no, and the amendment to the Civilian Service Act was accepted with 53.0% yes (turnout 58.9%). The framing below was written before voting Sunday and stands unchanged as a program reading.
+
 ---
 
 ## Proposal 1: "No to a Switzerland with 10 million!"
@@ -41,12 +43,12 @@ By the logic of our program, this is not a pure army question. It is a question 
 
 Both proposals address real Swiss problems — infrastructure pressure and security architecture — with tools we consider too narrow. A population cap is not a housing policy. An admission hurdle is not a civil protection strategy.
 
-Our contribution is not to tell the population where to put the cross. Our contribution is to describe the long-term substance against which Switzerland will be measured over the next twenty years. We have summarized it in our [program](/en/programm/) as twelve pillars. The two proposals on 14 June touch three of them. Whoever votes can take this reading as one voice among many.
+Our contribution is not to tell the population where to put the cross. Our contribution is to describe the long-term substance against which Switzerland will be measured over the next twenty years. We have summarized it in our [program](@/programm.en.md) as twelve pillars. The two proposals on 14 June touch three of them. Whoever votes can take this reading as one voice among many.
 
 ---
 
 ## About the tracker
 
-We are building a permanent overview of federal popular votes at [/en/abstimmungen/](/en/abstimmungen/). For each voting Sunday it carries a brief framing per proposal along our pillars — no voting recommendation, but a clear program perspective. Next dates: 14 June 2026, 27 September 2026, 29 November 2026.
+We are building a permanent overview of federal popular votes at [/en/abstimmungen/](@/abstimmungen.en.md). For each voting Sunday it carries a brief framing per proposal along our pillars — no voting recommendation, but a clear program perspective. Next dates: 27 September 2026, 29 November 2026.
 
 Sources: [Federal Chancellery — 14 June 2026](https://www.admin.ch/en/popular-vote-of-14-june-2026), [ch.ch — Popular vote 14 June 2026](https://www.ch.ch/en/votes-and-elections/popular-vote-on-14-june-2026/), [EAER on the Civilian Service Act amendment](https://www.wbf.admin.ch/de/newnsb/NqqjJZsMpWsniYOTjgfl8), [Federal Council on the civilian service amendment](https://www.admin.ch/de/aenderung-zivildienst), [easyvote](https://www.easyvote.ch/de/abstimmungen/14-juni-2026/zivildienstgesetz).

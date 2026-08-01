@@ -1,5 +1,5 @@
 +++
-title = "Transizioni e formazione continua"
+title = "Lavorare senza paura"
 slug = "transizioni"
 description = "Cambiamento, apprendimento, nuovo inizio come normalità – non come eccezione."
 template = "page.html"

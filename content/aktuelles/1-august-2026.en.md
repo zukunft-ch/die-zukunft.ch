@@ -38,4 +38,4 @@ The best way to honor Switzerland is to keep it fit for the future.
 
 We wish everyone a wonderful National Day — and we invite you to help build the Switzerland of tomorrow with us.
 
-[Our program](/en/programm/) · [Get involved](/en/mitmachen/)
+[Our program](@/programm.en.md) · [Get involved](@/mitmachen.en.md)

@@ -38,4 +38,4 @@ La meilleure façon d'honorer la Suisse est de la garder capable d'avenir.
 
 Nous souhaitons à toutes et à tous une belle Fête nationale — et nous invitons chacune et chacun à construire avec nous la Suisse de demain.
 
-[Notre programme](/fr/programm/) · [Participer](/fr/mitmachen/)
+[Notre programme](@/programm.fr.md) · [Participer](@/mitmachen.fr.md)

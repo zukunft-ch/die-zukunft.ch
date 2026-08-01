@@ -7,6 +7,8 @@ template = "page.html"
 
 Am 14. Juni 2026 stimmt die Schweiz über zwei eidgenössische Vorlagen ab: die Volksinitiative "Nein zu einer 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative)" und die Änderung des Zivildienstgesetzes. Beide berühren Fragen, an denen wir seit Beginn arbeiten — wie wir Talente gewinnen, wie wir Städte und Infrastruktur tragfähig halten, wie wir zivile und militärische Bereitschaft gleichzeitig aufbauen. Wir geben hier keine Stimmempfehlung ab. Wir zeigen, wo die beiden Vorlagen auf unser Programm treffen, und wo aus unserer Sicht die ehrlichen Spannungen liegen.
 
+**Nachtrag (Ergebnis der Abstimmung).** Beide Vorlagen sind entschieden: Die Volksinitiative «Nein zu einer 10-Millionen-Schweiz!» wurde mit 54,8 % Nein abgelehnt, die Änderung des Zivildienstgesetzes mit 53,0 % Ja angenommen (Stimmbeteiligung 58,9 %). Die folgende Einordnung entstand vor dem Abstimmungssonntag und bleibt als Programmlesart unverändert.
+
 ---
 
 ## Vorlage 1: "Nein zu einer 10-Millionen-Schweiz!"
@@ -41,12 +43,12 @@ Aus unserer Programmlogik ist das keine reine Armeefrage. Es ist eine Frage, wie
 
 Beide Vorlagen behandeln echte Schweizer Probleme — Infrastrukturdruck und Sicherheits­architektur — mit Werkzeugen, die wir für zu schmal halten. Eine Mengenobergrenze ist kein Wohnungsbau. Eine Zulassungs­hürde ist keine Zivilschutz­strategie.
 
-Unser Beitrag ist nicht, der Bevölkerung zu sagen, wo das Kreuz hinkommt. Unser Beitrag ist, die langfristige Substanz zu beschreiben, an der die Schweiz in den nächsten zwanzig Jahren gemessen werden wird. Wir haben das im [Programm](/programm/) zu zwölf Pfeilern zusammengefasst. Die zwei Vorlagen am 14. Juni berühren drei davon. Wer abstimmt, kann diese Lesart als eine Stimme unter vielen mitnehmen.
+Unser Beitrag ist nicht, der Bevölkerung zu sagen, wo das Kreuz hinkommt. Unser Beitrag ist, die langfristige Substanz zu beschreiben, an der die Schweiz in den nächsten zwanzig Jahren gemessen werden wird. Wir haben das im [Programm](@/programm.md) zu zwölf Pfeilern zusammengefasst. Die zwei Vorlagen am 14. Juni berühren drei davon. Wer abstimmt, kann diese Lesart als eine Stimme unter vielen mitnehmen.
 
 ---
 
 ## Hinweis zum Tracker
 
-Wir bauen unter [/abstimmungen/](/abstimmungen/) eine permanente Übersicht über die eidgenössischen Volksabstimmungen auf. Dort findet sich für jeden Abstimmungssonntag eine kurze Einordnung pro Vorlage entlang unserer Pfeiler — ohne Stimm­empfehlung, aber mit klarer Programmperspektive. Die nächsten Termine: 14. Juni 2026, 27. September 2026, 29. November 2026.
+Wir bauen unter [/abstimmungen/](@/abstimmungen.md) eine permanente Übersicht über die eidgenössischen Volksabstimmungen auf. Dort findet sich für jeden Abstimmungssonntag eine kurze Einordnung pro Vorlage entlang unserer Pfeiler — ohne Stimm­empfehlung, aber mit klarer Programmperspektive. Die nächsten Termine: 27. September 2026, 29. November 2026.
 
 Quellen: [Bundeskanzlei zum 14. Juni 2026](https://www.admin.ch/en/popular-vote-of-14-june-2026), [ch.ch — Volksabstimmung 14. Juni 2026](https://www.ch.ch/de/abstimmungen-und-wahlen/abstimmungen/volksabstimmmung-vom14-juni-2026/), [WBF zur Zivildienstgesetzes-Änderung](https://www.wbf.admin.ch/de/newnsb/NqqjJZsMpWsniYOTjgfl8), [Bundesrat zur Änderung Zivildienst](https://www.admin.ch/de/aenderung-zivildienst), [easyvote](https://www.easyvote.ch/de/abstimmungen/14-juni-2026/zivildienstgesetz).

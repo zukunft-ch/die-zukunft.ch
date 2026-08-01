@@ -38,4 +38,4 @@ Die beste Art, die Schweiz zu ehren, ist, sie zukunftsfähig zu halten.
 
 Wir wünschen allen einen schönen Bundesfeiertag — und laden ein, mit uns an der Schweiz von morgen zu arbeiten.
 
-[Unser Programm](/programm/) · [Mitmachen](/mitmachen/)
+[Unser Programm](@/programm.md) · [Mitmachen](@/mitmachen.md)

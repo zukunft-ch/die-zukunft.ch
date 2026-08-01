@@ -32,13 +32,13 @@ pillars = [
   { icon = "📚", title = "Lavorare senza paura", text = "Riqualificazione, mobilità e supporto alla transizione come normalità — non come soluzione d'emergenza.", link = "@/uebergaenge.md" },
   { icon = "🏛️", title = "Sovranità digitale", text = "Soluzioni svizzere ed europee prima di tutto. Standard aperti, nessun vendor lock-in.", link = "@/digitale-souveraenitaet.md" },
   { icon = "🏭", title = "Reindustrializzazione con la robotica", text = "Automazione a misura di PMI: laboratori condivisi, incentivi, produzione locale.", link = "@/robotik.md" },
-  { icon = "🧬", title = "Biotech con fiducia", text = "Scienze della vita moderne con consenso, verificabilità e senza medicina di Stato opaca.", link = "@/life-science.md" },
-  { icon = "🏙️", title = "Città & abitare del futuro", text = "Più alloggi accessibili e più qualità di vita grazie alla densificazione intorno ai nodi TP – meno dispersione, più comfort.", link = "@/stadte-wohnen.md" },
-  { icon = "🔬", title = "Ricerca & innovazione", text = "Laboratori reali, standard aperti e rete d'innovazione a livello svizzero – perché l'innovazione abbia un impatto ampio e non resti nei silos.", link = "@/research-innovation.md" },
-  { icon = "⚡", title = "Energia & infrastrutture", text = "Approvvigionamento affidabile, accessibile e robusto – resilienza attraverso l'ingegneria, non l'ideologia.", link = "@/energy-resilience.md" },
+  { icon = "🧬", title = "Scienze della vita e salute", text = "Scienze della vita moderne con consenso, verificabilità e senza medicina di Stato opaca.", link = "@/life-science.md" },
+  { icon = "🏙️", title = "Città & abitare", text = "Più alloggi accessibili e più qualità di vita grazie alla densificazione intorno ai nodi TP – meno dispersione, più comfort.", link = "@/stadte-wohnen.md" },
+  { icon = "🔬", title = "Ricerca, innovazione & beni comuni", text = "Laboratori reali, standard aperti e rete d'innovazione a livello svizzero – perché l'innovazione abbia un impatto ampio e non resti nei silos.", link = "@/research-innovation.md" },
+  { icon = "⚡", title = "Energia & resilienza delle infrastrutture", text = "Approvvigionamento affidabile, accessibile e robusto – resilienza attraverso l'ingegneria, non l'ideologia.", link = "@/energy-resilience.md" },
   { icon = "📡", title = "Stato aperto", text = "API per default, trasparenza radicale e procedure aperte – perché i cittadini possano costruire strumenti migliori e controllare efficacemente lo Stato.", link = "@/offener-staat.md" },
   { icon = "🕊️", title = "Neutralità & pace", text = "Strettamente difensivo, credibilmente neutrale – e di nuovo un centro per colloqui di pace e buoni uffici.", link = "@/neutralitaet-frieden.md" },
-  { icon = "🤝", title = "Talento & integrazione", text = "Aperto a chi contribuisce – chiaro nello Stato di diritto e nelle regole della convivenza.", link = "@/talent-integration.md" },
+  { icon = "🤝", title = "Talento, integrazione & Stato di diritto", text = "Aperto a chi contribuisce – chiaro nello Stato di diritto e nelle regole della convivenza.", link = "@/talent-integration.md" },
   { icon = "🗣️", title = "Lingua & comprensione", text = "Rafforzare le lingue nazionali, l'inglese come ponte pragmatico – una comprensione senza attrito.", link = "@/sprache-verstaendigung.md" },
 ]
 

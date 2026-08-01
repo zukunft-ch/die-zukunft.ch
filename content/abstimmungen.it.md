@@ -4,23 +4,17 @@ description = "Votazioni popolari federali — panoramica degli oggetti, inquadr
 template = "page.html"
 +++
 
-La Svizzera vota quattro volte all'anno su oggetti federali. Questa pagina è una panoramica permanente: per ogni domenica di votazione una breve contestualizzazione per oggetto lungo i dodici pilastri del nostro [programma](/it/programm/). Deliberatamente non diamo ancora indicazioni di voto: le parole d'ordine appartengono a un processo democratico di partito, con membri e assemblee – ed è proprio ciò che, come giovane partito, stiamo costruendo. Fino ad allora descriviamo dove un oggetto incontra il programma e quale tensione vi sta dietro.
+La Svizzera vota quattro volte all'anno su oggetti federali. Questa pagina è una panoramica permanente: per ogni domenica di votazione una breve contestualizzazione per oggetto lungo i dodici pilastri del nostro [programma](@/programm.it.md). Deliberatamente non diamo ancora indicazioni di voto: le parole d'ordine appartengono a un processo democratico di partito, con membri e assemblee – ed è proprio ciò che, come giovane partito, stiamo costruendo. Fino ad allora descriviamo dove un oggetto incontra il programma e quale tensione vi sta dietro.
 
 ---
 
-## Prossima votazione — 14 giugno 2026
+## Prossima votazione — 27 settembre 2026
 
-Due oggetti sono in votazione. La contestualizzazione dettagliata si trova nell'articolo [Votazione del 14 giugno 2026: due oggetti, tre pilastri](/it/aktuelles/abstimmung-14-juni-2026/).
+Due iniziative popolari sono in votazione. Completeremo la contestualizzazione lungo i nostri pilastri in prossimità della data.
 
-**Iniziativa popolare « No a una Svizzera da 10 milioni! »** Un tetto demografico rigido colpisce la leva sbagliata. Il vero problema è l'infrastruttura, non il numero di persone. → Pilastri [Talenti e integrazione](/it/talent-integration/) e [Città e abitare](/it/stadte-wohnen/). Consiglio federale e Parlamento: no.
+**Iniziativa popolare « Salvaguardia della neutralità svizzera (iniziativa sulla neutralità) ».** Vuole iscrivere nella Costituzione la neutralità armata e permanente ed escludere alleanze militari nonché misure coercitive non decise dall'ONU. → Pilastro [Neutralità e pace](@/neutralitaet-frieden.it.md).
 
-**Modifica della legge sul servizio civile.** Requisiti di ammissione più severi al servizio civile. Tensione reale tra forza dell'esercito e resilienza civile. → Pilastro [Neutralità e pace](/it/neutralitaet-frieden/). Consiglio federale e Parlamento: sì.
-
----
-
-## Previsto — 27 settembre 2026
-
-Gli oggetti ufficiali vengono pubblicati dal Consiglio federale alcuni mesi prima della domenica di votazione. Completeremo la contestualizzazione non appena gli oggetti saranno noti.
+**Iniziativa popolare « Per un'alimentazione sicura (iniziativa sull'alimentazione) ».** Vuole rafforzare in modo sostenibile la produzione alimentare indigena, aumentare la quota di alimenti vegetali e garantire acqua potabile pulita. → Pilastri [Energia e resilienza](@/energy-resilience.it.md) e [Scienze della vita e salute](@/life-science.it.md).
 
 ---
 
@@ -30,19 +24,29 @@ Gli oggetti ufficiali vengono pubblicati dal Consiglio federale alcuni mesi prim
 
 ---
 
-## Ultima votazione — 8 marzo 2026
+## Ultima votazione — 14 giugno 2026
+
+Due oggetti, due risultati. La contestualizzazione dettagliata si trova nell'articolo [Votazione del 14 giugno 2026: due oggetti, tre pilastri](@/aktuelles/abstimmung-14-juni-2026.it.md).
+
+**Iniziativa popolare « No a una Svizzera da 10 milioni! »** Un tetto demografico rigido colpisce la leva sbagliata: il vero problema è l'infrastruttura, non il numero di persone. → Pilastri [Talento e integrazione](@/talent-integration.it.md) e [Città e abitare](@/stadte-wohnen.it.md). Popolo: no (54,8 %).
+
+**Modifica della legge sul servizio civile.** Requisiti di ammissione più severi al servizio civile — tensione reale tra forza dell'esercito e resilienza civile. → Pilastro [Neutralità e pace](@/neutralitaet-frieden.it.md). Popolo: sì (53,0 %).
+
+---
+
+## Prima — 8 marzo 2026
 
 Cinque oggetti, tre risultati che contano a lungo termine.
 
-**Iniziativa contante.** Iscrivere il contante nella Costituzione. → Pilastro [Sovranità digitale](/it/digitale-souveraenitaet/). Popolo: no.
+**Iniziativa contante.** Iscrivere il contante nella Costituzione. → Pilastro [Sovranità digitale](@/digitale-souveraenitaet.it.md). Popolo: no.
 
-**Controprogetto contante.** Proteggere il contante senza regola quantitativa rigida. → Pilastro [Sovranità digitale](/it/digitale-souveraenitaet/). Popolo: sì.
+**Controprogetto contante.** Proteggere il contante senza regola quantitativa rigida. → Pilastro [Sovranità digitale](@/digitale-souveraenitaet.it.md). Popolo: sì.
 
-**Iniziativa SSR.** Limite del canone radiotelevisivo a 200 franchi all'anno. → Pilastro [Lingua e comprensione](/it/sprache-verstaendigung/). Popolo: no.
+**Iniziativa SSR.** Limite del canone radiotelevisivo a 200 franchi all'anno. → Pilastro [Lingua e comprensione](@/sprache-verstaendigung.it.md). Popolo: no.
 
-**Iniziativa fondo clima.** Fondo federale per investimenti climatici. → Pilastro [Energia e resilienza](/it/energy-resilience/). Popolo: no.
+**Iniziativa fondo clima.** Fondo federale per investimenti climatici. → Pilastro [Energia e resilienza](@/energy-resilience.it.md). Popolo: no.
 
-**Imposizione individuale.** Tassazione separata per le coppie sposate. → Pilastro [Stato aperto](/it/offener-staat/). Popolo: sì.
+**Imposizione individuale.** Tassazione separata per le coppie sposate. → Pilastro [Stato aperto](@/offener-staat.it.md). Popolo: sì.
 
 ---
 

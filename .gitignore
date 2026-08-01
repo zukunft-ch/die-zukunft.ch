@@ -4,3 +4,6 @@ public/
 node_modules/
 docs/
 .claude/settings.local.json
+
+# Social/marketing drafts kept in-repo but not part of the site
+linkedin-*.md

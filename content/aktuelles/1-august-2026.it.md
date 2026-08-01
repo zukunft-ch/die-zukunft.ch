@@ -38,4 +38,4 @@ Il modo migliore di onorare la Svizzera è mantenerla capace di futuro.
 
 Auguriamo a tutte e a tutti una bella Festa nazionale — e invitiamo ciascuno a costruire con noi la Svizzera di domani.
 
-[Il nostro programma](/it/programm/) · [Partecipa](/it/mitmachen/)
+[Il nostro programma](@/programm.it.md) · [Partecipa](@/mitmachen.it.md)
