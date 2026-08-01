@@ -5,7 +5,14 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Offen und klar. Werden Sie aktiv."
+cta_text = "Offen und klar. Werde aktiv."
+faq_title = "Häufige Fragen"
+faq = [
+  { q = "Wollt ihr mehr oder weniger Migration?", a = "Das ist die falsche Frage. Wir wollen, dass die Schweiz offen ist für Menschen, die etwas beitragen — Forschende, Gründerinnen, Fachkräfte — und zugleich verlässlich in ihren Regeln. Die Qualität der Integration zählt, nicht Symboldebatten." },
+  { q = "Was heisst 'Integration heisst Commitment'?", a = "Wer in die Schweiz zieht, soll hier ankommen: Sprache lernen, Zugang zu Arbeit und Weiterbildung haben, am gesellschaftlichen Leben teilhaben. Das ist Erwartung und Angebot zugleich." },
+  { q = "Und wer sich nicht an die Regeln hält?", a = "Regeln gelten für alle, und Verstösse werden konsequent rechtsstaatlich verfolgt. Aber Verantwortung ist individuell — keine Pauschalisierungen nach Herkunft." },
+  { q = "Warum ist Talentzufluss Teil des Wohlstandsmodells?", a = "Weil Wohlstand dort entsteht, wo Können und Einsatz willkommen sind. Menschen, die hier forschen, gründen und investieren, machen den Standort stärker — davon profitieren alle." },
+]
 
 [[extra.sections]]
 title = "Talent, Integration & Rechtsstaat"

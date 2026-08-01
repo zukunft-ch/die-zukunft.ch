@@ -1,6 +1,8 @@
 +++
-title = "Impressum"
-description = "Impressum e informazioni sul partito Il Futuro."
+title = "Note legali"
+slug = "note-legali"
+description = "Note legali e informazioni sul partito Il Futuro."
+updated = 2026-02-08
 template = "page.html"
 +++
 

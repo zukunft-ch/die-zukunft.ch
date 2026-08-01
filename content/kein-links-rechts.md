@@ -5,11 +5,11 @@ template = "kein-links-rechts.html"
 
 [extra]
 show_cta = true
-cta_text = "Genug von Lagerlogik? Machen Sie mit."
+cta_text = "Genug von Lagerlogik? Mach mit."
 
 # Radar viz
 radar_title = "Das politische Radar"
-radar_intro = "Links und rechts sind eine einzige Achse. Die realen Herausforderungen der Schweiz spielen sich auf mindestens fünf ab. Dieses Radar zeigt, wo typisch linke und rechte Positionen liegen – und wo Die Zukunft steht."
+radar_intro = "Links und rechts sind eine einzige Achse. Die realen Herausforderungen der Schweiz spielen sich auf mindestens fünf ab. Dieses Radar zeigt, wo typisch linke und rechte Positionen liegen – und wo Die Zukunft steht. Die Werte für links und rechts sind typisierte Einschätzungen; unsere eigenen sind kein Messresultat, sondern ein Anspruch – die Messlatte, an der wir uns messen lassen wollen."
 axes_title = "Fünf Achsen, fünf Positionen"
 axes_example_label = "Beispiel"
 
@@ -69,7 +69,7 @@ label = "Umsetzungsmut"
 low_label = "Symbolpolitik"
 high_label = "Umsetzung"
 description = "Wird Politik an Absichtserklärungen gemessen – oder an messbaren Ergebnissen? Mut zur Umsetzung heisst: Pilotprojekte starten, messen, skalieren."
-example = "Ein Basiseinkommen als Pilotprojekt in einer Gemeinde testen statt jahrelang darüber zu debattieren, ob es theoretisch funktionieren könnte."
+example = "Ein Grundeinkommen als Pilotprojekt in einer Gemeinde testen statt jahrelang darüber zu debattieren, ob es theoretisch funktionieren könnte."
 v_left = 4
 v_right = 4
 v_zukunft = 9
@@ -115,7 +115,7 @@ text = ""
 items = [
   { label = "Digitale Souveränität", text = "nicht «staatshörig» und nicht «Markt-fundamentalistisch» – sondern anti Lock-in, pro offene Standards, pro Sicherheit." },
   { label = "Re-Industrialisierung via Robotik", text = "pro Produktivität und Wohlstand, aber KMU-freundlich, sozial abgesichert, ohne Abstiegsangst." },
-  { label = "Basiseinkommen (Pilot)", text = "ein Sicherheitsfundament, das Bürokratie reduziert und Gründung erleichtert – ohne moralische Debatten, mit Messung statt Dogma." },
+  { label = "Grundeinkommen (Pilot)", text = "ein Sicherheitsfundament, das Bürokratie reduziert und Gründung erleichtert – ohne moralische Debatten, mit Messung statt Dogma." },
   { label = "Städte & Wohnen", text = "pro Verdichtung an ÖV-Knoten (auch Höhe), damit Wohnen bezahlbarer wird und weniger zersiedelt wird." },
   { label = "Life-Science & Gesundheit", text = "pro Fortschritt, aber mit klaren Grenzen: kein Black-Box-Staat, opt-in default, Transparenz." },
 ]

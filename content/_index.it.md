@@ -39,7 +39,7 @@ pillars = [
   { icon = "📡", title = "Stato aperto", text = "API per default, trasparenza radicale e procedure aperte – perché i cittadini possano costruire strumenti migliori e controllare efficacemente lo Stato.", link = "@/offener-staat.md" },
   { icon = "🕊️", title = "Neutralità & pace", text = "Strettamente difensivo, credibilmente neutrale – e di nuovo un centro per colloqui di pace e buoni uffici.", link = "@/neutralitaet-frieden.md" },
   { icon = "🤝", title = "Talento & integrazione", text = "Aperto a chi contribuisce – chiaro nello Stato di diritto e nelle regole della convivenza.", link = "@/talent-integration.md" },
-  { icon = "🗣️", title = "Lingua & comprensione", text = "Rafforzare le lingue nazionali, l'inglese come ponte pragmatico – e apertura a una lingua veicolare globalmente inclusiva.", link = "@/sprache-verstaendigung.md" },
+  { icon = "🗣️", title = "Lingua & comprensione", text = "Rafforzare le lingue nazionali, l'inglese come ponte pragmatico – una comprensione senza attrito.", link = "@/sprache-verstaendigung.md" },
 ]
 
 timeline_title = "Come iniziamo"

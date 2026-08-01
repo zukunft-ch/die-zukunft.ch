@@ -17,10 +17,10 @@ subsections = [
 
 [[extra.sections]]
 title = "Board"
-text = "To be announced shortly."
+text = "The board is being formed. We will announce the names as soon as the founding structure is in place — those who join now help shape it."
 
 [[extra.sections]]
 title = "Advisory Board"
-text = "To be announced shortly."
+text = "The advisory board is being formed. We are looking for experienced people willing to challenge our work — get in touch if you want to be part of it."
 +++
 

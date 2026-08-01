@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "La souveraineté numérique nécessite une volonté politique. Engagez-vous."
+cta_text = "La souveraineté numérique nécessite une volonté politique. Engage-toi."
+faq_title = "Questions fréquentes"
+faq = [
+  { q = "Que signifie concrètement la souveraineté numérique ?", a = "La souveraineté numérique signifie que l'État et la population gardent le contrôle de leurs données, systèmes et infrastructures numériques — indépendamment de fournisseurs ou de pays individuels." },
+  { q = "Cela signifie-t-il que nous ne pouvons plus utiliser de logiciels étrangers ?", a = "Non. Swiss/EU-first ne s'applique qu'aux infrastructures critiques et aux données sensibles. Pour le reste : concurrence ouverte — mais avec obligation d'auditabilité, de portabilité et de standards ouverts." },
+  { q = "Qu'est-ce qu'une loi anti-verrouillage ?", a = "Une loi qui empêche l'État de se lier durablement à un seul fournisseur informatique. Elle exige des plans de sortie, des formats ouverts et la portabilité des données comme éléments contractuels." },
+  { q = "L'open source ne coûte-t-il pas plus cher que les solutions commerciales ?", a = "Pas nécessairement. L'open source réduit les coûts à long terme grâce à moins de dépendance aux licences. L'essentiel est que la maintenance soit aussi financée — pas seulement le déploiement." },
+  { q = "En quoi cela concerne-t-il le quotidien ?", a = "Moins de pannes informatiques dans les services publics, moins de fuites de données, plus de transparence. Et : pas de surprises si un fournisseur double soudainement ses prix ou arrête son service." },
+]
 
 [[extra.sections]]
 title = "Infrastructure numérique"
@@ -33,15 +41,6 @@ points = [
   "Moins de dépendance envers des fournisseurs uniques",
   "Moins de risques dans les services critiques",
   "Plus de confiance grâce à la transparence",
-]
-
-faq_title = "Questions fréquentes"
-faq = [
-  { q = "Que signifie concrètement la souveraineté numérique ?", a = "La souveraineté numérique signifie que l'État et la population gardent le contrôle de leurs données, systèmes et infrastructures numériques — indépendamment de fournisseurs ou de pays individuels." },
-  { q = "Cela signifie-t-il que nous ne pouvons plus utiliser de logiciels étrangers ?", a = "Non. Swiss/EU-first ne s'applique qu'aux infrastructures critiques et aux données sensibles. Pour le reste : concurrence ouverte — mais avec obligation d'auditabilité, de portabilité et de standards ouverts." },
-  { q = "Qu'est-ce qu'une loi anti-verrouillage ?", a = "Une loi qui empêche l'État de se lier durablement à un seul fournisseur informatique. Elle exige des plans de sortie, des formats ouverts et la portabilité des données comme éléments contractuels." },
-  { q = "L'open source ne coûte-t-il pas plus cher que les solutions commerciales ?", a = "Pas nécessairement. L'open source réduit les coûts à long terme grâce à moins de dépendance aux licences. L'essentiel est que la maintenance soit aussi financée — pas seulement le déploiement." },
-  { q = "En quoi cela concerne-t-il le quotidien ?", a = "Moins de pannes informatiques dans les services publics, moins de fuites de données, plus de transparence. Et : pas de surprises si un fournisseur double soudainement ses prix ou arrête son service." },
 ]
 +++
 

@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Città vivibili per tutti. Attivatevi."
+cta_text = "Città vivibili per tutti. Attivati."
+faq_title = "Domande frequenti"
+faq = [
+  { q = "Perché densificare invece di costruire in periferia?", a = "Densificare dove c'è infrastruttura: così nascono alloggi con percorsi brevi, mentre il paesaggio e il carattere dei villaggi restano preservati. La dispersione allunga i percorsi e rende più costosa l'infrastruttura." },
+  { q = "Significa grattacieli ovunque?", a = "No. Grattacieli solo in zone chiaramente definite (centri, stazioni) con forti requisiti di qualità; lo standard è l'altezza media (6–10 piani), dove ha senso urbano. L'obiettivo non è lo skyline, ma alloggi, comfort e vicinanza." },
+  { q = "Come diventa così più accessibile l'abitare?", a = "Con più offerta nei posti giusti — integrata da cooperative, attori di utilità pubblica e modelli di affitto stabili. La scarsità è il principale motore dei prezzi." },
+  { q = "Cosa sono le autorizzazioni accelerate?", a = "Scadenze chiare, competenze unificate e una procedura a sportello unico per progetti abitativi densi. Oggi i buoni progetti spesso non falliscono per motivi tecnici, ma per tempi e procedure." },
+  { q = "Cosa ci guadagna chi vive fuori città?", a = "Meno pressione sulle aree periferiche e sugli affitti circostanti, meno dispersione — e più natura che resta natura." },
+]
 
 [[extra.sections]]
 title = "Città & abitare"

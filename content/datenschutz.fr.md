@@ -2,6 +2,7 @@
 title = "Protection des données"
 slug = "protection-des-donnees"
 description = "Politique de confidentialité de Le Futur."
+updated = 2026-02-08
 template = "page.html"
 +++
 
@@ -15,23 +16,23 @@ E-mail : [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ### Principe
 
-La protection de vos données personnelles nous tient à cœur. Nous ne collectons que les données nécessaires au fonctionnement de ce site et à notre travail politique.
+La protection de tes données personnelles nous tient à cœur. Nous ne collectons que les données nécessaires au fonctionnement de ce site et à notre travail politique.
 
 ### Formulaire de contact
 
-Lorsque vous nous contactez via le formulaire de contact, vos informations (nom, e-mail, message) sont traitées par notre propre application hébergée sur l'infrastructure de Cloudflare. Ces données sont utilisées exclusivement pour répondre à votre demande et ne sont pas transmises à des tiers.
+Lorsque tu nous contactes via le formulaire de contact, tes informations (nom, e-mail, message) sont traitées par notre propre application hébergée sur l'infrastructure de Cloudflare. Ces données sont utilisées exclusivement pour répondre à ta demande et ne sont pas transmises à des tiers.
 
 ### Newsletter
 
-Si vous vous inscrivez à notre newsletter, nous conservons votre adresse e-mail. Vous pouvez vous désinscrire à tout moment. Nous utilisons votre adresse exclusivement pour l'envoi de nos actualités.
+Si tu t'inscris à notre newsletter, nous conservons ton adresse e-mail. Tu peux te désinscrire à tout moment. Nous utilisons ton adresse exclusivement pour l'envoi de nos actualités.
 
 ### Hébergement
 
 Ce site est hébergé de manière statique. Aucun cookie n'est installé et aucun outil de suivi n'est utilisé.
 
-### Vos droits
+### Tes droits
 
-Vous avez à tout moment le droit d'obtenir des informations sur vos données enregistrées, leur rectification ou leur suppression. Adressez-vous à l'adresse de contact indiquée ci-dessus.
+Tu as à tout moment le droit d'obtenir des informations sur tes données enregistrées, leur rectification ou leur suppression. Adresse-toi à l'adresse de contact indiquée ci-dessus.
 
 ### Modifications
 

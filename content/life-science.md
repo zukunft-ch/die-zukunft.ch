@@ -5,7 +5,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Vertrauen in den Fortschritt stärken. Werden Sie aktiv."
+cta_text = "Vertrauen in den Fortschritt stärken. Werde aktiv."
+faq_title = "Häufige Fragen"
+faq = [
+  { q = "Wem gehören die Gesundheitsdaten?", a = "Den Menschen selbst — nicht dem Staat und nicht der Industrie. Standard ist Opt-in: Daten werden nur mit ausdrücklicher Einwilligung genutzt, mit engen Ausnahmen für die öffentliche Gesundheit." },
+  { q = "Bremsen klare Regeln nicht die Forschung?", a = "Nein — Vertrauen ist die Voraussetzung dafür, dass Menschen ihre Daten überhaupt teilen. Die Schweiz bleibt nur führend, wenn Innovation und Vertrauen zusammengehen: Das eine ist die Bedingung des anderen." },
+  { q = "Was heisst 'keine Black-Box-Staatsmedizin'?", a = "Keine automatisierten Entscheidungen über medizinische Leistungen oder Behandlungen ohne nachvollziehbare Begründung, menschliche Verantwortung und Einspruchsrecht. Das ist eine rote Linie." },
+  { q = "Wie stehen wir zu Partnerschaften mit der Industrie?", a = "Zusammenarbeit zwischen Staat, Forschung und Industrie ist wichtig — aber jede Partnerschaft braucht klare Transparenzregeln: Wer finanziert? Wer entscheidet? Wer profitiert?" },
+  { q = "Wie werden neue Therapien reguliert?", a = "Evidenzbasiert und case-by-case: auf Basis von Daten statt Ideologie. Regulierungsentscheide müssen nachvollziehbar und begründet sein." },
+]
 
 [[extra.sections]]
 title = "Fortschritt mit Vertrauen"

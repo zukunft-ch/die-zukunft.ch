@@ -4,7 +4,7 @@ description = "Swiss federal popular votes — overview of proposals, framed alo
 template = "page.html"
 +++
 
-Switzerland votes on federal proposals four times a year. This page is a permanent overview: for each voting Sunday, a short framing per proposal along the twelve pillars of our [program](/en/programm/). We do not issue voting recommendations. We describe where a proposal meets the program and what tension sits behind it.
+Switzerland votes on federal proposals four times a year. This page is a permanent overview: for each voting Sunday, a short framing per proposal along the twelve pillars of our [program](/en/programm/). We deliberately don't issue voting recommendations yet: ballot positions belong to a democratic party process with members and assemblies — and as a young party, we are building exactly that. Until then, we describe where a proposal meets the program and what tension sits behind it.
 
 ---
 

@@ -1,6 +1,6 @@
 +++
 title = "Mitmachen"
-description = "Werden Sie Teil von Die Zukunft: Mitgliedschaft, Newsletter, Spenden."
+description = "Werde Teil von Die Zukunft: Mitgliedschaft, Newsletter, Spenden."
 template = "mitmachen.html"
 
 [extra]

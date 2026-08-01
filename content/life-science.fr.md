@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Renforcer la confiance dans le progrès. Engagez-vous."
+cta_text = "Renforcer la confiance dans le progrès. Engage-toi."
+faq_title = "Questions fréquentes"
+faq = [
+  { q = "À qui appartiennent les données de santé ?", a = "Aux personnes elles-mêmes — pas à l'État ni à l'industrie. Le standard est l'opt-in : les données ne sont utilisées qu'avec un consentement explicite, avec des exceptions étroites pour la santé publique." },
+  { q = "Des règles claires ne freinent-elles pas la recherche ?", a = "Non — la confiance est la condition pour que les gens partagent leurs données. La Suisse ne reste leader que si innovation et confiance vont de pair : l'une est la condition de l'autre." },
+  { q = "Que signifie 'pas de médecine d'État boîte noire' ?", a = "Aucune décision automatisée sur les prestations médicales ou les traitements sans justification compréhensible, responsabilité humaine et droit de recours. C'est une ligne rouge." },
+  { q = "Quelle est notre position sur les partenariats avec l'industrie ?", a = "La collaboration entre l'État, la recherche et l'industrie est importante — mais chaque partenariat nécessite des règles de transparence claires : qui finance ? Qui décide ? Qui en profite ?" },
+  { q = "Comment les nouvelles thérapies sont-elles réglementées ?", a = "Sur la base des preuves et au cas par cas : des données plutôt que de l'idéologie. Les décisions réglementaires doivent être compréhensibles et justifiées." },
+]
 
 [[extra.sections]]
 title = "Progrès avec confiance"

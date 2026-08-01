@@ -2,6 +2,7 @@
 title = "Privacy Policy"
 slug = "privacy"
 description = "Privacy policy of The Future."
+updated = 2026-02-08
 template = "page.html"
 +++
 

@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "La paix demande de la conviction. Engagez-vous."
+cta_text = "La paix demande de la conviction. Engage-toi."
+faq_title = "Questions fréquentes"
+faq = [
+  { q = "La neutralité n'est-elle pas dépassée ?", a = "Au contraire : une neutralité crédible est un atout stratégique. Elle fait de la Suisse le lieu où les parties en conflit peuvent encore se parler — nous voulons renforcer ce rôle, avec la Genève internationale comme plateforme." },
+  { q = "Neutre signifie-t-il sans défense ?", a = "Non. Strictement défensif signifie : développer la capacité de protection sans devenir agressif — protéger les infrastructures critiques, soutenir les autorités civiles en cas de crise, avec une doctrine claire et un contrôle démocratique." },
+  { q = "Que sont les bons offices ?", a = "La tradition suisse de rendre la paix possible : être l'hôte de discussions et de négociations, servir de médiateur et apporter un soutien humanitaire." },
+  { q = "Que signifie 'la Suisse d'abord — puis montrer l'exemple' ?", a = "La Suisse doit d'abord fonctionner à l'intérieur : sûre, résiliente, souveraine. Alors seulement elle peut aider de manière crédible vers l'extérieur. Notre ambition est l'exemplarité — pas la leçon de morale." },
+  { q = "Comment cela répond-il aux nouvelles menaces ?", a = "Les risques hybrides, le sabotage et les cyberattaques visent le système nerveux de la Suisse moderne : ses infrastructures critiques. C'est pourquoi neutralité et résilience vont de pair — protection plutôt que projection." },
+]
 
 [[extra.sections]]
 title = "Neutralité & paix"

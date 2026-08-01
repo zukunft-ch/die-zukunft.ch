@@ -2,6 +2,7 @@
 title = "Mentions légales"
 slug = "mentions-legales"
 description = "Mentions légales du parti Le Futur."
+updated = 2026-02-08
 template = "page.html"
 +++
 

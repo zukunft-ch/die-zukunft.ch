@@ -6,11 +6,11 @@ template = "kein-links-rechts.html"
 
 [extra]
 show_cta = true
-cta_text = "Stanchi della logica degli schieramenti? Unitevi a noi."
+cta_text = "Stanco/a della logica degli schieramenti? Unisciti a noi."
 
 # Radar viz
 radar_title = "Il radar politico"
-radar_intro = "Sinistra e destra sono un unico asse. Le vere sfide della Svizzera si giocano su almeno cinque. Questo radar mostra dove si collocano le posizioni tipiche di sinistra e destra – e dove si posiziona Il Futuro."
+radar_intro = "Sinistra e destra sono un unico asse. Le vere sfide della Svizzera si giocano su almeno cinque. Questo radar mostra dove si collocano le posizioni tipiche di sinistra e destra – e dove si posiziona Il Futuro. I valori per sinistra e destra sono stime tipizzate; i nostri non sono una misurazione, ma un'ambizione – il metro con cui vogliamo essere giudicati."
 axes_title = "Cinque assi, cinque posizioni"
 axes_example_label = "Esempio"
 
@@ -133,5 +133,5 @@ points = [
 
 [[extra.sections]]
 title = "Cosa difendiamo"
-text = "Uno Stato che rende possibile il cambiamento, invece di gestirlo. Una Svizzera che resta sovrana e coopera in modo costruttivo con l'Europa. Una società che traduce l'abbondanza in prosperità, comfort e benessere. Se ne avete abbastanza della logica degli schieramenti: benvenuti."
+text = "Uno Stato che rende possibile il cambiamento, invece di gestirlo. Una Svizzera che resta sovrana e coopera in modo costruttivo con l'Europa. Una società che traduce l'abbondanza in prosperità, comfort e benessere. Se ne hai abbastanza della logica degli schieramenti: benvenuto/a."
 +++

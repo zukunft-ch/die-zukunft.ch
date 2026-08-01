@@ -7,6 +7,14 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Liveable cities for all. Get active."
+faq_title = "Frequently asked questions"
+faq = [
+  { q = "Why densification instead of building on greenfields?", a = "Densify where infrastructure exists: that creates housing with short commutes while preserving landscape and village character. Sprawl makes commutes longer and infrastructure more expensive." },
+  { q = "Does that mean high-rises everywhere?", a = "No. High-rises only in clearly defined zones (centres, stations) with strong quality requirements; the standard is mid-rise (6–10 storeys) where it makes urban sense. The goal is not a skyline, but housing, comfort and proximity." },
+  { q = "How does this make housing more affordable?", a = "Through more supply in the right places — complemented by cooperatives, non-profit providers and stable rental models. Scarcity is the biggest price driver." },
+  { q = "What are fast-track permits?", a = "Clear deadlines, unified responsibilities and a one-stop process for dense housing projects. Today, good projects often fail not due to engineering, but due to time and process." },
+  { q = "What do people outside the cities gain?", a = "Less pressure on peripheral areas and surrounding rents, less sprawl — and more nature that stays nature." },
+]
 
 [[extra.sections]]
 title = "Cities & Housing"

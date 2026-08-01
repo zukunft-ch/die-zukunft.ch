@@ -4,7 +4,7 @@ description = "Votations populaires fédérales — aperçu des objets, mis en p
 template = "page.html"
 +++
 
-La Suisse vote quatre fois par an sur des objets fédéraux. Cette page est une vue d'ensemble permanente : pour chaque dimanche de votation, une brève mise en perspective par objet le long des douze piliers de notre [programme](/fr/programm/). Nous ne donnons pas de consigne de vote. Nous décrivons où un objet rencontre le programme et quelle tension se trouve derrière.
+La Suisse vote quatre fois par an sur des objets fédéraux. Cette page est une vue d'ensemble permanente : pour chaque dimanche de votation, une brève mise en perspective par objet le long des douze piliers de notre [programme](/fr/programm/). Nous ne donnons délibérément pas encore de consigne de vote : les mots d'ordre relèvent d'un processus démocratique de parti, avec des membres et des assemblées – et c'est précisément ce que nous, jeune parti, sommes en train de construire. D'ici là, nous décrivons où un objet rencontre le programme et quelle tension se trouve derrière.
 
 ---
 

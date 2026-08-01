@@ -6,7 +6,7 @@ template = "programm.html"
 
 [extra]
 show_cta = true
-cta_text = "Convaincu·e ? Soutenez notre programme."
+cta_text = "Convaincu·e ? Soutiens notre programme."
 
 [[extra.chapters]]
 icon = "🏛️"
@@ -28,13 +28,13 @@ link = "/fr/transitions/"
 
 [[extra.chapters]]
 icon = "🧬"
-title = "Sciences de la vie & santé avec confiance"
+title = "Sciences de la vie & santé"
 text = "Permettre le progrès — sans perte de contrôle. Données de santé en opt-in, réglementation basée sur les preuves, pas de médecine d'État opaque."
 link = "/fr/sciences-de-la-vie/"
 
 [[extra.chapters]]
 icon = "🌱"
-title = "Revenu de base comme projet d'avenir"
+title = "Revenu de base"
 text = "Réduire l'angoisse existentielle, diminuer la bureaucratie, favoriser l'entrepreneuriat. Projet pilote fédéral avec évaluation indépendante."
 link = "/fr/revenu-de-base/"
 
@@ -76,7 +76,7 @@ link = "/fr/talent-integration/"
 
 [[extra.chapters]]
 icon = "🗣️"
-title = "Langue commune, forte diversité"
+title = "Langue & compréhension"
 text = "La Suisse doit devenir le modèle européen de la compréhension : plus de communication commune au quotidien et dans l'économie — sans supplanter les langues nationales."
 link = "/fr/langue-comprehension/"
 +++

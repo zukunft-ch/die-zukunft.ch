@@ -1,11 +1,18 @@
 +++
-title = "Offener Staat: API-by-default"
+title = "Offener Staat"
 description = "Ein Staat, der ermöglicht statt blockiert: Daten und Verfahren offen, maschinenlesbar und über APIs verfügbar."
 template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Demokratie modernisieren. Werden Sie aktiv."
+cta_text = "Demokratie modernisieren. Werde aktiv."
+faq_title = "Häufige Fragen"
+faq = [
+  { q = "Was bedeutet API-by-default?", a = "Behörden stellen Daten und Verfahren nicht nur als PDF bereit, sondern als verlässliche, dokumentierte Schnittstellen — mit einheitlichen Standards, Versionierung und stabiler Verfügbarkeit. Alles, was nicht die nationale Sicherheit betrifft, ist offen und maschinenlesbar." },
+  { q = "Ist das nicht ein Datenschutzrisiko?", a = "Nein — Offenheit gilt für Daten und Prozesse des Staates, nicht für Personendaten. Es gilt Privacy-by-design (minimieren, anonymisieren, aggregieren) und Security-by-design (starke Standards, Audits, klare Verantwortlichkeiten)." },
+  { q = "Was bringt das im Alltag?", a = "Weniger Papier und Wartezeit, niedrigere Verwaltungskosten und bessere Services — weil Bürger:innen, Medien und Unternehmen auf offenen Daten bessere Tools bauen können." },
+  { q = "Gilt Transparenz auch für die Politik selbst?", a = "Ja: Parteifinanzierung, Spendenflüsse und Kampagnenbudgets sollen zeitnah und öffentlich einsehbar sein. Das gilt auch für uns." },
+]
 
 [[extra.sections]]
 title = "Offener Staat: API-by-default"

@@ -4,7 +4,7 @@ description = "Eidgenössische Volksabstimmungen — Übersicht der Vorlagen, ei
 template = "page.html"
 +++
 
-Die Schweiz stimmt viermal pro Jahr über Bundesvorlagen ab. Diese Seite ist eine permanente Übersicht: für jeden Abstimmungssonntag eine kurze Einordnung pro Vorlage entlang der zwölf Pfeiler unseres [Programms](/programm/). Wir geben keine Stimmempfehlung ab. Wir beschreiben, wo eine Vorlage auf das Programm trifft und welche Spannung dahinter steht.
+Die Schweiz stimmt viermal pro Jahr über Bundesvorlagen ab. Diese Seite ist eine permanente Übersicht: für jeden Abstimmungssonntag eine kurze Einordnung pro Vorlage entlang der zwölf Pfeiler unseres [Programms](/programm/). Wir geben bewusst noch keine Stimmempfehlung ab: Parolen gehören in einen demokratischen Parteiprozess mit Mitgliedern und Versammlungen – und den bauen wir als junge Partei gerade erst auf. Bis dahin beschreiben wir, wo eine Vorlage auf das Programm trifft und welche Spannung dahinter steht.
 
 ---
 

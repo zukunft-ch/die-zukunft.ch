@@ -10,7 +10,7 @@ cta_text = "Tired of tribal politics? Join us."
 
 # Radar viz
 radar_title = "The Political Radar"
-radar_intro = "Left and right are a single axis. Switzerland's real challenges play out across at least five. This radar shows where typical left and right positions sit — and where The Future stands."
+radar_intro = "Left and right are a single axis. Switzerland's real challenges play out across at least five. This radar shows where typical left and right positions sit — and where The Future stands. The left and right values are typified estimates; our own are not a measurement but a commitment — the bar we want to be held to."
 axes_title = "Five axes, five positions"
 axes_example_label = "Example"
 

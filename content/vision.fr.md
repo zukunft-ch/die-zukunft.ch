@@ -6,7 +6,7 @@ template = "vision.html"
 
 [extra]
 show_cta = true
-cta_text = "Vous partagez notre vision ? Rejoignez le mouvement."
+cta_text = "Tu partages notre vision ? Rejoins le mouvement."
 
 [[extra.sections]]
 title = "La Suisse de demain"

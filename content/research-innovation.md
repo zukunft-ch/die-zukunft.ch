@@ -5,7 +5,14 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Innovation für alle. Werden Sie aktiv."
+cta_text = "Innovation für alle. Werde aktiv."
+faq_title = "Häufige Fragen"
+faq = [
+  { q = "Was ist ein Reallabor?", a = "Eine klar begrenzte Testumgebung, in der neue Lösungen unter realen Bedingungen erprobt werden — mit messbaren Zielen, transparenter Auswertung und echten Lernschleifen." },
+  { q = "Warum 'Commons'?", a = "Wenn Steuergeld Innovation fördert, soll der Nutzen breit wirken: offene Standards und Interoperabilität als Default, Wissenstransfer statt Silos und verantwortungsvolle IP-Modelle, wo sie sinnvoll sind." },
+  { q = "Wie unterscheidet sich das von heutiger Innovationsförderung?", a = "Wir denken den Betrieb mit: Maintenance wird mitfinanziert statt nur der Aufbau, Ergebnisse werden transparent ausgewertet, und ein schweizweites Innovationsnetz verbindet Hochschulen, Startups, KMU und Industrie über Kantonsgrenzen hinweg." },
+  { q = "Warum ist europäische Anschlussfähigkeit wichtig?", a = "Innovation skaliert über Märkte und Standards hinweg. Wo europäische Kooperation die Wirkung erhöht, nutzen wir sie — ohne die Schweizer Eigenständigkeit aufzugeben." },
+]
 
 [[extra.sections]]
 title = "Forschung, Innovation & Commons"

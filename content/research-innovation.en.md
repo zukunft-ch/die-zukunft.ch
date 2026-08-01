@@ -7,6 +7,13 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Innovation for all. Get active."
+faq_title = "Frequently asked questions"
+faq = [
+  { q = "What is a testbed?", a = "A clearly bounded test environment where new solutions are trialled under real conditions — with measurable goals, transparent evaluation and real learning loops." },
+  { q = "Why 'commons'?", a = "When tax money supports innovation, the benefit must be broadly shared: open standards and interoperability as the default, knowledge transfer instead of silos, and responsible IP models where sensible." },
+  { q = "How does this differ from today's innovation funding?", a = "We build in operations: maintenance is funded, not just construction; results are evaluated transparently; and a nationwide innovation network connects universities, startups, SMEs and industry across cantons." },
+  { q = "Why does European compatibility matter?", a = "Innovation scales across markets and standards. Where European cooperation increases impact, we use it — without giving up Swiss autonomy." },
+]
 
 [[extra.sections]]
 title = "Research, Innovation & Commons"

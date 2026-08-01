@@ -7,6 +7,14 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Peace needs conviction. Get active."
+faq_title = "Frequently asked questions"
+faq = [
+  { q = "Isn't neutrality outdated?", a = "On the contrary: credible neutrality is a strategic asset. It makes Switzerland the place where conflict parties can still talk to each other — a role we want to strengthen, with International Geneva as the platform." },
+  { q = "Does neutral mean defenceless?", a = "No. Strictly defensive means: building protective capability without becoming aggressive — protecting critical infrastructure, supporting civilian authorities in crises, with a clear doctrine and democratic control." },
+  { q = "What are good offices?", a = "The Swiss tradition of making peace possible: hosting talks and negotiations, mediating and providing humanitarian support." },
+  { q = "What does 'Switzerland first — then lead by example' mean?", a = "Switzerland must first work domestically: secure, resilient, sovereign. Only then can it help credibly abroad. Our ambition is to lead by example — not to lecture." },
+  { q = "How does this fit the new threats?", a = "Hybrid risks, sabotage and cyberattacks target the nervous system of modern Switzerland: its critical infrastructure. That's why neutrality and resilience belong together — protection instead of projection." },
+]
 
 [[extra.sections]]
 title = "Neutrality & Peace"

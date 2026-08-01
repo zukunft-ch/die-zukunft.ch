@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Rendere possibili le transizioni. Attivatevi."
+cta_text = "Rendere possibili le transizioni. Attivati."
+faq_title = "Domande frequenti"
+faq = [
+  { q = "Cosa sono le 'transizioni'?", a = "Cambio di professione, formazione continua, nuovo inizio — tutto ciò che accade quando i profili professionali cambiano. Vogliamo che sia normale e supportato, non angosciante e burocratico." },
+  { q = "Chi paga la riqualificazione?", a = "Una combinazione di contributi dei datori di lavoro, fondi pubblici e nuovi modelli di finanziamento. L'obiettivo: nessuno dovrebbe rinunciare alla formazione continua per motivi finanziari." },
+  { q = "Perché i sistemi attuali non bastano?", a = "Perché sono troppo lenti, troppo burocratici e progettati per le eccezioni. In un mondo in cui i profili professionali cambiano ogni pochi anni, la transizione deve essere la norma — non l'eccezione." },
+  { q = "Cosa significa 'competenza prima del diploma'?", a = "Che le competenze pratiche e l'esperienza professionale vengono riconosciute alla pari — non solo i titoli formali. Chi sa fare qualcosa deve poterlo dimostrare, indipendentemente dal percorso formativo." },
+  { q = "Questo riguarda solo le professioni tecniche?", a = "No. Le transizioni riguardano tutti i settori: sanità, artigianato, amministrazione, servizi. Ovunque l'automazione e la digitalizzazione trasformano i profili professionali." },
+]
 
 [[extra.sections]]
 title = "Lavorare senza paura"
@@ -29,15 +37,6 @@ points = [
   "La tecnologia trasforma le professioni più velocemente di quanto i sistemi formativi reagiscano",
   "Le persone hanno bisogno di sicurezza per aprirsi al nuovo",
   "Le transizioni diventano la norma – il sistema deve adeguarsi",
-]
-
-faq_title = "Domande frequenti"
-faq = [
-  { q = "Cosa sono le 'transizioni'?", a = "Cambio di professione, formazione continua, nuovo inizio — tutto ciò che accade quando i profili professionali cambiano. Vogliamo che sia normale e supportato, non angosciante e burocratico." },
-  { q = "Chi paga la riqualificazione?", a = "Una combinazione di contributi dei datori di lavoro, fondi pubblici e nuovi modelli di finanziamento. L'obiettivo: nessuno dovrebbe rinunciare alla formazione continua per motivi finanziari." },
-  { q = "Perché i sistemi attuali non bastano?", a = "Perché sono troppo lenti, troppo burocratici e progettati per le eccezioni. In un mondo in cui i profili professionali cambiano ogni pochi anni, la transizione deve essere la norma — non l'eccezione." },
-  { q = "Cosa significa 'competenza prima del diploma'?", a = "Che le competenze pratiche e l'esperienza professionale vengono riconosciute alla pari — non solo i titoli formali. Chi sa fare qualcosa deve poterlo dimostrare, indipendentemente dal percorso formativo." },
-  { q = "Questo riguarda solo le professioni tecniche?", a = "No. Le transizioni riguardano tutti i settori: sanità, artigianato, amministrazione, servizi. Ovunque l'automazione e la digitalizzazione trasformano i profili professionali." },
 ]
 +++
 

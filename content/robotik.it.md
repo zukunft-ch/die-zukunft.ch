@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Rafforzare la produzione locale. Attivatevi."
+cta_text = "Rafforzare la produzione locale. Attivati."
+faq_title = "Domande frequenti"
+faq = [
+  { q = "I robot toglieranno il lavoro alle persone?", a = "Non se lo gestiamo correttamente. L'automazione libera le persone dal lavoro monotono e pericoloso. La chiave sta nella formazione continua, nel reddito di base e in nuovi profili professionali." },
+  { q = "Solo le grandi aziende beneficiano della robotica?", a = "No — è proprio ciò che vogliamo evitare. Il nostro pacchetto PMI comprende laboratori di robotica condivisi, crediti agevolati e buoni formazione." },
+  { q = "Cosa significa reindustrializzazione per la Svizzera?", a = "Più creazione di valore locale, catene di fornitura più corte e meno dipendenza da crisi globali. Produzione in Svizzera — moderna, automatizzata e competitiva." },
+  { q = "In quali settori bisogna automatizzare?", a = "Ovunque abbia senso: medtech, produzione di precisione, food-tech, logistica. Non come fine a sé stesso, ma dove l'automazione migliora qualità, efficienza e resilienza." },
+  { q = "Non servono specialisti altamente qualificati?", a = "Sì — per questo i programmi di formazione fanno parte del pacchetto. La competenza in robotica non deve essere un sapere d'élite. Laboratori condivisi e corsi modulari facilitano l'accesso." },
+]
 
 [[extra.sections]]
 title = "Perché la reindustrializzazione?"
@@ -36,14 +44,5 @@ points = [
 [[extra.sections]]
 title = "Automazione nel settore dei servizi"
 text = "Siamo a favore dell'automazione quando alleggerisce le persone e aumenta la produttività – con un obiettivo chiaro: più tempo, più libertà, più prosperità."
-
-faq_title = "Domande frequenti"
-faq = [
-  { q = "I robot toglieranno il lavoro alle persone?", a = "Non se lo gestiamo correttamente. L'automazione libera le persone dal lavoro monotono e pericoloso. La chiave sta nella formazione continua, nel reddito di base e in nuovi profili professionali." },
-  { q = "Solo le grandi aziende beneficiano della robotica?", a = "No — è proprio ciò che vogliamo evitare. Il nostro pacchetto PMI comprende laboratori di robotica condivisi, crediti agevolati e buoni formazione." },
-  { q = "Cosa significa reindustrializzazione per la Svizzera?", a = "Più creazione di valore locale, catene di fornitura più corte e meno dipendenza da crisi globali. Produzione in Svizzera — moderna, automatizzata e competitiva." },
-  { q = "In quali settori bisogna automatizzare?", a = "Ovunque abbia senso: medtech, produzione di precisione, food-tech, logistica. Non come fine a sé stesso, ma dove l'automazione migliora qualità, efficienza e resilienza." },
-  { q = "Non servono specialisti altamente qualificati?", a = "Sì — per questo i programmi di formazione fanno parte del pacchetto. La competenza in robotica non deve essere un sapere d'élite. Laboratori condivisi e corsi modulari facilitano l'accesso." },
-]
 +++
 

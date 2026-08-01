@@ -5,7 +5,7 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Sie möchten die Partei mitgestalten? Melden Sie sich bei uns."
+cta_text = "Du möchtest die Partei mitgestalten? Melde dich bei uns."
 
 [[extra.sections]]
 title = "Raffael Schneider"
@@ -16,10 +16,10 @@ subsections = [
 
 [[extra.sections]]
 title = "Vorstand"
-text = "Wird demnächst bekanntgegeben."
+text = "Der Vorstand ist im Aufbau. Wir stellen die Namen vor, sobald die Gründungsstruktur steht – wer jetzt einsteigt, prägt sie mit."
 
 [[extra.sections]]
 title = "Beirat"
-text = "Wird demnächst bekanntgegeben."
+text = "Der Beirat ist im Aufbau. Wir suchen Menschen mit Expertise, die unsere Arbeit kritisch begleiten wollen – melde dich, wenn du dabei sein willst."
 +++
 

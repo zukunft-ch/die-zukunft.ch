@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "La sovranità digitale richiede volontà politica. Attivatevi."
+cta_text = "La sovranità digitale richiede volontà politica. Attivati."
+faq_title = "Domande frequenti"
+faq = [
+  { q = "Cosa significa concretamente sovranità digitale?", a = "Sovranità digitale significa che lo Stato e la popolazione mantengono il controllo sui propri dati, sistemi e infrastrutture digitali — indipendentemente da singoli fornitori o paesi." },
+  { q = "Significa che non possiamo più usare software straniero?", a = "No. Swiss/EU-first si applica solo alle infrastrutture critiche e ai dati sensibili. Per il resto: concorrenza aperta — ma con obbligo di auditabilità, portabilità e standard aperti." },
+  { q = "Cos'è una legge anti-lock-in?", a = "Una legge che impedisce allo Stato di vincolarsi permanentemente a un unico fornitore IT. Richiede piani di uscita, formati aperti e portabilità dei dati come elementi contrattuali." },
+  { q = "L'open source non costa più delle soluzioni commerciali?", a = "Non necessariamente. L'open source riduce i costi a lungo termine grazie a una minore dipendenza dalle licenze. L'essenziale è che anche la manutenzione venga finanziata — non solo l'implementazione." },
+  { q = "Come influisce sulla vita quotidiana?", a = "Meno guasti informatici nei servizi pubblici, meno fughe di dati, più trasparenza. E nessuna sorpresa se un fornitore raddoppia improvvisamente i prezzi o interrompe il servizio." },
+]
 
 [[extra.sections]]
 title = "Infrastruttura digitale"
@@ -33,15 +41,6 @@ points = [
   "Meno dipendenza da singoli fornitori",
   "Meno rischi nei servizi critici",
   "Più fiducia grazie alla trasparenza",
-]
-
-faq_title = "Domande frequenti"
-faq = [
-  { q = "Cosa significa concretamente sovranità digitale?", a = "Sovranità digitale significa che lo Stato e la popolazione mantengono il controllo sui propri dati, sistemi e infrastrutture digitali — indipendentemente da singoli fornitori o paesi." },
-  { q = "Significa che non possiamo più usare software straniero?", a = "No. Swiss/EU-first si applica solo alle infrastrutture critiche e ai dati sensibili. Per il resto: concorrenza aperta — ma con obbligo di auditabilità, portabilità e standard aperti." },
-  { q = "Cos'è una legge anti-lock-in?", a = "Una legge che impedisce allo Stato di vincolarsi permanentemente a un unico fornitore IT. Richiede piani di uscita, formati aperti e portabilità dei dati come elementi contrattuali." },
-  { q = "L'open source non costa più delle soluzioni commerciali?", a = "Non necessariamente. L'open source riduce i costi a lungo termine grazie a una minore dipendenza dalle licenze. L'essenziale è che anche la manutenzione venga finanziata — non solo l'implementazione." },
-  { q = "Come influisce sulla vita quotidiana?", a = "Meno guasti informatici nei servizi pubblici, meno fughe di dati, più trasparenza. E nessuna sorpresa se un fornitore raddoppia improvvisamente i prezzi o interrompe il servizio." },
 ]
 +++
 

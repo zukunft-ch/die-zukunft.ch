@@ -6,7 +6,14 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "L'innovation pour tous. Engagez-vous."
+cta_text = "L'innovation pour tous. Engage-toi."
+faq_title = "Questions fréquentes"
+faq = [
+  { q = "Qu'est-ce qu'un laboratoire réel ?", a = "Un environnement de test clairement délimité, où de nouvelles solutions sont éprouvées en conditions réelles — avec des objectifs mesurables, une évaluation transparente et de véritables boucles d'apprentissage." },
+  { q = "Pourquoi les 'biens communs' ?", a = "Quand l'argent public finance l'innovation, le bénéfice doit être large : standards ouverts et interopérabilité par défaut, transfert de connaissances plutôt que silos, et modèles de PI responsables là où c'est pertinent." },
+  { q = "En quoi cela diffère-t-il du soutien actuel à l'innovation ?", a = "Nous pensons aussi l'exploitation : la maintenance est financée, pas seulement la construction ; les résultats sont évalués de manière transparente ; et un réseau d'innovation à l'échelle suisse relie hautes écoles, startups, PME et industrie au-delà des frontières cantonales." },
+  { q = "Pourquoi la compatibilité européenne est-elle importante ?", a = "L'innovation se déploie à travers les marchés et les standards. Là où la coopération européenne augmente l'impact, nous l'utilisons — sans renoncer à l'autonomie suisse." },
+]
 
 [[extra.sections]]
 title = "Recherche, innovation & biens communs"

@@ -9,7 +9,7 @@ cta_text = "Überzeugt? Setz dich mit uns für ein Grundeinkommen ein."
 faq_title = "Häufige Fragen"
 faq = [
   { q = "Ist das nicht einfach 'Geld für alle'?", a = "Nein. Das Grundeinkommen ersetzt einen grossen Teil der heutigen Sozialversicherungsbürokratie durch eine einfache, universelle Grundsicherung. Es ist eine Vereinfachung des Systems — kein Geschenk." },
-  { q = "Wie wird es finanziert?", a = "Durch eine Kombination aus Automatisierungssteuern, Vereinfachungsgewinnen im Sozialwesen und Umschichtung bestehender Transfers. Konkrete Modelle werden mit Ökonomen und Sozialwissenschaftlern erarbeitet." },
+  { q = "Wie wird es finanziert?", a = "Nicht über eine spezielle Robotersteuer — wer automatisiert, wird nicht bestraft. Finanziert wird es aus der normalen Besteuerung wachsender Wertschöpfung (Einkommen, Konsum, Vermögen), aus Vereinfachungsgewinnen im Sozialwesen und aus der Umschichtung bestehender Transfers — genau die Hebel, die unser UBI-Rechner abbildet. Konkrete Modelle werden mit Ökonomen und Sozialwissenschaftlern erarbeitet." },
   { q = "Hören die Leute dann auf zu arbeiten?", a = "Die Forschung zeigt: Nein. Pilotprojekte weltweit belegen, dass Menschen mit Grundsicherung häufiger gründen, sich weiterbilden und produktiver arbeiten — nicht weniger." },
   { q = "Warum gerade jetzt?", a = "Die Automatisierung beschleunigt sich. Ohne ein stabilisierendes Fundament drohen soziale Verwerfungen. Das Grundeinkommen ist eine präventive, keine reaktive Massnahme." },
   { q = "Gilt das auch für Nicht-Schweizer?", a = "Die genaue Ausgestaltung — etwa Wohnsitzpflicht und Beitragsdauer — wird im demokratischen Prozess festgelegt. Entscheidend ist das Prinzip der universellen Grundsicherung." },

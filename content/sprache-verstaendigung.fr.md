@@ -6,7 +6,14 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Renforcer la compréhension. Engagez-vous."
+cta_text = "Renforcer la compréhension. Engage-toi."
+faq_title = "Questions fréquentes"
+faq = [
+  { q = "Les langues nationales doivent-elles être remplacées ?", a = "Non. L'allemand, le français, l'italien et le romanche font partie de la Suisse et le restent. Il s'agit d'une langue véhiculaire commune supplémentaire pour le quotidien, l'économie et la science — pas d'une substitution." },
+  { q = "Pourquoi l'anglais ?", a = "Parce que c'est aujourd'hui la langue-pont la plus pratique : dans la science et l'innovation, dans l'économie internationale et dans les échanges en Europe et dans le monde." },
+  { q = "N'est-ce pas un sujet de guerre culturelle ?", a = "Non — la langue est une infrastructure. Elle détermine si les gens arrivent, si le travail fonctionne et si les institutions sont compréhensibles. Nous en faisons un projet de compréhension, pas une querelle identitaire." },
+  { q = "Comment cela sera-t-il mis en œuvre ?", a = "Progressivement et de manière mesurable : informations administratives multilingues là où elles ont un impact, parcours d'apprentissage volontaires, reconnaissance des compétences linguistiques — et évaluation du succès d'intégration, de la qualité des services et du bénéfice économique." },
+]
 
 [[extra.sections]]
 title = "Langue & compréhension"
@@ -33,10 +40,6 @@ points = [
   "Économie internationale",
   "Mobilité et échanges en Europe et dans le monde",
 ]
-
-[[extra.sections]]
-title = "Ouverture aux langues construites"
-text = "Nous sommes ouverts aux alternatives neutres comme l'espéranto – et à long terme aussi à l'idée d'une langue véhiculaire construite plus globalement inclusive, qui ne reflète pas uniquement les logiques linguistiques européennes. Ce n'est pas une guerre culturelle, mais un projet d'avenir pour la compréhension."
 
 [[extra.sections]]
 title = "Mise en œuvre : progressive et mesurable"

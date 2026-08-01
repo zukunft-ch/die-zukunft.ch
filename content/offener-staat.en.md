@@ -7,6 +7,13 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Modernise democracy. Get active."
+faq_title = "Frequently asked questions"
+faq = [
+  { q = "What does API-by-default mean?", a = "Authorities publish data and procedures not just as PDFs, but as reliable, documented interfaces — with unified standards, versioning and stable availability. Everything that doesn't concern national security is open and machine-readable." },
+  { q = "Isn't this a privacy risk?", a = "No — openness applies to the state's data and processes, not to personal data. Privacy-by-design applies (minimise, anonymise, aggregate), as does security-by-design (strong standards, audits, clear responsibilities)." },
+  { q = "What does this deliver in everyday life?", a = "Less paperwork and waiting, lower administrative costs and better services — because citizens, media and companies can build better tools on open data." },
+  { q = "Does transparency also apply to politics itself?", a = "Yes: party financing, donation flows and campaign budgets should be publicly viewable, promptly. That applies to us too." },
+]
 
 [[extra.sections]]
 title = "Open Government: API-by-default"

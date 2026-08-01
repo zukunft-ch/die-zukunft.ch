@@ -6,11 +6,11 @@ template = "kein-links-rechts.html"
 
 [extra]
 show_cta = true
-cta_text = "Assez de la logique des camps ? Rejoignez-nous."
+cta_text = "Assez de la logique des camps ? Rejoins-nous."
 
 # Radar viz
 radar_title = "Le radar politique"
-radar_intro = "Gauche et droite ne sont qu'un seul axe. Les vrais défis de la Suisse se jouent sur au moins cinq. Ce radar montre où se situent les positions typiques de gauche et de droite – et où se positionne Le Futur."
+radar_intro = "Gauche et droite ne sont qu'un seul axe. Les vrais défis de la Suisse se jouent sur au moins cinq. Ce radar montre où se situent les positions typiques de gauche et de droite – et où se positionne Le Futur. Les valeurs pour la gauche et la droite sont des estimations typifiées ; les nôtres ne sont pas une mesure, mais une exigence – le standard auquel nous voulons être mesurés."
 axes_title = "Cinq axes, cinq positions"
 axes_example_label = "Exemple"
 
@@ -133,5 +133,5 @@ points = [
 
 [[extra.sections]]
 title = "Ce que nous défendons"
-text = "Un État qui rend le changement possible, au lieu de le gérer. Une Suisse qui reste souveraine et coopère de manière constructive avec l'Europe. Une société qui traduit l'abondance en prospérité, confort et bien-être. Si vous en avez assez de la logique des camps : bienvenue."
+text = "Un État qui rend le changement possible, au lieu de le gérer. Une Suisse qui reste souveraine et coopère de manière constructive avec l'Europe. Une société qui traduit l'abondance en prospérité, confort et bien-être. Si tu en as assez de la logique des camps : bienvenue."
 +++

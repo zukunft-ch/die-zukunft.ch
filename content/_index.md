@@ -32,14 +32,14 @@ pillars = [
   { icon = "📚", title = "Arbeit ohne Angst", text = "Umschulung, Mobilität und Übergangsunterstützung als Normalität — nicht als Notlösung.", link = "@/uebergaenge.md" },
   { icon = "🏛️", title = "Digitale Souveränität", text = "Schweizer und europäische Lösungen zuerst. Offene Standards, kein Vendor-Lock-in.", link = "@/digitale-souveraenitaet.md" },
   { icon = "🏭", title = "Reindustrialisierung mit Robotik", text = "KMU-freundliche Automatisierung: geteilte Labors, Anreize, lokale Fertigung.", link = "@/robotik.md" },
-  { icon = "🧬", title = "Biotech mit Vertrauen", text = "Moderne Lebenswissenschaften mit Einwilligung, Prüfbarkeit und ohne Black-Box-Staatsmedizin.", link = "@/life-science.md" },
-  { icon = "🏙️", title = "Städte & Wohnen der Zukunft", text = "Mehr bezahlbarer Wohnraum und mehr Lebensqualität durch Verdichtung an ÖV-Knoten – weniger Zersiedlung, mehr Komfort.", link = "@/stadte-wohnen.md" },
-  { icon = "🔬", title = "Forschung & Innovation", text = "Reallabore, offene Standards und ein schweizweites Innovationsnetz – damit Innovation breit wirkt und nicht in Silos bleibt.", link = "@/research-innovation.md" },
-  { icon = "⚡", title = "Energie & Infrastruktur", text = "Zuverlässige, bezahlbare, robuste Versorgung – Resilienz durch Engineering, nicht durch Ideologie.", link = "@/energy-resilience.md" },
+  { icon = "🧬", title = "Life Science & Gesundheit", text = "Moderne Lebenswissenschaften mit Einwilligung, Prüfbarkeit und ohne Black-Box-Staatsmedizin.", link = "@/life-science.md" },
+  { icon = "🏙️", title = "Städte & Wohnen", text = "Mehr bezahlbarer Wohnraum und mehr Lebensqualität durch Verdichtung an ÖV-Knoten – weniger Zersiedlung, mehr Komfort.", link = "@/stadte-wohnen.md" },
+  { icon = "🔬", title = "Forschung, Innovation & Commons", text = "Reallabore, offene Standards und ein schweizweites Innovationsnetz – damit Innovation breit wirkt und nicht in Silos bleibt.", link = "@/research-innovation.md" },
+  { icon = "⚡", title = "Energie & Infrastruktur-Resilienz", text = "Zuverlässige, bezahlbare, robuste Versorgung – Resilienz durch Engineering, nicht durch Ideologie.", link = "@/energy-resilience.md" },
   { icon = "📡", title = "Offener Staat", text = "API-by-default, radikale Transparenz und offene Verfahren – damit Bürger:innen bessere Tools bauen und den Staat effektiv prüfen können.", link = "@/offener-staat.md" },
   { icon = "🕊️", title = "Neutralität & Frieden", text = "Strikt defensiv, glaubwürdig neutral – und wieder ein Zentrum für Friedensgespräche und Good Offices.", link = "@/neutralitaet-frieden.md" },
-  { icon = "🤝", title = "Talent & Integration", text = "Offen für Menschen, die etwas beitragen – klar im Rechtsstaat und in den Regeln des Zusammenlebens.", link = "@/talent-integration.md" },
-  { icon = "🗣️", title = "Sprache & Verständigung", text = "Landessprachen stärken, Englisch als pragmatische Brücke – und Offenheit für eine global inklusive Verkehrssprache.", link = "@/sprache-verstaendigung.md" },
+  { icon = "🤝", title = "Talent, Integration & Rechtsstaat", text = "Offen für Menschen, die etwas beitragen – klar im Rechtsstaat und in den Regeln des Zusammenlebens.", link = "@/talent-integration.md" },
+  { icon = "🗣️", title = "Sprache & Verständigung", text = "Landessprachen stärken, Englisch als pragmatische Brücke – Verständigung ohne Reibungsverlust.", link = "@/sprache-verstaendigung.md" },
 ]
 
 timeline_title = "Wie wir starten"

@@ -1,21 +1,21 @@
 +++
 title = "Participer"
 slug = "participer"
-description = "Rejoignez Le Futur : adhésion, newsletter, dons."
+description = "Rejoins Le Futur : adhésion, newsletter, dons."
 template = "mitmachen.html"
 
 [extra]
-intro = "L'avenir ne se construit pas seul. Si vous voulez que la politique puisse à nouveau penser l'avenir : rejoignez-nous."
+intro = "L'avenir ne se construit pas seul. Si tu veux que la politique puisse à nouveau penser l'avenir : rejoins-nous."
 
 [[extra.sections]]
 title = "Rejoindre l'association"
-text = "Devenez membre de l'association Le Futur et participez activement à la construction du parti. Toutes les informations sur l'adhésion se trouvent sur notre page associative."
+text = "Deviens membre de l'association Le Futur et participe activement à la construction du parti. Toutes les informations sur l'adhésion se trouvent sur notre page associative."
 link = "https://collective.die-zukunft.ch"
 link_text = "Vers la page de l'association"
 
 [[extra.sections]]
 title = "Devenir membre"
-text = "L'adhésion vous donne la codécision, des mises à jour et la possibilité de façonner les groupes de travail. Écrivez-nous à hey@die-zukunft.ch."
+text = "L'adhésion te donne la codécision, des mises à jour et la possibilité de façonner les groupes de travail. Écris-nous à hey@die-zukunft.ch."
 link = "mailto:hey@die-zukunft.ch"
 link_text = "hey@die-zukunft.ch"
 
@@ -26,7 +26,7 @@ shortcode = "newsletter_form"
 
 [[extra.sections]]
 title = "Dons (Open Collective)"
-text = "Financement transparent, traçable pour tous. Soutenez Le Futur via Open Collective."
+text = "Financement transparent, traçable pour tous. Soutiens Le Futur via Open Collective."
 link = "https://opencollective.com/die-zukunft"
 link_text = "Soutenir sur Open Collective"
 
@@ -34,9 +34,9 @@ link_text = "Soutenir sur Open Collective"
 title = "Bénévolat"
 text = "Que ce soit pour la rédaction, l'organisation, le design ou le travail de campagne — nous apprécions tout soutien."
 link = "/fr/contact/"
-link_text = "Contactez-nous"
+link_text = "Contacte-nous"
 
 [[extra.sections]]
 title = "Réseautage"
-text = "Connaissez-vous des expert·e·s, des organisations ou des initiatives poursuivant des objectifs similaires ? Nous cherchons activement l'échange et les partenariats."
+text = "Connais-tu des expert·e·s, des organisations ou des initiatives poursuivant des objectifs similaires ? Nous cherchons activement l'échange et les partenariats."
 +++

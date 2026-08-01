@@ -7,6 +7,13 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Open and clear. Get active."
+faq_title = "Frequently asked questions"
+faq = [
+  { q = "Do you want more or less migration?", a = "That's the wrong question. We want Switzerland to be open to people who contribute — researchers, founders, skilled professionals — while staying reliable in its rules. The quality of integration is what counts, not symbolic debates." },
+  { q = "What does 'integration means commitment' mean?", a = "Those who move to Switzerland should truly arrive: learn the language, have access to work and training, take part in social life. It is both an expectation and an offer." },
+  { q = "And those who don't follow the rules?", a = "Rules apply to everyone, and violations are consistently prosecuted under the rule of law. But responsibility is individual — no generalisations by origin." },
+  { q = "Why is talent inflow part of the prosperity model?", a = "Because prosperity emerges where skill and effort are welcome. People who research, found and invest here make the country stronger — and everyone benefits." },
+]
 
 [[extra.sections]]
 title = "Talent, Integration & Rule of Law"

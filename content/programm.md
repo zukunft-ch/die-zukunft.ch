@@ -5,7 +5,7 @@ template = "programm.html"
 
 [extra]
 show_cta = true
-cta_text = "Überzeugt? Unterstützen Sie unser Programm."
+cta_text = "Überzeugt? Unterstütze unser Programm."
 
 [[extra.chapters]]
 icon = "🏛️"
@@ -27,13 +27,13 @@ link = "/uebergaenge/"
 
 [[extra.chapters]]
 icon = "🧬"
-title = "Life Science & Gesundheit mit Vertrauen"
+title = "Life Science & Gesundheit"
 text = "Fortschritt ermöglichen — ohne Kontrollverlust. Gesundheitsdaten opt-in, evidenzbasierte Regulierung, keine Black-Box-Staatsmedizin."
 link = "/life-science/"
 
 [[extra.chapters]]
 icon = "🌱"
-title = "Basiseinkommen als Zukunftsprojekt"
+title = "Grundeinkommen"
 text = "Existenzangst reduzieren, Bürokratie senken, Gründungen ermöglichen. Bundesweiter Pilot mit unabhängiger Evaluation."
 link = "/grundeinkommen/"
 
@@ -75,7 +75,7 @@ link = "/talent-integration/"
 
 [[extra.chapters]]
 icon = "🗣️"
-title = "Gemeinsame Sprache, starke Vielfalt"
+title = "Sprache & Verständigung"
 text = "Die Schweiz soll das europäische Vorbild für Verständigung werden: mehr gemeinsame Kommunikation im Alltag und in der Wirtschaft — ohne die Landessprachen zu verdrängen."
 link = "/sprache-verstaendigung/"
 +++

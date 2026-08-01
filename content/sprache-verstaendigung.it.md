@@ -6,7 +6,14 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Rafforzare la comprensione. Attivatevi."
+cta_text = "Rafforzare la comprensione. Attivati."
+faq_title = "Domande frequenti"
+faq = [
+  { q = "Le lingue nazionali devono essere sostituite?", a = "No. Tedesco, francese, italiano e romancio fanno parte della Svizzera e tali restano. Si tratta di una lingua veicolare comune aggiuntiva per il quotidiano, l'economia e la scienza — non di una sostituzione." },
+  { q = "Perché l'inglese?", a = "Perché oggi è la lingua-ponte più pratica: nella scienza e nell'innovazione, nell'economia internazionale e negli scambi in Europa e nel mondo." },
+  { q = "Non è un tema da guerra culturale?", a = "No — la lingua è un'infrastruttura. Decide se le persone arrivano, se il lavoro funziona e se le istituzioni sono comprensibili. Ne facciamo un progetto di comprensione, non una disputa identitaria." },
+  { q = "Come verrà attuato?", a = "Gradualmente e in modo misurabile: informazioni amministrative multilingui dove hanno un impatto, percorsi di apprendimento volontari, riconoscimento delle competenze linguistiche — e valutazione del successo dell'integrazione, della qualità dei servizi e del beneficio economico." },
+]
 
 [[extra.sections]]
 title = "Lingua & comprensione"
@@ -33,10 +40,6 @@ points = [
   "Economia internazionale",
   "Mobilità e scambi in Europa e nel mondo",
 ]
-
-[[extra.sections]]
-title = "Apertura alle lingue costruite"
-text = "Siamo aperti ad alternative neutrali come l'esperanto – e a lungo termine anche all'idea di una lingua veicolare costruita più globalmente inclusiva, che non rifletta solo le logiche linguistiche europee. Non è una guerra culturale, ma un progetto futuro di comprensione."
 
 [[extra.sections]]
 title = "Attuazione: graduale e misurabile"

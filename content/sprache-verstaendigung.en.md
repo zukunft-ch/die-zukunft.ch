@@ -7,6 +7,13 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Strengthen understanding. Get active."
+faq_title = "Frequently asked questions"
+faq = [
+  { q = "Should the national languages be replaced?", a = "No. German, French, Italian and Romansh are part of Switzerland and will remain so. This is about an additional shared lingua franca for daily life, business and science — not about displacement." },
+  { q = "Why English?", a = "Because it is today's most practical bridge language: in science and innovation, in international business, and in exchange across Europe and globally." },
+  { q = "Isn't this a culture-war topic?", a = "No — language is infrastructure. It determines whether people feel welcome, whether work succeeds and whether institutions are comprehensible. We treat it as a project of understanding, not an identity fight." },
+  { q = "How will this be implemented?", a = "Step by step and measurably: multilingual government information where it has impact, voluntary learning pathways, recognition of language competences — and evaluation of integration success, service quality and economic benefit." },
+]
 
 [[extra.sections]]
 title = "Language & Understanding"
@@ -33,10 +40,6 @@ points = [
   "International business",
   "Mobility and exchange in Europe and globally",
 ]
-
-[[extra.sections]]
-title = "Openness to Constructed Languages"
-text = "We are open to neutral alternatives like Esperanto — and in the long term also to the idea of a globally more inclusive, constructed lingua franca that doesn't only reflect European language patterns. This is not a culture war, but a future project for understanding."
 
 [[extra.sections]]
 title = "Implementation: Step by Step and Measurable"

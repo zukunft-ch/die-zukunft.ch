@@ -4,7 +4,7 @@ description = "Votazioni popolari federali — panoramica degli oggetti, inquadr
 template = "page.html"
 +++
 
-La Svizzera vota quattro volte all'anno su oggetti federali. Questa pagina è una panoramica permanente: per ogni domenica di votazione una breve contestualizzazione per oggetto lungo i dodici pilastri del nostro [programma](/it/programm/). Non diamo indicazioni di voto. Descriviamo dove un oggetto incontra il programma e quale tensione vi sta dietro.
+La Svizzera vota quattro volte all'anno su oggetti federali. Questa pagina è una panoramica permanente: per ogni domenica di votazione una breve contestualizzazione per oggetto lungo i dodici pilastri del nostro [programma](/it/programm/). Deliberatamente non diamo ancora indicazioni di voto: le parole d'ordine appartengono a un processo democratico di partito, con membri e assemblee – ed è proprio ciò che, come giovane partito, stiamo costruendo. Fino ad allora descriviamo dove un oggetto incontra il programma e quale tensione vi sta dietro.
 
 ---
 

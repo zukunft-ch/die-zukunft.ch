@@ -6,7 +6,14 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Ouvert et clair. Engagez-vous."
+cta_text = "Ouvert et clair. Engage-toi."
+faq_title = "Questions fréquentes"
+faq = [
+  { q = "Voulez-vous plus ou moins de migration ?", a = "C'est la mauvaise question. Nous voulons que la Suisse soit ouverte aux personnes qui contribuent — chercheurs, fondatrices, spécialistes — tout en restant fiable dans ses règles. C'est la qualité de l'intégration qui compte, pas les débats symboliques." },
+  { q = "Que signifie 'l'intégration est un engagement' ?", a = "Qui s'installe en Suisse doit y arriver vraiment : apprendre la langue, avoir accès au travail et à la formation, participer à la vie sociale. C'est à la fois une attente et une offre." },
+  { q = "Et pour qui ne respecte pas les règles ?", a = "Les règles valent pour tous, et les infractions sont poursuivies avec rigueur dans le cadre de l'État de droit. Mais la responsabilité est individuelle — pas de généralisations selon l'origine." },
+  { q = "Pourquoi l'afflux de talents fait-il partie du modèle de prospérité ?", a = "Parce que la prospérité naît là où le savoir-faire et l'engagement sont bienvenus. Les personnes qui recherchent, fondent et investissent ici renforcent le pays — et tout le monde en profite." },
+]
 
 [[extra.sections]]
 title = "Talent, intégration & État de droit"

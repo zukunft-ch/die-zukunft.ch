@@ -6,7 +6,7 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Condividete le nostre convinzioni? Unitevi al movimento."
+cta_text = "Condividi le nostre convinzioni? Unisciti al movimento."
 
 [[extra.sections]]
 title = "Versione breve"
@@ -34,9 +34,9 @@ subsections = [
 
 [[extra.sections]]
 title = "Il tecno-ottimismo come atteggiamento"
-text = "Ci consideriamo parte di un ampio movimento internazionale di tecno-ottimismo: il progresso è possibile — e nasce quando le persone costruiscono, ricercano e si assumono responsabilità. Per questo apprezziamo l'esistenza del <a href=\"https://a16z.com/the-techno-optimist-manifesto/\" target=\"_blank\" rel=\"noopener noreferrer\">Techno-Optimist Manifesto</a> (a16z): formula una chiara contrapposizione alla politica della paura e della scarsità e ricorda che prosperità e qualità della vita crescono soprattutto attraverso l'innovazione."
+text = "Siamo tecno-ottimisti: il progresso è possibile — e nasce quando le persone costruiscono, ricercano e si assumono responsabilità. È la nostra contrapposizione alla politica della paura e della scarsità. Prosperità e qualità della vita crescono soprattutto attraverso l'innovazione — non attraverso la rinuncia, né la semplice amministrazione dell'esistente."
 subsections = [
-  { title = "Principi condivisi", points = ["Abbondanza anziché rinuncia: la produttività e il progresso creano spazio per tutti.", "Ingegneria anziché ideologia: risolvere i problemi, misurare, iterare.", "Energia e infrastrutture sono la base di libertà, sicurezza e prosperità.", "Scienza, imprenditorialità e tecnologia devono migliorare il benessere umano."] },
+  { title = "I nostri principi", points = ["Abbondanza anziché rinuncia: la produttività e il progresso creano spazio per tutti.", "Ingegneria anziché ideologia: risolvere i problemi, misurare, iterare.", "Energia e infrastrutture sono la base di libertà, sicurezza e prosperità.", "Scienza, imprenditorialità e tecnologia devono migliorare il benessere umano."] },
   { title = "La nostra variante svizzera", text = "Il Futuro unisce tecno-ottimismo e controllo democratico: uno Stato aperto e verificabile, diritti fondamentali chiari, protezione dei dati e sicurezza by design, nonché sovranità digitale e resilienza per le infrastrutture critiche. Il progresso deve essere rapido — ma comprensibile, verificabile e governabile dalla popolazione." },
 ]
 +++

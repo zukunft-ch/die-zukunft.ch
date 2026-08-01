@@ -6,7 +6,7 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Desiderate contribuire al partito? Unitevi a noi."
+cta_text = "Desideri contribuire al partito? Unisciti a noi."
 
 [[extra.sections]]
 title = "Raffael Schneider"
@@ -17,10 +17,10 @@ subsections = [
 
 [[extra.sections]]
 title = "Comitato"
-text = "Sarà annunciato prossimamente."
+text = "Il comitato è in fase di costituzione. Presenteremo i nomi non appena la struttura fondativa sarà definita – chi entra ora contribuisce a plasmarla."
 
 [[extra.sections]]
 title = "Consiglio consultivo"
-text = "Sarà annunciato prossimamente."
+text = "Il consiglio consultivo è in fase di costituzione. Cerchiamo persone con esperienza pronte ad accompagnare il nostro lavoro con sguardo critico – scrivici se vuoi farne parte."
 +++
 

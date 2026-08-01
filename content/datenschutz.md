@@ -15,24 +15,24 @@ E-Mail: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 ### Grundsatz
 
-Der Schutz Ihrer persönlichen Daten ist uns wichtig. Wir erheben nur die Daten, die für den Betrieb dieser Website und unsere politische Arbeit notwendig sind.
+Der Schutz deiner persönlichen Daten ist uns wichtig. Wir erheben nur die Daten, die für den Betrieb dieser Website und unsere politische Arbeit notwendig sind.
 
 ### Kontaktformular
 
-Wenn Sie uns über das Kontaktformular kontaktieren, werden Ihre Angaben (Name, E-Mail, Nachricht) über unsere eigene Anwendung auf der Infrastruktur von Cloudflare verarbeitet. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage verwendet und nicht an Dritte weitergegeben.
+Wenn du uns über das Kontaktformular kontaktierst, werden deine Angaben (Name, E-Mail, Nachricht) über unsere eigene Anwendung auf der Infrastruktur von Cloudflare verarbeitet. Diese Daten werden ausschliesslich zur Bearbeitung deiner Anfrage verwendet und nicht an Dritte weitergegeben.
 
 ### Newsletter
 
-Wenn Sie sich für unseren Newsletter anmelden, speichern wir Ihre E-Mail-Adresse. Sie können sich jederzeit abmelden. Wir verwenden Ihre Adresse ausschliesslich für den Versand unserer Updates.
+Wenn du dich für unseren Newsletter anmeldest, speichern wir deine E-Mail-Adresse. Du kannst dich jederzeit abmelden. Wir verwenden deine Adresse ausschliesslich für den Versand unserer Updates.
 
 ### Hosting
 
 Diese Website wird statisch gehostet. Es werden keine Cookies gesetzt und keine Tracking-Tools verwendet.
 
-### Ihre Rechte
+### Deine Rechte
 
-Sie haben jederzeit das Recht auf Auskunft über Ihre gespeicherten Daten, deren Berichtigung oder Löschung. Wenden Sie sich dazu an die oben genannte Kontaktadresse.
+Du hast jederzeit das Recht auf Auskunft über deine gespeicherten Daten, deren Berichtigung oder Löschung. Wende dich dazu an die oben genannte Kontaktadresse.
 
 ### Änderungen
 
-Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen. Die aktuelle Version finden Sie stets auf dieser Seite.
+Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen. Die aktuelle Version findest du stets auf dieser Seite.

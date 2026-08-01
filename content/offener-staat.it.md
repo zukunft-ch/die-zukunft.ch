@@ -6,7 +6,14 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Modernizzare la democrazia. Attivatevi."
+cta_text = "Modernizzare la democrazia. Attivati."
+faq_title = "Domande frequenti"
+faq = [
+  { q = "Cosa significa API per default?", a = "Le autorità non pubblicano dati e procedure solo come PDF, ma come interfacce affidabili e documentate — con standard unificati, versionamento e disponibilità stabile. Tutto ciò che non riguarda la sicurezza nazionale è aperto e leggibile dalle macchine." },
+  { q = "Non è un rischio per la protezione dei dati?", a = "No — l'apertura riguarda i dati e i processi dello Stato, non i dati personali. Valgono il privacy-by-design (minimizzare, anonimizzare, aggregare) e il security-by-design (standard forti, audit, responsabilità chiare)." },
+  { q = "Cosa porta nella vita quotidiana?", a = "Meno carta e attese, costi amministrativi più bassi e servizi migliori — perché cittadini, media e imprese possono costruire strumenti migliori su dati aperti." },
+  { q = "La trasparenza vale anche per la politica stessa?", a = "Sì: il finanziamento dei partiti, i flussi di donazioni e i budget delle campagne devono essere consultabili pubblicamente e tempestivamente. Questo vale anche per noi." },
+]
 
 [[extra.sections]]
 title = "Stato aperto: API per default"

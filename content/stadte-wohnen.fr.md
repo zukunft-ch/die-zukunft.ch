@@ -6,7 +6,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Des villes vivables pour tous. Engagez-vous."
+cta_text = "Des villes vivables pour tous. Engage-toi."
+faq_title = "Questions fréquentes"
+faq = [
+  { q = "Pourquoi densifier plutôt que construire en périphérie ?", a = "Densifier là où l'infrastructure existe : ainsi naît du logement avec des trajets courts, tandis que le paysage et le caractère villageois sont préservés. L'étalement allonge les trajets et renchérit l'infrastructure." },
+  { q = "Cela signifie-t-il des tours partout ?", a = "Non. Des tours uniquement dans des zones clairement définies (centres, gares) avec de fortes exigences de qualité ; le standard est la hauteur moyenne (6 à 10 étages), là où cela fait sens en milieu urbain. L'objectif n'est pas la skyline, mais du logement, du confort et de la proximité." },
+  { q = "Comment le logement devient-il ainsi plus abordable ?", a = "Par plus d'offre aux bons endroits — complétée par des coopératives, des acteurs d'utilité publique et des modèles de loyers stables. La pénurie est le premier moteur des prix." },
+  { q = "Que sont les autorisations accélérées ?", a = "Des délais clairs, des compétences unifiées et une procédure guichet unique pour les projets de logements denses. Aujourd'hui, les bons projets échouent souvent non pas pour des raisons techniques, mais à cause du temps et des procédures." },
+  { q = "Qu'y gagnent les personnes hors des villes ?", a = "Moins de pression sur les zones périphériques et les loyers alentour, moins d'étalement — et plus de nature qui reste nature." },
+]
 
 [[extra.sections]]
 title = "Villes & logement"

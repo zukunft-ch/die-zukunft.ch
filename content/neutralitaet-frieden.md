@@ -5,7 +5,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Frieden braucht Haltung. Werden Sie aktiv."
+cta_text = "Frieden braucht Haltung. Werde aktiv."
+faq_title = "Häufige Fragen"
+faq = [
+  { q = "Ist Neutralität nicht überholt?", a = "Im Gegenteil: Glaubwürdige Neutralität ist ein strategisches Asset. Sie macht die Schweiz zum Ort, an dem Konfliktparteien überhaupt noch miteinander reden — diese Rolle wollen wir stärken, mit International Geneva als Plattform." },
+  { q = "Heisst neutral auch wehrlos?", a = "Nein. Strikt defensiv heisst: Schutzfähigkeit ausbauen, ohne aggressiv zu werden — kritische Infrastruktur schützen, zivile Behörden in Krisen unterstützen, mit klarer Doktrin und demokratischer Kontrolle." },
+  { q = "Was sind Good Offices?", a = "Die Schweizer Tradition, Frieden zu ermöglichen: Gastgeberin für Gespräche und Verhandlungen sein, vermitteln und humanitär unterstützen." },
+  { q = "Was heisst 'CH-first — dann Vorbild sein'?", a = "Erst muss die Schweiz im Innern funktionieren: sicher, resilient, souverän. Dann kann sie nach aussen glaubwürdig helfen. Unser Anspruch ist Vorbildwirkung — nicht Belehrung." },
+  { q = "Wie passt das zu den neuen Bedrohungen?", a = "Hybride Risiken, Sabotage und Cyberangriffe zielen auf das Nervensystem der modernen Schweiz: ihre kritische Infrastruktur. Deshalb gehören Neutralität und Resilienz zusammen — Schutz statt Projektion." },
+]
 
 [[extra.sections]]
 title = "Neutralität & Frieden"

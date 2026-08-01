@@ -5,7 +5,15 @@ template = "page.html"
 
 [extra]
 show_cta = true
-cta_text = "Lebenswerte Städte für alle. Werden Sie aktiv."
+cta_text = "Lebenswerte Städte für alle. Werde aktiv."
+faq_title = "Häufige Fragen"
+faq = [
+  { q = "Warum Verdichtung statt Bauen auf der grünen Wiese?", a = "Verdichten, wo Infrastruktur ist: So entsteht Wohnraum mit kurzen Wegen, während Landschaft und Dorfcharakter erhalten bleiben. Zersiedlung macht Wege länger und Infrastruktur teurer." },
+  { q = "Heisst das Hochhäuser überall?", a = "Nein. Hochhäuser nur in klar definierten Zonen (Zentren, Bahnhöfe) mit starken Qualitätsanforderungen; Standard ist Mittelhöhe (6–10 Geschosse), wo es urban Sinn macht. Ziel ist nicht Skyline, sondern Wohnraum, Komfort und Nähe." },
+  { q = "Wie wird Wohnen dadurch bezahlbarer?", a = "Durch mehr Angebot an den richtigen Orten — ergänzt durch Genossenschaften, gemeinnützige Träger und stabile Mietmodelle. Knappheit ist der grösste Preistreiber." },
+  { q = "Was sind Fast-Track-Bewilligungen?", a = "Klare Fristen, einheitliche Zuständigkeiten und ein One-Stop-Verfahren für dichte Wohnprojekte. Gute Projekte scheitern heute oft nicht an der Technik, sondern an Zeit und Prozess." },
+  { q = "Was haben Menschen ausserhalb der Städte davon?", a = "Weniger Druck auf Randgebiete und Mieten im Umland, weniger Zersiedlung — und mehr Natur, die Natur bleibt." },
+]
 
 [[extra.sections]]
 title = "Städte & Wohnen"

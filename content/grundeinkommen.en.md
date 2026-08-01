@@ -10,7 +10,7 @@ cta_text = "Convinced? Get involved and help build the case for basic income."
 faq_title = "Frequently asked questions"
 faq = [
   { q = "Isn't this just 'money for everyone'?", a = "No. Basic income replaces a large part of today's social insurance bureaucracy with a simple, universal basic security. It is a simplification of the system — not a handout." },
-  { q = "How is it financed?", a = "Through a combination of automation taxes, efficiency gains in social services and reallocation of existing transfers. Concrete models are developed with economists and social scientists." },
+  { q = "How is it financed?", a = "Not through a special robot tax — automation is not punished. It is financed through the normal taxation of growing value creation (income, consumption, wealth), through simplification gains in the social system, and by reallocating existing transfers — exactly the levers our UBI Calculator models. Concrete models are developed with economists and social scientists." },
   { q = "Will people stop working?", a = "Research shows: no. Pilot projects worldwide demonstrate that people with basic security start businesses more often, pursue further education and work more productively — not less." },
   { q = "Why now?", a = "Automation is accelerating. Without a stabilising foundation, social disruption threatens. Basic income is a preventive measure, not a reactive one." },
   { q = "Does it apply to non-Swiss residents?", a = "The exact design — such as residency requirements and contribution periods — will be determined through democratic process. The key is the principle of universal basic security." },

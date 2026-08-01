@@ -7,6 +7,14 @@ template = "page.html"
 [extra]
 show_cta = true
 cta_text = "Digital sovereignty needs political will. Get active."
+faq_title = "Frequently asked questions"
+faq = [
+  { q = "What does digital sovereignty mean in practice?", a = "Digital sovereignty means that the state and its citizens retain control over their data, systems and digital infrastructure — independent of individual vendors or countries." },
+  { q = "Does that mean we can no longer use foreign software?", a = "No. Swiss/EU-first applies only to critical infrastructure and sensitive data. For everything else: open competition — but always with mandatory auditability, portability and open standards." },
+  { q = "What is an anti-lock-in law?", a = "A law that prevents the state from permanently tying itself to a single IT vendor. It requires exit plans, open formats and data portability as contractual obligations." },
+  { q = "Isn't open source more expensive than commercial solutions?", a = "Not necessarily. Open source reduces long-term costs through less licence dependency. What matters is that maintenance is also funded — not just the initial deployment." },
+  { q = "How does this affect everyday life?", a = "Fewer IT failures in public services, fewer data breaches, more transparency. And no surprises when a vendor suddenly doubles prices or discontinues their service." },
+]
 
 [[extra.sections]]
 title = "Digital Infrastructure"
@@ -33,15 +41,6 @@ points = [
   "Less dependency on individual vendors",
   "Lower risk in critical services",
   "More trust through transparency",
-]
-
-faq_title = "Frequently asked questions"
-faq = [
-  { q = "What does digital sovereignty mean in practice?", a = "Digital sovereignty means that the state and its citizens retain control over their data, systems and digital infrastructure — independent of individual vendors or countries." },
-  { q = "Does that mean we can no longer use foreign software?", a = "No. Swiss/EU-first applies only to critical infrastructure and sensitive data. For everything else: open competition — but always with mandatory auditability, portability and open standards." },
-  { q = "What is an anti-lock-in law?", a = "A law that prevents the state from permanently tying itself to a single IT vendor. It requires exit plans, open formats and data portability as contractual obligations." },
-  { q = "Isn't open source more expensive than commercial solutions?", a = "Not necessarily. Open source reduces long-term costs through less licence dependency. What matters is that maintenance is also funded — not just the initial deployment." },
-  { q = "How does this affect everyday life?", a = "Fewer IT failures in public services, fewer data breaches, more transparency. And no surprises when a vendor suddenly doubles prices or discontinues their service." },
 ]
 +++
 

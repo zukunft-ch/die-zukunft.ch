@@ -39,7 +39,7 @@ pillars = [
   { icon = "📡", title = "Open Government", text = "API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.", link = "@/offener-staat.md" },
   { icon = "🕊️", title = "Neutrality & Peace", text = "Strictly defensive, credibly neutral — and once again a centre for peace talks and good offices.", link = "@/neutralitaet-frieden.md" },
   { icon = "🤝", title = "Talent, Integration & Rule of Law", text = "Open to people who contribute — clear on the rule of law and the rules of coexistence.", link = "@/talent-integration.md" },
-  { icon = "🗣️", title = "Language & Understanding", text = "Strengthening national languages, English as a pragmatic bridge — and openness to a globally inclusive lingua franca.", link = "@/sprache-verstaendigung.md" },
+  { icon = "🗣️", title = "Language & Understanding", text = "Strengthening national languages, English as a pragmatic bridge — understanding without friction.", link = "@/sprache-verstaendigung.md" },
 ]
 
 timeline_title = "How we start"
