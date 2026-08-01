@@ -4,7 +4,6 @@ title = "Die Zukunft"
 description = "Die Partei der Zukunft. Eine Schweizer Partei für den strukturellen Wandel: Grundeinkommen, digitale Souveränität, Reindustrialisierung."
 default_language = "de"
 compile_sass = true
-ignored_content = ["**/de/**", "**/fr/**", "**/it/**", "**/en/**", "**/schwerpunkte/**"]
 minify_html = true
 generate_feeds = true
 feed_filenames = ["atom.xml"]

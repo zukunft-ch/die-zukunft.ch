@@ -102,7 +102,8 @@ async function handleContact(request, env, origin, ip, rateKey) {
     email: sanitize(email),
     message: sanitize(message),
     lang: sanitize(lang || 'de'),
-    ip,
+    // IP intentionally not persisted (data minimization / FADP). Abuse throttling uses
+    // the ephemeral `rate:<ip>` key below, which expires after RATE_LIMIT_SECONDS.
     ts: new Date(ts).toISOString(),
   });
 
@@ -141,7 +142,7 @@ async function handleSubscribe(request, env, origin, ip, rateKey) {
   const value = JSON.stringify({
     email: sanitize(email),
     lang: sanitize(lang || 'de'),
-    ip,
+    // IP intentionally not persisted (data minimization / FADP). See handleContact.
     ts: new Date(ts).toISOString(),
   });
 

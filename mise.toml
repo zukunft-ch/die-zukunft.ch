@@ -1,5 +1,6 @@
 [tools]
-zola = "0.19.2"
+# Keep in sync with README and the Cloudflare Pages ZOLA_VERSION env var.
+zola = "0.22.1"
 
 [tasks.dev]
 description = "Start Zola development server"

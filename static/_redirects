@@ -1,2 +1,12 @@
 # www → apex redirect (language domains are handled by Cloudflare Worker)
 https://www.die-zukunft.ch/* https://die-zukunft.ch/:splat 301
+
+# Consolidate the FR/IT language paths onto their dedicated domains so each language
+# has a single canonical home (avoids duplicate content vs le-futur.ch / il-futuro.ch).
+# Host-qualified to die-zukunft.ch ONLY: the lang-proxy worker fetches its origin from
+# die-zukunft-ch.pages.dev/fr/... — that host does not match here, so proxying is unaffected.
+# EN intentionally stays at die-zukunft.ch/en/ (no dedicated domain).
+https://die-zukunft.ch/fr https://le-futur.ch/ 301
+https://die-zukunft.ch/fr/* https://le-futur.ch/:splat 301
+https://die-zukunft.ch/it https://il-futuro.ch/ 301
+https://die-zukunft.ch/it/* https://il-futuro.ch/:splat 301

@@ -64,6 +64,21 @@ export default {
       return handleSitemap(hostname, prefix, lang);
     }
 
+    // atom.xml — serve the language-specific feed. Zola emits per-language feeds at
+    // /fr/atom.xml and /it/atom.xml; without this, /atom.xml matches STATIC_EXT and the
+    // German root feed leaks onto the FR/IT domains.
+    if (path === '/atom.xml') {
+      const feedRes = await fetch(`https://${PAGES_ORIGIN}${prefix}/atom.xml`);
+      if (!feedRes.ok) {
+        return new Response('Feed not available', { status: 502 });
+      }
+      let feed = await feedRes.text();
+      feed = rewriteBody(feed, hostname, prefix, lang);
+      return new Response(feed, {
+        headers: { 'content-type': 'application/xml; charset=utf-8', 'cache-control': 'public, max-age=3600' },
+      });
+    }
+
     // --- Determine origin URL ---
     const originUrl = new URL(url);
     originUrl.hostname = PAGES_ORIGIN;
@@ -172,18 +187,11 @@ function rewriteBody(body, hostname, prefix, selfLang) {
     'href=/$1'
   );
 
-  // 5. Same for hreflang/canonical with relative URLs
-  body = body.replaceAll(`hreflang="${selfLang}" href="https://${ORIGIN}${prefix}/`, `hreflang="${selfLang}" href="https://${hostname}/`);
-
-  // 6. Rewrite hreflang tags for other language domains
-  for (const [lang, domain] of Object.entries(LANG_DOMAINS)) {
-    if (lang === 'de' || lang === 'en') continue;
-    const langPrefix = `/${lang}`;
-    body = body.replaceAll(
-      `hreflang="${lang}" href="https://${ORIGIN}${langPrefix}/`,
-      `hreflang="${lang}" href="https://${domain}/`
-    );
-  }
+  // NOTE: hreflang and canonical hrefs are already rewritten by the blanket domain
+  // replacements in steps 1-2 (they replace every https://die-zukunft.ch/<lang>/
+  // occurrence, including inside <link rel=canonical> and hreflang alternates). Earlier
+  // attribute-specific rewrites (hreflang="fr" href="…") were dead code: Zola's HTML
+  // minifier strips attribute quotes and reorders them, so those patterns never matched.
 
   return body;
 }
