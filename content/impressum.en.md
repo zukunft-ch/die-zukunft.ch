@@ -6,10 +6,9 @@ updated = 2026-02-08
 template = "page.html"
 +++
 
-## Information pursuant to Art. 3 DSG
+## Operator information
 
-**The Future (Die Zukunft)**
-Basel, Switzerland
+**The Future (Die Zukunft)** — political association (Verein) based in Basel, Switzerland.
 
 **Contact**
 Email: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)

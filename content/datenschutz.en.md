@@ -26,9 +26,9 @@ When you contact us via the contact form, your details (name, email, message) ar
 
 When you sign up for our newsletter, we store your email address. You can unsubscribe at any time. We use your address exclusively for sending our updates.
 
-### Hosting
+### Hosting and fonts
 
-This website is statically hosted. No cookies are set and no tracking tools are used.
+This website is statically hosted on Cloudflare's infrastructure. No cookies are set and no tracking tools are used. All fonts, scripts and resources are served from our own domain — we do not embed any external CDNs or third-party services that could receive your IP address.
 
 ### Your rights
 

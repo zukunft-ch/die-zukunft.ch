@@ -26,9 +26,9 @@ Lorsque tu nous contactes via le formulaire de contact, tes informations (nom, e
 
 Si tu t'inscris à notre newsletter, nous conservons ton adresse e-mail. Tu peux te désinscrire à tout moment. Nous utilisons ton adresse exclusivement pour l'envoi de nos actualités.
 
-### Hébergement
+### Hébergement et polices
 
-Ce site est hébergé de manière statique. Aucun cookie n'est installé et aucun outil de suivi n'est utilisé.
+Ce site est hébergé de manière statique sur l'infrastructure de Cloudflare. Aucun cookie n'est installé et aucun outil de suivi n'est utilisé. Toutes les polices, scripts et ressources sont servis depuis notre propre domaine – nous n'intégrons aucun CDN externe ni service tiers susceptible de recevoir ton adresse IP.
 
 ### Tes droits
 

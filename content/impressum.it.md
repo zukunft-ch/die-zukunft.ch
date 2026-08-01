@@ -6,10 +6,9 @@ updated = 2026-02-08
 template = "page.html"
 +++
 
-## Informazioni secondo art. 3 LPD
+## Informazioni sul gestore
 
-**Il Futuro**
-Basilea, Svizzera
+**Il Futuro** (Die Zukunft) — associazione politica con sede a Basilea, Svizzera.
 
 **Contatto**
 E-mail: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)

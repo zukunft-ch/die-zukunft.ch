@@ -6,10 +6,9 @@ updated = 2026-02-08
 template = "page.html"
 +++
 
-## Informations selon art. 3 LPD
+## Informations sur l'exploitant
 
-**Le Futur**
-Bâle, Suisse
+**Le Futur** (Die Zukunft) — association politique dont le siège est à Bâle, Suisse.
 
 **Contact**
 E-mail : [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)

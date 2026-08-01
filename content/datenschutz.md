@@ -25,9 +25,9 @@ Wenn du uns über das Kontaktformular kontaktierst, werden deine Angaben (Name, 
 
 Wenn du dich für unseren Newsletter anmeldest, speichern wir deine E-Mail-Adresse. Du kannst dich jederzeit abmelden. Wir verwenden deine Adresse ausschliesslich für den Versand unserer Updates.
 
-### Hosting
+### Hosting und Schriften
 
-Diese Website wird statisch gehostet. Es werden keine Cookies gesetzt und keine Tracking-Tools verwendet.
+Diese Website wird statisch auf der Infrastruktur von Cloudflare gehostet. Es werden keine Cookies gesetzt und keine Tracking-Tools verwendet. Alle Schriften, Skripte und Ressourcen werden von unserer eigenen Domain ausgeliefert – wir binden keine externen CDNs oder Drittanbieter-Dienste ein, die deine IP-Adresse erhalten könnten.
 
 ### Deine Rechte
 

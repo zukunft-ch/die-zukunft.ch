@@ -5,10 +5,9 @@ updated = 2026-02-08
 template = "page.html"
 +++
 
-## Angaben gemäss Art. 3 DSG
+## Angaben zum Betreiber
 
-**Die Zukunft**
-Basel, Schweiz
+**Die Zukunft** — politischer Verein mit Sitz in Basel, Schweiz.
 
 **Kontakt**
 E-Mail: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)

@@ -26,9 +26,9 @@ Quando ci contatti tramite il modulo di contatto, le tue informazioni (nome, e-m
 
 Se ti iscrivi alla nostra newsletter, conserviamo il tuo indirizzo e-mail. Puoi cancellarti in qualsiasi momento. Utilizziamo il tuo indirizzo esclusivamente per l'invio dei nostri aggiornamenti.
 
-### Hosting
+### Hosting e caratteri
 
-Questo sito è ospitato in modo statico. Non vengono installati cookie e non vengono utilizzati strumenti di tracciamento.
+Questo sito è ospitato in modo statico sull'infrastruttura di Cloudflare. Non vengono installati cookie e non vengono utilizzati strumenti di tracciamento. Tutti i caratteri, gli script e le risorse sono serviti dal nostro dominio – non integriamo alcun CDN esterno né servizi di terzi che potrebbero ricevere il tuo indirizzo IP.
 
 ### I tuoi diritti
 
