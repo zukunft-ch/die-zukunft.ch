@@ -12,8 +12,11 @@ id = "bba8fc0a26a54981ae5c716e8808dd18"
 
 [vars]
 NOTIFY_FROM = "forms@die-zukunft.ch"
-NOTIFY_TO = "raffael.schneider@protonmail.com"
+# Role address, not a personal inbox. NOTE: destination_address below must be a
+# *verified* destination in Cloudflare Email Routing for this zone before deploy,
+# otherwise Worker email delivery fails silently. Verify hey@die-zukunft.ch there first.
+NOTIFY_TO = "hey@die-zukunft.ch"
 
 [[send_email]]
 name = "EMAIL"
-destination_address = "raffael.schneider@protonmail.com"
+destination_address = "hey@die-zukunft.ch"
