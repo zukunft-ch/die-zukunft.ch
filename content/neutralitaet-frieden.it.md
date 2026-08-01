@@ -12,7 +12,7 @@ faq = [
   { q = "La neutralità non è superata?", a = "Al contrario: una neutralità credibile è un asset strategico. Fa della Svizzera il luogo in cui le parti in conflitto possono ancora parlarsi — vogliamo rafforzare questo ruolo, con la Ginevra internazionale come piattaforma." },
   { q = "Neutrale significa anche indifeso?", a = "No. Strettamente difensivo significa: sviluppare la capacità di protezione senza diventare aggressivi — proteggere le infrastrutture critiche, sostenere le autorità civili nelle crisi, con una dottrina chiara e controllo democratico." },
   { q = "Cosa sono i buoni uffici?", a = "La tradizione svizzera di rendere possibile la pace: ospitare colloqui e negoziati, mediare e fornire sostegno umanitario." },
-  { q = "Cosa significa 'prima la Svizzera — poi essere d'esempio'?", a = "Prima la Svizzera deve funzionare all'interno: sicura, resiliente, sovrana. Solo allora può aiutare in modo credibile verso l'esterno. La nostra ambizione è l'esemplarità — non la predica." },
+  { q = "Cosa significa 'prima forti all'interno, poi credibili all'esterno'?", a = "Prima la Svizzera deve funzionare all'interno: sicura, resiliente, sovrana. Solo allora può aiutare in modo credibile verso l'esterno. La nostra ambizione è l'esemplarità — non la predica." },
   { q = "Come risponde alle nuove minacce?", a = "Rischi ibridi, sabotaggi e attacchi informatici mirano al sistema nervoso della Svizzera moderna: le sue infrastrutture critiche. Per questo neutralità e resilienza vanno insieme — protezione invece di proiezione." },
 ]
 
@@ -21,7 +21,7 @@ title = "Neutralità & pace"
 text = "La Svizzera ha un vantaggio strategico unico: la credibilità attraverso la neutralità e una tradizione di buoni uffici e mediazione internazionale. Non è un mito – è un asset strategico."
 
 [[extra.sections]]
-title = "Prima la Svizzera — poi essere un esempio"
+title = "Prima forti all'interno, poi credibili all'esterno"
 text = "Vogliamo che la Svizzera funzioni all'interno: sicura, resiliente, sovrana. Solo allora può aiutare in modo credibile all'esterno. La nostra ambizione è l'esemplarità – non la predica."
 
 [[extra.sections]]

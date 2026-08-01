@@ -51,5 +51,5 @@ timeline = [
 ]
 
 cta_title = "Get involved"
-cta_text = "Prosperity instead of scarcity thinking. Security instead of fear. Sovereignty instead of dependency."
+cta_text = "Prosperity instead of scarcity thinking. Security instead of fear. Sovereignty instead of dependence."
 +++

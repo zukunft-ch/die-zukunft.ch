@@ -11,7 +11,7 @@ faq = [
   { q = "Ist Neutralität nicht überholt?", a = "Im Gegenteil: Glaubwürdige Neutralität ist ein strategisches Asset. Sie macht die Schweiz zum Ort, an dem Konfliktparteien überhaupt noch miteinander reden — diese Rolle wollen wir stärken, mit International Geneva als Plattform." },
   { q = "Heisst neutral auch wehrlos?", a = "Nein. Strikt defensiv heisst: Schutzfähigkeit ausbauen, ohne aggressiv zu werden — kritische Infrastruktur schützen, zivile Behörden in Krisen unterstützen, mit klarer Doktrin und demokratischer Kontrolle." },
   { q = "Was sind Good Offices?", a = "Die Schweizer Tradition, Frieden zu ermöglichen: Gastgeberin für Gespräche und Verhandlungen sein, vermitteln und humanitär unterstützen." },
-  { q = "Was heisst 'CH-first — dann Vorbild sein'?", a = "Erst muss die Schweiz im Innern funktionieren: sicher, resilient, souverän. Dann kann sie nach aussen glaubwürdig helfen. Unser Anspruch ist Vorbildwirkung — nicht Belehrung." },
+  { q = "Was heisst 'zuerst nach innen stark, dann nach aussen glaubwürdig'?", a = "Erst muss die Schweiz im Innern funktionieren: sicher, resilient, souverän. Dann kann sie nach aussen glaubwürdig helfen. Unser Anspruch ist Vorbildwirkung — nicht Belehrung." },
   { q = "Wie passt das zu den neuen Bedrohungen?", a = "Hybride Risiken, Sabotage und Cyberangriffe zielen auf das Nervensystem der modernen Schweiz: ihre kritische Infrastruktur. Deshalb gehören Neutralität und Resilienz zusammen — Schutz statt Projektion." },
 ]
 
@@ -20,7 +20,7 @@ title = "Neutralität & Frieden"
 text = "Die Schweiz hat einen einzigartigen Standortvorteil: Glaubwürdigkeit durch Neutralität und eine Tradition von Good Offices und internationaler Vermittlung. Das ist kein Mythos – das ist ein strategisches Asset."
 
 [[extra.sections]]
-title = "CH-first — dann Vorbild sein"
+title = "Zuerst nach innen stark, dann nach aussen glaubwürdig"
 text = "Wir wollen, dass die Schweiz im Innern funktioniert: sicher, resilient, souverän. Erst dann kann sie nach aussen glaubwürdig helfen. Unser Anspruch ist Vorbildwirkung – nicht Belehrung."
 
 [[extra.sections]]

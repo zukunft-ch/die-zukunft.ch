@@ -57,7 +57,7 @@ v_zukunft = 9
 [[extra.radar_axes]]
 label = "Abundance"
 low_label = "Mangeldenken"
-high_label = "Überfluss"
+high_label = "Abundance"
 description = "Wird Produktivitätsgewinn als Bedrohung gesehen – oder als Chance, Wohlstand breiter zu verteilen? Abundance heisst: genug für alle, wenn wir es richtig organisieren."
 example = "Automatisierung in der Pflege entlastet Fachkräfte bei Routineaufgaben, statt Stellen zu streichen – mehr Zeit für Menschen."
 v_left = 4
