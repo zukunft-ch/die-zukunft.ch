@@ -10,17 +10,25 @@ Die Schweiz stimmt viermal pro Jahr über Bundesvorlagen ab. Diese Seite ist ein
 
 ## Nächste Abstimmung — 27. September 2026
 
-Zwei Volksinitiativen stehen zur Abstimmung. Die ausführliche Einordnung entlang unserer Pfeiler ergänzen wir näher am Termin.
+Zwei Volksinitiativen stehen zur Abstimmung. Die ausführliche Einordnung findet sich im Artikel [Abstimmung vom 27. September 2026: zwei Initiativen, drei Pfeiler](@/aktuelles/abstimmung-27-september-2026.md).
 
-**Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)».** Will die immerwährende, bewaffnete Neutralität in der Verfassung verankern und militärische Bündnisse sowie nicht von der UNO beschlossene Zwangsmassnahmen ausschliessen. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md).
+**Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)».** Will die immerwährende, bewaffnete Neutralität in der Verfassung verankern und militärische Bündnisse sowie nicht von der UNO beschlossene Sanktionen ausschliessen. Die Ziele decken sich weitgehend mit unserem Programm — die Spannung liegt im Sanktionsartikel und im Kooperationsverbot, das defensive Zusammenarbeit gegen hybride Bedrohungen erschweren könnte. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md) und [Energie & Resilienz](@/energy-resilience.md). Bundesrat und Parlament: Nein.
 
-**Volksinitiative «Für eine sichere Ernährung (Ernährungsinitiative)».** Will die inländische Lebensmittelproduktion nachhaltig stärken, den Anteil pflanzlicher Lebensmittel erhöhen und sauberes Trinkwasser sichern. → Pfeiler [Energie & Resilienz](@/energy-resilience.md) und [Life Science & Gesundheit](@/life-science.md).
+**Volksinitiative «Für eine sichere Ernährung (Ernährungsinitiative)».** Will innert zehn Jahren einen Netto-Selbstversorgungsgrad von mindestens 70 Prozent, mehr pflanzliche Lebensmittel und sauberes Trinkwasser. Benennt eine reale Abhängigkeit, setzt aber ein Ziel ohne Plan: Versorgung wird durch Technologie und Lagerhaltung sicherer, nicht durch eine Zahl in der Verfassung. → Pfeiler [Energie & Resilienz](@/energy-resilience.md) und [Life Science & Gesundheit](@/life-science.md). Bundesrat und Parlament: Nein.
 
 ---
 
 ## Geplant — 29. November 2026
 
-Die offiziellen Vorlagen werden vom Bundesrat einige Monate vor dem Abstimmungssonntag publiziert. Wir ergänzen die Einordnung, sobald die Vorlagen bekannt sind.
+Vier Vorlagen stehen zur Abstimmung. Die Einordnung entlang unserer Pfeiler folgt im November.
+
+**Bundesbeschluss über die Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer.** Will die AHV über eine höhere Mehrwertsteuer zusätzlich finanzieren; als Verfassungsänderung kommt der Beschluss obligatorisch vors Volk. → Pfeiler [Grundeinkommen](@/grundeinkommen.md) und [Offener Staat](@/offener-staat.md).
+
+**Volksinitiative «Für eine Einschränkung von Feuerwerk».** Will den Verkauf und Gebrauch lauter Feuerwerkskörper einschränken. → Pfeiler [Städte & Wohnen](@/stadte-wohnen.md).
+
+**Volksinitiative «Ja zu fairen Bundessteuern auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!».** Will die Heiratsstrafe bei der direkten Bundessteuer abschaffen und Ehepaare weiterhin gemeinsam veranlagen — ein anderes Modell als die im März angenommene Individualbesteuerung. → Pfeiler [Offener Staat](@/offener-staat.md).
+
+**Änderung des Bundesgesetzes über das Kriegsmaterial.** Will dem Bundesrat erlauben, in besonderen Fällen von den Bewilligungskriterien für Kriegsmaterialexporte abzuweichen; ein Referendum bringt die Vorlage vors Volk. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md).
 
 ---
 

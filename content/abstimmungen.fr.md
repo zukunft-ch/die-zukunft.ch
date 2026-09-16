@@ -10,17 +10,25 @@ La Suisse vote quatre fois par an sur des objets fédéraux. Cette page est une 
 
 ## Prochaine votation — 27 septembre 2026
 
-Deux initiatives populaires sont soumises au vote. Nous compléterons la mise en perspective le long de nos piliers à l'approche de la date.
+Deux initiatives populaires sont soumises au vote. La mise en perspective complète se trouve dans l'article [Votation du 27 septembre 2026 : deux initiatives, trois piliers](@/aktuelles/abstimmung-27-september-2026.fr.md).
 
-**Initiative populaire « Sauvegarde de la neutralité suisse (initiative sur la neutralité) ».** Veut inscrire la neutralité armée et permanente dans la Constitution et exclure les alliances militaires ainsi que les mesures de contrainte non décidées par l'ONU. → Pilier [Neutralité et paix](@/neutralitaet-frieden.fr.md).
+**Initiative populaire « Sauvegarde de la neutralité suisse (initiative sur la neutralité) ».** Veut inscrire la neutralité armée et permanente dans la Constitution et exclure les alliances militaires ainsi que les mesures de contrainte non décidées par l'ONU. Les objectifs recoupent largement notre programme — la tension se situe dans l'article sur les sanctions et dans l'interdiction de coopérer, qui pourrait compliquer la coopération défensive contre les menaces hybrides. → Piliers [Neutralité et paix](@/neutralitaet-frieden.fr.md) et [Énergie et résilience](@/energy-resilience.fr.md). Conseil fédéral et Parlement : non.
 
-**Initiative populaire « Pour une alimentation sûre (initiative sur l'alimentation) ».** Veut renforcer durablement la production alimentaire indigène, augmenter la part des aliments végétaux et garantir une eau potable propre. → Piliers [Énergie et résilience](@/energy-resilience.fr.md) et [Sciences de la vie et santé](@/life-science.fr.md).
+**Initiative populaire « Pour une alimentation sûre (initiative sur l'alimentation) ».** Veut, en dix ans, un taux d'auto-approvisionnement net d'au moins 70 %, davantage d'aliments végétaux et une eau potable propre. Nomme une dépendance réelle, mais fixe un objectif sans plan : l'approvisionnement devient plus sûr par la technologie et le stockage, pas par un chiffre dans la Constitution. → Piliers [Énergie et résilience](@/energy-resilience.fr.md) et [Sciences de la vie et santé](@/life-science.fr.md). Conseil fédéral et Parlement : non.
 
 ---
 
 ## Prévu — 29 novembre 2026
 
-Les objets officiels sont publiés par le Conseil fédéral quelques mois avant le dimanche de votation. Nous compléterons la mise en perspective dès que les objets seront connus.
+Quatre objets sont soumis au vote. La mise en perspective le long de nos piliers suivra en novembre.
+
+**Arrêté fédéral sur le financement additionnel de l'AVS par une augmentation de la TVA.** Veut financer l'AVS en plus par une TVA plus élevée ; en tant que modification constitutionnelle, l'arrêté est soumis obligatoirement au peuple. → Piliers [Revenu de base](@/grundeinkommen.fr.md) et [État ouvert](@/offener-staat.fr.md).
+
+**Initiative populaire « Pour une limitation des feux d'artifice ».** Veut restreindre la vente et l'usage des feux d'artifice bruyants. → Pilier [Villes et logement](@/stadte-wohnen.fr.md).
+
+**Initiative populaire « Oui à des impôts fédéraux équitables aussi pour les couples mariés – Pour en finir avec la discrimination du mariage ! ».** Veut supprimer la pénalisation du mariage dans l'impôt fédéral direct tout en maintenant l'imposition commune des couples mariés — un autre modèle que l'imposition individuelle acceptée en mars. → Pilier [État ouvert](@/offener-staat.fr.md).
+
+**Modification de la loi fédérale sur le matériel de guerre.** Veut permettre au Conseil fédéral de déroger, dans des cas particuliers, aux critères d'autorisation pour les exportations de matériel de guerre ; un référendum porte l'objet devant le peuple. → Pilier [Neutralité et paix](@/neutralitaet-frieden.fr.md).
 
 ---
 

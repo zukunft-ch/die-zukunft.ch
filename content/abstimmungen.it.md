@@ -10,17 +10,25 @@ La Svizzera vota quattro volte all'anno su oggetti federali. Questa pagina è un
 
 ## Prossima votazione — 27 settembre 2026
 
-Due iniziative popolari sono in votazione. Completeremo la contestualizzazione lungo i nostri pilastri in prossimità della data.
+Due iniziative popolari sono in votazione. La contestualizzazione completa si trova nell'articolo [Votazione del 27 settembre 2026: due iniziative, tre pilastri](@/aktuelles/abstimmung-27-september-2026.it.md).
 
-**Iniziativa popolare « Salvaguardia della neutralità svizzera (iniziativa sulla neutralità) ».** Vuole iscrivere nella Costituzione la neutralità armata e permanente ed escludere alleanze militari nonché misure coercitive non decise dall'ONU. → Pilastro [Neutralità e pace](@/neutralitaet-frieden.it.md).
+**Iniziativa popolare « Salvaguardia della neutralità svizzera (iniziativa sulla neutralità) ».** Vuole iscrivere nella Costituzione la neutralità armata e permanente ed escludere alleanze militari nonché misure coercitive non decise dall'ONU. Gli obiettivi coincidono in gran parte con il nostro programma — la tensione sta nell'articolo sulle sanzioni e nel divieto di collaborare, che potrebbe complicare la cooperazione difensiva contro le minacce ibride. → Pilastri [Neutralità e pace](@/neutralitaet-frieden.it.md) e [Energia e resilienza](@/energy-resilience.it.md). Consiglio federale e Parlamento: no.
 
-**Iniziativa popolare « Per un'alimentazione sicura (iniziativa sull'alimentazione) ».** Vuole rafforzare in modo sostenibile la produzione alimentare indigena, aumentare la quota di alimenti vegetali e garantire acqua potabile pulita. → Pilastri [Energia e resilienza](@/energy-resilience.it.md) e [Scienze della vita e salute](@/life-science.it.md).
+**Iniziativa popolare « Per un'alimentazione sicura (iniziativa sull'alimentazione) ».** Vuole entro dieci anni un grado di autoapprovvigionamento netto di almeno il 70 %, più alimenti vegetali e acqua potabile pulita. Nomina una dipendenza reale, ma fissa un obiettivo senza piano: l'approvvigionamento diventa più sicuro con tecnologia e scorte, non con una cifra nella Costituzione. → Pilastri [Energia e resilienza](@/energy-resilience.it.md) e [Scienze della vita e salute](@/life-science.it.md). Consiglio federale e Parlamento: no.
 
 ---
 
 ## Previsto — 29 novembre 2026
 
-Gli oggetti ufficiali vengono pubblicati dal Consiglio federale alcuni mesi prima della domenica di votazione. Completeremo la contestualizzazione non appena gli oggetti saranno noti.
+Quattro oggetti sono in votazione. La contestualizzazione lungo i nostri pilastri seguirà a novembre.
+
+**Decreto federale sul finanziamento aggiuntivo dell'AVS mediante un aumento dell'IVA.** Vuole finanziare ulteriormente l'AVS con un'IVA più alta; in quanto modifica costituzionale, il decreto è sottoposto obbligatoriamente al popolo. → Pilastri [Reddito di base](@/grundeinkommen.it.md) e [Stato aperto](@/offener-staat.it.md).
+
+**Iniziativa popolare « Per una limitazione dei fuochi d'artificio ».** Vuole limitare la vendita e l'uso di fuochi d'artificio rumorosi. → Pilastro [Città e abitare](@/stadte-wohnen.it.md).
+
+**Iniziativa popolare « Sì a imposte federali eque anche per i coniugi – Basta con la discriminazione del matrimonio! ».** Vuole abolire la penalizzazione del matrimonio nell'imposta federale diretta mantenendo la tassazione congiunta dei coniugi — un modello diverso dall'imposizione individuale accettata a marzo. → Pilastro [Stato aperto](@/offener-staat.it.md).
+
+**Modifica della legge federale sul materiale bellico.** Vuole permettere al Consiglio federale di derogare, in casi particolari, ai criteri di autorizzazione per le esportazioni di materiale bellico; un referendum porta l'oggetto al popolo. → Pilastro [Neutralità e pace](@/neutralitaet-frieden.it.md).
 
 ---
 

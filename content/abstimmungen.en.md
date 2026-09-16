@@ -10,17 +10,25 @@ Switzerland votes on federal proposals four times a year. This page is a permane
 
 ## Next vote — 27 September 2026
 
-Two popular initiatives are on the ballot. We will add the full framing along our pillars closer to the date.
+Two popular initiatives are on the ballot. The full framing is in the article [27 September 2026 vote: two initiatives, three pillars](@/aktuelles/abstimmung-27-september-2026.en.md).
 
-**Popular initiative "Preserving Swiss neutrality (Neutrality Initiative)".** Seeks to enshrine perpetual, armed neutrality in the constitution and to rule out military alliances and coercive measures not mandated by the UN. → Pillar [Neutrality & peace](@/neutralitaet-frieden.en.md).
+**Popular initiative "Preserving Swiss neutrality (Neutrality Initiative)".** Seeks to enshrine perpetual, armed neutrality in the constitution and to rule out military alliances and coercive measures not mandated by the UN. The goals largely overlap with our program — the tension lies in the sanctions clause and in the ban on cooperation, which could hamper defensive cooperation against hybrid threats. → Pillars [Neutrality & peace](@/neutralitaet-frieden.en.md) and [Energy & resilience](@/energy-resilience.en.md). Federal Council and Parliament: no.
 
-**Popular initiative "For secure nutrition (Nutrition Initiative)".** Seeks to strengthen sustainable domestic food production, raise the share of plant-based food and secure clean drinking water. → Pillars [Energy & resilience](@/energy-resilience.en.md) and [Life science & health](@/life-science.en.md).
+**Popular initiative "For secure nutrition (Nutrition Initiative)".** Seeks a net self-sufficiency rate of at least 70 percent within ten years, more plant-based food and clean drinking water. Names a real dependence but sets a target without a plan: supply becomes more secure through technology and stockpiling, not through a number in the constitution. → Pillars [Energy & resilience](@/energy-resilience.en.md) and [Life science & health](@/life-science.en.md). Federal Council and Parliament: no.
 
 ---
 
 ## Planned — 29 November 2026
 
-The official proposals are published by the Federal Council a few months before voting Sunday. We will add the framing as soon as the proposals are known.
+Four proposals are on the ballot. The framing along our pillars will follow in November.
+
+**Federal decree on additional financing of the AHV through a VAT increase.** Seeks to top up old-age pension funding through a higher VAT; as a constitutional amendment it goes to a mandatory popular vote. → Pillars [Basic income](@/grundeinkommen.en.md) and [Open government](@/offener-staat.en.md).
+
+**Popular initiative "For a restriction of fireworks".** Seeks to restrict the sale and use of loud fireworks. → Pillar [Cities & housing](@/stadte-wohnen.en.md).
+
+**Popular initiative "Yes to fair federal taxes for married couples too – end the discrimination of marriage!".** Seeks to abolish the marriage penalty in direct federal tax while keeping joint assessment of married couples — a different model from the individual taxation accepted in March. → Pillar [Open government](@/offener-staat.en.md).
+
+**Amendment to the Federal Act on War Material.** Seeks to allow the Federal Council to deviate from the licensing criteria for war material exports in special cases; a referendum brings the proposal to the people. → Pillar [Neutrality & peace](@/neutralitaet-frieden.en.md).
 
 ---
 
