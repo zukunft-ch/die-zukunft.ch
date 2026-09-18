@@ -20,15 +20,15 @@ Deux initiatives populaires sont soumises au vote. La mise en perspective compl�
 
 ## Prévu — 29 novembre 2026
 
-Quatre objets sont soumis au vote. La mise en perspective le long de nos piliers suivra en novembre.
+Quatre objets sont soumis au vote. La mise en perspective complète se trouve dans l'article [Votation du 29 novembre 2026 : quatre objets, cinq piliers](@/aktuelles/abstimmung-29-november-2026.fr.md).
 
-**Arrêté fédéral sur le financement additionnel de l'AVS par une augmentation de la TVA.** Veut financer l'AVS en plus par une TVA plus élevée ; en tant que modification constitutionnelle, l'arrêté est soumis obligatoirement au peuple. → Piliers [Revenu de base](@/grundeinkommen.fr.md) et [État ouvert](@/offener-staat.fr.md).
+**Arrêté fédéral sur le financement additionnel de l'AVS par une augmentation de la TVA.** Veut financer l'AVS en plus par une TVA plus élevée ; en tant que modification constitutionnelle, l'arrêté est soumis obligatoirement au peuple. La consommation plutôt que le salaire comme base de financement s'inscrit dans notre logique — la tension est le financement partiel : environ un tiers des coûts, le reste demeure ouvert. → Piliers [Revenu de base](@/grundeinkommen.fr.md) et [État ouvert](@/offener-staat.fr.md). Conseil fédéral et Parlement : oui.
 
-**Initiative populaire « Pour une limitation des feux d'artifice ».** Veut restreindre la vente et l'usage des feux d'artifice bruyants. → Pilier [Villes et logement](@/stadte-wohnen.fr.md).
+**Initiative populaire « Pour une limitation des feux d'artifice ».** Veut interdire dans toute la Suisse la vente et l'usage de feux d'artifice bruyants par les particuliers. Nomme un problème réel des villes densifiées — la tension est le niveau : un article constitutionnel pour une règle que les communes peuvent fixer elles-mêmes aujourd'hui. → Pilier [Villes et logement](@/stadte-wohnen.fr.md). Conseil fédéral et Parlement : non.
 
-**Initiative populaire « Oui à des impôts fédéraux équitables aussi pour les couples mariés – Pour en finir avec la discrimination du mariage ! ».** Veut supprimer la pénalisation du mariage dans l'impôt fédéral direct tout en maintenant l'imposition commune des couples mariés — un autre modèle que l'imposition individuelle acceptée en mars. → Pilier [État ouvert](@/offener-staat.fr.md).
+**Initiative populaire « Oui à des impôts fédéraux équitables aussi pour les couples mariés – Pour en finir avec la discrimination du mariage ! ».** Veut supprimer la pénalisation du mariage dans l'impôt fédéral direct tout en maintenant l'imposition commune des couples mariés — un autre modèle que l'imposition individuelle acceptée en mars. L'objectif est tranché — la tension est le doublon : deux systèmes pour les mêmes personnes, avec des pertes allant jusqu'à 1,4 milliard. → Pilier [État ouvert](@/offener-staat.fr.md). Conseil fédéral et Parlement : non.
 
-**Modification de la loi fédérale sur le matériel de guerre.** Veut permettre au Conseil fédéral de déroger, dans des cas particuliers, aux critères d'autorisation pour les exportations de matériel de guerre ; un référendum porte l'objet devant le peuple. → Pilier [Neutralité et paix](@/neutralitaet-frieden.fr.md).
+**Modification de la loi fédérale sur le matériel de guerre.** Veut permettre au Conseil fédéral de déroger, dans des cas particuliers, aux critères d'autorisation pour les exportations de matériel de guerre ; un référendum porte l'objet devant le peuple. La capacité de protection a besoin d'une base industrielle — la tension est le contrôle : appréciation de l'exécutif au lieu de règles claires dans la loi. → Piliers [Neutralité et paix](@/neutralitaet-frieden.fr.md) et [Énergie et résilience](@/energy-resilience.fr.md). Conseil fédéral et Parlement : oui.
 
 ---
 

@@ -20,15 +20,15 @@ Zwei Volksinitiativen stehen zur Abstimmung. Die ausführliche Einordnung findet
 
 ## Geplant — 29. November 2026
 
-Vier Vorlagen stehen zur Abstimmung. Die Einordnung entlang unserer Pfeiler folgt im November.
+Vier Vorlagen stehen zur Abstimmung. Die ausführliche Einordnung findet sich im Artikel [Abstimmung vom 29. November 2026: vier Vorlagen, fünf Pfeiler](@/aktuelles/abstimmung-29-november-2026.md).
 
-**Bundesbeschluss über die Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer.** Will die AHV über eine höhere Mehrwertsteuer zusätzlich finanzieren; als Verfassungsänderung kommt der Beschluss obligatorisch vors Volk. → Pfeiler [Grundeinkommen](@/grundeinkommen.md) und [Offener Staat](@/offener-staat.md).
+**Bundesbeschluss über die Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer.** Will die AHV über eine höhere Mehrwertsteuer zusätzlich finanzieren; als Verfassungsänderung kommt der Beschluss obligatorisch vors Volk. Konsum statt Lohn als Finanzierungsbasis liegt in unserer Logik — die Spannung ist die Teilfinanzierung: rund ein Drittel der Kosten, der Rest bleibt offen. → Pfeiler [Grundeinkommen](@/grundeinkommen.md) und [Offener Staat](@/offener-staat.md). Bundesrat und Parlament: Ja.
 
-**Volksinitiative «Für eine Einschränkung von Feuerwerk».** Will den Verkauf und Gebrauch lauter Feuerwerkskörper einschränken. → Pfeiler [Städte & Wohnen](@/stadte-wohnen.md).
+**Volksinitiative «Für eine Einschränkung von Feuerwerk».** Will Verkauf und Gebrauch lauter Feuerwerkskörper für Private schweizweit verbieten. Benennt ein reales Problem verdichteter Städte — die Spannung ist die Ebene: ein Verfassungsartikel für eine Regel, die Gemeinden heute selbst setzen können. → Pfeiler [Städte & Wohnen](@/stadte-wohnen.md). Bundesrat und Parlament: Nein.
 
-**Volksinitiative «Ja zu fairen Bundessteuern auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!».** Will die Heiratsstrafe bei der direkten Bundessteuer abschaffen und Ehepaare weiterhin gemeinsam veranlagen — ein anderes Modell als die im März angenommene Individualbesteuerung. → Pfeiler [Offener Staat](@/offener-staat.md).
+**Volksinitiative «Ja zu fairen Bundessteuern auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!».** Will die Heiratsstrafe bei der direkten Bundessteuer abschaffen und Ehepaare weiterhin gemeinsam veranlagen — ein anderes Modell als die im März angenommene Individualbesteuerung. Das Ziel ist entschieden — die Spannung ist die Doppelspurigkeit: zwei Systeme für dieselben Menschen, mit Ausfällen von bis zu 1,4 Milliarden. → Pfeiler [Offener Staat](@/offener-staat.md). Bundesrat und Parlament: Nein.
 
-**Änderung des Bundesgesetzes über das Kriegsmaterial.** Will dem Bundesrat erlauben, in besonderen Fällen von den Bewilligungskriterien für Kriegsmaterialexporte abzuweichen; ein Referendum bringt die Vorlage vors Volk. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md).
+**Änderung des Bundesgesetzes über das Kriegsmaterial.** Will dem Bundesrat erlauben, in besonderen Fällen von den Bewilligungskriterien für Kriegsmaterialexporte abzuweichen; ein Referendum bringt die Vorlage vors Volk. Schutzfähigkeit braucht eine industrielle Basis — die Spannung ist die Kontrolle: Ermessen der Exekutive statt klarer Regeln im Gesetz. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md) und [Energie & Resilienz](@/energy-resilience.md). Bundesrat und Parlament: Ja.
 
 ---
 

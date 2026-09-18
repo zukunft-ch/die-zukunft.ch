@@ -20,15 +20,15 @@ Two popular initiatives are on the ballot. The full framing is in the article [2
 
 ## Planned — 29 November 2026
 
-Four proposals are on the ballot. The framing along our pillars will follow in November.
+Four proposals are on the ballot. The full framing is in the article [29 November 2026 vote: four proposals, five pillars](@/aktuelles/abstimmung-29-november-2026.en.md).
 
-**Federal decree on additional financing of the AHV through a VAT increase.** Seeks to top up old-age pension funding through a higher VAT; as a constitutional amendment it goes to a mandatory popular vote. → Pillars [Basic income](@/grundeinkommen.en.md) and [Open government](@/offener-staat.en.md).
+**Federal decree on additional financing of the AHV through a VAT increase.** Seeks to top up old-age pension funding through a higher VAT; as a constitutional amendment it goes to a mandatory popular vote. Consumption rather than wages as the financing base fits our logic — the tension is the partial funding: about a third of the cost, the rest stays open. → Pillars [Basic income](@/grundeinkommen.en.md) and [Open government](@/offener-staat.en.md). Federal Council and Parliament: yes.
 
-**Popular initiative "For a restriction of fireworks".** Seeks to restrict the sale and use of loud fireworks. → Pillar [Cities & housing](@/stadte-wohnen.en.md).
+**Popular initiative "For a restriction of fireworks".** Seeks a nationwide ban on the sale and use of loud fireworks by private individuals. Names a real problem of densified cities — the tension is the level: a constitutional article for a rule municipalities can set themselves today. → Pillar [Cities & housing](@/stadte-wohnen.en.md). Federal Council and Parliament: no.
 
-**Popular initiative "Yes to fair federal taxes for married couples too – end the discrimination of marriage!".** Seeks to abolish the marriage penalty in direct federal tax while keeping joint assessment of married couples — a different model from the individual taxation accepted in March. → Pillar [Open government](@/offener-staat.en.md).
+**Popular initiative "Yes to fair federal taxes for married couples too – end the discrimination of marriage!".** Seeks to abolish the marriage penalty in direct federal tax while keeping joint assessment of married couples — a different model from the individual taxation accepted in March. The goal is settled — the tension is the duplication: two systems for the same people, with losses of up to 1.4 billion. → Pillar [Open government](@/offener-staat.en.md). Federal Council and Parliament: no.
 
-**Amendment to the Federal Act on War Material.** Seeks to allow the Federal Council to deviate from the licensing criteria for war material exports in special cases; a referendum brings the proposal to the people. → Pillar [Neutrality & peace](@/neutralitaet-frieden.en.md).
+**Amendment to the Federal Act on War Material.** Seeks to allow the Federal Council to deviate from the licensing criteria for war material exports in special cases; a referendum brings the proposal to the people. Protective capability needs an industrial base — the tension is control: executive discretion instead of clear rules in the law. → Pillars [Neutrality & peace](@/neutralitaet-frieden.en.md) and [Energy & resilience](@/energy-resilience.en.md). Federal Council and Parliament: yes.
 
 ---
 

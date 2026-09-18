@@ -20,15 +20,15 @@ Due iniziative popolari sono in votazione. La contestualizzazione completa si tr
 
 ## Previsto — 29 novembre 2026
 
-Quattro oggetti sono in votazione. La contestualizzazione lungo i nostri pilastri seguirà a novembre.
+Quattro oggetti sono in votazione. La contestualizzazione completa si trova nell'articolo [Votazione del 29 novembre 2026: quattro oggetti, cinque pilastri](@/aktuelles/abstimmung-29-november-2026.it.md).
 
-**Decreto federale sul finanziamento aggiuntivo dell'AVS mediante un aumento dell'IVA.** Vuole finanziare ulteriormente l'AVS con un'IVA più alta; in quanto modifica costituzionale, il decreto è sottoposto obbligatoriamente al popolo. → Pilastri [Reddito di base](@/grundeinkommen.it.md) e [Stato aperto](@/offener-staat.it.md).
+**Decreto federale sul finanziamento aggiuntivo dell'AVS mediante un aumento dell'IVA.** Vuole finanziare ulteriormente l'AVS con un'IVA più alta; in quanto modifica costituzionale, il decreto è sottoposto obbligatoriamente al popolo. Il consumo invece del salario come base di finanziamento rientra nella nostra logica — la tensione è il finanziamento parziale: circa un terzo dei costi, il resto rimane aperto. → Pilastri [Reddito di base](@/grundeinkommen.it.md) e [Stato aperto](@/offener-staat.it.md). Consiglio federale e Parlamento: sì.
 
-**Iniziativa popolare « Per una limitazione dei fuochi d'artificio ».** Vuole limitare la vendita e l'uso di fuochi d'artificio rumorosi. → Pilastro [Città e abitare](@/stadte-wohnen.it.md).
+**Iniziativa popolare « Per una limitazione dei fuochi d'artificio ».** Vuole vietare in tutta la Svizzera la vendita e l'uso di fuochi d'artificio rumorosi da parte dei privati. Nomina un problema reale delle città densificate — la tensione è il livello: un articolo costituzionale per una regola che oggi i Comuni possono fissare da sé. → Pilastro [Città e abitare](@/stadte-wohnen.it.md). Consiglio federale e Parlamento: no.
 
-**Iniziativa popolare « Sì a imposte federali eque anche per i coniugi – Basta con la discriminazione del matrimonio! ».** Vuole abolire la penalizzazione del matrimonio nell'imposta federale diretta mantenendo la tassazione congiunta dei coniugi — un modello diverso dall'imposizione individuale accettata a marzo. → Pilastro [Stato aperto](@/offener-staat.it.md).
+**Iniziativa popolare « Sì a imposte federali eque anche per i coniugi – Basta con la discriminazione del matrimonio! ».** Vuole abolire la penalizzazione del matrimonio nell'imposta federale diretta mantenendo la tassazione congiunta dei coniugi — un modello diverso dall'imposizione individuale accettata a marzo. L'obiettivo è deciso — la tensione è il doppione: due sistemi per le stesse persone, con perdite fino a 1,4 miliardi. → Pilastro [Stato aperto](@/offener-staat.it.md). Consiglio federale e Parlamento: no.
 
-**Modifica della legge federale sul materiale bellico.** Vuole permettere al Consiglio federale di derogare, in casi particolari, ai criteri di autorizzazione per le esportazioni di materiale bellico; un referendum porta l'oggetto al popolo. → Pilastro [Neutralità e pace](@/neutralitaet-frieden.it.md).
+**Modifica della legge federale sul materiale bellico.** Vuole permettere al Consiglio federale di derogare, in casi particolari, ai criteri di autorizzazione per le esportazioni di materiale bellico; un referendum porta l'oggetto al popolo. La capacità di protezione ha bisogno di una base industriale — la tensione è il controllo: apprezzamento dell'esecutivo invece di regole chiare nella legge. → Pilastri [Neutralità e pace](@/neutralitaet-frieden.it.md) e [Energia e resilienza](@/energy-resilience.it.md). Consiglio federale e Parlamento: sì.
 
 ---
 
