@@ -10,6 +10,8 @@ og_image = "og/aktuelles/abstimmung-27-september-2026.de.png"
 
 Am 27. September 2026 stimmt die Schweiz über zwei Volksinitiativen ab: «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)» und «Für eine sichere Ernährung (Ernährungsinitiative)». Beide wollen etwas in die Verfassung schreiben, das die Schweiz unabhängiger machen soll — die eine aussenpolitisch, die andere bei der Versorgung. Beide berühren Fragen, an denen wir seit Beginn arbeiten: was Neutralität heute leisten muss, wie ein Land resilient wird, wie Fortschritt und Vertrauen zusammengehen. Wir geben hier keine Stimmempfehlung ab. Wir zeigen, wo die beiden Initiativen auf unser Programm treffen, und wo aus unserer Sicht die ehrlichen Spannungen liegen.
 
+**Nachtrag (Ergebnis der Abstimmung).** Am 27. September 2026 hat die Stimmbevölkerung beide Initiativen abgelehnt: die Neutralitätsinitiative mit 70,2 % Nein, die Ernährungsinitiative mit 72,5 % Nein. Beide scheiterten auch in allen Kantonen (Stimmbeteiligung rund 47 %). Die folgende Einordnung entstand vor dem Abstimmungssonntag und bleibt als Programmlesart unverändert.
+
 ---
 
 ## Vorlage 1: Neutralitätsinitiative

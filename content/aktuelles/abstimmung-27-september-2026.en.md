@@ -10,6 +10,8 @@ og_image = "og/aktuelles/abstimmung-27-september-2026.en.png"
 
 On 27 September 2026 Switzerland votes on two popular initiatives: "Preserving Swiss neutrality (Neutrality Initiative)" and "For secure nutrition (Nutrition Initiative)". Both want to write something into the constitution that is meant to make Switzerland more independent — one in foreign policy, the other in supply. Both touch questions we have worked on from the start: what neutrality has to deliver today, how a country becomes resilient, how progress and trust go together. We do not issue a voting recommendation here. We show where the two initiatives meet our program, and where, from our perspective, the honest tensions lie.
 
+**Update (result).** On 27 September 2026 voters rejected both initiatives: the Neutrality Initiative with 70.2% no, the Nutrition Initiative with 72.5% no. Both were also rejected by every canton (turnout around 47%). The framing below was written before voting Sunday and stands unchanged as a program reading.
+
 ---
 
 ## Proposal 1: Neutrality Initiative

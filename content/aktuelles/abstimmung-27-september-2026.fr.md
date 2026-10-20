@@ -10,6 +10,8 @@ og_image = "og/aktuelles/abstimmung-27-september-2026.fr.png"
 
 Le 27 septembre 2026, la Suisse vote sur deux initiatives populaires : « Sauvegarde de la neutralité suisse (initiative sur la neutralité) » et « Pour une alimentation sûre (initiative sur l'alimentation) ». Toutes deux veulent inscrire dans la Constitution quelque chose qui doit rendre la Suisse plus indépendante — l'une en politique extérieure, l'autre dans l'approvisionnement. Toutes deux touchent à des questions que nous travaillons depuis le départ : ce que la neutralité doit accomplir aujourd'hui, comment un pays devient résilient, comment progrès et confiance vont ensemble. Nous ne donnons pas de consigne de vote. Nous montrons où ces deux initiatives rencontrent notre programme, et où se trouvent à nos yeux les vraies tensions.
 
+**Mise à jour (résultat).** Le 27 septembre 2026, le corps électoral a rejeté les deux initiatives : l'initiative sur la neutralité par 70,2 % de non, l'initiative sur l'alimentation par 72,5 % de non. Toutes deux ont aussi été rejetées par l'ensemble des cantons (participation d'environ 47 %). La mise en perspective ci-dessous a été écrite avant le dimanche de votation et reste inchangée comme lecture programmatique.
+
 ---
 
 ## Objet 1 : initiative sur la neutralité

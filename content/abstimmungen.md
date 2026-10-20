@@ -8,31 +8,31 @@ Die Schweiz stimmt viermal pro Jahr über Bundesvorlagen ab. Diese Seite ist ein
 
 ---
 
-## Nächste Abstimmung — 27. September 2026
-
-Zwei Volksinitiativen stehen zur Abstimmung. Die ausführliche Einordnung findet sich im Artikel [Abstimmung vom 27. September 2026: zwei Initiativen, drei Pfeiler](@/aktuelles/abstimmung-27-september-2026.md).
-
-**Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)».** Will die immerwährende, bewaffnete Neutralität in der Verfassung verankern und militärische Bündnisse sowie nicht von der UNO beschlossene Sanktionen ausschliessen. Die Ziele decken sich weitgehend mit unserem Programm — die Spannung liegt im Sanktionsartikel und im Kooperationsverbot, das defensive Zusammenarbeit gegen hybride Bedrohungen erschweren könnte. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md) und [Energie & Resilienz](@/energy-resilience.md). Bundesrat und Parlament: Nein.
-
-**Volksinitiative «Für eine sichere Ernährung (Ernährungsinitiative)».** Will innert zehn Jahren einen Netto-Selbstversorgungsgrad von mindestens 70 Prozent, mehr pflanzliche Lebensmittel und sauberes Trinkwasser. Benennt eine reale Abhängigkeit, setzt aber ein Ziel ohne Plan: Versorgung wird durch Technologie und Lagerhaltung sicherer, nicht durch eine Zahl in der Verfassung. → Pfeiler [Energie & Resilienz](@/energy-resilience.md) und [Life Science & Gesundheit](@/life-science.md). Bundesrat und Parlament: Nein.
-
----
-
-## Geplant — 29. November 2026
+## Nächste Abstimmung — 29. November 2026
 
 Vier Vorlagen stehen zur Abstimmung. Die ausführliche Einordnung findet sich im Artikel [Abstimmung vom 29. November 2026: vier Vorlagen, fünf Pfeiler](@/aktuelles/abstimmung-29-november-2026.md).
 
-**Bundesbeschluss über die Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer.** Will die AHV über eine höhere Mehrwertsteuer zusätzlich finanzieren; als Verfassungsänderung kommt der Beschluss obligatorisch vors Volk. Konsum statt Lohn als Finanzierungsbasis liegt in unserer Logik — die Spannung ist die Teilfinanzierung: rund ein Drittel der Kosten, der Rest bleibt offen. → Pfeiler [Grundeinkommen](@/grundeinkommen.md) und [Offener Staat](@/offener-staat.md). Bundesrat und Parlament: Ja.
+**Bundesbeschluss über die Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer.** Will die AHV über eine höhere Mehrwertsteuer zusätzlich finanzieren; als Verfassungsänderung kommt der Beschluss obligatorisch vors Volk. Konsum statt Lohn als Finanzierungsbasis liegt in unserer Logik — die Spannung ist die Teilfinanzierung: mit dem Bundesbeitrag rund die Hälfte der Kosten, der Rest bleibt offen. → Pfeiler [Grundeinkommen](@/grundeinkommen.md) und [Offener Staat](@/offener-staat.md). Bundesrat und Parlament: Ja.
 
 **Volksinitiative «Für eine Einschränkung von Feuerwerk».** Will Verkauf und Gebrauch lauter Feuerwerkskörper für Private schweizweit verbieten. Benennt ein reales Problem verdichteter Städte — die Spannung ist die Ebene: ein Verfassungsartikel für eine Regel, die Gemeinden heute selbst setzen können. → Pfeiler [Städte & Wohnen](@/stadte-wohnen.md). Bundesrat und Parlament: Nein.
 
-**Volksinitiative «Ja zu fairen Bundessteuern auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!».** Will die Heiratsstrafe bei der direkten Bundessteuer abschaffen und Ehepaare weiterhin gemeinsam veranlagen — ein anderes Modell als die im März angenommene Individualbesteuerung. Das Ziel ist entschieden — die Spannung ist die Doppelspurigkeit: zwei Systeme für dieselben Menschen, mit Ausfällen von bis zu 1,4 Milliarden. → Pfeiler [Offener Staat](@/offener-staat.md). Bundesrat und Parlament: Nein.
+**Volksinitiative «Ja zu fairen Bundessteuern auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!».** Will die Heiratsstrafe bei der direkten Bundessteuer abschaffen und Ehepaare weiterhin gemeinsam veranlagen — ein anderes Modell als die im März angenommene Individualbesteuerung. Das Ziel ist entschieden — die Spannung ist die Doppelspurigkeit: zwei Systeme für dieselben Menschen, mit Ausfällen von bis zu 3 Milliarden. → Pfeiler [Offener Staat](@/offener-staat.md). Bundesrat und Parlament: Nein.
 
-**Änderung des Bundesgesetzes über das Kriegsmaterial.** Will dem Bundesrat erlauben, in besonderen Fällen von den Bewilligungskriterien für Kriegsmaterialexporte abzuweichen; ein Referendum bringt die Vorlage vors Volk. Schutzfähigkeit braucht eine industrielle Basis — die Spannung ist die Kontrolle: Ermessen der Exekutive statt klarer Regeln im Gesetz. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md) und [Energie & Resilienz](@/energy-resilience.md). Bundesrat und Parlament: Ja.
+**Änderung des Bundesgesetzes über das Kriegsmaterial.** Will die Exportregeln für Kriegsmaterial lockern: Lieferungen an Partnerstaaten auch im Konfliktfall, weniger Nichtwiederausfuhr-Erklärungen und eine Klausel, mit der der Bundesrat bei ausserordentlichen Umständen von den Bewilligungskriterien abweichen kann; ein Referendum bringt die Vorlage vors Volk. Schutzfähigkeit braucht eine industrielle Basis — die Spannung ist die Kontrolle: Ermessen der Exekutive statt klarer Regeln im Gesetz. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md) und [Energie & Resilienz](@/energy-resilience.md). Bundesrat und Parlament: Ja.
 
 ---
 
-## Letzte Abstimmung — 14. Juni 2026
+## Letzte Abstimmung — 27. September 2026
+
+Zwei Volksinitiativen, beide abgelehnt. Die ausführliche Einordnung findet sich im Artikel [Abstimmung vom 27. September 2026: zwei Initiativen, drei Pfeiler](@/aktuelles/abstimmung-27-september-2026.md).
+
+**Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)».** Wollte die immerwährende, bewaffnete Neutralität in der Verfassung verankern und militärische Bündnisse sowie nicht von der UNO beschlossene Sanktionen ausschliessen. Die Ziele decken sich weitgehend mit unserem Programm — die Spannung liegt im Sanktionsartikel und im Kooperationsverbot, das defensive Zusammenarbeit gegen hybride Bedrohungen erschweren könnte. → Pfeiler [Neutralität & Frieden](@/neutralitaet-frieden.md) und [Energie & Resilienz](@/energy-resilience.md). Volk: Nein (70,2 %), Stände: alle Nein.
+
+**Volksinitiative «Für eine sichere Ernährung (Ernährungsinitiative)».** Wollte innert zehn Jahren einen Netto-Selbstversorgungsgrad von mindestens 70 Prozent, mehr pflanzliche Lebensmittel und sauberes Trinkwasser. Benennt eine reale Abhängigkeit, setzt aber ein Ziel ohne Plan: Versorgung wird durch Technologie und Lagerhaltung sicherer, nicht durch eine Zahl in der Verfassung. → Pfeiler [Energie & Resilienz](@/energy-resilience.md) und [Life Science & Gesundheit](@/life-science.md). Volk: Nein (72,5 %), Stände: alle Nein.
+
+---
+
+## Davor — 14. Juni 2026
 
 Zwei Vorlagen, zwei Ergebnisse. Die ausführliche Einordnung findet sich im Artikel [Abstimmung vom 14. Juni 2026: zwei Vorlagen, drei Pfeiler](@/aktuelles/abstimmung-14-juni-2026.md).
 

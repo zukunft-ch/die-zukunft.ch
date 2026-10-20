@@ -8,31 +8,31 @@ La Suisse vote quatre fois par an sur des objets fédéraux. Cette page est une 
 
 ---
 
-## Prochaine votation — 27 septembre 2026
-
-Deux initiatives populaires sont soumises au vote. La mise en perspective complète se trouve dans l'article [Votation du 27 septembre 2026 : deux initiatives, trois piliers](@/aktuelles/abstimmung-27-september-2026.fr.md).
-
-**Initiative populaire « Sauvegarde de la neutralité suisse (initiative sur la neutralité) ».** Veut inscrire la neutralité armée et permanente dans la Constitution et exclure les alliances militaires ainsi que les mesures de contrainte non décidées par l'ONU. Les objectifs recoupent largement notre programme — la tension se situe dans l'article sur les sanctions et dans l'interdiction de coopérer, qui pourrait compliquer la coopération défensive contre les menaces hybrides. → Piliers [Neutralité et paix](@/neutralitaet-frieden.fr.md) et [Énergie et résilience](@/energy-resilience.fr.md). Conseil fédéral et Parlement : non.
-
-**Initiative populaire « Pour une alimentation sûre (initiative sur l'alimentation) ».** Veut, en dix ans, un taux d'auto-approvisionnement net d'au moins 70 %, davantage d'aliments végétaux et une eau potable propre. Nomme une dépendance réelle, mais fixe un objectif sans plan : l'approvisionnement devient plus sûr par la technologie et le stockage, pas par un chiffre dans la Constitution. → Piliers [Énergie et résilience](@/energy-resilience.fr.md) et [Sciences de la vie et santé](@/life-science.fr.md). Conseil fédéral et Parlement : non.
-
----
-
-## Prévu — 29 novembre 2026
+## Prochaine votation — 29 novembre 2026
 
 Quatre objets sont soumis au vote. La mise en perspective complète se trouve dans l'article [Votation du 29 novembre 2026 : quatre objets, cinq piliers](@/aktuelles/abstimmung-29-november-2026.fr.md).
 
-**Arrêté fédéral sur le financement additionnel de l'AVS par une augmentation de la TVA.** Veut financer l'AVS en plus par une TVA plus élevée ; en tant que modification constitutionnelle, l'arrêté est soumis obligatoirement au peuple. La consommation plutôt que le salaire comme base de financement s'inscrit dans notre logique — la tension est le financement partiel : environ un tiers des coûts, le reste demeure ouvert. → Piliers [Revenu de base](@/grundeinkommen.fr.md) et [État ouvert](@/offener-staat.fr.md). Conseil fédéral et Parlement : oui.
+**Arrêté fédéral sur le financement additionnel de l'AVS par une augmentation de la TVA.** Veut financer l'AVS en plus par une TVA plus élevée ; en tant que modification constitutionnelle, l'arrêté est soumis obligatoirement au peuple. La consommation plutôt que le salaire comme base de financement s'inscrit dans notre logique — la tension est le financement partiel : avec la contribution de la Confédération, environ la moitié des coûts, le reste demeure ouvert. → Piliers [Revenu de base](@/grundeinkommen.fr.md) et [État ouvert](@/offener-staat.fr.md). Conseil fédéral et Parlement : oui.
 
 **Initiative populaire « Pour une limitation des feux d'artifice ».** Veut interdire dans toute la Suisse la vente et l'usage de feux d'artifice bruyants par les particuliers. Nomme un problème réel des villes densifiées — la tension est le niveau : un article constitutionnel pour une règle que les communes peuvent fixer elles-mêmes aujourd'hui. → Pilier [Villes et logement](@/stadte-wohnen.fr.md). Conseil fédéral et Parlement : non.
 
-**Initiative populaire « Oui à des impôts fédéraux équitables aussi pour les couples mariés – Pour en finir avec la discrimination du mariage ! ».** Veut supprimer la pénalisation du mariage dans l'impôt fédéral direct tout en maintenant l'imposition commune des couples mariés — un autre modèle que l'imposition individuelle acceptée en mars. L'objectif est tranché — la tension est le doublon : deux systèmes pour les mêmes personnes, avec des pertes allant jusqu'à 1,4 milliard. → Pilier [État ouvert](@/offener-staat.fr.md). Conseil fédéral et Parlement : non.
+**Initiative populaire « Oui à des impôts fédéraux équitables aussi pour les couples mariés – Pour en finir avec la discrimination du mariage ! ».** Veut supprimer la pénalisation du mariage dans l'impôt fédéral direct tout en maintenant l'imposition commune des couples mariés — un autre modèle que l'imposition individuelle acceptée en mars. L'objectif est tranché — la tension est le doublon : deux systèmes pour les mêmes personnes, avec des pertes allant jusqu'à 3 milliards. → Pilier [État ouvert](@/offener-staat.fr.md). Conseil fédéral et Parlement : non.
 
-**Modification de la loi fédérale sur le matériel de guerre.** Veut permettre au Conseil fédéral de déroger, dans des cas particuliers, aux critères d'autorisation pour les exportations de matériel de guerre ; un référendum porte l'objet devant le peuple. La capacité de protection a besoin d'une base industrielle — la tension est le contrôle : appréciation de l'exécutif au lieu de règles claires dans la loi. → Piliers [Neutralité et paix](@/neutralitaet-frieden.fr.md) et [Énergie et résilience](@/energy-resilience.fr.md). Conseil fédéral et Parlement : oui.
+**Modification de la loi fédérale sur le matériel de guerre.** Veut assouplir les règles d'exportation du matériel de guerre : livraisons à des États partenaires même en cas de conflit, moins de déclarations de non-réexportation et une clause permettant au Conseil fédéral de déroger aux critères d'autorisation dans des circonstances extraordinaires ; un référendum porte l'objet devant le peuple. La capacité de protection a besoin d'une base industrielle — la tension est le contrôle : appréciation de l'exécutif au lieu de règles claires dans la loi. → Piliers [Neutralité et paix](@/neutralitaet-frieden.fr.md) et [Énergie et résilience](@/energy-resilience.fr.md). Conseil fédéral et Parlement : oui.
 
 ---
 
-## Dernière votation — 14 juin 2026
+## Dernière votation — 27 septembre 2026
+
+Deux initiatives populaires, toutes deux rejetées. La mise en perspective complète se trouve dans l'article [Votation du 27 septembre 2026 : deux initiatives, trois piliers](@/aktuelles/abstimmung-27-september-2026.fr.md).
+
+**Initiative populaire « Sauvegarde de la neutralité suisse (initiative sur la neutralité) ».** Voulait inscrire la neutralité armée et permanente dans la Constitution et exclure les alliances militaires ainsi que les mesures de contrainte non décidées par l'ONU. Les objectifs recoupent largement notre programme — la tension se situe dans l'article sur les sanctions et dans l'interdiction de coopérer, qui pourrait compliquer la coopération défensive contre les menaces hybrides. → Piliers [Neutralité et paix](@/neutralitaet-frieden.fr.md) et [Énergie et résilience](@/energy-resilience.fr.md). Peuple : non (70,2 %), cantons : tous non.
+
+**Initiative populaire « Pour une alimentation sûre (initiative sur l'alimentation) ».** Voulait, en dix ans, un taux d'auto-approvisionnement net d'au moins 70 %, davantage d'aliments végétaux et une eau potable propre. Nomme une dépendance réelle, mais fixe un objectif sans plan : l'approvisionnement devient plus sûr par la technologie et le stockage, pas par un chiffre dans la Constitution. → Piliers [Énergie et résilience](@/energy-resilience.fr.md) et [Sciences de la vie et santé](@/life-science.fr.md). Peuple : non (72,5 %), cantons : tous non.
+
+---
+
+## Auparavant — 14 juin 2026
 
 Deux objets, deux résultats. La mise en perspective détaillée se trouve dans l'article [Votation du 14 juin 2026 : deux objets, trois piliers](@/aktuelles/abstimmung-14-juni-2026.fr.md).
 
