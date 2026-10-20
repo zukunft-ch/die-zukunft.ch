@@ -4,8 +4,15 @@
 
  ## Prerequisites
 
- - [Zola](https://www.getzola.org) (v0.22 or later)
- - `mise` task runner (optional, see below)
+ - [Zola](https://www.getzola.org) **0.22.1 exactly** (pinned in `mise.toml` and in the Cloudflare Pages `ZOLA_VERSION` env var)
+ - `mise` task runner (recommended — it installs and selects the pinned Zola)
+
+ > **Do not build with Zola 0.23+.** 0.23 moved to Tera v2 and removed shortcodes and
+ > template macros, which the avenir theme relies on (`{% import %}` macros, the `faq` /
+ > `callout` / `newsletter_form` shortcodes). A plain `zola` from Homebrew is 0.23.x and fails
+ > with `Unknown tag` on `{% import %}`. Use `mise run build` / `mise exec -- zola …`, or
+ > activate mise in your shell so `zola` resolves to 0.22.1. Upgrading is a separate theme
+ > migration (macros → components, shortcodes → components).
 
  ## Development
 
@@ -15,10 +22,10 @@
  mise dev
  ```
 
- or directly:
+ or directly (with the pinned version):
 
  ```sh
- zola serve
+ mise exec -- zola serve
  ```
 
  ## Building for Production
@@ -27,10 +34,10 @@
  mise build
  ```
 
- or directly:
+ or directly (with the pinned version):
 
  ```sh
- zola build
+ mise exec -- zola build
  ```
 
  The generated site will be in the `public/` directory.
