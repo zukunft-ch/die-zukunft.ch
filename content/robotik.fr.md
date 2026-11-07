@@ -1,7 +1,7 @@
 +++
 title = "Réindustrialisation par la robotique"
 slug = "robotique"
-description = "Plus de production et de valeur ajoutée en Suisse – moderne, automatisée, adaptée aux PME."
+description = "Plus de production et de valeur ajoutée en Suisse : automatisée, locale, adaptée aux PME. Dans les champs, sur les chantiers et à l'usine."
 template = "page.html"
 
 [extra]
@@ -18,7 +18,20 @@ faq = [
 
 [[extra.sections]]
 title = "Pourquoi la réindustrialisation ?"
-text = "Si nous voulons relocaliser la production, elle doit être moderne : automatisée, efficace, résiliente. C'est une opportunité – en particulier pour les PME."
+text = "Si nous voulons relocaliser la production, elle doit être moderne : automatisée, efficace, résiliente. Avec 294 robots pour 10'000 employés de l'industrie, la Suisse est loin derrière la Corée du Sud (1'220) et aussi derrière l'Allemagne (449). Une fabrication hautement automatisée rend la production à nouveau compétitive malgré des salaires élevés. C'est une opportunité, en particulier pour les PME."
+
+[[extra.sections]]
+title = "Des robots dans tous les secteurs"
+text = "La robotique ne concerne pas seulement les halles d'usine. Elle soulage les gens partout où le travail est physiquement dur, dangereux ou où la main-d'œuvre manque."
+subsections = [
+  { title = "Agriculture", text = "Depuis 2000, près de 30 % de personnes en moins travaillent dans l'agriculture. La robotique maintient les exploitations productives.", points = ["Robots autonomes de désherbage, d'entretien et de récolte", "Parcs de machines partagés, pour que les petites exploitations aussi puissent s'offrir la robotique", "Transformation automatisée à proximité de la ferme"] },
+  { title = "Construction", text = "Construire plus vite, c'est plus de logements à moindre coût.", points = ["Préfabrication industrielle d'éléments et de modules", "Robotique de construction pour les travaux lourds, répétitifs et dangereux", "Permis de construire numériques basés sur des maquettes numériques des ouvrages"] },
+  { title = "Industrie", text = "La Suisse sait construire des choses complexes. L'automatisation renforce cet atout.", points = ["Usines entièrement automatisées pour la medtech, la pharma, la précision et l'électronique", "Pouvoir fabriquer les biens critiques dans le pays : médicaments, composants, denrées alimentaires", "Maintenance, planification et développement comme nouveaux métiers industriels bien rémunérés"] },
+]
+
+[[extra.sections]]
+title = "Produire localement"
+text = "La production a sa place près des personnes qui en ont besoin. Des usines régionales et automatisées raccourcissent les chaînes d'approvisionnement, gardent le savoir-faire dans le pays et rendent la Suisse moins dépendante des perturbations mondiales. Local ne veut pas dire replié sur soi : nous continuons d'exporter ce que nous faisons de mieux."
 
 [[extra.sections]]
 title = "Nos priorités"
@@ -40,6 +53,10 @@ points = [
   "Avantages d'approvisionnement pour les biens critiques (là où c'est approprié)",
   "Bacs à sable réglementaires pour l'automatisation",
 ]
+
+[[extra.sections]]
+title = "Notre objectif"
+text = "D'ici 2035, doubler la densité de robots dans l'industrie suisse, de 294 à environ 600 robots pour 10'000 employés. Et faire de nouveau croître la valeur ajoutée industrielle dans le pays, mesurée publiquement chaque année."
 
 [[extra.sections]]
 title = "Automatisation dans le secteur des services"

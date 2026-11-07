@@ -1,4 +1,4 @@
-var CACHE = 'dz-v2';
+var CACHE = 'dz-v3';
 var SHELL = [
   '/',
   '/main.css',

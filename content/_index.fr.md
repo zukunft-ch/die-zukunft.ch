@@ -4,17 +4,18 @@ description = "Prospérité, confort et bien-être pour tous – avec un contrat
 template = "index.html"
 
 [extra]
-# Bannière du 1er août (meta-slot 0x00F0 de la page d'accueil). Conditionnée par la date + fermable via JS.
-# Retirer ces quatre clés après la Fête nationale pour désactiver la bannière.
-banner_eyebrow = "1er août · Fête nationale"
-banner_title = "Vers la Suisse de demain."
-banner_text = "735 ans après 1291, nous célébrons une idée restée moderne : façonner soi-même son avenir."
-banner_cta = "Lire notre message"
-
 hero_title = "Le Futur"
-hero_subline = "Prospérité au lieu de la peur. Souveraineté au lieu de la dépendance."
 hero_descriptor = "Un nouveau parti suisse"
-hero_subtitle = "Prospérité, confort et bien-être pour tous – avec un contrat social moderne qui crée la sécurité et élargit la liberté."
+hero_claim = "Nous le construisons."
+hero_lead = "L'IA et la robotique peuvent créer la prospérité pour tous. Nous veillons à ce que la Suisse mène cette transition : avec sa propre puissance de calcul, les meilleurs talents, une production dans le pays et un dividende pour tous."
+trio_label = "Notre attitude en trois phrases"
+hero_trio = ["Prospérité au lieu de la pensée de pénurie", "Sécurité au lieu de la peur", "Souveraineté au lieu de la dépendance"]
+hero_manifest_cta = "Lire le manifeste"
+theses_eyebrow = "Niveau 1 · Manifeste"
+theses_title = "Dix thèses"
+theses_intro = "Le manifeste en dix phrases. Chacune a une adresse permanente, peut être liée et épinglée, et mène un niveau plus loin."
+theses_cta = "Lire tout le manifeste"
+changes_eyebrow = "Niveau 1 · Quotidien"
 
 changes_title = "Ce qui change"
 changes_intro = "Les choses ne vont pas plus mal – mais elles changent. Travail, coûts, santé et sécurité se redistribuent – selon que nous façonnons l'avenir ou que nous nous contentons de réagir."
@@ -27,22 +28,28 @@ changes = [
 changes_cta = "C'est pourquoi Le Futur : nous rendons le changement planifiable – plus de liberté, moins de peur, plus de prospérité."
 
 pillars_title = "Ce que nous proposons"
+pillars_eyebrow = "Niveau 2 · Programme"
+pillars_intro = "Treize piliers, tous d'un seul coup d'œil. Chacun a sa propre page avec des mesures, des objectifs et des indicateurs concrets."
+pillars_cta = "Tout le programme"
 pillars = [
-  { icon = "🌱", title = "Revenu de base", text = "Un socle stable : moins de bureaucratie, plus de liberté pour la reconversion, l'entrepreneuriat et les soins.", link = "@/grundeinkommen.md" },
-  { icon = "📚", title = "Travailler sans peur", text = "Reconversion, mobilité et accompagnement de transition comme normalité — pas comme solution d'urgence.", link = "@/uebergaenge.md" },
-  { icon = "🏛️", title = "Souveraineté numérique", text = "Solutions suisses et européennes d'abord. Standards ouverts, pas de dépendance à un fournisseur.", link = "@/digitale-souveraenitaet.md" },
-  { icon = "🏭", title = "Réindustrialisation par la robotique", text = "Automatisation adaptée aux PME : laboratoires partagés, incitations, production locale.", link = "@/robotik.md" },
-  { icon = "🧬", title = "Sciences de la vie & santé", text = "Sciences de la vie modernes avec consentement, vérifiabilité et sans médecine d'État opaque.", link = "@/life-science.md" },
-  { icon = "🏙️", title = "Villes & logement", text = "Plus de logements abordables et plus de qualité de vie grâce à la densification autour des nœuds TP – moins d'étalement, plus de confort.", link = "@/stadte-wohnen.md" },
-  { icon = "🔬", title = "Recherche, innovation & biens communs", text = "Laboratoires réels, standards ouverts et réseau d'innovation à l'échelle suisse – pour que l'innovation profite largement et ne reste pas en silos.", link = "@/research-innovation.md" },
-  { icon = "⚡", title = "Énergie & résilience des infrastructures", text = "Un approvisionnement fiable, abordable et robuste – la résilience par l'ingénierie, pas par l'idéologie.", link = "@/energy-resilience.md" },
-  { icon = "📡", title = "État ouvert", text = "API par défaut, transparence radicale et procédures ouvertes – pour que les citoyens puissent construire de meilleurs outils et contrôler efficacement l'État.", link = "@/offener-staat.md" },
-  { icon = "🕊️", title = "Neutralité & paix", text = "Strictement défensif, crédiblement neutre – et à nouveau un centre pour les pourparlers de paix et les bons offices.", link = "@/neutralitaet-frieden.md" },
-  { icon = "🤝", title = "Talent, intégration & État de droit", text = "Ouvert aux personnes qui contribuent – clair dans l'État de droit et les règles du vivre ensemble.", link = "@/talent-integration.md" },
-  { icon = "🗣️", title = "Langue & compréhension", text = "Renforcer les langues nationales, l'anglais comme pont pragmatique – une compréhension sans friction.", link = "@/sprache-verstaendigung.md" },
+  { hex = "0x2C", icon = "🧠", title = "IA souveraine & puissance de calcul", text = "Notre propre puissance de calcul, des modèles suisses ouverts et une IA que nous vérifions et exploitons nous-mêmes. La base de tout le reste.", link = "@/souveraene-ki.md" },
+  { hex = "0x24", icon = "🌱", title = "Revenu de base", text = "Un socle stable : moins de bureaucratie, plus de liberté pour la reconversion, l'entrepreneuriat et les soins.", link = "@/grundeinkommen.md" },
+  { hex = "0x22", icon = "📚", title = "Travailler sans peur", text = "Reconversion, mobilité et accompagnement de transition comme normalité — pas comme solution d'urgence.", link = "@/uebergaenge.md" },
+  { hex = "0x20", icon = "🏛️", title = "Souveraineté numérique", text = "Solutions suisses et européennes d'abord. Standards ouverts, pas de dépendance à un fournisseur.", link = "@/digitale-souveraenitaet.md" },
+  { hex = "0x21", icon = "🏭", title = "Réindustrialisation par la robotique", text = "Automatisation adaptée aux PME : laboratoires partagés, incitations, production locale.", link = "@/robotik.md" },
+  { hex = "0x23", icon = "🧬", title = "Sciences de la vie & santé", text = "Sciences de la vie modernes avec consentement, vérifiabilité et sans médecine d'État opaque.", link = "@/life-science.md" },
+  { hex = "0x25", icon = "🏙️", title = "Villes & logement", text = "Plus de logements abordables et plus de qualité de vie grâce à la densification autour des nœuds TP – moins d'étalement, plus de confort.", link = "@/stadte-wohnen.md" },
+  { hex = "0x26", icon = "🔬", title = "Recherche, innovation & biens communs", text = "Laboratoires réels, standards ouverts et réseau d'innovation à l'échelle suisse – pour que l'innovation profite largement et ne reste pas en silos.", link = "@/research-innovation.md" },
+  { hex = "0x27", icon = "⚡", title = "Énergie & résilience des infrastructures", text = "Un approvisionnement fiable, abordable et robuste – la résilience par l'ingénierie, pas par l'idéologie.", link = "@/energy-resilience.md" },
+  { hex = "0x28", icon = "📡", title = "État ouvert", text = "API par défaut, transparence radicale et procédures ouvertes – pour que les citoyens puissent construire de meilleurs outils et contrôler efficacement l'État.", link = "@/offener-staat.md" },
+  { hex = "0x29", icon = "🕊️", title = "Neutralité & paix", text = "Strictement défensif, crédiblement neutre – et à nouveau un centre pour les pourparlers de paix et les bons offices.", link = "@/neutralitaet-frieden.md" },
+  { hex = "0x2A", icon = "🤝", title = "Talent, intégration & État de droit", text = "Ouvert aux personnes qui contribuent – clair dans l'État de droit et les règles du vivre ensemble.", link = "@/talent-integration.md" },
+  { hex = "0x2B", icon = "🗣️", title = "Langue & compréhension", text = "Renforcer les langues nationales, l'anglais comme pont pragmatique – une compréhension sans friction.", link = "@/sprache-verstaendigung.md" },
 ]
 
 timeline_title = "Comment nous démarrons"
+horizon_eyebrow = "Horizon"
+horizon_intro = "Nous commençons là où nous vivons, et nous pensons plus loin que la prochaine élection."
 timeline = [
   { phase = "Phase 1", title = "Bâle", text = "Fondation, premiers membres, ancrage local dans la région de Bâle." },
   { phase = "Phase 2", title = "Suisse", text = "Expansion dans toutes les régions linguistiques, création de sections locales et travail politique national." },
@@ -51,5 +58,13 @@ timeline = [
 ]
 
 cta_title = "Participer"
-cta_text = "Prospérité au lieu de la pensée de pénurie. Sécurité au lieu de la peur. Souveraineté au lieu de la dépendance."
+cta_statement = "Construis avec nous."
+evidence_eyebrow = "Niveau 3 · Preuves"
+evidence_title = "Mesurer plutôt que supposer."
+evidence_intro = "Nous rendons publiques les bases de nos propositions : données, méthodes et une position motivée sur chaque votation."
+evidence_lab_title = "Données, modèles, questions ouvertes"
+evidence_lab_text = "Des analyses à la méthode transparente : où en est la Suisse, et ce que nos propositions coûtent et apportent."
+evidence_votes_title = "Chaque objet, une position"
+evidence_votes_text = "Nos recommandations sur les votations fédérales, motivées à partir de notre programme."
+cta_text = "Deviens membre de l'association, apporte ton savoir ou soutiens-nous financièrement. L'avenir naît de personnes qui mettent la main à la pâte."
 +++

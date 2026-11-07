@@ -34,6 +34,24 @@ localized brand to it: "Le Futur (Die Zukunft)", "Il Futuro (Die Zukunft)".
 - **messbar / measurable** — recurring proof-standard word ("pragmatisch, messbar"). Back it with numbers
   where possible (see the Zukunftslabor).
 
+## AI vocabulary (added Nov 2026)
+
+The party's core premise: AI and robotics make broad prosperity possible; Switzerland must build the
+stack (energy → compute → sovereign AI → talent → application in all three sectors → dividend).
+
+| Concept | DE | FR | IT | EN |
+|---|---|---|---|---|
+| AI | künstliche Intelligenz (KI) | intelligence artificielle (IA) | intelligenza artificiale (IA) | artificial intelligence (AI) |
+| AGI | allgemeine KI (AGI) | IA générale (AGI) | IA generale (AGI) | artificial general intelligence (AGI) |
+| compute | Rechenkraft / Rechenkapazität | puissance de calcul | potenza di calcolo | compute / computing capacity |
+| sovereign AI | souveräne KI | IA souveraine | IA sovrana | sovereign AI |
+| automation dividend | (Automatisierungs-)Dividende | dividende (de l'automatisation) | dividendo (dell'automazione) | (automation) dividend |
+| the stack | der Stack der Abundance | la pile de l'abondance | lo stack dell'abbondanza | the abundance stack |
+| sectors | 1./2./3. Sektor | secteur primaire/secondaire/tertiaire | settore primario/secondario/terziario | primary/secondary/tertiary sector |
+
+Rules: never claim machines "think"; say they do cognitive work / Denkarbeit. AGI timing is uncertain —
+frame it as planning for the early case, not as prophecy. Cite figures with a source (see Vision page).
+
 ## Framing rules
 
 - **No "country-first" slogans.** Avoid "CH-first", "La Suisse d'abord", "Prima la Svizzera",
@@ -45,7 +63,9 @@ localized brand to it: "Le Futur (Die Zukunft)", "Il Futuro (Die Zukunft)".
   no climate framing (use "resilience/durability"), no "free money" framing for UBI (use
   "stability/foundation/simplification").
 
-## Canonical pillar names (12)
+## Canonical pillar names (13)
+
+#13 (souveraene-ki, hex 0x2C) was added in Nov 2026 and is listed FIRST in the programme and on the homepage; its hex is the next free slot, not its rank.
 
 Order and names below are canonical (they match the `programm.*` chapter order and the hex map
 `0x20`–`0x2B`). The landing page may present them in a different, more relatable order by design.
@@ -65,3 +85,4 @@ Internal links use Zola `@/<basename>.md` form (build-validated, auto-localized)
 | 10 | neutralitaet-frieden | Neutralität & Frieden | Neutralité & paix | Neutralità & pace | Neutrality & Peace |
 | 11 | talent-integration | Talent, Integration & Rechtsstaat | Talent, intégration & état de droit | Talento, integrazione & stato di diritto | Talent, Integration & Rule of Law |
 | 12 | sprache-verstaendigung | Sprache & Verständigung | Langue & compréhension | Lingua & comprensione | Language & Understanding |
+| 13 | souveraene-ki | Souveräne KI & Rechenkraft | IA souveraine & puissance de calcul | IA sovrana & potenza di calcolo | Sovereign AI & Compute |

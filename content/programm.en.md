@@ -9,6 +9,12 @@ show_cta = true
 cta_text = "Convinced? Support our program."
 
 [[extra.chapters]]
+icon = "🧠"
+title = "Sovereign AI & Compute"
+text = "Compute is the infrastructure of the 21st century. Our own AI capacity, open Swiss models like Apertus and the ability to audit and operate AI ourselves. Accessible to universities, SMEs and public administration."
+link = "@/souveraene-ki.md"
+
+[[extra.chapters]]
 icon = "🏛️"
 title = "Digital Sovereignty"
 text = "Critical digital systems must remain under democratic control. Swiss/EU-first for critical infrastructure and sensitive data. Anti-lock-in, open source, supply-chain security."
