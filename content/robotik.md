@@ -1,6 +1,6 @@
 +++
 title = "Reindustrialisierung mit Robotik"
-description = "Mehr Produktion und Wertschöpfung in der Schweiz – modern, automatisiert, KMU-freundlich."
+description = "Mehr Produktion und Wertschöpfung in der Schweiz: automatisiert, lokal, KMU-freundlich. Auf dem Feld, auf der Baustelle und in der Fabrik."
 template = "page.html"
 
 [extra]
@@ -17,7 +17,20 @@ faq = [
 
 [[extra.sections]]
 title = "Warum Re-Industrialisierung?"
-text = "Wenn wir Produktion zurückholen wollen, muss sie modern sein: automatisiert, effizient, resilient. Das ist eine Chance – besonders für KMU."
+text = "Wenn wir Produktion zurückholen wollen, muss sie modern sein: automatisiert, effizient, resilient. Mit 294 Robotern pro 10'000 Industriebeschäftigten liegt die Schweiz weit hinter Südkorea (1'220) und auch hinter Deutschland (449). Hoch automatisierte Fertigung macht Produktion trotz hoher Löhne wieder wettbewerbsfähig. Das ist eine Chance, besonders für KMU."
+
+[[extra.sections]]
+title = "Roboter in allen Sektoren"
+text = "Robotik ist nicht nur ein Thema für die Fabrikhalle. Sie entlastet Menschen überall dort, wo Arbeit körperlich hart, gefährlich oder knapp ist."
+subsections = [
+  { title = "Landwirtschaft", text = "Seit 2000 arbeiten fast 30 Prozent weniger Menschen in der Landwirtschaft. Robotik hält die Höfe produktiv.", points = ["Autonome Jät-, Pflege- und Ernteroboter", "Geteilte Maschinenparks, damit sich auch kleine Höfe Robotik leisten können", "Automatisierte Verarbeitung nah beim Hof"] },
+  { title = "Bau", text = "Schneller bauen heisst mehr Wohnraum zu tieferen Kosten.", points = ["Industrielle Vorfertigung von Bauteilen und Modulen", "Baurobotik für schwere, repetitive und gefährliche Arbeiten", "Digitale Baubewilligungen auf Basis von Bauwerksmodellen"] },
+  { title = "Industrie", text = "Die Schweiz kann komplexe Dinge bauen. Automatisierung macht diese Stärke grösser.", points = ["Vollautomatisierte Werke für Medtech, Pharma, Präzision und Elektronik", "Kritische Güter im Land herstellen können: Medikamente, Komponenten, Lebensmittel", "Wartung, Planung und Entwicklung als neue, gut bezahlte Industrieberufe"] },
+]
+
+[[extra.sections]]
+title = "Lokal produzieren"
+text = "Produktion gehört in die Nähe der Menschen, die sie brauchen. Regionale, automatisierte Werke verkürzen Lieferketten, halten Know-how im Land und machen die Schweiz unabhängiger von globalen Verwerfungen. Lokal heisst nicht abgeschottet: Wir exportieren weiter, was wir am besten können."
 
 [[extra.sections]]
 title = "Unsere Prioritäten"
@@ -39,6 +52,10 @@ points = [
   "Beschaffungsvorteile bei kritischen Gütern (wo angemessen)",
   "Regulatorische Sandboxes für Automatisierung",
 ]
+
+[[extra.sections]]
+title = "Unser Ziel"
+text = "Bis 2035 die Roboterdichte in der Schweizer Industrie verdoppeln, von 294 auf rund 600 Roboter pro 10'000 Beschäftigte. Und die Wertschöpfung der Industrie im Land wieder steigern, jedes Jahr öffentlich gemessen."
 
 [[extra.sections]]
 title = "Automatisierung im Dienstleistungssektor"

@@ -9,6 +9,12 @@ show_cta = true
 cta_text = "Convaincu·e ? Soutiens notre programme."
 
 [[extra.chapters]]
+icon = "🧠"
+title = "IA souveraine & puissance de calcul"
+text = "La puissance de calcul est l'infrastructure du 21e siècle. Des capacités d'IA propres, des modèles suisses ouverts comme Apertus et la capacité de vérifier et d'exploiter l'IA nous-mêmes. Accessible aux hautes écoles, aux PME et à l'administration."
+link = "@/souveraene-ki.md"
+
+[[extra.chapters]]
 icon = "🏛️"
 title = "Souveraineté numérique"
 text = "Les systèmes numériques critiques doivent rester sous contrôle démocratique. Swiss/EU-first pour les infrastructures critiques et les données sensibles. Anti-lock-in, open source, sécurité de la chaîne d'approvisionnement."

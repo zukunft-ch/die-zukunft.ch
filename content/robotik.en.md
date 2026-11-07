@@ -1,7 +1,7 @@
 +++
 title = "Re-industrialisation with Robotics"
 slug = "robotics"
-description = "More production and value creation in Switzerland — modern, automated, SME-friendly."
+description = "More production and value creation in Switzerland: automated, local, SME-friendly. In the field, on the building site and in the factory."
 template = "page.html"
 
 [extra]
@@ -18,7 +18,20 @@ faq = [
 
 [[extra.sections]]
 title = "Why Re-industrialisation?"
-text = "If we want to bring production back, it must be modern: automated, efficient, resilient. This is an opportunity — especially for SMEs."
+text = "If we want to bring production back, it must be modern: automated, efficient, resilient. With 294 robots per 10,000 industrial workers, Switzerland lags far behind South Korea (1,220) and also behind Germany (449). Highly automated manufacturing makes production competitive again despite high wages. This is an opportunity, especially for SMEs."
+
+[[extra.sections]]
+title = "Robots in Every Sector"
+text = "Robotics is not just a topic for the factory floor. It takes load off people wherever work is physically hard, dangerous or short of hands."
+subsections = [
+  { title = "Agriculture", text = "Almost 30 percent fewer people have worked in agriculture since 2000. Robotics keeps farms productive.", points = ["Autonomous weeding, tending and harvesting robots", "Shared machinery pools so that small farms can afford robotics too", "Automated processing close to the farm"] },
+  { title = "Construction", text = "Building faster means more housing at lower cost.", points = ["Industrial prefabrication of components and modules", "Construction robotics for heavy, repetitive and dangerous work", "Digital building permits based on building information models"] },
+  { title = "Industry", text = "Switzerland can build complex things. Automation makes this strength bigger.", points = ["Fully automated plants for medtech, pharma, precision and electronics", "Being able to make critical goods in the country: medicines, components, food", "Maintenance, planning and development as new, well-paid industrial occupations"] },
+]
+
+[[extra.sections]]
+title = "Producing Locally"
+text = "Production belongs close to the people who need it. Regional, automated plants shorten supply chains, keep know-how in the country and make Switzerland less dependent on global disruptions. Local does not mean isolated: we keep exporting what we do best."
 
 [[extra.sections]]
 title = "Our Priorities"
@@ -40,6 +53,10 @@ points = [
   "Procurement advantages for critical goods (where appropriate)",
   "Regulatory sandboxes for automation",
 ]
+
+[[extra.sections]]
+title = "Our Goal"
+text = "Double robot density in Swiss industry by 2035, from 294 to around 600 robots per 10,000 workers. And grow industrial value creation in the country again, measured publicly every year."
 
 [[extra.sections]]
 title = "Automation in the Services Sector"

@@ -9,6 +9,12 @@ show_cta = true
 cta_text = "Convinti? Sostenete il nostro programma."
 
 [[extra.chapters]]
+icon = "🧠"
+title = "IA sovrana & potenza di calcolo"
+text = "La potenza di calcolo è l'infrastruttura del 21° secolo. Capacità di IA propria, modelli svizzeri aperti come Apertus e la capacità di verificare e gestire l'IA da sé. Accessibile a università, PMI e amministrazione."
+link = "@/souveraene-ki.md"
+
+[[extra.chapters]]
 icon = "🏛️"
 title = "Sovranità digitale"
 text = "I sistemi digitali critici devono rimanere sotto controllo democratico. Swiss/EU-first per infrastrutture critiche e dati sensibili. Anti-lock-in, open source, sicurezza della catena di approvvigionamento."

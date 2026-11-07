@@ -8,6 +8,12 @@ show_cta = true
 cta_text = "Überzeugt? Unterstütze unser Programm."
 
 [[extra.chapters]]
+icon = "🧠"
+title = "Souveräne KI & Rechenkraft"
+text = "Rechenkraft ist die Infrastruktur des 21. Jahrhunderts. Eigene KI-Kapazität, offene Schweizer Modelle wie Apertus und die Fähigkeit, KI selbst zu prüfen und zu betreiben. Zugänglich für Hochschulen, KMU und Verwaltung."
+link = "@/souveraene-ki.md"
+
+[[extra.chapters]]
 icon = "🏛️"
 title = "Digitale Souveränität"
 text = "Kritische digitale Systeme müssen unter demokratischer Kontrolle bleiben. Swiss/EU-first für kritische Infrastruktur und sensible Daten. Anti-Lock-in, Open Source, Supply-Chain-Sicherheit."

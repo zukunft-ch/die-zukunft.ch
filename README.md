@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/zukunft-ch/assets/main/favicons/favicon.svg" width="96" alt=""></p>
+
 # Die Zukunft
 
  A static website for the Swiss political movement "Die Zukunft", generated with [Zola](https://www.getzola.org).
