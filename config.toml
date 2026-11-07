@@ -6,7 +6,7 @@ default_language = "de"
 compile_sass = true
 minify_html = true
 generate_feeds = true
-feed_filenames = ["atom.xml"]
+feed_filenames = ["atom.xml", "rss.xml"]
 
 taxonomies = [{name = "tags", feed = false}]
 
@@ -16,21 +16,21 @@ taxonomies = [{name = "tags", feed = false}]
 title = "Le Futur"
 description = "Le parti du futur. Un parti suisse pour la transition structurelle : revenu de base, souveraineté numérique, réindustrialisation."
 generate_feeds = true
-feed_filenames = ["atom.xml"]
+feed_filenames = ["atom.xml", "rss.xml"]
 taxonomies = [{name = "tags", feed = false}]
 
 [languages.it]
 title = "Il Futuro"
 description = "Il partito del futuro. Un partito svizzero per la transizione strutturale: reddito di base, sovranità digitale, reindustrializzazione."
 generate_feeds = true
-feed_filenames = ["atom.xml"]
+feed_filenames = ["atom.xml", "rss.xml"]
 taxonomies = [{name = "tags", feed = false}]
 
 [languages.en]
 title = "The Future"
 description = "The party of the future. A Swiss party for structural transformation: basic income, digital sovereignty, re-industrialisation."
 generate_feeds = true
-feed_filenames = ["atom.xml"]
+feed_filenames = ["atom.xml", "rss.xml"]
 taxonomies = [{name = "tags", feed = false}]
 
 [extra]
@@ -39,6 +39,7 @@ contact_city = "Basel, Schweiz"
 
 # --- DE translations (default) ---
 [translations]
+footer_license = "Texte: CC BY 4.0"
 nav_souveraene_ki = "Souveräne KI & Rechenkraft"
 footer_about = "Für ein gutes Leben im 21. Jahrhundert: Wohlstand statt Mangeldenken, Sicherheit statt Angst, Souveränität statt Abhängigkeit."
 footer_city = "Basel, Schweiz"
@@ -169,6 +170,7 @@ sub_success = "Danke! Sie sind jetzt angemeldet."
 
 # --- FR translations ---
 [languages.fr.translations]
+footer_license = "Textes : CC BY 4.0"
 nav_souveraene_ki = "IA souveraine & puissance de calcul"
 footer_about = "Pour une vie digne au 21e siècle : prospérité au lieu de la pensée de pénurie, sécurité au lieu de la peur, souveraineté au lieu de la dépendance."
 footer_city = "Bâle, Suisse"
@@ -299,6 +301,7 @@ sub_success = "Merci ! Vous êtes inscrit(e)."
 
 # --- IT translations ---
 [languages.it.translations]
+footer_license = "Testi: CC BY 4.0"
 nav_souveraene_ki = "IA sovrana & potenza di calcolo"
 footer_about = "Per una vita dignitosa nel 21° secolo: prosperità invece di pensiero di scarsità, sicurezza invece di paura, sovranità invece di dipendenza."
 footer_city = "Basilea, Svizzera"
@@ -429,6 +432,7 @@ sub_success = "Grazie! Sei iscritto/a."
 
 # --- EN translations ---
 [languages.en.translations]
+footer_license = "Texts: CC BY 4.0"
 nav_souveraene_ki = "Sovereign AI & Compute"
 footer_about = "For a good life in the 21st century: prosperity over scarcity thinking, security over fear, sovereignty over dependence."
 footer_city = "Basel, Switzerland"

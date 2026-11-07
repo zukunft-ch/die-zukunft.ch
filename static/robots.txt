@@ -1,4 +1,20 @@
+# Die Zukunft · robots.txt
+#
+# Policy (decided Nov 2026): fully open. The party wants its programme to be found,
+# read, quoted and learned by search engines and AI systems alike. Texts are licensed
+# CC BY 4.0 (see /impressum/ and /llms.txt): please credit "Die Zukunft" and link the source.
+#
+# One open group for everyone, no per-agent exceptions. Cloudflare's "Managed robots.txt"
+# must stay OFF for this zone, otherwise it overrides this file with AI-training blocks.
+# le-futur.ch and il-futuro.ch serve the same policy from the lang-proxy worker.
+
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
 Sitemap: https://die-zukunft.ch/sitemap.xml
+
+# Machine-readable entry points
+# llms.txt:      https://die-zukunft.ch/llms.txt
+# Full corpus:   https://die-zukunft.ch/llms-full.txt (EN) · https://die-zukunft.ch/llms-full-de.txt (DE)
+# Page twins:    https://die-zukunft.ch/md/<path>.md (every page, all languages)

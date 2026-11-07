@@ -16,6 +16,8 @@ E-Mail: [hey@die-zukunft.ch](mailto:hey@die-zukunft.ch)
 
 Die Inhalte dieser Website wurden mit grösster Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
 
-## Urheberrecht
+## Urheberrecht und Lizenz
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem schweizerischen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung ausserhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+Die Texte auf die-zukunft.ch, le-futur.ch und il-futuro.ch stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de). Du darfst sie vervielfältigen, verbreiten, übersetzen, bearbeiten und für beliebige Zwecke nutzen, auch in KI-Systemen, solange du «Die Zukunft» als Quelle nennst, auf die Originalseite verlinkst und Änderungen kenntlich machst.
+
+Ausgenommen sind der Name «Die Zukunft» und seine Übersetzungen, die Wortmarke, das Würfelkreuz-Icon sowie Inhalte Dritter, die als solche gekennzeichnet sind. Sie dürfen nicht so verwendet werden, dass der Eindruck einer Herkunft von oder einer Unterstützung durch Die Zukunft entsteht.

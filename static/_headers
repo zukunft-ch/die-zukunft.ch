@@ -5,3 +5,22 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.die-zukunft.ch; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+# Machine-readable twins: readable by everyone, but kept out of search indexes so they
+# never compete with the HTML pages (canonical content stays on the HTML URLs).
+/md/*
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+/en/md/*
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+/fr/md/*
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+/it/md/*
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+/llms-full.txt
+  X-Robots-Tag: noindex
+/llms-full-de.txt
+  X-Robots-Tag: noindex

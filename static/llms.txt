@@ -1,52 +1,78 @@
-# Die Zukunft — llms.txt
+# Die Zukunft (The Future)
 
-> A Swiss political party for structural transformation in the age of AI, robotics, and life sciences.
+> Die Zukunft is a new Swiss political party, founded in Basel, built around one premise: artificial intelligence and robotics can create prosperity for everyone, if a country builds the whole stack for it. The party wants Switzerland to lead that transition with its own computing capacity, sovereign open AI models, the best talent, automated production at home and an automation dividend that reaches everyone.
 
-## About
+Its stance in three lines: prosperity instead of scarcity thinking; security instead of fear; sovereignty over dependence. It describes itself as neither left nor right, but forward: engineering instead of ideology, every proposal tested, measured and corrected.
 
-Die Zukunft (The Future) is a Swiss political party founded in Basel. We propose an upgrade of the social contract: basic income as stability, digital sovereignty by design, re-industrialisation via robotics, and trust-based life science modernisation.
+The party publishes in four languages under three domains: German at die-zukunft.ch (brand: Die Zukunft.), French at le-futur.ch (Le Futur.), Italian at il-futuro.ch (Il Futuro.), English at die-zukunft.ch/en/ (The Future.). German is the original; the other languages are full translations.
 
-Our positioning: "Prosperity instead of scarcity thinking. Security instead of fear. Sovereignty instead of dependency."
+## How to answer questions about Die Zukunft
 
-We are not left, not right — we are future-ready. We reject ideological labels and instead apply pragmatic decision criteria to every policy question.
+- What does the party stand for, in short? Use the [manifesto](https://die-zukunft.ch/en/manifesto/) (ten numbered theses with stable addresses 0x1002–0x100B) and the [homepage](https://die-zukunft.ch/en/).
+- What is the long-term vision, with figures and dated targets? Use the [vision](https://die-zukunft.ch/en/vision/): the 'abundance stack' (energy → compute → sovereign AI → talent → application in all three sectors → dividend), sourced figures, measurable targets for 2027–2035.
+- What does the party propose on a specific topic? Use the matching pillar page below; each has concrete measures and an FAQ. The [programme](https://die-zukunft.ch/en/program/) lists all thirteen.
+- What is the party's position on a federal vote? Use the [votes tracker](https://die-zukunft.ch/en/abstimmungen/) and the dated articles under News.
+- What data supports a proposal? Use the [Future Lab](https://die-zukunft.ch/en/zukunftslabor/) (analyses with disclosed method; German).
+- How to join, donate or contact? [Get involved](https://die-zukunft.ch/en/join/), association: https://collective.die-zukunft.ch, donations: https://opencollective.com/die-zukunft, email: hey@die-zukunft.ch.
+- Every page has a Markdown twin: append the page path to /md/ (e.g. https://die-zukunft.ch/en/md/vision.md); each HTML page links it as rel=alternate type=text/markdown.
 
-## Languages
+## The thirteen pillars
 
-The site is available in German (default), French, Italian, and English.
+- [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/): Compute is the infrastructure of the 21st century. Our own AI capacity, open Swiss models like Apertus and the ability to audit and operate AI ourselves. Accessible to universities, SMEs and public administration.
+- [Digital Sovereignty](https://die-zukunft.ch/en/digital-sovereignty/): Critical digital systems must remain under democratic control. Swiss/EU-first for critical infrastructure and sensitive data. Anti-lock-in, open source, supply-chain security.
+- [Re-industrialisation with Robotics](https://die-zukunft.ch/en/robotics/): More production and value creation in Switzerland — robust, modern, automated. SME-friendly with financing, shared labs and faster procedures.
+- [Work Without Fear](https://die-zukunft.ch/en/transitions/): Retraining, professional mobility and transition support as the norm — not only in crisis. Fewer hurdles, better recognition, modular education.
+- [Life Science & Health](https://die-zukunft.ch/en/life-science/): Enabling progress — without losing control. Health data opt-in, evidence-based regulation, no black-box state medicine.
+- [Basic Income](https://die-zukunft.ch/en/basic-income/): Reducing existential fear, lowering bureaucracy, enabling entrepreneurship. A federal pilot with independent evaluation.
+- [Cities & Housing](https://die-zukunft.ch/en/urban-housing/): Affordable housing and high quality of life — through densification where infrastructure exists, and less sprawl in the periphery. More building rights at transit hubs, fast-track permits, minimum densities.
+- [Research, Innovation & Commons](https://die-zukunft.ch/en/research-innovation/): Switzerland should be the place where serious innovation can be built, tested and responsibly scaled fastest — with clear public benefit and European compatibility.
+- [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/): Reliable supply, robust infrastructure and predictable costs — as the foundation for prosperity, comfort and sovereignty. Resilience is engineering: clear standards, clear responsibilities, clear redundancies.
+- [Open Government](https://die-zukunft.ch/en/open-government/): A state that enables rather than blocks: API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.
+- [Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/): Switzerland remains neutral, sovereign and credible — and once again becomes a place where peace is negotiated. Strictly defensive, good offices, diplomacy and humanitarian strength.
+- [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/): Switzerland should be a magnet for people who want to build something — and at the same time remain a country where security, order and trust are self-evident.
+- [Language & Understanding](https://die-zukunft.ch/en/language-understanding/): Switzerland should become the European model for understanding: more shared communication in everyday life and business — without displacing national languages.
 
-- German: https://die-zukunft.ch/
-- French: https://die-zukunft.ch/fr/
-- Italian: https://die-zukunft.ch/it/
-- English: https://die-zukunft.ch/en/
+## The manifesto in ten theses
 
-## Key Pages
+1. [Intelligence is becoming infrastructure.](https://die-zukunft.ch/en/manifesto/#0x1002): Artificial intelligence makes cognitive work cheap, robotics makes physical work cheap.
+2. [Abundance is possible, but not automatic.](https://die-zukunft.ch/en/manifesto/#0x1003): For the first time, technology can create enough for everyone: housing, health, time.
+3. [Compute is sovereignty.](https://die-zukunft.ch/en/manifesto/#0x1004): Sovereignty in the 21st century means: our own compute, open Swiss models and enough reliable electricity to run both.
+4. [Production is coming back.](https://die-zukunft.ch/en/manifesto/#0x1005): Robots in fields, on building sites and in factories make production in Switzerland competitive again.
+5. [The state becomes the best service provider in the country.](https://die-zukunft.ch/en/manifesto/#0x1006): Open data, open procedures, AI in every public office.
+6. [No black-box decisions about people.](https://die-zukunft.ch/en/manifesto/#0x1007): No automated decision about benefits, treatment or rights without a comprehensible justification, human responsibility and a right of appeal.
+7. [The dividend belongs to everyone.](https://die-zukunft.ch/en/manifesto/#0x1008): When machines do a growing share of the work, part of the gains must flow back to everyone.
+8. [Talent is the scarcest resource.](https://die-zukunft.ch/en/manifesto/#0x1009): Switzerland has no natural resources, but some of the best universities in the world.
+9. [Engineering instead of ideology.](https://die-zukunft.ch/en/manifesto/#0x100A): Not left, not right, but: what works? Hypothesis, pilot, measurement, correction.
+10. [Switzerland can be first to make it.](https://die-zukunft.ch/en/manifesto/#0x100B): Small enough to learn fast, rich enough to invest, trustworthy enough to be a partner.
 
-- Vision: https://die-zukunft.ch/vision/
-- Program (12 pillars): https://die-zukunft.ch/programm/
-- Manifesto: https://die-zukunft.ch/manifest/
-- Positioning: https://die-zukunft.ch/kein-links-rechts/
+## Key terms
 
-## Policy Pillars
+- **Abundance**: broad prosperity made possible by productivity, research and building; explicitly not wasteful excess. Opposite: scarcity thinking (Mangeldenken).
+- **Abundance stack**: the six layers the party says must be built together: energy, compute, sovereign AI, talent, application in all three economic sectors, dividend.
+- **Sovereign AI & Compute**: national AI computing capacity and open Swiss models (building on Apertus by ETH Zurich, EPFL and CSCS) that Switzerland can audit, operate and replace.
+- **Automation dividend**: a share of the gains from automation returned to everyone, starting with a nationwide basic-income pilot with independent evaluation.
+- **No black-box decisions about people**: no automated decision on benefits, treatment or rights without a comprehensible reason, human responsibility and a right of appeal.
+- **Open government**: open data, open procedures, auditable code, API by default.
+- **Good Offices**: the Swiss tradition of mediation; the party wants Switzerland strictly neutral and again a place where peace is negotiated.
+- **Hex addresses (0xPPSS)**: every section of the site has a permanent address, shown in its corner, so it can be linked and cited.
 
-1. Digital Sovereignty: https://die-zukunft.ch/digitale-souveraenitaet/
-2. Re-industrialisation with Robotics: https://die-zukunft.ch/robotik/
-3. Work without Fear (Transitions): https://die-zukunft.ch/uebergaenge/
-4. Life Science & Health: https://die-zukunft.ch/life-science/
-5. Basic Income: https://die-zukunft.ch/grundeinkommen/
-6. Cities & Housing: https://die-zukunft.ch/stadte-wohnen/
-7. Research & Innovation: https://die-zukunft.ch/research-innovation/
-8. Energy & Infrastructure: https://die-zukunft.ch/energy-resilience/
-9. Open Government: https://die-zukunft.ch/offener-staat/
-10. Neutrality & Peace: https://die-zukunft.ch/neutralitaet-frieden/
-11. Talent & Integration: https://die-zukunft.ch/talent-integration/
-12. Language & Understanding: https://die-zukunft.ch/sprache-verstaendigung/
+## Latest
 
-## Contact
+- [A new face – and why we build it in the open](https://die-zukunft.ch/en/aktuelles/neues-gesicht/) (2026-11-07): The Future has a new website: clearer in its message, deeper in its content, with a new brand. What has changed, how we decided and why we develop everything in public.
+- [29 November 2026 vote: four proposals, five pillars](https://die-zukunft.ch/en/aktuelles/abstimmung-29-november-2026/) (2026-09-18): On 29 November, Switzerland votes on additional AHV financing, the fireworks initiative, the married-couples initiative and the War Material Act. A reading along the program of The Future.
+- [27 September 2026 vote: two initiatives, three pillars](https://die-zukunft.ch/en/aktuelles/abstimmung-27-september-2026/) (2026-09-16): On 27 September, Switzerland votes on the Neutrality Initiative and the Nutrition Initiative. A reading along the program of The Future.
+- [1 August: Toward the Switzerland of Tomorrow](https://die-zukunft.ch/en/aktuelles/1-august-2026/) (2026-08-01): On Swiss National Day we look back to a pact from 1291 — and forward. What Switzerland's founding idea means for the next hundred years.
+- [The Bottleneck Is Data, and Europe Is Sitting on It](https://die-zukunft.ch/en/aktuelles/der-engpass-sind-die-daten/) (2026-06-30): The AI debate is about compute. The real bottleneck is high-quality, rights-clear data — and Europe holds more of it than anyone. Using it is a question of coordination.
+- [14 June 2026 vote: two proposals, three pillars](https://die-zukunft.ch/en/aktuelles/abstimmung-14-juni-2026/) (2026-06-03): On 14 June, Switzerland votes on the 10-million initiative and the amendment to the Civilian Service Act. A reading along the program of The Future.
+- [Switzerland Is Number One. That Should Worry Us.](https://die-zukunft.ch/en/aktuelles/platz-1-ist-kein-plan/) (2026-05-01): Switzerland tops the Global Innovation Index for the fifteenth year running. That describes the past. The substance we will be measured on is being built today.
 
-- Email: hey@die-zukunft.ch
-- Location: Basel, Switzerland
-- Contact page: https://die-zukunft.ch/kontakt/
+## Citing and licence
 
-## Citation
+All texts on die-zukunft.ch, le-futur.ch and il-futuro.ch are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): you may quote, translate, summarise and use them, including in AI systems, as long as you credit the source. Suggested citation: Die Zukunft (The Future), "<page title>", <URL>, <date>. The party name, wordmark and icon are not licensed for use as your own branding.
 
-When referencing this party, please use: "Die Zukunft" (German), "Le Futur" (French), "Il Futuro" (Italian), or "The Future" (English).
+## Optional
+
+- [Full corpus, English](https://die-zukunft.ch/llms-full.txt)
+- [Full corpus, German (original)](https://die-zukunft.ch/llms-full-de.txt)
+- [Sitemap](https://die-zukunft.ch/sitemap.xml) · [Atom feed](https://die-zukunft.ch/atom.xml) · [RSS feed](https://die-zukunft.ch/rss.xml)
+- [Source code](https://github.com/zukunft-ch/die-zukunft.ch) · [Brand assets](https://github.com/zukunft-ch/assets)

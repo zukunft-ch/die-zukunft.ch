@@ -54,7 +54,7 @@ export default {
     // robots.txt — generate dynamically
     if (path === '/robots.txt') {
       return new Response(
-        `User-agent: *\nAllow: /\n\nSitemap: https://${hostname}/sitemap.xml\n`,
+        `# ${hostname} · robots.txt (lang-proxy worker)\n# Policy: fully open to search and AI (Nov 2026). Texts CC BY 4.0: credit the source.\n# Cloudflare "Managed robots.txt" must stay OFF for this zone, or it overrides this file.\n\nUser-agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=yes\nAllow: /\n\nSitemap: https://${hostname}/sitemap.xml\n\n# llms.txt: https://die-zukunft.ch/llms.txt\n# Page twins: https://${hostname}/md/<path>.md\n`,
         { headers: { 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'public, max-age=86400' } }
       );
     }
@@ -67,8 +67,8 @@ export default {
     // atom.xml — serve the language-specific feed. Zola emits per-language feeds at
     // /fr/atom.xml and /it/atom.xml; without this, /atom.xml matches STATIC_EXT and the
     // German root feed leaks onto the FR/IT domains.
-    if (path === '/atom.xml') {
-      const feedRes = await fetch(`https://${PAGES_ORIGIN}${prefix}/atom.xml`);
+    if (path === '/atom.xml' || path === '/rss.xml') {
+      const feedRes = await fetch(`https://${PAGES_ORIGIN}${prefix}${path}`);
       if (!feedRes.ok) {
         return new Response('Feed not available', { status: 502 });
       }

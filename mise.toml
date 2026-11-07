@@ -1,13 +1,20 @@
 [tools]
 # Keep in sync with README and the Cloudflare Pages ZOLA_VERSION env var.
 zola = "0.22.1"
+# For scripts/build_llms.py (needs tomllib, Python >= 3.11).
+python = "3.13"
 
 [tasks.dev]
 description = "Start Zola development server"
 run = "zola serve"
 
+[tasks.llms]
+description = "Regenerate llms.txt, llms-full*.txt and the Markdown twins from content/"
+run = "python scripts/build_llms.py"
+
 [tasks.build]
-description = "Build the site for production"
+description = "Build the site for production (regenerates the machine-readable files first)"
+depends = ["llms"]
 run = "zola build"
 
 [tasks.check]

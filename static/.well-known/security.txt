@@ -1,0 +1,5 @@
+Contact: mailto:hey@die-zukunft.ch
+Expires: 2027-11-07T00:00:00.000Z
+Preferred-Languages: de, en, fr, it
+Canonical: https://die-zukunft.ch/.well-known/security.txt
+Policy: https://github.com/zukunft-ch/die-zukunft.ch

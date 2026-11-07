@@ -1,0 +1,2481 @@
+# The Future (Die Zukunft): full corpus, English
+
+> The complete programme, manifesto, vision and articles of The Future (Die Zukunft), a new Swiss political party based in Basel. German is the original language; see /llms-full-de.txt. Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Please cite as: The Future (Die Zukunft), <page title>, <URL>.
+
+Generated 2026-11-07 from the site's content.
+
+---
+
+# Swiss Party for Structural Transformation
+
+> Prosperity, comfort and well-being for all — with a modern social contract that creates security and expands freedom.
+
+Source: https://die-zukunft.ch/en/ · Publisher: The Future (Swiss political party, Basel)
+
+**The Future. We build it.** AI and robotics can create prosperity for everyone. We make sure Switzerland leads this transition: with its own compute, the best talent, production at home and a dividend for everyone.
+
+- Prosperity over scarcity thinking
+- Security over fear
+- Sovereignty over dependence
+
+## What's changing
+
+Things aren't getting worse – but they are changing. Work, costs, health and security are being redistributed – depending on whether we shape the future or merely react.
+
+- **Work & income**: AI is speeding everything up – and shifting tasks. Administration, logistics, medicine, law: entire professions are transforming. The key question: who gets the productivity gains – and who bears the risk?
+- **Housing & everyday life**: Housing remains scarce, commutes get longer, life time is lost. The question isn't city versus countryside, but: how do we get more comfort per square metre – without everything getting more expensive?
+- **Health & longevity**: Biotech and prevention are improving – but only with trust. People want innovation without black boxes, with clear consent, auditability and data protection.
+- **Digital security**: Payments, identity, communication, public services: our daily life runs on software. When critical systems depend on a few foreign platforms, that's not a tech issue – it's everyday sovereignty.
+
+That's why The Future: we make change plannable – more freedom, less fear, more prosperity.
+
+## What we propose
+
+Thirteen pillars, all at a glance. Each has its own page with concrete measures, goals and indicators.
+
+- [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/) (0x2C): Our own compute, open Swiss models and AI that we audit and operate ourselves. The foundation for everything else.
+- [Basic Income](https://die-zukunft.ch/en/basic-income/) (0x24): A stable foundation: less bureaucracy, more freedom for retraining, entrepreneurship and care.
+- [Work Without Fear](https://die-zukunft.ch/en/transitions/) (0x22): Retraining, mobility and transition support as the norm — not as a last resort.
+- [Digital Sovereignty](https://die-zukunft.ch/en/digital-sovereignty/) (0x20): Swiss and European solutions first. Open standards, no vendor lock-in.
+- [Re-industrialisation with Robotics](https://die-zukunft.ch/en/robotics/) (0x21): SME-friendly automation: shared labs, incentives, local manufacturing.
+- [Life Science & Health](https://die-zukunft.ch/en/life-science/) (0x23): Modern life sciences with consent, auditability and no black-box state medicine.
+- [Cities & Housing](https://die-zukunft.ch/en/urban-housing/) (0x25): More affordable housing and quality of life through densification at transit hubs — less sprawl, more comfort.
+- [Research, Innovation & Commons](https://die-zukunft.ch/en/research-innovation/) (0x26): Testbeds, open standards and a nationwide innovation network — so innovation has broad impact and doesn't stay in silos.
+- [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/) (0x27): Reliable, affordable, robust supply — resilience through engineering, not ideology.
+- [Open Government](https://die-zukunft.ch/en/open-government/) (0x28): API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.
+- [Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/) (0x29): Strictly defensive, credibly neutral — and once again a centre for peace talks and good offices.
+- [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/) (0x2A): Open to people who contribute — clear on the rule of law and the rules of coexistence.
+- [Language & Understanding](https://die-zukunft.ch/en/language-understanding/) (0x2B): Strengthening national languages, English as a pragmatic bridge — understanding without friction.
+
+## How we start
+
+We start where we live, and we think further ahead than the next election.
+
+- **Phase 1: Basel** (37 km², ≈ 200,000 people): Foundation, first members, local roots in the Basel region.
+- **Phase 2: Switzerland** (41,285 km², ≈ 9 million people): Expansion across all language regions, building local chapters and national political work.
+- **Phase 3: Europe** (≈ 10 million km², ≈ 745 million people): Partnerships with like-minded movements, shared agenda for a future-ready Europe.
+- **Phase 4: Global** (≈ 149 million km² of land, ≈ 8.2 billion people): International network, knowledge transfer and impulses for a new societal policy worldwide.
+
+## Get involved
+
+Join the association, bring your expertise or support us financially. The future is made by people who get to work.
+
+---
+
+# Manifesto
+
+> Ten theses for the transition into an age of abundance: how Switzerland uses artificial intelligence and robotics so that prosperity reaches everyone.
+
+Source: https://die-zukunft.ch/en/manifesto/ · Publisher: The Future (Swiss political party, Basel)
+
+Version 2.0 · 2026-11-07
+
+## Zero point (0x1001)
+
+For the first time in history, machines can do not only physical work but also cognitive work. Artificial intelligence and robotics will redistribute work, income and power, faster than most institutions can imagine. Switzerland is one of the wealthiest and most capable countries in the world, and yet it talks about this future almost only in the language of fear. This manifesto starts somewhere else: the future is not a fate. It is a construction project. The only open questions are who builds it, by which rules, and for whose benefit.
+
+## 01. Intelligence is becoming infrastructure. (0x1002)
+
+Artificial intelligence makes cognitive work cheap, robotics makes physical work cheap. Whether artificial general intelligence arrives in five years or in twenty: we plan for the case that it comes early. Whoever has compute, models and data shapes the future. Whoever only rents them has to accept it.
+
+→ [Pillar: Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/)
+
+## 02. Abundance is possible, but not automatic. (0x1003)
+
+For the first time, technology can create enough for everyone: housing, health, time. **Abundance** means prosperity through productivity, not excess through waste. Whether it reaches everyone or only a few is a political decision. Fear is no answer to that. A plan is.
+
+→ [To the vision](https://die-zukunft.ch/en/vision/)
+
+## 03. Compute is sovereignty. (0x1004)
+
+Sovereignty in the 21st century means: our own compute, open Swiss models and enough reliable electricity to run both. Not isolation, but the ability to audit, operate and replace AI ourselves.
+
+→ [Pillar: Digital Sovereignty](https://die-zukunft.ch/en/digital-sovereignty/)
+
+## 04. Production is coming back. (0x1005)
+
+Robots in fields, on building sites and in factories make production in Switzerland competitive again. Local means short distances, know-how in the country and less dependence when the world gets turbulent.
+
+→ [Pillar: Re-industrialisation with Robotics](https://die-zukunft.ch/en/robotics/)
+
+## 05. The state becomes the best service provider in the country. (0x1006)
+
+Open data, open procedures, AI in every public office. Routine cases in minutes, every decision explained and open to appeal. Citizens should be able to read the state, check it and build better tools on top of it.
+
+→ [Pillar: Open Government](https://die-zukunft.ch/en/open-government/)
+
+## 06. No black-box decisions about people. (0x1007)
+
+No automated decision about benefits, treatment or rights without a comprehensible justification, human responsibility and a right of appeal. Fast, but under control: powerful systems are tested before they work in critical areas.
+
+→ [Pillar: Life Science & Health](https://die-zukunft.ch/en/life-science/)
+
+## 07. The dividend belongs to everyone. (0x1008)
+
+When machines do a growing share of the work, part of the gains must flow back to everyone. A basic income as a foundation, retraining as the norm: people without existential fear retrain, start companies and try new things.
+
+→ [Pillar: Basic Income](https://die-zukunft.ch/en/basic-income/)
+
+## 08. Talent is the scarcest resource. (0x1009)
+
+Switzerland has no natural resources, but some of the best universities in the world. We train the people who build AI and robotics, keep them in the country and bring in those who want to build something.
+
+→ [Pillar: Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/)
+
+## 09. Engineering instead of ideology. (0x100A)
+
+Not left, not right, but: what works? Hypothesis, pilot, measurement, correction. We disclose what our proposals are based on and change them when the data demands it.
+
+→ [Not left, not right](https://die-zukunft.ch/en/beyond-left-right/)
+
+## 10. Switzerland can be first to make it. (0x100B)
+
+Small enough to learn fast, rich enough to invest, trustworthy enough to be a partner. Strong at home first, then credible abroad: from Basel, we want to show how the transition succeeds, for Switzerland, for Europe and beyond.
+
+→ [Pillar: Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/)
+
+## Our commitments (0x100C)
+
+Four promises you can hold us to.
+
+1. **No black-box politics**: No automated decisions about benefits or treatment without a comprehensible justification, human responsibility and a right of appeal.
+2. **Sovereign state, open systems**: The state procures critical systems only in ways that keep them auditable, portable and secure. Lock-in is a risk, and it ends.
+3. **Change without collapse**: We rebuild the welfare state so that people can switch, learn and start something new without existential fear.
+4. **Basic income, pragmatically**: We start with a nationwide pilot and measure the effect: bureaucracy costs, start-ups, well-being.
+
+## What we are not (0x100D)
+
+- **No promises of salvation.** Technology solves nothing by itself. People and institutions do.
+- **No enemy images.** We argue about solutions, not about people.
+- **No progress without control.** Fast, but comprehensible, verifiable and democratically steerable.
+- **No programme of renunciation.** We do not administer scarcity. We end it.
+
+Basel, November 2026. The Future.
+
+### Changelog
+
+- v2.0 (2026-11-07): Ten theses with permanent addresses, focused on AI, robotics and abundance. Commitments carried over unchanged. New: What we are not.
+- v1.0 (2026-02-07): First version: summary, convictions, commitments, techno-optimism as a stance.
+
+---
+
+# Vision
+
+> Artificial intelligence and robotics are changing what work is and where prosperity comes from. The Future is the party that shapes this transition: with compute, sovereign AI, talent and production at home, and with a dividend that reaches everyone.
+
+Source: https://die-zukunft.ch/en/vision/ · Publisher: The Future (Swiss political party, Basel)
+
+**When machines do cognitive and physical work, prosperity for everyone becomes possible. We make sure Switzerland builds it instead of renting it.**
+
+## What is happening right now
+
+Artificial intelligence makes cognitive work cheaper, robotics makes physical work cheaper. It is the biggest economic shift since industrialisation, and Switzerland is less prepared for it than it needs to be.
+
+- **2047 · General AI is getting closer**: In the largest survey of 2,778 AI researchers, the probability that machines will do every task better than humans by 2047 was put at 50 percent. That is 13 years earlier than in the previous survey. Nobody knows when. We plan for the case that it comes early. (Source: [Grace et al., JAIR](https://jair.org/index.php/jair/article/view/19087))
+- **294 · Switzerland automates hesitantly**: Robots per 10,000 industrial workers. South Korea has 1,220, Germany 449. Anyone who wants to keep production in the country or bring it back has to automate it. (Source: [IFR World Robotics 2025](https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas))
+- **3.6% · Compute needs electricity**: That is the share of Swiss electricity used by data centres in 2024, around 2.1 terawatt hours. By 2030 it could be up to 6 percent. Anyone who wants AI in the country has to plan energy and compute together. (Source: [Swiss Federal Office of Energy, 2026](https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN))
+- **Rank 26 · The state is falling behind**: In the UN E-Government Index, Switzerland ranked 26th in 2024, down from 16th in 2020. A rich, well-educated country should be among the best here. (Source: [UN E-Government Survey 2024](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland))
+
+The ingredients are there: with **Apertus**, ETH Zurich, EPFL and CSCS released one of the world's most open large language models in 2025, trained on the **Alps** supercomputer in Lugano with 10,752 GH200 chips. In May 2026 the Swiss Science Council recommended a national AI infrastructure strategy. What is missing is the political will to turn this into a programme.
+
+## Switzerland in 2040
+
+Not science fiction, but what can be achieved with today's technology and political will.
+
+- **Dealing with the authorities in minutes**: Taxes, permits, moving house: the state handles routine cases automatically, with reasons given and a right of appeal. The people in public administration have time for the difficult cases.
+- **An AI assistant for everyone**: Everyone in Switzerland has access to a trustworthy AI assistant in their national language, for health, law, education and everyday life. On Swiss infrastructure, with Swiss data protection.
+- **The factories come back**: Medicines, precision parts, electronics and food are made in highly automated plants close to us. Shorter supply chains, less dependence, new work in planning, maintenance and development.
+- **Building in half the time**: Prefabrication, construction robotics and digital permits bring homes to market faster and more cheaply. More housing is a question of productivity, not of going without.
+- **Farms with robots**: Autonomous machines weed, harvest and tend crops with precision. Farms stay productive and independent, even as fewer people work in agriculture.
+- **More time, less existential anxiety**: The gains from automation flow back to everyone as a dividend: a foundation that makes retraining, starting a business and care work possible.
+
+## The abundance stack
+
+Prosperity from AI does not come from an app. It comes from layers that build on each other. If one is missing, the whole thing does not hold. That is why we think them through together, from energy to the dividend.
+
+01. **Energy**: No electricity, no compute and no robots. We secure affordable, reliable electricity, including in winter, and plan for the additional demand from data centres and automation from the start. → https://die-zukunft.ch/en/energy-resilience/
+02. **Compute**: Data centres and AI capacity in the country, accessible to universities, SMEs and public administration. If you only rent compute, you rent your future. → https://die-zukunft.ch/en/sovereign-ai/
+03. **Sovereign AI**: Develop open Swiss models like Apertus further, in all national languages and with transparent data. For critical applications the rule is: models we can audit, operate and replace. → https://die-zukunft.ch/en/sovereign-ai/
+04. **Talent**: Train, retain and attract the best people: strengthen ETH, EPFL and the universities of applied sciences, more permits for skilled workers from third countries, retraining as the norm. → https://die-zukunft.ch/en/talent-integration/
+05. **Application in every sector**: Robots in fields, on building sites and in factories. AI in every service and in public administration. Wherever it takes load off people and brings value creation into the country. → https://die-zukunft.ch/en/robotics/
+06. **Dividend**: The productivity gains reach everyone: through a basic income as a foundation, safe transitions between occupations and lower everyday costs. → https://die-zukunft.ch/en/basic-income/
+
+## Three sectors, one goal
+
+Machines should work where they take load off people and bring value creation into the country. In every sector of the economy.
+
+### Primary sector · Agriculture & raw materials: Precision instead of drudgery
+
+Agriculture is losing workers: almost 30 percent fewer people have worked in it since 2000. Robotics keeps farms productive and food supply in the country.
+
+- Autonomous weeding, tending and harvesting robots
+- Shared machinery pools for small and medium-sized farms
+- Sensors for precise use of water and fertiliser
+- Automated processing close to the farm
+
+### Secondary sector · Industry & construction: Production comes back
+
+Highly automated manufacturing makes production in Switzerland competitive again, despite high wages. Local means: short distances, less dependence, know-how in the country.
+
+- Fully automated plants for medtech, pharma, precision and electronics
+- Shared robotics centres for SMEs
+- Construction robotics and industrial prefabrication
+- Being able to make critical goods in the country
+
+### Tertiary sector · Services & the state: Every service gets better
+
+AI makes services faster, cheaper and more accessible. The state leads the way and becomes the best service provider in the country.
+
+- Administration: routine cases automated, every decision explained
+- AI assistance in health, law and education
+- Lower costs in banking, insurance and retail
+- More time for the personal, the complex and the caring
+
+## Fast, but under control
+
+People adopt new technology when they can trust it. That is why clear rules apply for us.
+
+- **Human responsibility.** Every decision about people has a responsible person, a stated reason and a right of appeal.
+- **Auditability.** AI in public use is documented, tested and independently auditable.
+- **Privacy by design.** Health and personal data only with consent. Critical processing in the country.
+- **Safety before scale.** Powerful systems are tested for risks before they are deployed in critical areas.
+- **Freedom of choice.** Personal access to public services remains guaranteed for everyone who needs it.
+
+## Why Switzerland can be first to make it
+
+- **World-class research**: ETH Zurich is one of the ten best universities in the world. With EPFL, CSCS and Apertus, Switzerland has what other countries still have to build.
+- **Small and decentralised**: 26 cantons are 26 real-world laboratories. What works in one, the others can adopt. That way a country learns faster than one big centre.
+- **Trust and democracy**: Direct democracy gives change legitimacy. What the population helps decide, it also carries.
+- **Industry with precision**: Medtech, pharma, mechanical engineering: Switzerland can build complex things. Automation makes this strength bigger, not smaller.
+- **Reliable energy**: More than half of Swiss electricity comes from dispatchable hydropower. That is a good basis for data centres, if we plan the expansion wisely.
+- **Neutrality**: A neutral country under the rule of law is a trustworthy place for compute, data and international AI diplomacy.
+
+## The party for this transition.
+
+The established parties argue about how today's pie is divided. AI appears for them as a risk, as a regulatory question, or not at all. Yet the next ten years will decide who owns tomorrow's value creation.
+
+**The Future** puts this question at the centre. We understand the technology, we take its risks seriously, and we have a plan for how Switzerland uses it: with its own compute, its own models, the best talent, production in the country and a dividend for everyone.
+
+Not left, not right. Forward.
+
+## What you can measure us by
+
+Goals with a year attached. We report publicly on how far Switzerland has come.
+
+- **2027**: National AI infrastructure strategy with secured funding. As recommended by the Science Council in 2026: compute as permanent infrastructure, not as time-limited project money.
+- **2027**: Twice as many permits for skilled workers from third countries. From 8,500 to 17,000 per year, targeted at research, AI, robotics and health.
+- **2028**: An open Swiss AI model in use in the federal administration. Based on Apertus, operated on Swiss infrastructure, in all national languages.
+- **2028**: Nationwide basic income pilot under way. With independent evaluation of bureaucracy costs, business start-ups and well-being.
+- **2030**: Ten times more publicly accessible AI computing capacity. For universities, SMEs and public administration, with the electricity demand planned in from the start.
+- **2030**: Among the top ten countries in the UN E-Government Index. Rank 26 today. Routine cases digital and automated, with reasons given and a right of appeal.
+- **2035**: Robot density in industry doubled. From 294 to around 600 robots per 10,000 workers, ahead of Germany at 449 today.
+
+## Sources
+
+- [Grace et al.: Thousands of AI Authors on the Future of AI, Journal of Artificial Intelligence Research](https://jair.org/index.php/jair/article/view/19087)
+- [IFR: Robot density surges in Europe, Asia and Americas (World Robotics 2025)](https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas)
+- [Swiss Federal Office of Energy: Electricity consumption of data centres in Switzerland (May 2026, in German)](https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN)
+- [Swiss Federal Office of Energy: Electricity statistics 2025 (in German)](https://www.admin.ch/de/newnsb/YQtEZcK-D9fQ)
+- [UN E-Government Survey 2024: Switzerland](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland)
+- [EPFL: Apertus, a fully open, transparent, multilingual language model](https://ai.epfl.ch/apertus-a-fully-open-transparent-multilingual-language-model)
+- [CSCS: Alps hardware](https://docs.cscs.ch/alps/hardware/)
+- [Swiss Science Council recommends a national AI infrastructure strategy (May 2026, in German)](https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie)
+- [FSO: Agricultural workforce 2024 (in German)](https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master)
+- [SERI/SEM: Quotas for third-country nationals 2026](https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA)
+- [Federal Office of Justice: Regulation of artificial intelligence (in German)](https://www.bj.admin.ch/de/kuenstliche-intelligenz)
+
+---
+
+# Program
+
+> Our political program for structural transformation.
+
+Source: https://die-zukunft.ch/en/program/ · Publisher: The Future (Swiss political party, Basel)
+
+### [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/)
+
+Compute is the infrastructure of the 21st century. Our own AI capacity, open Swiss models like Apertus and the ability to audit and operate AI ourselves. Accessible to universities, SMEs and public administration.
+
+### [Digital Sovereignty](https://die-zukunft.ch/en/digital-sovereignty/)
+
+Critical digital systems must remain under democratic control. Swiss/EU-first for critical infrastructure and sensitive data. Anti-lock-in, open source, supply-chain security.
+
+### [Re-industrialisation with Robotics](https://die-zukunft.ch/en/robotics/)
+
+More production and value creation in Switzerland — robust, modern, automated. SME-friendly with financing, shared labs and faster procedures.
+
+### [Work Without Fear](https://die-zukunft.ch/en/transitions/)
+
+Retraining, professional mobility and transition support as the norm — not only in crisis. Fewer hurdles, better recognition, modular education.
+
+### [Life Science & Health](https://die-zukunft.ch/en/life-science/)
+
+Enabling progress — without losing control. Health data opt-in, evidence-based regulation, no black-box state medicine.
+
+### [Basic Income](https://die-zukunft.ch/en/basic-income/)
+
+Reducing existential fear, lowering bureaucracy, enabling entrepreneurship. A federal pilot with independent evaluation.
+
+### [Cities & Housing](https://die-zukunft.ch/en/urban-housing/)
+
+Affordable housing and high quality of life — through densification where infrastructure exists, and less sprawl in the periphery. More building rights at transit hubs, fast-track permits, minimum densities.
+
+### [Research, Innovation & Commons](https://die-zukunft.ch/en/research-innovation/)
+
+Switzerland should be the place where serious innovation can be built, tested and responsibly scaled fastest — with clear public benefit and European compatibility.
+
+### [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/)
+
+Reliable supply, robust infrastructure and predictable costs — as the foundation for prosperity, comfort and sovereignty. Resilience is engineering: clear standards, clear responsibilities, clear redundancies.
+
+### [Open Government](https://die-zukunft.ch/en/open-government/)
+
+A state that enables rather than blocks: API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.
+
+### [Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/)
+
+Switzerland remains neutral, sovereign and credible — and once again becomes a place where peace is negotiated. Strictly defensive, good offices, diplomacy and humanitarian strength.
+
+### [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/)
+
+Switzerland should be a magnet for people who want to build something — and at the same time remain a country where security, order and trust are self-evident.
+
+### [Language & Understanding](https://die-zukunft.ch/en/language-understanding/)
+
+Switzerland should become the European model for understanding: more shared communication in everyday life and business — without displacing national languages.
+
+## Our program for transformation
+
+Our program addresses the central challenges of structural change — pragmatic, measurable and tailored to Swiss conditions.
+
+---
+
+# Sovereign AI & Compute
+
+> Compute is the infrastructure of the 21st century. Switzerland needs its own capacity, open models and the ability to audit and operate AI itself.
+
+Source: https://die-zukunft.ch/en/sovereign-ai/ · Publisher: The Future (Swiss political party, Basel)
+
+## Why this matters now
+
+AI is becoming the foundation of public administration, health, industry and research. Without its own computing capacity and its own models, a country depends on a few foreign providers: on their prices, their rules and their off switches. With the Alps supercomputer and the open language model Apertus, Switzerland has an excellent starting position. What is missing is a strategy that turns this into national infrastructure.
+
+## Our principles
+
+- **Compute is infrastructure**, like roads and electricity, not time-limited project money.
+- **Open where possible:** open weights, open training data, open code.
+- **Sovereign where necessary:** critical applications run on systems we can audit, operate and replace.
+- **Accessible to all:** universities, SMEs, municipalities and schools, not just corporations.
+
+## The AI infrastructure package
+
+### 1. National computing capacity
+
+- Increase publicly accessible AI computing capacity tenfold by 2030
+- Long-term funding instead of time-limited project money, as recommended by the Science Council in 2026
+- Fast permits for data centres with waste-heat recovery and a secure electricity supply
+
+### 2. Sovereign models
+
+- Develop Apertus and its successors further as open Swiss foundation models
+- All national languages, including Romansh and Swiss German
+- Public access for the population, schools and SMEs, not just for research
+
+### 3. AI in the state
+
+- Secure AI tools on Swiss infrastructure for every administrative unit
+- Routine cases automated, every decision explained and open to appeal
+- Open tenders instead of lock-in to individual AI providers
+
+### 4. Audit and safeguard
+
+- A national AI testing lab for safety, robustness and fairness
+- Clear liability and human responsibility for decisions about people
+- Sector-specific rules instead of blanket bans, in line with the Council of Europe's AI Convention
+
+## What this means in everyday life
+
+- An AI assistant in your language, whose data stays in Switzerland
+- Faster, clearer answers from the authorities
+- SMEs that can use AI without tying themselves to one corporation
+- Research that creates companies and jobs in Switzerland
+
+## Indicators
+
+- **2027**: National AI infrastructure strategy with secured funding
+- **2028**: An open Swiss model in use in the federal administration
+- **2030**: Ten times more publicly accessible AI computing capacity than today
+
+## Frequently asked questions
+
+**Can Switzerland keep up with the US and China?**  
+Not across the board, and it doesn't need to. It needs to be able to audit and adapt models itself and to operate them for critical tasks. With Alps, ETH, EPFL and open models like Apertus, that is realistic.
+
+**Why not simply use the best models from the big providers?**  
+For many applications, that is exactly what we do. But for critical areas such as public administration, health and justice, we need systems we can audit and keep running, even if prices, laws or political relations abroad change.
+
+**Don't data centres use too much electricity?**  
+In 2024, data centres used around 3.6 percent of Swiss electricity, and the trend is rising. That is why we plan for the demand: efficiency standards, use of waste heat and additional, reliable generation, especially in winter.
+
+**What about artificial general intelligence (AGI)?**  
+Nobody knows when systems will arrive that can handle almost any cognitive task at human level. Many researchers consider it likely within the next few decades, some much sooner. We are aligning policy so that Switzerland is prepared in either case: with its own capacity, the ability to audit, and a dividend that shares the gains.
+
+**Does sovereign mean shutting ourselves off?**  
+No. Sovereign means having alternatives. We work with Europe and the world, and open models are ideal for that. But critical systems must not depend on a single provider or state.
+
+---
+
+# Digital Sovereignty
+
+> Sovereignty starts with infrastructure: open, auditable, portable — and secure.
+
+Source: https://die-zukunft.ch/en/digital-sovereignty/ · Publisher: The Future (Swiss political party, Basel)
+
+## Digital Infrastructure
+
+Digital systems are infrastructure today, like roads and electricity: when they are opaque, insecure or non-cancellable, democracy loses control.
+
+## Our Principle
+
+Swiss/EU-first only for critical infrastructure and sensitive data. Otherwise: open competition — but always with auditability, portability and security as requirements.
+
+## The Sovereignty Package
+
+### 1. Anti-Lock-in Law
+
+- Exit plans as a contractual requirement
+- Open standards and format interfaces
+- Data portability and interoperability
+
+### 2. Open-by-default in Government
+
+- Open source where sensible (and maintainable)
+- Funding for maintenance (not just "build and forget")
+- Transparency reports on large government IT systems (risks, dependencies, exit status)
+
+### 3. Security of Critical Systems
+
+- Minimum standard: controls, audits, incident processes
+- Supply-chain security: SBOM, signed builds, traceable provenance
+- Clear responsibilities instead of jurisdictional fog
+
+## Why This Improves Everyday Life
+
+- Fewer IT investment failures
+- Less dependency on individual vendors
+- Lower risk in critical services
+- More trust through transparency
+
+## Frequently asked questions
+
+**What does digital sovereignty mean in practice?**  
+Digital sovereignty means that the state and its citizens retain control over their data, systems and digital infrastructure — independent of individual vendors or countries.
+
+**Does that mean we can no longer use foreign software?**  
+No. Swiss/EU-first applies only to critical infrastructure and sensitive data. For everything else: open competition — but always with mandatory auditability, portability and open standards.
+
+**What is an anti-lock-in law?**  
+A law that prevents the state from permanently tying itself to a single IT vendor. It requires exit plans, open formats and data portability as contractual obligations.
+
+**Isn't open source more expensive than commercial solutions?**  
+Not necessarily. Open source reduces long-term costs through less licence dependency. What matters is that maintenance is also funded — not just the initial deployment.
+
+**How does this affect everyday life?**  
+Fewer IT failures in public services, fewer data breaches, more transparency. And no surprises when a vendor suddenly doubles prices or discontinues their service.
+
+---
+
+# Re-industrialisation with Robotics
+
+> More production and value creation in Switzerland: automated, local, SME-friendly. In the field, on the building site and in the factory.
+
+Source: https://die-zukunft.ch/en/robotics/ · Publisher: The Future (Swiss political party, Basel)
+
+## Why Re-industrialisation?
+
+If we want to bring production back, it must be modern: automated, efficient, resilient. With 294 robots per 10,000 industrial workers, Switzerland lags far behind South Korea (1,220) and also behind Germany (449). Highly automated manufacturing makes production competitive again despite high wages. This is an opportunity, especially for SMEs.
+
+## Robots in Every Sector
+
+Robotics is not just a topic for the factory floor. It takes load off people wherever work is physically hard, dangerous or short of hands.
+
+### Agriculture
+
+Almost 30 percent fewer people have worked in agriculture since 2000. Robotics keeps farms productive.
+
+- Autonomous weeding, tending and harvesting robots
+- Shared machinery pools so that small farms can afford robotics too
+- Automated processing close to the farm
+
+### Construction
+
+Building faster means more housing at lower cost.
+
+- Industrial prefabrication of components and modules
+- Construction robotics for heavy, repetitive and dangerous work
+- Digital building permits based on building information models
+
+### Industry
+
+Switzerland can build complex things. Automation makes this strength bigger.
+
+- Fully automated plants for medtech, pharma, precision and electronics
+- Being able to make critical goods in the country: medicines, components, food
+- Maintenance, planning and development as new, well-paid industrial occupations
+
+## Producing Locally
+
+Production belongs close to the people who need it. Regional, automated plants shorten supply chains, keep know-how in the country and make Switzerland less dependent on global disruptions. Local does not mean isolated: we keep exporting what we do best.
+
+## Our Priorities
+
+- **Health & Life-Science Supply**: Medtech, pharma-adjacent production
+- **Industrial Core**: Precision engineering, toolmaking, electronics/packaging
+- **Resilience Basics**: Food/agri-tech, grid and supply security
+
+## The SME Package
+
+Financing first: affordable loans, guarantees, co-investments for modernisation and (re-)shoring.
+
+- Tax incentives for automation investments
+- Shared robotics labs / automation centres
+- Training and upskilling vouchers
+- Faster permits for modern production facilities
+- Procurement advantages for critical goods (where appropriate)
+- Regulatory sandboxes for automation
+
+## Our Goal
+
+Double robot density in Swiss industry by 2035, from 294 to around 600 robots per 10,000 workers. And grow industrial value creation in the country again, measured publicly every year.
+
+## Automation in the Services Sector
+
+We are pro-automation when it relieves people and increases productivity — with the clear goal: more time, more freedom, more prosperity.
+
+## Frequently asked questions
+
+**Will robots take people's jobs?**  
+Not if we do it right. Automation frees people from monotonous and dangerous work. The key lies in retraining, basic income and new job profiles.
+
+**Do only large corporations benefit from robotics?**  
+No — that's exactly what we want to prevent. Our SME package includes shared robotics labs, affordable loans and training vouchers so small businesses can automate too.
+
+**What does re-industrialisation mean for Switzerland?**  
+More local value creation, shorter supply chains and less dependence on global disruptions. Production in Switzerland — modern, automated and competitive.
+
+**Which sectors should be automated?**  
+Wherever it makes sense: medtech, precision manufacturing, food tech, logistics. Not as an end in itself, but where automation improves quality, efficiency and resilience.
+
+**Doesn't this require highly qualified specialists?**  
+Yes — which is why training programmes are part of the package. Robotics expertise must not be elite knowledge. Shared labs and modular courses make entry accessible.
+
+---
+
+# Work Without Fear
+
+> Career changes, learning, fresh starts as the norm — not the exception.
+
+Source: https://die-zukunft.ch/en/transitions/ · Publisher: The Future (Swiss political party, Basel)
+
+## Work Without Fear
+
+Upskilling and career changes must become normal: fewer hurdles, more support, clear prospects. Those who adapt deserve a safety net — not a bureaucratic maze.
+
+## What Must Change
+
+### Fewer Bureaucratic Hurdles
+
+Retraining shouldn't be an obstacle course. Applications must be simpler, approvals faster and funding more accessible.
+
+### Better Recognition of Skills and Certificates
+
+Work experience and further training count — even when they don't come from the traditional education system. Competence over diplomas.
+
+### Combining Learning and Work
+
+Part-time models, work-integrated education and modular training must be promoted — for all life stages, not just career starters.
+
+### Focus: Results, Not Forms
+
+Less administration, more impact. Support programmes should be measured by outcomes, not by the number of forms filled in.
+
+## Why This Is Urgent
+
+- Technology is changing job profiles faster than education systems can respond
+- People need security to embrace the new
+- Transitions are becoming the norm — the system must keep up
+
+## Frequently asked questions
+
+**What are 'transitions'?**  
+Career changes, retraining, fresh starts — everything that happens when job profiles evolve. We want this to be normal and supported, not anxiety-inducing and bureaucratic.
+
+**Who pays for retraining?**  
+A combination of employer contributions, public funds and new financing models. The goal: nobody should have to forgo training for financial reasons.
+
+**Why aren't current systems sufficient?**  
+Because they're too slow, too bureaucratic and designed for exceptions. In a world where job profiles change every few years, transitions must be the norm — not the exception.
+
+**What does 'competence before credentials' mean?**  
+That practical skills and work experience are recognised equally — not just formal qualifications. If you can do something, you should be able to prove it, regardless of your educational path.
+
+**Does this only apply to technical professions?**  
+No. Transitions affect all sectors: healthcare, trades, administration, services. Everywhere that automation and digitalisation are transforming job profiles.
+
+---
+
+# Life Science & Health
+
+> Enabling progress — with transparency, consent and control.
+
+Source: https://die-zukunft.ch/en/life-science/ · Publisher: The Future (Swiss political party, Basel)
+
+## Progress with Trust
+
+Life sciences are opening new possibilities — from personalised therapies to prevention, from new diagnostics to industrial biotechnology. Switzerland is a world leader in this field. For this to continue, clear rules that build trust are needed.
+
+## Our Principles
+
+### Health Data: Opt-in as Standard
+
+Health data belongs to people, not to the state and not to industry. The standard is opt-in, with narrow exceptions only for public health.
+
+### Regulation: Evidence-based and Traceable
+
+New therapies and technologies are assessed case-by-case — based on evidence, not ideology. Regulatory decisions must be traceable and justified.
+
+### Partnerships: Yes — but with Transparency Rules
+
+Collaboration between government, research and industry is important. But every partnership needs clear transparency rules: who finances? Who decides? Who benefits?
+
+## Red Lines
+
+**No black-box state**: No automated decisions about medical services or treatments without traceable reasoning, human responsibility and the right to appeal.
+
+## Why This Matters
+
+- Switzerland as a pharma and biotech hub needs a clear framework
+- Citizens deserve control over their health data
+- Innovation and trust are not contradictory — they are prerequisites for each other
+
+## Frequently asked questions
+
+**Who owns health data?**  
+The people themselves — not the state and not industry. The standard is opt-in: data is used only with explicit consent, with narrow exceptions for public health.
+
+**Don't clear rules slow down research?**  
+No — trust is the precondition for people sharing their data at all. Switzerland stays a leader only if innovation and trust go together: each is the condition for the other.
+
+**What does 'no black-box state medicine' mean?**  
+No automated decisions about medical services or treatments without traceable reasoning, human responsibility and the right to appeal. That is a red line.
+
+**Where do we stand on partnerships with industry?**  
+Collaboration between government, research and industry is important — but every partnership needs clear transparency rules: who finances? Who decides? Who benefits?
+
+**How are new therapies regulated?**  
+Evidence-based and case-by-case: data instead of ideology. Regulatory decisions must be traceable and justified.
+
+---
+
+# Basic Income
+
+> Basic income as the automation dividend: stability, freedom, simplification.
+
+Source: https://die-zukunft.ch/en/basic-income/ · Publisher: The Future (Swiss political party, Basel)
+
+## The Automation Dividend
+
+When machines produce a growing share of value, part of this dividend must flow back to society. Basic income is not charity — it is a structural answer to a structural change.
+
+## What It Enables
+
+- **Freedom to Retrain**: Those who lose their job need a bridge, not fear.
+- **Entrepreneurship-friendly**: A stable foundation enables risk-taking for new ideas.
+- **Recognising Care Work**: Unpaid care work is made visible through financial security.
+- **Cutting Bureaucracy**: Dozens of individual benefits are replaced by a transparent system.
+- **Flexible Work**: Part-time, project work or further education become possible without existential fear.
+
+## Not an Experiment — an Evolution
+
+Switzerland has one of the best social systems in the world. Basic income builds on it: simpler, more direct, more contemporary. It is the logical evolution for a society in transition.
+
+## Frequently asked questions
+
+**Isn't this just 'money for everyone'?**  
+No. Basic income replaces a large part of today's social insurance bureaucracy with a simple, universal basic security. It is a simplification of the system — not a handout.
+
+**How is it financed?**  
+Not through a special robot tax — automation is not punished. It is financed through the normal taxation of growing value creation (income, consumption, wealth), through simplification gains in the social system, and by reallocating existing transfers — exactly the levers our UBI Calculator models. Concrete models are developed with economists and social scientists.
+
+**Will people stop working?**  
+Research shows: no. Pilot projects worldwide demonstrate that people with basic security start businesses more often, pursue further education and work more productively — not less.
+
+**Why now?**  
+Automation is accelerating. Without a stabilising foundation, social disruption threatens. Basic income is a preventive measure, not a reactive one.
+
+**Does it apply to non-Swiss residents?**  
+The exact design — such as residency requirements and contribution periods — will be determined through democratic process. The key is the principle of universal basic security.
+
+**What happens to existing social benefits?**  
+Basic income replaces and simplifies existing transfer payments. The goal is not to add more on top, but to make the system simpler, more transparent and fairer.
+
+**Why a pilot and not immediate implementation?**  
+Because we are pragmatic. A federal pilot compares models (UBI, negative income tax, hybrid), measures impact and creates a solid basis for decision-making — instead of ideology.
+
+**What is measured?**  
+Three core areas: well-being and security (existential stress, stability), entrepreneurship and startups, and bureaucracy costs and administrative burden.
+
+---
+
+# Cities & Housing
+
+> Affordable housing and quality of life through densification at transit hubs — less sprawl, more comfort.
+
+Source: https://die-zukunft.ch/en/urban-housing/ · Publisher: The Future (Swiss political party, Basel)
+
+## Cities & Housing
+
+Prosperity and comfort are felt in everyday life: short commutes, affordable housing, less stress, more quality of life. For this, cities must be able to grow — **upward and inward**, not endlessly outward.
+
+## Our Principle
+
+**Densify where infrastructure exists.** This preserves landscape and village character — and curbs sprawl.
+
+## Three Immediate Measures
+
+### 1) More Building Rights at Transit Hubs
+
+Around stations and strong tram and bus corridors, more storeys and higher utilisation should be possible. Those who want city life must be allowed to build it — where it works.
+
+### 2) Fast-track Permits for Dense Housing Projects
+
+Good projects often fail not due to engineering, but due to time and process. We want clear deadlines, unified responsibilities and a one-stop process.
+
+### 3) Minimum Densities in Defined Zones
+
+Near stations and along central corridors, densification should be the norm. This creates supply — and eases pressure on peripheral areas.
+
+## Height: Yes, but with Rules
+
+The goal is not a skyline — but **housing, comfort and proximity**.
+
+- **High-rises** in clearly defined zones (centres/stations) — with strong quality and design requirements.
+- **Mid-rise** (e.g. 6–10 storeys) as the standard where it makes urban sense.
+
+## Affordability Without Ideology
+
+Affordability comes from a mix:
+
+- More supply through targeted densification
+- Complement through cooperatives and non-profit providers
+- Stable rental models and planning certainty
+
+## Why This Is Future Policy
+
+- Less commuting stress, less time lost
+- More integration: the city as a place of encounter and opportunity
+- More nature stays nature — because we don't need to sprawl
+
+## Frequently asked questions
+
+**Why densification instead of building on greenfields?**  
+Densify where infrastructure exists: that creates housing with short commutes while preserving landscape and village character. Sprawl makes commutes longer and infrastructure more expensive.
+
+**Does that mean high-rises everywhere?**  
+No. High-rises only in clearly defined zones (centres, stations) with strong quality requirements; the standard is mid-rise (6–10 storeys) where it makes urban sense. The goal is not a skyline, but housing, comfort and proximity.
+
+**How does this make housing more affordable?**  
+Through more supply in the right places — complemented by cooperatives, non-profit providers and stable rental models. Scarcity is the biggest price driver.
+
+**What are fast-track permits?**  
+Clear deadlines, unified responsibilities and a one-stop process for dense housing projects. Today, good projects often fail not due to engineering, but due to time and process.
+
+**What do people outside the cities gain?**  
+Less pressure on peripheral areas and surrounding rents, less sprawl — and more nature that stays nature.
+
+---
+
+# Research, Innovation & Commons
+
+> Switzerland as the best place for responsible innovation — transparent, interoperable, European-compatible.
+
+Source: https://die-zukunft.ch/en/research-innovation/ · Publisher: The Future (Swiss political party, Basel)
+
+## Research, Innovation & Commons
+
+Prosperity emerges where new things can be built — quickly, responsibly and with real benefit. Switzerland can do this better than almost any country, if politics modernises the framework.
+
+## Our Goal
+
+Switzerland should be the **best place** to develop and scale innovation — transparently, auditably, interoperably — and at the same time **European-compatible**.
+
+## Three Levers
+
+### 1) Testbeds & Sandboxes
+
+New solutions should be trialled in clearly bounded test environments — with measurable goals, transparent evaluation and real learning loops.
+
+### 2) Public Return from Public Funding
+
+When tax money supports innovation, the benefit must be broadly shared:
+
+- Open standards and interoperability as the default
+- Knowledge transfer instead of silos
+- Responsible IP models (where sensible)
+- "Maintenance" built in: not just build, but operate
+
+### 3) Nationwide Innovation Network
+
+We connect universities, polytechnics, startups, SMEs and industry across cantons — with clear rules, transparent governance and fast implementation pathways. Where European cooperation is beneficial, we use it.
+
+## Why This Fits Us
+
+Innovation is not an end in itself. It is a means for:
+
+- Better public services
+- A more productive economy
+- More prosperity and comfort for all
+
+## Frequently asked questions
+
+**What is a testbed?**  
+A clearly bounded test environment where new solutions are trialled under real conditions — with measurable goals, transparent evaluation and real learning loops.
+
+**Why 'commons'?**  
+When tax money supports innovation, the benefit must be broadly shared: open standards and interoperability as the default, knowledge transfer instead of silos, and responsible IP models where sensible.
+
+**How does this differ from today's innovation funding?**  
+We build in operations: maintenance is funded, not just construction; results are evaluated transparently; and a nationwide innovation network connects universities, startups, SMEs and industry across cantons.
+
+**Why does European compatibility matter?**  
+Innovation scales across markets and standards. Where European cooperation increases impact, we use it — without giving up Swiss autonomy.
+
+---
+
+# Energy & Infrastructure Resilience
+
+> Reliable, affordable and independent infrastructure as the foundation for prosperity and sovereignty.
+
+Source: https://die-zukunft.ch/en/energy-resilience/ · Publisher: The Future (Swiss political party, Basel)
+
+## Energy & Infrastructure Resilience
+
+Comfort means: things work. Electricity, networks, mobility, critical supply — reliably, affordably, robustly. This is the foundation for prosperity.
+
+## Our Goal
+
+Resilient infrastructure in Switzerland that better absorbs outages and crises and makes costs more predictable — without ideology, without alarmism.
+
+## Our Priorities
+
+### 1) Reliability as the Key Metric
+
+Infrastructure planning should focus more on uptime, peak-load capability and recoverability.
+
+### 2) Faster Procedures for Critical Projects
+
+When a project improves supply security, it must not get stuck in endless loops: clear responsibilities, clear deadlines, clear decisions.
+
+### 3) Reduce Critical Dependencies
+
+Where disruptions are costly, we secure components, spare parts and know-how — pragmatically and risk-based. Where cooperation with European partners increases resilience, we pursue it.
+
+## Principle
+
+Resilience is **engineering**: standards, redundancy, testing, accountability.
+
+## Frequently asked questions
+
+**What does 'resilience is engineering' mean?**  
+Reliability is not a creed, it's a craft: clear standards, redundancy, testing and accountability. We measure infrastructure by uptime, peak-load capability and recoverability.
+
+**Why faster procedures?**  
+Projects that improve supply security must not get stuck in endless loops: clear responsibilities, clear deadlines, clear decisions.
+
+**What are critical dependencies?**  
+Components, spare parts and know-how whose failure is costly. We secure them pragmatically and risk-based — and pursue cooperation with European partners where it increases resilience.
+
+**Does this make energy more expensive?**  
+The goal is the opposite: predictable costs. Outages and crises end up costing more than redundancy — resilience is an investment in stable prices and reliable supply.
+
+---
+
+# Open Government
+
+> A state that enables rather than blocks: data and procedures open, machine-readable and available via APIs.
+
+Source: https://die-zukunft.ch/en/open-government/ · Publisher: The Future (Swiss political party, Basel)
+
+## Open Government: API-by-default
+
+The state is a service provider for democracy. When data and processes are stuck in silos, gatekeeping emerges: slow, expensive, opaque. That doesn't fit the future. The state makes everything that doesn't concern national security **openly, machine-readably and via APIs** available — so citizens, media and businesses can build solutions that simplify processes and strengthen oversight.
+
+## API-by-default
+
+Agencies publish data not just as PDFs, but as reliable interfaces:
+
+- Unified standards (formats, identifiers)
+- Clear versioning and change logs
+- Stable availability (service level)
+- Documentation, examples, open-source reference clients
+
+## "Open Procedures" Instead of Bureaucratic Jungle
+
+Every process is described digitally as a workflow:
+
+- Requirements and documents
+- Deadlines and status
+- Fees
+- Clear responsibilities
+
+## Transparency as Standard
+
+Transparency should not depend on goodwill, but be standard:
+
+- Budgets and expenditure
+- Procurement and contracts (where possible)
+- Government KPIs (processing times etc.)
+- Job profiles and salary bands (where sensible)
+
+## Transparency in Politics
+
+For democracy to stay clean, clarity is needed:
+
+- Party financing and donation flows
+- Campaign budgets and major funders
+- Timely and public
+
+## Citizen Oversight in the 21st Century
+
+Citizen journalists, NGOs, researchers and interested citizens should be able to effectively scrutinise the state. A modern state is not afraid of oversight — it gets better because of it.
+
+- Open data
+- Dashboards
+- Audit logs and traceable decisions
+
+## Our Guardrails
+
+So this doesn't become dangerous:
+
+- **National Security**: remains protected.
+- **Privacy-by-design**: minimise personal data, anonymise/aggregate.
+- **Security-by-design**: strong standards, audits, clear accountability.
+- **No Black-box State**: Decisions must be traceable, contestable and accountable.
+
+## Why This Increases Prosperity and Comfort
+
+- Less paper and waiting time
+- Lower administrative costs
+- Better services through competition and innovation
+- More trust through transparency
+
+## Frequently asked questions
+
+**What does API-by-default mean?**  
+Authorities publish data and procedures not just as PDFs, but as reliable, documented interfaces — with unified standards, versioning and stable availability. Everything that doesn't concern national security is open and machine-readable.
+
+**Isn't this a privacy risk?**  
+No — openness applies to the state's data and processes, not to personal data. Privacy-by-design applies (minimise, anonymise, aggregate), as does security-by-design (strong standards, audits, clear responsibilities).
+
+**What does this deliver in everyday life?**  
+Less paperwork and waiting, lower administrative costs and better services — because citizens, media and companies can build better tools on open data.
+
+**Does transparency also apply to politics itself?**  
+Yes: party financing, donation flows and campaign budgets should be publicly viewable, promptly. That applies to us too.
+
+---
+
+# Neutrality & Peace
+
+> Switzerland remains neutral, sovereign and credible — and once again becomes a place where peace is negotiated.
+
+Source: https://die-zukunft.ch/en/neutrality-peace/ · Publisher: The Future (Swiss political party, Basel)
+
+## Neutrality & Peace
+
+Switzerland has a unique strategic advantage: credibility through neutrality and a tradition of good offices and international mediation. This is not a myth — it is a strategic asset.
+
+## Strong at Home First, Then Credible Abroad
+
+We want Switzerland to work internally: secure, resilient, sovereign. Only then can it credibly help externally. Our ambition is to lead by example — not to lecture.
+
+## What Neutrality Means to Us
+
+- No participation in wars between states
+- No offensive military adventures
+- Active peace work: mediate, host, support humanitarian efforts
+
+## Why a Protection and Resilience Focus Makes Sense
+
+Threats have changed: hybrid risks, sabotage, cyber attacks, system failures. Critical infrastructure is the nervous system of modern Switzerland. Therefore: expand protection capability without becoming aggressive:
+
+- Protect critical infrastructure (IT/OT, energy, communication, supply)
+- Support civilian authorities in crises
+- Clear, defensive doctrine
+- High professionalism and democratic control
+
+## Switzerland as Host and Facilitator for Peace
+
+We want to strengthen Switzerland's role as host for talks, negotiations and agreements — with International Geneva as a platform, and with a consistent policy of good offices.
+
+## Guardrails
+
+- Strictly defensive: protection, not projection
+- Neutral and credible: no tribal politics
+- Transparent and rule-of-law: clear mandates, clear responsibilities
+
+## Frequently asked questions
+
+**Isn't neutrality outdated?**  
+On the contrary: credible neutrality is a strategic asset. It makes Switzerland the place where conflict parties can still talk to each other — a role we want to strengthen, with International Geneva as the platform.
+
+**Does neutral mean defenceless?**  
+No. Strictly defensive means: building protective capability without becoming aggressive — protecting critical infrastructure, supporting civilian authorities in crises, with a clear doctrine and democratic control.
+
+**What are good offices?**  
+The Swiss tradition of making peace possible: hosting talks and negotiations, mediating and providing humanitarian support.
+
+**What does 'strong at home first, then credible abroad' mean?**  
+Switzerland must first work domestically: secure, resilient, sovereign. Only then can it help credibly abroad. Our ambition is to lead by example — not to lecture.
+
+**How does this fit the new threats?**  
+Hybrid risks, sabotage and cyberattacks target the nervous system of modern Switzerland: its critical infrastructure. That's why neutrality and resilience belong together — protection instead of projection.
+
+---
+
+# Talent, Integration & Rule of Law
+
+> Openness for talent and clear rules — Switzerland as a hub for people who want to contribute.
+
+Source: https://die-zukunft.ch/en/talent-integration/ · Publisher: The Future (Swiss political party, Basel)
+
+## Talent, Integration & Rule of Law
+
+Switzerland thrives on stability, quality and trust — and on people who contribute. We want to strengthen both: **openness for talent** and **clear rules** that apply to everyone.
+
+## Switzerland as a Hub for International Talent
+
+We want people from around the world to be able to research, found companies, work and invest in Switzerland — and for our location to become stronger as a result. This is part of our prosperity model.
+
+## Integration Means Commitment
+
+Those who move to Switzerland should not just "be here", but **arrive here**:
+
+- Learn the language and orient themselves
+- Access to work and education
+- Participation in social life
+
+## Rule of Law and Security
+
+Rules are the foundation of our trust. Clear, fair, without hysteria:
+
+- Expectations are clear and apply to everyone
+- Violations are consistently enforced under the rule of law
+- No generalisations based on origin — responsibility is individual
+
+## Why This Fits The Future
+
+Abundance and comfort emerge in a society that is **open** to capability and commitment — and **reliable** in its rules. Exactly this combination makes Switzerland strong.
+
+## Frequently asked questions
+
+**Do you want more or less migration?**  
+That's the wrong question. We want Switzerland to be open to people who contribute — researchers, founders, skilled professionals — while staying reliable in its rules. The quality of integration is what counts, not symbolic debates.
+
+**What does 'integration means commitment' mean?**  
+Those who move to Switzerland should truly arrive: learn the language, have access to work and training, take part in social life. It is both an expectation and an offer.
+
+**And those who don't follow the rules?**  
+Rules apply to everyone, and violations are consistently prosecuted under the rule of law. But responsibility is individual — no generalisations by origin.
+
+**Why is talent inflow part of the prosperity model?**  
+Because prosperity emerges where skill and effort are welcome. People who research, found and invest here make the country stronger — and everyone benefits.
+
+---
+
+# Language & Understanding
+
+> Switzerland as a model for clear communication, strong diversity and integration without friction.
+
+Source: https://die-zukunft.ch/en/language-understanding/ · Publisher: The Future (Swiss political party, Basel)
+
+## Language & Understanding
+
+Switzerland is multilingual — and precisely because of this, we know: language is infrastructure. It determines whether people feel welcome, whether work succeeds, whether institutions are comprehensible.
+
+## Our Goal
+
+Switzerland should become the model in Europe for:
+
+- Clear, simple communication
+- Strong cultural diversity
+- Integration without friction
+
+## National Languages Stay
+
+We don't want to displace any national language. German, French, Italian (and Romansh) are part of Switzerland. At the same time, we need an **additional shared lingua franca** to facilitate cooperation nationwide and internationally.
+
+## Why English Is the Pragmatic Choice
+
+English is today's most practical bridge language:
+
+- Science and innovation
+- International business
+- Mobility and exchange in Europe and globally
+
+## Implementation: Step by Step and Measurable
+
+- Multilingual government information (incl. English) where it has impact
+- Voluntary learning pathways and recognition of language competences
+- Programmes for cultural understanding (schools, professional development, integration)
+- Evaluation: integration success, service quality, economic benefit
+
+## Frequently asked questions
+
+**Should the national languages be replaced?**  
+No. German, French, Italian and Romansh are part of Switzerland and will remain so. This is about an additional shared lingua franca for daily life, business and science — not about displacement.
+
+**Why English?**  
+Because it is today's most practical bridge language: in science and innovation, in international business, and in exchange across Europe and globally.
+
+**Isn't this a culture-war topic?**  
+No — language is infrastructure. It determines whether people feel welcome, whether work succeeds and whether institutions are comprehensible. We treat it as a project of understanding, not an identity fight.
+
+**How will this be implemented?**  
+Step by step and measurably: multilingual government information where it has impact, voluntary learning pathways, recognition of language competences — and evaluation of integration success, service quality and economic benefit.
+
+---
+
+# Not left. Not right. Future-ready.
+
+> Why The Future doesn't fit the left-right spectrum — and how we make decisions instead.
+
+Source: https://die-zukunft.ch/en/beyond-left-right/ · Publisher: The Future (Swiss political party, Basel)
+
+## Not left. Not right. Future-ready.
+
+Today's politics often operates on reflexes: left versus right, crisis versus crisis, camp versus camp. This produces noise — but too rarely solutions. **The Future** doesn't fit neatly into the left-right spectrum, because the major challenges of our time operate on different axes:
+
+- **Sovereignty** vs. dependency
+- **Functionality** vs. bureaucracy
+- **Transparency** vs. black box
+- **Abundance** vs. scarcity thinking
+- **Courage to implement** vs. symbolic politics
+
+## Our Anti-Ideology Promise
+
+Ideology becomes an obstacle when it prevents things from working. Our benchmark is: **What makes life better — measurably, robustly, scalably?**
+
+## How We Make Decisions
+
+Our criteria:
+
+- **Effectiveness**: Is there a real effect in everyday life?
+- **Feasibility**: Is it implementable — legally, financially, operationally?
+- **Sovereignty**: Does it make us more or less dependent in critical areas?
+- **Freedom & Dignity**: Does it expand room to act and security?
+- **Transparency**: Is it verifiable, auditable, correctable?
+
+## The Typical Labels
+
+Why they don't fit:
+
+### "Tech-libertarian?"
+
+No. We are not "state out, market in." We want a **capable state** that creates security, reduces dependencies and enforces transparency — especially for critical infrastructure. Freedom without sovereignty is an illusion.
+
+### "Socialist?"
+
+No. We are not for planned economies or ideology. Our focus is **abundance through productivity** — and a welfare state that empowers people, instead of trapping them in bureaucracy.
+
+### "Neoliberal?"
+
+No. We are not for deregulation at any cost. Where markets work: fine. Where lock-in, monopolies or dependencies emerge: **rules, standards, exit obligations, competition**.
+
+## Examples Showing Why We Don't Fit the Spectrum
+
+- **Digital Sovereignty**: not "statist" and not "market-fundamentalist" — but anti-lock-in, pro open standards, pro security.
+- **Re-industrialisation via Robotics**: pro productivity and prosperity, but SME-friendly, socially secured, without fear of decline.
+- **Basic Income (Pilot)**: a safety foundation that reduces bureaucracy and facilitates entrepreneurship — without moral debates, with measurement instead of dogma.
+- **Cities & Housing**: pro densification at transit hubs (including height), so housing becomes more affordable and sprawl is reduced.
+- **Life Science & Health**: pro progress, but with clear limits: no black-box state, opt-in default, transparency.
+
+## What We Reject
+
+- **Fear-based politics** as a permanent state
+- **Symbolic politics** without impact
+- **Black-box systems** in government and health
+- **Culture wars** as a substitute for shaping the future
+
+## What We Stand For
+
+A state that makes change possible, rather than merely administering it. A Switzerland that remains sovereign and cooperates constructively with Europe. A society that translates abundance into prosperity, comfort and well-being. If you've had enough of tribal politics: welcome.
+
+---
+
+# Votes
+
+> Swiss federal popular votes — overview of proposals, framed along The Future's twelve pillars. No voting recommendation, with a program perspective.
+
+Source: https://die-zukunft.ch/en/abstimmungen/ · Publisher: The Future (Swiss political party, Basel)
+
+Switzerland votes on federal proposals four times a year. This page is a permanent overview: for each voting Sunday, a short framing per proposal along the twelve pillars of our [program](@/programm.en.md). We deliberately don't issue voting recommendations yet: ballot positions belong to a democratic party process with members and assemblies — and as a young party, we are building exactly that. Until then, we describe where a proposal meets the program and what tension sits behind it.
+
+---
+
+## Next vote — 29 November 2026
+
+Four proposals are on the ballot. The full framing is in the article [29 November 2026 vote: four proposals, five pillars](@/aktuelles/abstimmung-29-november-2026.en.md).
+
+**Federal decree on additional financing of the AHV through a VAT increase.** Seeks to top up old-age pension funding through a higher VAT; as a constitutional amendment it goes to a mandatory popular vote. Consumption rather than wages as the financing base fits our logic — the tension is the partial funding: together with the federal contribution about half of the cost, the rest stays open. → Pillars [Basic income](@/grundeinkommen.en.md) and [Open government](@/offener-staat.en.md). Federal Council and Parliament: yes.
+
+**Popular initiative "For a restriction of fireworks".** Seeks a nationwide ban on the sale and use of loud fireworks by private individuals. Names a real problem of densified cities — the tension is the level: a constitutional article for a rule municipalities can set themselves today. → Pillar [Cities & housing](@/stadte-wohnen.en.md). Federal Council and Parliament: no.
+
+**Popular initiative "Yes to fair federal taxes for married couples too – end the discrimination of marriage!".** Seeks to abolish the marriage penalty in direct federal tax while keeping joint assessment of married couples — a different model from the individual taxation accepted in March. The goal is settled — the tension is the duplication: two systems for the same people, with losses of up to 3 billion. → Pillar [Open government](@/offener-staat.en.md). Federal Council and Parliament: no.
+
+**Amendment to the Federal Act on War Material.** Seeks to relax war material export rules: deliveries to partner states even in a conflict, fewer non-re-export declarations, and a clause letting the Federal Council deviate from the licensing criteria in extraordinary circumstances; a referendum brings the proposal to the people. Protective capability needs an industrial base — the tension is control: executive discretion instead of clear rules in the law. → Pillars [Neutrality & peace](@/neutralitaet-frieden.en.md) and [Energy & resilience](@/energy-resilience.en.md). Federal Council and Parliament: yes.
+
+---
+
+## Last vote — 27 September 2026
+
+Two popular initiatives, both rejected. The full framing is in the article [27 September 2026 vote: two initiatives, three pillars](@/aktuelles/abstimmung-27-september-2026.en.md).
+
+**Popular initiative "Preserving Swiss neutrality (Neutrality Initiative)".** Sought to enshrine perpetual, armed neutrality in the constitution and to rule out military alliances and coercive measures not mandated by the UN. The goals largely overlap with our program — the tension lies in the sanctions clause and in the ban on cooperation, which could hamper defensive cooperation against hybrid threats. → Pillars [Neutrality & peace](@/neutralitaet-frieden.en.md) and [Energy & resilience](@/energy-resilience.en.md). People: no (70.2%), cantons: all no.
+
+**Popular initiative "For secure nutrition (Nutrition Initiative)".** Sought a net self-sufficiency rate of at least 70 percent within ten years, more plant-based food and clean drinking water. Names a real dependence but sets a target without a plan: supply becomes more secure through technology and stockpiling, not through a number in the constitution. → Pillars [Energy & resilience](@/energy-resilience.en.md) and [Life science & health](@/life-science.en.md). People: no (72.5%), cantons: all no.
+
+---
+
+## Before that — 14 June 2026
+
+Two proposals, two results. The full framing is in the article [14 June 2026 vote: two proposals, three pillars](@/aktuelles/abstimmung-14-juni-2026.en.md).
+
+**Popular initiative "No to a Switzerland with 10 million!"** A rigid population cap pulls the wrong lever: the honest problem is infrastructure, not headcount. → Pillars [Talent & integration](@/talent-integration.en.md) and [Cities & housing](@/stadte-wohnen.en.md). People: no (54.8%).
+
+**Amendment to the Civilian Service Act.** Higher admission hurdles to civilian service — real tension between army strength and civil resilience. → Pillar [Neutrality & peace](@/neutralitaet-frieden.en.md). People: yes (53.0%).
+
+---
+
+## Before that — 8 March 2026
+
+Five proposals, three results that count long-term.
+
+**Cash initiative.** Anchor cash in the constitution. → Pillar [Digital sovereignty](@/digitale-souveraenitaet.en.md). People: no.
+
+**Cash counter-proposal.** Protect cash without a rigid quantity rule. → Pillar [Digital sovereignty](@/digitale-souveraenitaet.en.md). People: yes.
+
+**SBC initiative.** Cap the radio and TV licence fee at 200 francs per year. → Pillar [Language & understanding](@/sprache-verstaendigung.en.md). People: no.
+
+**Climate Fund initiative.** Federal fund for climate-protection investments. → Pillar [Energy & resilience](@/energy-resilience.en.md). People: no.
+
+**Individual taxation.** Separate tax assessment for married couples. → Pillar [Open state](@/offener-staat.en.md). People: yes.
+
+---
+
+## Why this tracker exists
+
+Federal popular votes are Switzerland's most important steering instrument. They come in dense succession — four dates a year, often two to five proposals per date. Anyone who does not follow politics full-time loses the overview fast.
+
+This page is our contribution to civil attention: a compact framing per proposal, always along the same twelve pillars. No voting recommendation. For the full text and official arguments, see [admin.ch](https://www.admin.ch/) and [easyvote.ch](https://www.easyvote.ch/).
+
+---
+
+# People
+
+> The people behind The Future.
+
+Source: https://die-zukunft.ch/en/people/ · Publisher: The Future (Swiss political party, Basel)
+
+## Raffael Schneider
+
+Raffael Schneider lives in Basel and works in the tech industry. He is committed to ensuring that progress doesn't create anxiety, but tangibly improves life — with more prosperity, comfort and real freedom for all.
+
+### Why now?
+
+Because the transformation is already under way. New technologies are changing work and daily life faster than politics can respond. The Future wants Switzerland to be prepared — so people can adapt without fear of collapse, and so progress reaches everyone.
+
+## Board
+
+The board is being formed. We will announce the names as soon as the founding structure is in place — those who join now help shape it.
+
+## Advisory Board
+
+The advisory board is being formed. We are looking for experienced people willing to challenge our work — get in touch if you want to be part of it.
+
+---
+
+# Get Involved
+
+> Become part of The Future: membership, newsletter, donations.
+
+Source: https://die-zukunft.ch/en/join/ · Publisher: The Future (Swiss political party, Basel)
+
+## Join the association
+
+Become a member of The Future association and actively shape the party. All information about membership can be found on our association page.
+
+## Become a member
+
+Membership gives you co-determination, updates and the chance to shape working groups. Write to us at hey@die-zukunft.ch.
+
+## Newsletter
+
+Short, clear, no spam: proposals, events, releases.
+
+## Donate (Open Collective)
+
+Transparent financing, traceable for all. Support The Future via Open Collective.
+
+## Volunteer
+
+Whether writing, organising, design or campaign work — we welcome any support.
+
+## Connect
+
+Do you know experts, organisations or initiatives with similar goals? We actively seek exchange and partnerships.
+
+---
+
+# 1 August: Toward the Switzerland of Tomorrow
+
+> On Swiss National Day we look back to a pact from 1291 — and forward. What Switzerland's founding idea means for the next hundred years.
+
+Source: https://die-zukunft.ch/en/aktuelles/1-august-2026/ · Published: 2026-08-01 · Publisher: The Future (Swiss political party, Basel)
+
+1 August commemorates a federal charter from 1291. 735 years on, we are not celebrating a museum piece but an idea that has stayed remarkably modern: that people shape their future better together and self-determined than alone and governed from outside.
+
+---
+
+## A founding act that faced forward
+
+1291 was not a look backward. It was a decision to reorder how people lived together, to create legal certainty, and to withstand outside pressure jointly. Switzerland was not born of nostalgia but of a pragmatic need for stability and self-determination.
+
+It is precisely that instinct — solving problems soberly, building institutions that last, choosing reliability over loud gestures — that has carried the country through seven centuries. It is not an heirloom to put on a shelf. It is a way of working.
+
+---
+
+## The substance is built today
+
+The coming decades bring shifts that reach deeper than any single term of office: artificial intelligence, energy, demographics, the new order of the world economy. The question is not whether Switzerland will change. The question is whether it shapes that change itself — sovereign, resilient, clear-eyed — or lets it happen to it.
+
+What we build or neglect over the next ten years will decide how free and prosperous Switzerland is in 2050. That substance appears in no ranking. It is being built now.
+
+---
+
+## A holiday is also a charge
+
+On 1 August we rightly celebrate what the generations before us built: a country that works, that holds its diversity together, that enjoys trust beyond its size. To preserve that inheritance is not to freeze it. It is to keep building it.
+
+The best way to honor Switzerland is to keep it fit for the future.
+
+---
+
+We wish everyone a wonderful National Day — and we invite you to help build the Switzerland of tomorrow with us.
+
+[Our program](@/programm.en.md) · [Get involved](@/mitmachen.en.md)
+
+---
+
+# 14 June 2026 vote: two proposals, three pillars
+
+> On 14 June, Switzerland votes on the 10-million initiative and the amendment to the Civilian Service Act. A reading along the program of The Future.
+
+Source: https://die-zukunft.ch/en/aktuelles/abstimmung-14-juni-2026/ · Published: 2026-06-03 · Publisher: The Future (Swiss political party, Basel)
+
+On 14 June 2026 Switzerland votes on two federal proposals: the popular initiative "No to a Switzerland with 10 million! (Sustainability Initiative)" and the amendment to the Civilian Service Act. Both touch questions we have worked on from the start — how to attract talent, how to keep cities and infrastructure sustainable, how to build civil and military readiness at the same time. We do not issue a voting recommendation here. We show where the two proposals meet our program, and where, from our perspective, the honest tensions lie.
+
+**Update (result).** Both proposals have been decided: the popular initiative "No to a Switzerland with 10 million!" was rejected with 54.8% no, and the amendment to the Civilian Service Act was accepted with 53.0% yes (turnout 58.9%). The framing below was written before voting Sunday and stands unchanged as a program reading.
+
+---
+
+## Proposal 1: "No to a Switzerland with 10 million!"
+
+The SVP initiative wants to cap Switzerland's permanent resident population at ten million people by 2050. If that threshold were crossed earlier, the Federal Council would have to renegotiate or terminate the free movement of persons agreements with the EU. The Federal Council and Parliament recommend rejection.
+
+Our program reads this proposal along two pillars.
+
+**Talent & integration.** Switzerland owes its prosperity to its ability to attract researchers, engineers, care workers and founders. A rigid cap is a blunt tool: it does not distinguish between unmanaged growth and the targeted inflow of specialists who will carry the next twenty years. Talent pathways need to be shorter, not longer.
+
+**Cities & housing.** The other half of the truth: infrastructure — housing, public transport, schools, hospitals, energy — has for years grown more slowly than the population. Whoever wants inflow must also build, plan, train. The initiative responds to a real failure, but with a quantity cap rather than with construction and planning capacity.
+
+The question behind the proposal is therefore not "how many people" but "how much substance do we build so that Switzerland can carry the people it needs". A ceiling without a plan solves none of the underlying problems.
+
+---
+
+## Proposal 2: amendment to the Civilian Service Act
+
+Parliament revised the Civilian Service Act, a referendum brought the proposal before the people. Six measures are intended to make admission to civilian service harder, so that the constitutional rule — no free choice between army and civilian service — is enforced more strictly. The Federal Council and Parliament recommend acceptance.
+
+Our program reads this proposal along one pillar.
+
+**Neutrality & peace.** Switzerland needs both: a credible army and a civil resilience that absorbs crises — blackouts, pandemics, cyberattacks, climate events. People in civilian service work in hospitals, in agriculture, in nature conservation, in schools. They are not a residual position but part of a country's civil readiness.
+
+The tension in this proposal is real and honest: every person who switches to civilian service is missing from the army. But every person who cannot enter civilian service is missing from civil supply. The question is whether Switzerland should solve a shortage in one place by creating a shortage in another — or whether both pillars need to be strengthened at the same time.
+
+By the logic of our program, this is not a pure army question. It is a question of how we understand resilience as a whole.
+
+---
+
+## How we frame it
+
+Both proposals address real Swiss problems — infrastructure pressure and security architecture — with tools we consider too narrow. A population cap is not a housing policy. An admission hurdle is not a civil protection strategy.
+
+Our contribution is not to tell the population where to put the cross. Our contribution is to describe the long-term substance against which Switzerland will be measured over the next twenty years. We have summarized it in our [program](@/programm.en.md) as twelve pillars. The two proposals on 14 June touch three of them. Whoever votes can take this reading as one voice among many.
+
+---
+
+## About the tracker
+
+We are building a permanent overview of federal popular votes at [/en/abstimmungen/](@/abstimmungen.en.md). For each voting Sunday it carries a brief framing per proposal along our pillars — no voting recommendation, but a clear program perspective. Next dates: 27 September 2026, 29 November 2026.
+
+Sources: [Federal Chancellery — 14 June 2026](https://www.admin.ch/en/popular-vote-of-14-june-2026), [ch.ch — Popular vote 14 June 2026](https://www.ch.ch/en/votes-and-elections/popular-vote-on-14-june-2026/), [EAER on the Civilian Service Act amendment](https://www.wbf.admin.ch/de/newnsb/NqqjJZsMpWsniYOTjgfl8), [Federal Council on the civilian service amendment](https://www.admin.ch/de/aenderung-zivildienst), [easyvote](https://www.easyvote.ch/de/abstimmungen/14-juni-2026/zivildienstgesetz).
+
+---
+
+# 27 September 2026 vote: two initiatives, three pillars
+
+> On 27 September, Switzerland votes on the Neutrality Initiative and the Nutrition Initiative. A reading along the program of The Future.
+
+Source: https://die-zukunft.ch/en/aktuelles/abstimmung-27-september-2026/ · Published: 2026-09-16 · Publisher: The Future (Swiss political party, Basel)
+
+On 27 September 2026 Switzerland votes on two popular initiatives: "Preserving Swiss neutrality (Neutrality Initiative)" and "For secure nutrition (Nutrition Initiative)". Both want to write something into the constitution that is meant to make Switzerland more independent — one in foreign policy, the other in supply. Both touch questions we have worked on from the start: what neutrality has to deliver today, how a country becomes resilient, how progress and trust go together. We do not issue a voting recommendation here. We show where the two initiatives meet our program, and where, from our perspective, the honest tensions lie.
+
+**Update (result).** On 27 September 2026 voters rejected both initiatives: the Neutrality Initiative with 70.2% no, the Nutrition Initiative with 72.5% no. Both were also rejected by every canton (turnout around 47%). The framing below was written before voting Sunday and stands unchanged as a program reading.
+
+---
+
+## Proposal 1: Neutrality Initiative
+
+The initiative, launched from the SVP's orbit, wants to spell neutrality out in detail in the Federal Constitution: perpetual and armed. Switzerland could neither join a military or defence alliance nor cooperate with one — unless it is attacked or an attack is being prepared. Economic sanctions against warring states would be permitted only if decided by the UN Security Council; measures against the circumvention of foreign sanctions would remain possible. At the same time, Switzerland is to use its neutrality actively for conflict prevention and mediation. The initiative was launched after Switzerland adopted the EU sanctions against Russia in 2022. The Federal Council and Parliament recommend rejection; the National Council rejected it 124 to 65, the Council of States 29 to 10. There is no counter-proposal.
+
+Our program reads this proposal along two pillars.
+
+**Neutrality & peace.** Much of what the initiative demands is, in substance, in our program: no participation in wars between states, no offensive military adventures, active peace work — mediating, hosting, helping on humanitarian grounds. For us, neutrality is not a myth but a strategic asset: it makes Switzerland the place where parties to a conflict still talk to each other. The question is not whether Switzerland stays neutral. The question is whether a detailed constitutional article strengthens that credibility — or whether credibility is earned day by day through practice, consistency and trust. The sanctions clause is the core of the tension: the UN Security Council is often blocked by vetoes. Switzerland would therefore have to forgo economic measures in most of the wars of our time — and defend the international law on which a small neutral state relies by other means.
+
+**Energy & infrastructure resilience.** The threats have changed: hybrid risks, sabotage, cyberattacks, failures of critical infrastructure. Our program says: build protective capability without becoming aggressive — and cooperate with European partners where that raises resilience. The alliance ban is the second tension here. The initiative allows training with foreign partners and peace missions approved by Parliament. But defence against sabotage and cyberattacks begins long before an armed attack. Whether the cooperation a strictly defensive Switzerland needs for that would still be possible under a ban on cooperation is left open by the proposal.
+
+So the question behind the proposal is not "neutral or not". It is: how much neutrality do you write into paragraphs — and how much must a country earn anew every day through credible conduct?
+
+---
+
+## Proposal 2: Nutrition Initiative
+
+The initiative demands that Switzerland reach a net self-sufficiency rate of at least 70 percent within ten years. To get there, the Confederation is to strengthen sustainable domestic production, promote more plant-based and fewer animal foods, protect soil fertility and biodiversity, cut the use of pesticides and fertilisers, and secure clean drinking water. Today the net self-sufficiency rate — that is, after deducting imported animal feed — stands at around 42 to 45 percent and is falling. The Federal Council and Parliament recommend rejection; both chambers rejected the initiative without a single dissenting vote (194 to 0 in the National Council, 44 to 0 in the Council of States). They consider the target unreachable within ten years and expect high costs and heavy intervention in production and consumption.
+
+Our program reads this proposal along two pillars.
+
+**Energy & infrastructure resilience.** Food is supply, and supply is infrastructure. The initiative names a real dependence: less than half of what Switzerland eats is, in net terms, produced at home. Our program takes such dependences seriously — pragmatically and risk-based. For us, resilience is engineering: standards, redundancy, stockpiling, accountability. A percentage in the constitution is a target, not a plan. The tension is that the initiative sets the target but leaves open how Switzerland produces substantially more with the same land and fewer inputs. That takes precision agriculture, robotics, breeding, water planning — substance that cannot be ordered by a vote but has to be built.
+
+**Life science & health.** More plant-based nutrition and clean drinking water are health questions, and the direction is well documented. But our yardstick remains: regulation that is evidence-based and transparent, progress with trust. A rigid ten-year target that would have to be enforced through production and consumption rules moves the decision from the plate to the ordinance. Switzerland is a world leader in the life sciences — that knowledge belongs in agriculture, not only in the pharmaceutical industry.
+
+So the question behind the proposal is not "how many percent". It is: how does Switzerland build a supply that survives a crisis — and who carries the cost of the transition?
+
+---
+
+## How we frame this
+
+Both initiatives respond to the same experience: Switzerland is more dependent than it feels — on foreign alliances and sanctions regimes, on imported food and feed. We share that diagnosis. Both initiatives answer with a constitutional sentence: a fixed rule that prescribes independence. That, in our view, is where the limit lies. Neutrality does not become more credible because it is worded at greater length. Supply does not become more secure because a number stands in the constitution. Both come from substance: protective capability, mediation competence, stockpiling, technology, reliability.
+
+Our contribution is not to tell people where to put the cross. Our contribution is to describe the long-term substance by which Switzerland will be measured over the next twenty years. We have summarised it in our [program](@/programm.en.md) as twelve pillars. The two initiatives on 27 September touch three of them. Whoever votes can take this reading as one voice among many.
+
+---
+
+## About the tracker
+
+At [/en/abstimmungen/](@/abstimmungen.en.md) we keep a permanent overview of federal popular votes: for each voting Sunday a brief framing per proposal along our pillars — no voting recommendation, but a clear program perspective. Next date after 27 September: 29 November 2026.
+
+Sources: [Federal Chancellery — 27 September 2026](https://www.admin.ch/de/volksabstimmung-vom-27-september-2026), [Federal Council on the Neutrality Initiative](https://www.admin.ch/de/neutralitaetsinitiative), [Federal Council on the Nutrition Initiative](https://www.admin.ch/de/ernaehrungsinitiative), [ch.ch — Popular vote 27 September 2026](https://www.ch.ch/de/volksabstimmung-vom-27-september-2026/), [easyvote — Neutrality Initiative](https://www.easyvote.ch/de/abstimmungen/27-september-2026/neutralitaet), [easyvote — Nutrition Initiative](https://www.easyvote.ch/de/abstimmungen/27-september-2026/ernaehrung).
+
+---
+
+# 29 November 2026 vote: four proposals, five pillars
+
+> On 29 November, Switzerland votes on additional AHV financing, the fireworks initiative, the married-couples initiative and the War Material Act. A reading along the program of The Future.
+
+Source: https://die-zukunft.ch/en/aktuelles/abstimmung-29-november-2026/ · Published: 2026-09-18 · Publisher: The Future (Swiss political party, Basel)
+
+On 29 November 2026 Switzerland votes on four federal proposals: the federal decree on additional financing of the AHV old-age pension through VAT, the popular initiative "For a restriction of fireworks", the popular initiative "Yes to fair federal taxes for married couples too – end the discrimination of marriage!", and the amendment to the War Material Act. Four very different topics — and yet one shared question: at what level, and with what instrument, does Switzerland take its decisions? We do not issue a voting recommendation here. We show where the four proposals meet our program, and where, from our perspective, the honest tensions lie. This framing was written on the basis of Parliament's decisions, before the Federal Council's official explanations were published.
+
+**Update of 20 October 2026.** We checked this framing against the Federal Council's official explanations (the voting booklet) and corrected facts: the VAT increase brings the AHV around CHF 1.4 billion a year, not 1.5 billion, and together with the federal contribution covers about half of the additional cost of the 13th AHV pension (previously: about a third). The Federal Council puts the possible revenue losses from the married-couples initiative at CHF 680 million to 3 billion a year (previously: 700 million to 1.4 billion); in Parliament the votes were 102 to 97 in the National Council and 24 to 20 in the Council of States. For the War Material Act we added the relaxations for partner states and for non-re-export declarations; for the fireworks initiative we clarified what would remain allowed. Our program reading stands unchanged.
+
+---
+
+## Proposal 1: additional AHV financing through VAT
+
+In March 2024 voters accepted the 13th AHV pension. It is paid for the first time in December 2026 to around 2.6 million pensioners and costs over CHF 4 billion at first, over 5 billion a year from 2035. On 19 June 2026 Parliament decided to fund it by raising VAT by 0.4 percentage points, without time limit and from 2028 at the earliest: the standard rate from 8.1 to 8.5 percent, the special rate for accommodation from 3.8 to 4 percent; the reduced rate for food and medicines stays at 2.6 percent. That brings the AHV around CHF 1.4 billion a year from 2029; the payments in 2026 and 2027 have no additional financing. Higher wage contributions, which were also on the table, were dropped by Parliament. Because VAT is anchored in the constitution, the vote is mandatory and needs a double majority of people and cantons. The National Council approved 108 to 85, the Council of States 28 to 13. The Federal Council and Parliament recommend acceptance.
+
+Our program reads this proposal along two pillars.
+
+**Basic income.** For us, a universal basic security is a foundation, not a gift — and it has to be financed by taxing growing value creation: income, consumption, wealth. Not through wages alone, when an ever larger share of value comes from automation. VAT as the lever for a pension everyone receives sits within that logic; the same lever is built into our basic-income calculator. Mechanically, the proposal is close to what we describe for a basic income.
+
+**Open government.** The tension lies in the honesty of the arithmetic. Together with the federal contribution, the 1.4 billion covers about half of the additional cost; the rest stays open and weighs on the AHV fund, whose spending already exceeds its revenue in 2026. Transparent budgets are not a detail for us but a standard: a benefit promise that is half unfunded is a stopgap. Whoever votes yes funds a part. Whoever votes no funds nothing for now — the pension is paid regardless.
+
+So the question behind the proposal is not "VAT or not". It is: when does Switzerland put the full bill for the 13th pension on the table — and on what base is it paid in an automated economy?
+
+---
+
+## Proposal 2: fireworks initiative
+
+The initiative by four animal-welfare organisations wants a nationwide ban on the sale and use of loud fireworks by private individuals. The text leaves open which fireworks count as noise-producing; according to the initiative committee, low-noise fireworks such as Bengal lights or fountains would remain allowed. For events of supra-regional importance, cantons could grant exceptions. More than a hundred municipalities already have restrictions. The Federal Council and Parliament recommend rejection (National Council 131 to 50, Council of States 40 to 3), with no counter-proposal: cantons and municipalities can already limit fireworks in time and place. An indirect counter-proposal that would have banned only noise-only firecrackers in the Explosives Act failed in the National Council's final vote on 19 June 2026, 114 to 79. So the initiative goes to the people unchanged.
+
+Our program reads this proposal along one pillar.
+
+**Cities & housing.** We want cities to grow inward: denser, closer, with short distances. But density also means more people, pets and wildlife live within earshot of the same fireworks. In a densified Switzerland, consideration is not a matter of taste but part of quality of life. So the initiative names a real problem. The tension lies in the instrument and the level: a constitutional article for a question every municipality can settle for itself today — and more than a hundred already do. On the other hand, Parliament itself discarded every milder national rule. Whoever votes no relies on local rules. Whoever votes yes lifts the rule from the municipalities into the constitution.
+
+So the question behind the proposal is not "fireworks yes or no". It is: at what level does Switzerland organise consideration — and what happens when the local level does not?
+
+---
+
+## Proposal 3: married-couples initiative
+
+The Centre party's popular initiative wants to abolish the marriage penalty in direct federal tax through the constitution. Married couples would continue to be assessed jointly but could no longer be disadvantaged compared with unmarried couples. On 8 March 2026 voters accepted individual taxation with 54 percent, which solves the same problem with the opposite model: each person is taxed separately, regardless of civil status. The initiative would again prescribe a different system for federal tax. Depending on implementation, the Federal Council expects direct federal tax revenue losses of CHF 680 million to 3 billion a year. The Federal Council and Parliament recommend rejection — the National Council 102 to 97, the Council of States 24 to 20.
+
+Our program reads this proposal along one pillar.
+
+**Open government.** A state that enables rather than blocks has simple, transparent procedures. We share the initiative's goal — no disadvantage based on civil status. But that is exactly the goal Switzerland already decided in March. The tension is that the initiative does not decide the whether but the how: joint assessment at the federal level while the cantons switch to individual taxation — two logics for the same people. That costs revenue and simplicity. Whoever votes yes chooses the joint-assessment model and accepts the duplication. Whoever votes no lets the individual taxation decided in March take effect.
+
+So the question behind the proposal is not "abolish the marriage penalty or not" — that is settled. It is: which model should apply, and how many parallel systems can a simple state bear?
+
+---
+
+## Proposal 4: amendment to the War Material Act
+
+In December 2025 Parliament decided to relax the rules for exporting and re-exporting war material. Three points are central: the 36 partner states with export controls similar to Switzerland's can be supplied even when involved in an armed conflict, provided neutrality law and foreign or security policy interests do not stand in the way. The Federal Council will require non-re-export declarations only where foreign, neutrality or security policy reasons demand it. And the Federal Council can deviate from the statutory licensing criteria in extraordinary circumstances to safeguard Switzerland's foreign or security policy interests; if it does so by ordinance, the ordinance is limited to four years at most, and it must inform Parliament's security policy committees within 24 hours of an individual decision. In 2021 Parliament had written those criteria firmly into law — no exports to countries in armed conflict, for example — and declined such an exception clause; the "correction initiative" was withdrawn as a result. Now the clause returns, justified by the situation since 2022 and the concerns of the Swiss security industry. The National Council approved 122 to 68, the Council of States 31 to 11. A referendum by the SP, the Greens, the EVP, the GSoA and aid organisations brings the proposal to the people. The Federal Council and Parliament recommend acceptance.
+
+Our program reads this proposal along two pillars.
+
+**Neutrality & peace.** Our guardrails are clear: strictly defensive, neutral and credible, transparent and bound by the rule of law — clear mandates, clear responsibilities, democratic control. The tension sits exactly there: the proposal moves a decision that the law takes today into the Federal Council's discretion. In a crisis that can be faster. But it makes Swiss practice harder to predict — and predictability is the capital of a neutral country that wants to mediate.
+
+**Energy & infrastructure resilience.** The other side: protective capability needs an industrial base. Whoever wants to reduce critical dependences in components, spare parts and know-how needs firms that produce in the country — and they only do so if they can also export and cooperate with European partners. Since 2022, firms report that partners avoid Swiss components. That concern is real. Whether the answer is a discretionary clause for the executive or clearer rules set by Parliament is the actual question.
+
+So the question behind the proposal is not "arms exports yes or no". It is: how much flexibility does Switzerland need — and who answers for it: the law or the Federal Council?
+
+---
+
+## How we frame this
+
+Four proposals, four topics — and one shared pattern: each moves a decision to a different level. The fireworks initiative lifts a municipal rule into the constitution. The married-couples initiative places a second model next to a law just adopted. The War Material Act shifts a statutory rule into the Federal Council's discretion. And the AHV proposal funds part of a promise whose remainder stays open.
+
+Our yardstick is the same in all four cases: a rule must be clear, financed, democratically controllable — and located where it works best. That is not a question of left or right. It is the question of whether the state stays simple, honest and reliable.
+
+Our contribution is not to tell people where to put the cross. Our contribution is to describe the long-term substance by which Switzerland will be measured over the next twenty years. We have summarised it in our [program](@/programm.en.md) as twelve pillars. The four proposals on 29 November touch five of them. Whoever votes can take this reading as one voice among many.
+
+---
+
+## About the tracker
+
+At [/en/abstimmungen/](@/abstimmungen.en.md) we keep a permanent overview of federal popular votes: for each voting Sunday a brief framing per proposal along our pillars — no voting recommendation, but a clear program perspective. The framing for 27 September 2026 is in the article [27 September 2026 vote: two initiatives, three pillars](@/aktuelles/abstimmung-27-september-2026.en.md). On 20 October 2026 we checked this article against the Federal Council's explanations (see the update at the top).
+
+Sources: [Federal Chancellery: popular vote of 29 November 2026](https://www.admin.ch/de/volksabstimmung-vom-29-november-2026), [Federal Council explanations for 29 November 2026 (PDF)](https://www.admin.ch/dam/de/sd-web/HXhFMFWOaa6u/BAR_Erlaeuterungen_Nov26_DE_v10.pdf), [Federal Council: ballot items for 29 November 2026](https://www.admin.ch/de/newnsb/KpnrPOW9cpZAvB6IXOekf), [Parliament: VAT raised for the 13th AHV pension](https://www.parlament.ch/de/services/news/Seiten/2026/20260619094409246194158159026_bsd047.aspx), [FSIO: implementing the 13th AHV pension](https://www.bsv.admin.ch/de/umsetzung-13-ahv-rente), [Parliament: National Council sinks national firecracker ban](https://www.parlament.ch/de/services/news/Seiten/2026/20260619160127130194158159026_bsd140.aspx), [swissinfo: Council of States says no to the Centre initiative](https://www.swissinfo.ch/ger/st%C3%A4nderat-sagt-nein-zur-mitte-initiative-gegen-die-heiratsstrafe/91526866), [Federal Chancellery: referendum on the War Material Act](https://www.admin.ch/de/newnsb/6FKPS4DauZHEk2eUaf-eO), [Swissvotes: amendment to the War Material Act](https://swissvotes.ch/vote/693.00).
+
+---
+
+# The Bottleneck Is Data, and Europe Is Sitting on It
+
+> The AI debate is about compute. The real bottleneck is high-quality, rights-clear data — and Europe holds more of it than anyone. Using it is a question of coordination.
+
+Source: https://die-zukunft.ch/en/aktuelles/der-engpass-sind-die-daten/ · Published: 2026-06-30 · Publisher: The Future (Swiss political party, Basel)
+
+The public debate about who leads in artificial intelligence is almost entirely a debate about hardware. Who has the most accelerators, who controls the fabs, whose export controls bite whose supply chain. That debate is real. It is also, increasingly, looking in the wrong place.
+
+The people running the largest AI labs say so themselves. In late 2024, Ilya Sutskever said that pre-training "as we know it" would end — for the blunt reason that compute keeps growing but data does not, "because we have but one internet." He called data "the fossil fuel of AI." If the scarce input is high-quality data, then the real question becomes: who holds the data that has not yet been consumed? The answer, for a large and very specific category, is Europe.
+
+---
+
+## The raw material is running short
+
+The most careful public estimate comes from Epoch AI: roughly 300 trillion tokens of publicly available, human-generated text, fully used up at some point between 2026 and 2032. That is not a prediction of a wall. It is a prediction that the easy phase is ending — the one where you gained capability mostly by pointing a larger crawler at a larger share of the same web.
+
+The raw web is vast, but most of it is not worth training on. Between petabytes of HTML and a few tens of trillions of clean tokens is the whole game. Quantity was never the bottleneck. Clean, relevant, rights-clear quantity is.
+
+How scarce that raw material has become is shown by the behaviour of the largest labs. They took legal and reputational risk to get more text — up to billion-dollar settlements and the use of shadow libraries. When a company with practically unlimited access to the open web takes that kind of risk, the text has become the scarce input.
+
+---
+
+## What Europe — and Switzerland — hold
+
+This is where the map flips. The text the crawlers cannot reach, because it was never digitized or never made public, is disproportionately European — and disproportionately the high-quality kind. Europe printed, archived, and catalogued for five centuries, across two dozen living languages, and for the most part never put the result on the open web.
+
+The cleanest example is in Zurich. The Neue Zürcher Zeitung digitized its entire print run back to its first edition in 1780, around 1.9 million pages. It is one of the most complete continuous records of European public life in machine-readable form. Yet free access stops at 1914. Everything after — that is, exactly the century that shaped modern Europe — is reserved for paying customers. That is one newspaper, in one city, in one of the smaller countries of Europe. Multiply that pattern across every national paper, every learned society, every specialist journal on the continent, and the size of the locked corpus comes into view.
+
+That clean training data can be made from it is not hypothetical. In 2025 Harvard Library released, from its digitized collections, a 242-billion-token dataset with traceable provenance. A single university library. The European version of that move, carried out across the continent's libraries and archives, would yield a corpus with no equivalent anywhere else.
+
+There is a second advantage the incumbents structurally cannot replicate: aligned multilingual text. The EU works in 24 official languages; decades of parliamentary and legal translation have produced parallel corpora that exist for almost no other language in the world. Switzerland, with its four national languages, knows this asset from its own administration. For the long tail of underrepresented European languages, this text is exactly what makes the difference between a usable model and a useless one.
+
+---
+
+## A coordination problem, not a technology problem
+
+Why does this advantage lie fallow? Because it is fragmented, and the fragmentation is structural. A French library, a Swiss newspaper, a German learned society, an Italian state archive each hold a piece, each under a different legal regime, none with the mandate or budget to turn its holdings into training data. The technical problem has been solved for years. The hard problem is institutional, legal, and political.
+
+The legal situation is double-edged. Europe has built the densest data-governance apparatus in the world — and so far protection has outrun enablement. But the tools are there. The 2019 copyright directive grants research organizations and cultural-heritage institutions a mandatory, non-waivable exception for text and data mining, on any work to which they have lawful access. And it is precisely those institutions that hold the locked corpus. It is the most underused lever in European AI policy.
+
+---
+
+## It is already starting
+
+The proof of concept is done, by small teams on modest budgets. Common Corpus, assembled by the French company PleIAs, is at roughly 2.3 trillion tokens the largest fully open multilingual training corpus — built only from public-domain and openly licensed material, with per-document provenance. Alongside it, sovereign models have appeared in two years: Teuken from Germany, EuroLLM, Spain's ALIA, Latvia's TildeOpen, plus an open European web index. Read individually, these are regional projects. Read together, they are a continent rediscovering the same insight from a dozen directions. What is missing is the layer above them: a shared corpus, a coordinated digitization programme, a budget that treats the data as strategic infrastructure rather than as a collection of national research grants.
+
+---
+
+## What this means for our programme
+
+The Future has argued from the start for digital sovereignty through open standards, transparency, and anti-lock-in. The data bottleneck is the reason for that, not a slogan. Concretely:
+
+- **Fund digitization as infrastructure, not as a cultural grant.** Libraries, archives, and newspaper morgues are, for the AI substrate, what roads and grid capacity are for the economy. They depreciate while they sit in boxes.
+- **Use the mining exception with legal certainty.** Route digitization and corpus-building through the institutions that hold the lawful access.
+- **Keep the corpus and the index open.** A shared open corpus means every lab competes on models, not on data hoards. A proprietary corpus reproduces exactly the dependency the whole effort is meant to escape.
+- **Bring Switzerland in.** Swiss libraries, archives, and the multilingual administrative record belong in the European data space — and tied to sovereign compute, operated under domestic law.
+
+The goal is not to "win the AI race." That is the wrong frame. The realistic goal is sovereign capability: models that are better in our languages, trained on rights-clear data that survives an audit, and usable by regulated sectors that legally cannot run on a corpus of uncertain provenance. That is a niche the giants cannot easily contest — and it sits exactly where Europe's data advantage lies.
+
+---
+
+## Further reading
+
+This note is the civilian translation of a sister article published today, 30 June 2026:
+
+- *The Bottleneck Is Data, and Europe Is Sitting on It* on [raskell.io](https://raskell.io/articles/the-bottleneck-is-data-and-europe-is-sitting-on-it/) (engineer's perspective, with full sources)
+
+Sources: [Epoch AI on the data limit](https://epoch.ai/publications/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data), [DSM Directive 2019/790](https://eur-lex.europa.eu/eli/dir/2019/790/oj), [Common Corpus (PleIAs)](https://huggingface.co/datasets/PleIAs/common_corpus), [NZZ archive](https://zeitungsarchiv.nzz.ch/), [Harvard Institutional Books](https://arxiv.org/pdf/2506.08300).
+
+---
+
+# A new face – and why we build it in the open
+
+> The Future has a new website: clearer in its message, deeper in its content, with a new brand. What has changed, how we decided and why we develop everything in public.
+
+Source: https://die-zukunft.ch/en/aktuelles/neues-gesicht/ · Published: 2026-11-07 · Publisher: The Future (Swiss political party, Basel)
+
+As of today, the new website of The Future is online. It looks different, but above all it says more clearly what we stand for: artificial intelligence and robotics can create prosperity for everyone. For that to happen, Switzerland needs a plan. The website should be able to show that plan in three seconds and explain it in three hours.
+
+---
+
+## First the stance, then the depth
+
+The old website was a sequence of slides. You scrolled, a page snapped into place, the next one followed. It felt calm, but it hid two things: our message and the depth behind it.
+
+The new homepage works in layers. At the very top is what we want: "The Future. We build it." and three phrases that sum up our stance: prosperity over scarcity thinking, security over fear, sovereignty over dependence. Below come the ten theses of the [manifesto](https://die-zukunft.ch/en/manifesto/), then all thirteen pillars of the [programme](https://die-zukunft.ch/en/program/) at a glance, then the evidence from the [Future Lab](https://die-zukunft.ch/en/zukunftslabor/). If you only have a minute, you will understand us. If you have an evening, you will find the sources.
+
+![The new homepage: wordmark, core statement and the Swiss cross made of cubes in the background](https://die-zukunft.ch/aktuelles/neues-gesicht/startseite.webp)
+
+---
+
+## A tangible future instead of science fiction
+
+The website was meant to feel futuristic, but not kitschy. No neon colours, no robot eyes. We took our cues from things you can touch: a light ground like ceramic, dark ink, fine lines as on a construction drawing. Behind every page stands the same object, a three-dimensional Swiss cross made of cubes. It turns slowly, responds to scrolling and steps back as soon as the text takes over.
+
+The new colour is called **Alpenglühen** (alpenglow): pink, magenta, violet and indigo, like the mountains in the first light of day. It stands for optimism without pathos and is clearly distinct from the colours of the established parties.
+
+The new icon, the **Würfelkreuz** (cube cross), is made of seven cubes. A Swiss cross assembled from building blocks: that is exactly what we intend to do in politics.
+
+---
+
+## How we decided
+
+We did not decide at the drawing board, but by direct comparison. For the wordmark we put fifteen variants side by side, for the colour nine palettes, for the icon fourteen drafts, each one large and small, light and dark, in all four languages. Some things we tried and dropped again, such as a red full stop in the wordmark. What remained is what works just as well on a phone as on a poster.
+
+![Nine colour palettes compared, here the chosen Alpenglühen](https://die-zukunft.ch/aktuelles/neues-gesicht/paletten.webp)
+
+It is the same method we propose for politics: lay the options side by side, test them, decide, and document openly why.
+
+---
+
+## What is new
+
+- **The vision as a blueprint.** The [vision](https://die-zukunft.ch/en/vision/) shows "the abundance stack": from energy through compute, sovereign AI and talent to application in every sector and a dividend for everyone. With figures, sources and targets with dates attached.
+- **A new pillar.** [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/) now comes first in the programme, because everything else builds on it.
+- **The manifesto, version 2.0.** Ten theses, each with a permanent address you can link to and quote.
+- **Pinning.** You can pin any section and find it again later. The pins stay in your browser, with no account and no cookies, and can be shared as a link.
+- **Calmer on your phone.** Many of you complained about the "magnetic" snapping while scrolling, especially on the iPhone. It is gone. The page scrolls freely, and forms no longer zoom in uninvited.
+
+![The new website on the iPhone](https://die-zukunft.ch/aktuelles/neues-gesicht/iphone.webp)
+
+---
+
+## Built in the open
+
+Every section has an address in the corner, for example 0x1002 for the first thesis. That gives away how we work: like an open software project. The website's source code, the design and all brand assets are public on [GitHub](https://github.com/zukunft-ch). At the bottom of every page you can see how much it weighs, measured in your browser, and that it runs without trackers.
+
+If you find a mistake, have a better wording or want to improve a translation, you can contribute directly, with an issue or a pull request. A party that calls for open government should work openly itself.
+
+The future is a construction project. So is this website. [Build it with us.](https://die-zukunft.ch/en/join/)
+
+---
+
+# Switzerland Is Number One. That Should Worry Us.
+
+> Switzerland tops the Global Innovation Index for the fifteenth year running. That describes the past. The substance we will be measured on is being built today.
+
+Source: https://die-zukunft.ch/en/aktuelles/platz-1-ist-kein-plan/ · Published: 2026-05-01 · Publisher: The Future (Swiss political party, Basel)
+
+Switzerland tops the Global Innovation Index for the fifteenth consecutive year. 66.0 out of 100, ahead of Sweden, the United States, Korea, and Singapore. It is a remarkable result. It is also a description of the past.
+
+Rankings measure outputs. Outputs come from decisions made ten to fifteen years earlier. What we see today on the index is the harvest of the Swiss education, research, and industrial fabric of the early 2010s. What we do not see is the substrate that will produce the next twenty years. That substrate appears in no ranking, because rankings are lagging indicators. By the time the score drops, the damage is already a decade old.
+
+---
+
+## What the rankings do not capture
+
+Innovation has a physical and institutional underlay. Six building blocks will be decisive over the next ten years:
+
+1. **Sovereign compute capacity.** Anyone serious about developing AI needs datacentres on home soil, with own energy and own hardware procurement. Switzerland has neither a strategic inventory nor a political target here.
+2. **Supply-chain proximity.** Semiconductors, precision machines, specialty chemistry, critical raw materials. Distance from the source is a risk that shows up in no innovation indicator.
+3. **Energy and manufacturing headroom.** Innovation does not scale without surplus energy capacity and manufacturing reserves. Both have become scarce across Europe.
+4. **Talent inflow.** Top international researchers, engineers, and founders decide in life-years, not in legislative terms. Obstacles we erect today land in 2035.
+5. **Anti-lock-in procurement.** When public administration, hospitals, and schools tie themselves to single vendors, innovation becomes a licence fee. Open standards and interchangeable components are a leading indicator of innovative capacity, not a footnote.
+6. **Dense expertise clusters.** Research strength comes from neighbourhood, not subsidy. Clusters take decades to grow and dissolve faster than they form.
+
+None of these six is visible in the GII score of 66.0.
+
+---
+
+## Where Switzerland is weak
+
+The GII 2025 decomposes the overall score into seven pillars. Switzerland ranks first on Creative outputs, second on Knowledge and technology outputs, third on Institutions, third on Market sophistication, fifth on Infrastructure, fifth on Business sophistication. On Human capital and research, Switzerland ranks sixth.
+
+That is the pillar that signals the next ten years. Education, doctorates, researchers per capita, public and private research spending. Precisely where the future is built, we are weakest.
+
+A comparison of research intensity reveals the pattern. Switzerland spent 3.31 per cent of GDP on R&D in 2021, historically between 3.1 and 3.4 per cent. Sweden reached 3.57 per cent in 2024. Belgium 3.36 per cent. Austria 3.26 per cent. Sweden has overtaken us on research intensity. Belgium and Austria are within reach.
+
+The European Innovation Scoreboard 2025 likewise places Switzerland first in Europe for the eighth consecutive year, with 169.3 points. But the score is slightly below the previous year. At regional level, Stockholm, Hovedstaden, and London now lead. Zurich is fourth, Ticino in the top ten.
+
+---
+
+## Patents say less than they appear to
+
+Patents per million inhabitants, 2023 data: Korea 3,696, Japan 1,839, Switzerland 1,212, China 1,079, United States 824. We are clearly ahead of the United States. But Korea has three times as many patents per capita, and the United States produces around 518,000 patents in absolute terms against 11,000 for Switzerland. Scale matters, because research ecosystems live on critical mass.
+
+Patents per capita are a vanity metric. They measure activity, not effect, and they capture neither open-source contributions nor industrial manufacturing capability nor standards-setting power. Israel, for example, appears in the statistics with around 170 patents per million, because its inventors mostly file abroad. Domestic innovative capacity is much higher.
+
+---
+
+## The window is closing
+
+By the time lagging indicators degrade, it is too late to act. Switzerland has the lead today to build the substrate for the next twenty years. In ten to fifteen years, that window is shut.
+
+Concretely: decisions on sovereign compute infrastructure, on talent policy, on procurement rules, on energy and manufacturing reserves, must be taken in this legislative term and the next. Later corrections are more expensive and slower, because clusters, supply chains, and talent flows have inertia. A university that loses its international pull does not regain it within one legislative term. A datacentre that does not exist cannot be built by decree.
+
+---
+
+## What this means for our programme
+
+The Future has argued from the start for digital sovereignty grounded in open standards, transparency, and security. The substrate gap is the reason for that position, not a political slogan. Specifically, we call for:
+
+- **Anti-lock-in as a procurement principle.** Federal, cantonal, and municipal procurement leaves vendor change always possible. Open data formats, documented interfaces, interchangeable components.
+- **Sovereign compute capacity as a national objective.** An inventory of Swiss datacentre capacity, its energy connection, and its procurement paths, with measurable expansion targets.
+- **Simpler talent inflow.** Researchers, engineers, and founders from third countries need shorter paths, not longer ones.
+- **Maintain and increase research intensity.** 3.5 per cent of GDP as the next target, with a clear public component.
+- **Create energy headroom.** Innovation and resilience need reserves, not scarcity.
+
+These are not new demands. They are the consequence of a simple observation: the ranking we are proud of describes our past. The substrate we will be measured on is being built today.
+
+---
+
+## Further reading
+
+This note is the civic translation of two companion articles published today, 1 May 2026:
+
+- *Patents Per Capita Is a Vanity Metric* on [raskell.io](https://raskell.io/articles/patents-per-capita-is-a-vanity-metric/) (engineering perspective)
+- *Europe Without Datacenters* on [archipelag.io](https://archipelag.io/news/europe-without-datacenters/) (industry and policy perspective)
+
+Sources: [WIPO GII 2025](https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html), [Switzerland profile GII 2025](https://www.wipo.int/edocs/gii-ranking/2025/ch.pdf), [WIPI 2024](https://www.wipo.int/web-publications/world-intellectual-property-indicators-2024-highlights/en/patents-highlights.html), [World Bank R&D as % of GDP](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CH), [European Innovation Scoreboard 2025](https://research-and-innovation.ec.europa.eu/knowledge-publications-tools-and-data/publications/all-publications/european-innovation-scoreboard-2025_en).
+
+---
+
+# Methodology
+
+> Our editorial guardrails: evidence levels, correction policy, source transparency.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/methodik/ · Publisher: The Future (Swiss political party, Basel)
+
+## Editorial principles
+
+The Future Lab publishes evidence-based analysis. Every note cites its sources, indicates the strength of evidence, and clearly distinguishes between data, interpretation, and policy positioning.
+
+## Evidence levels
+
+Every note receives one of three evidence levels:
+
+- **Strong evidence**: Peer-reviewed studies, official statistics (FSO, SECO, OECD), replicated results.
+- **Medium evidence**: Individual studies, working papers, official reports without peer review, consistent journalistic research.
+- **Weak evidence**: Pilot data, models with uncertain assumptions, single-case observations. Marked as questions and prompts for discussion.
+
+## Correction policy
+
+Mistakes are inevitable — what matters is how they are handled. Factual errors are corrected immediately and the correction is documented at the end of the note. If the data changes significantly, the note is updated with a change notice.
+
+## Update policy
+
+Notes are never deleted. When data becomes outdated, a notice is added. Major reassessments result in a new note that references the original.
+
+---
+
+# Automatisierung: Wie KI die Risikolandkarte verschiebt
+
+> LLM-fähige KI verändert das Automatisierungsrisiko: Bürojobs stärker exponiert, manuelle Arbeit weniger.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/automatisierungsrisiko-branchen/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
+Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
+weniger. ~1271965'000 Stellen unter Post-LLM-Risiko.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+BFS-SAKE-Beschäftigungsdaten (2024) und zwei Risikomodelle:
+OECD/Frey-Osborne (2018, Routinetätigkeiten) und IMF AI Preparedness
+Index (2024, LLM-Fähigkeiten). Exponierte Stellen = Beschäftigte × Risikoanteil.
+
+---
+
+### Beschäftigung nach Branche
+
+Die Branchenstruktur bildet den Kontext: Gesundheit, Handel und Bau beschäftigen die meisten Personen. Die Verteilung zeigt, welche Sektoren bei einem Automatisierungsschub die grössten absoluten Effekte spüren würden.
+
+---
+
+### Pre vs. Post LLM
+
+LLM-fähige KI verschiebt die Risikolandkarte grundlegend: Branchen wie Finanz- und Versicherungswesen, öffentliche Verwaltung und Information/Kommunikation sind Post-LLM deutlich stärker exponiert als im klassischen Routinemodell. Manuelle Berufe (Bau, Landwirtschaft) bleiben weitgehend unverändert.
+
+---
+
+### Risikoverschiebung
+
+Die Verschiebung zeigt Richtung und Ausmass der Veränderung. Positive Werte bedeuten erhöhtes Risiko durch LLM. Bürojobs steigen am stärksten — ein Signal, dass klassische Weiterbildungsprogramme für manuelle Berufe allein nicht ausreichen und auch Wissensarbeit in den Fokus rücken muss.
+
+---
+
+### Exponierte Stellen
+
+In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vielen Beschäftigten und hohem Post-LLM-Risiko führen zu zehntausenden potenziell exponierten Stellen. Das bedeutet nicht zwingend Jobverlust — aber die Notwendigkeit systematischer Übergangsgestaltung.
+
+---
+
+## Einschränkungen
+
+- Risikoschätzungen sind Branchendurchschnitte, nicht berufsspezifisch
+- Post-LLM-Schätzungen vorläufig (LLM-Fähigkeiten entwickeln sich schnell)
+- Tatsächliche Jobverluste hängen von Regulierung und Komplementarität ab
+
+---
+
+## Datenquellen
+
+- BFS SAKE 2024: Erwerbstätige nach Wirtschaftsabschnitt
+- OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
+- IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
+
+---
+
+# Digitale Bereitschaftslücke: Die Bevölkerung ist online — der Staat nicht
+
+> 90% der Schweizer nutzen das Internet, aber E-Government und Open Data liegen unter dem EU-Durchschnitt. Das Problem ist nicht technologisch — es ist institutionell.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/digitale-souveraenitaet-luecke/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+90% der Schweizer Bevölkerung nutzen das Internet regelmässig — aber
+E-Government-Nutzung, Online-Verfügbarkeit und Open-Data-Reife liegen
+unter dem EU-Durchschnitt. Die Bereitschaftslücke zwischen digitaler
+Bevölkerung und digitalem Staat beträgt 12.1 Prozentpunkte.
+Das E-ID-Referendum 2021 zeigt: Die Lösung muss staatlich und
+datenschutzfreundlich sein.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Die Analyse kombiniert zwei BFS-Omnibus-ICT-Datensätze (2014–2025):
+Internetnutzung nach Altersgruppe (E-Mail als Proxy) und
+E-Government-Nutzung nach Dienstart. Die «Bereitschaftslücke» ist die
+Differenz zwischen allgemeiner Internetnutzung und E-Gov-Nutzung der
+Gesamtbevölkerung. Ergänzt durch das EU Open Data Maturity Ranking und
+VOX/Sotomo-Daten zum E-ID-Referendum 2021.
+
+---
+
+### Internetnutzung nach Altersgruppe
+
+Nahezu alle Altersgruppen unter 65 liegen über 90% Internetnutzung. Selbst die 65–74-Jährigen sind inzwischen mehrheitlich online. Das Problem ist nicht die digitale Kompetenz der Bevölkerung — es ist die fehlende digitale Infrastruktur auf Staatsseite.
+
+---
+
+### E-Government-Nutzung
+
+Die E-Government-Nutzung stagniert seit Jahren. Trotz zunehmender Internetdurchdringung ist der Anteil der Bevölkerung, der staatliche Online-Dienste nutzt, kaum gewachsen. Das deutet auf ein Angebotsproblem hin: Nicht die Nachfrage fehlt, sondern brauchbare digitale Services.
+
+---
+
+### Bereitschaftslücke
+
+Die Lücke zwischen allgemeiner Internetnutzung und E-Gov-Nutzung beträgt rund 12 Prozentpunkte. Diese Bereitschaftslücke ist kein technologisches, sondern ein institutionelles Problem: Die Bevölkerung ist bereit — der Staat nicht.
+
+---
+
+### E-ID-Referendum: Vertrauensfrage
+
+Das Nein zur E-ID 2021 war keine Ablehnung digitaler Identitäten, sondern des privatwirtschaftlichen Modells. Datenschutzbedenken und fehlendes Vertrauen in private Anbieter waren die Hauptmotive. Eine staatliche, datenschutzfreundliche Lösung hat weiterhin breite Unterstützung.
+
+---
+
+### Open-Data-Reife
+
+Im EU Open Data Maturity Ranking liegt die Schweiz unter dem Durchschnitt — sowohl bei der Verfügbarkeit als auch bei der Nutzbarkeit offener Verwaltungsdaten. Das erschwert Innovation, Transparenz und datenbasierte Politikgestaltung.
+
+---
+
+## Einschränkungen
+
+- E-Mail-Nutzung als Proxy für Internetnutzung (BFS-Definition)
+- E-Gov-Daten nicht nach Altersgruppe verfügbar — Lücke nur auf Totalebene berechenbar
+- Open-Data-Score basiert auf EU-Methodik (Schweiz als Beobachterstaat)
+- E-ID-Motive: VOX-Nachbefragung mit begrenzter Stichprobe
+
+---
+
+## Datenquellen
+
+- BFS Omnibus ICT 2014–2025: Internetnutzung, E-Government-Nutzung
+- EU Open Data Maturity Report 2023 (data.europa.eu)
+- VOX/Sotomo: Nachbefragung E-ID-Referendum 7. März 2021
+
+---
+
+# Stresstest Strom: Was passiert bei Trockenheit plus Atomausstieg?
+
+> Vier Szenarien zeigen, wie verwundbar die Schweizer Stromversorgung ist — von der Baseline bis zum Worst Case aus Trockenheit und Kernkraft-Abschaltung.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/energieresilienz-stressszenarien/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Vier Stressszenarien auf Basis realer BFE-Daten (2024) zeigen:
+Im Worst Case (Trockenjahr + Atomausstieg) müsste die Schweiz
+39.1% ihres Stroms importieren — Kosten
+2.29 Mrd. CHF/Jahr bei aktuellen Spotpreisen.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Grundlage ist die BFE-Elektrizitätsbilanz (OGD, 2024). Vier Szenarien
+modifizieren die Produktionszahlen des Basisjahres:
+
+- **A — Baseline**: Reale Produktion 2024
+- **B — Trockenjahr**: -30% Wasserkraftproduktion (historisch plausibel, z.B. 2022)
+- **C — Atomausstieg**: Kernkraftwerke abgeschaltet (-22983 GWh)
+- **D — Kombiniert**: Trockenjahr + Atomausstieg
+
+Importkosten berechnet bei 90 EUR/MWh (europ. Spotpreis-Durchschnitt).
+Endenergieverbrauch nach Sektor aus der BFE-Gesamtenergiebilanz.
+
+---
+
+### Strommix
+
+Wasserkraft und Kernenergie dominieren die Schweizer Stromproduktion mit zusammen über 90%. Diese Konzentration auf zwei Quellen ist zugleich Stärke (CO₂-arm) und Verwundbarkeit — beide reagieren empfindlich auf externe Schocks: Trockenheit bei Wasser, politische Entscheide bei Atom.
+
+---
+
+### Endenergieverbrauch nach Sektor
+
+Industrie und Verkehr sind die grössten Stromverbraucher. Die Sektorverteilung zeigt, wo Effizienzgewinne und Elektrifizierung (z.B. E-Mobilität) den grössten Hebel haben — und wo zusätzlicher Strombedarf entstehen wird.
+
+---
+
+### Stressszenarien
+
+Vier Szenarien zeigen die Bandbreite der Verwundbarkeit: Von der stabilen Baseline bis zum Worst Case (Trockenjahr + Atomausstieg). Im kombinierten Szenario entsteht eine Importabhängigkeit, die bei angespannten europäischen Märkten nicht ohne weiteres gedeckt werden kann.
+
+---
+
+### Importkosten
+
+Die finanziellen Folgen der Importabhängigkeit sind erheblich: Im Worst Case liegen die jährlichen Importkosten bei mehreren Milliarden Franken — berechnet zu aktuellen europäischen Spotpreisen. Bei Marktspitzen (wie 2022) wären die Kosten ein Vielfaches davon.
+
+---
+
+## Einschränkungen
+
+- Statische Szenarien (kein Ausbau Solar/Wind, keine Nachfragereduktion)
+- Importpreise schwanken stark (2022: bis 400 EUR/MWh)
+- Saisonale Effekte nicht modelliert (Winterlücke > Jahresdurchschnitt)
+- Keine Speichereffekte (Pumpspeicher, Batterien)
+
+---
+
+## Datenquellen
+
+- BFE: Schweizerische Elektrizitätsbilanz (OGD, Jahreswerte)
+- BFE: Schweizerische Gesamtenergiebilanz (Endenergieverbrauch nach Sektor)
+- ENTSO-E: Europäische Strompreise (Day-Ahead-Spotmarkt)
+
+---
+
+# Forschung: Wer forscht, wer zahlt — und was kommt zurück?
+
+> Die Schweiz ist Weltspitze bei F&E pro Kopf und Patenteffizienz. Aber die Privatwirtschaft dominiert — und die Frage nach dem öffentlichen Ertrag öffentlicher Forschung bleibt offen.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/forschung-wer-forscht-wer-zahlt/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Die Schweiz investiert 25.6 Mrd. CHF in F&E
+(2023) und erzielt mit 182 EPO-Patenten pro Milliarde weltweit die
+höchste Patenteffizienz. Aber die Privatwirtschaft überwiegt die öffentliche
+Forschung um das 2.37-Fache — und die Top 2 Sektoren
+vereinen 45.4% der Ausgaben.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Grundlage sind die BFS-Forschungsstatistik (intramuros F&E-Aufwendungen nach Sektor,
+2000–2023) und EPO-Patentdaten (Annual Report 2023). Die
+Privatwirtschaft umfasst Pharma, Metallurgie, ICT, Instrumente und andere
+Industriesektoren. Öffentlich: Hochschulen, ETH-Bereich, Bundesämter.
+
+---
+
+### F&E-Ausgaben im Zeitverlauf
+
+Die Privatwirtschaft dominiert die F&E-Ausgaben und ihr Anteil wächst. Das zeigt Innovationskraft — aber auch eine Abhängigkeit: Wenn wenige Grosskonzerne den Grossteil der Forschung finanzieren, entstehen blinde Flecken bei Themen ohne direkten Marktanreiz.
+
+---
+
+### Privat vs. Öffentlich
+
+Das Verhältnis zwischen privaten und öffentlichen F&E-Ausgaben ist in der Schweiz eines der höchsten weltweit. Das ist einerseits ein Zeichen für eine forschungsstarke Privatwirtschaft — andererseits stellt sich die Frage, ob öffentliche Forschung genug Eigengewicht hat, um Grundlagen und Gemeinwohlthemen abzudecken.
+
+---
+
+### Patenteffizienz im internationalen Vergleich
+
+Die Schweiz erzielt weltweit die höchste Patenteffizienz: Mehr EPO-Patente pro investierte Milliarde als jedes andere Land. Das spricht für eine effektive Umsetzungskette von Forschung zu verwertbarem Wissen — ein Standortvorteil, der gepflegt werden muss.
+
+---
+
+### Sektorkonzentration
+
+Zwei Sektoren — Pharma und ICT — vereinen den Grossteil der privaten F&E. Das macht die Forschungslandschaft verletzlich: Ein Standortwechsel eines einzigen Unternehmens könnte die Gesamtstatistik markant verschieben. Diversifikation der Forschungsbasis ist eine strategische Frage.
+
+---
+
+## Einschränkungen
+
+- BFS-Daten alle 2 Jahre erhoben (keine Jahreswerte)
+- Patenteffizienz: EPO-Patente als Proxy (nicht alle Innovationen münden in Patente)
+- Private F&E-Ausgaben teilweise geschätzt (Unternehmensgeheimnisse)
+- Sektorklassifikation folgt BFS-Logik (Frascati-Manual)
+
+---
+
+## Datenquellen
+
+- BFS: Forschung und Entwicklung — Intramuros-Aufwendungen (2000–2023)
+- EPO: Annual Report 2023 — Patentanmeldungen nach Herkunftsland
+- OECD: Main Science and Technology Indicators (GERD)
+
+---
+
+# Gesundheitskosten: Wo fliesst das Geld — und wo versickert es?
+
+> Die Schweiz gibt 5.2% der Gesundheitsausgaben für Verwaltung aus — deutlich über dem OECD-Schnitt. Der Überschuss kostet ~10 CHF pro Person und Monat.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/gesundheitskosten-verwaltung-fokus/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Die Schweiz gibt 82472 Mio. CHF für Gesundheit aus
+(2019), davon 4.03% für Verwaltung.
+Im OECD-Vergleich liegt die Schweiz mit 5.2% weit über dem Schnitt
+(3.3%) — der Überschuss kostet ~10 CHF/Person/Monat.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+BFS-Gesundheitsausgabenstatistik (1995–2019) nach dem
+System of Health Accounts (SHA). Kategorien: Ambulante/stationäre Kurativbehandlung,
+Langzeitpflege, Gesundheitsgüter, Verwaltung, Prävention. Internationaler Vergleich
+auf Basis OECD Health at a Glance 2023.
+
+---
+
+### Ausgaben nach Kategorie im Zeitverlauf
+
+Die Gesundheitsausgaben steigen kontinuierlich — aber nicht gleichmässig. Während ambulante und stationäre Versorgung den Löwenanteil ausmachen, wächst der Verwaltungsanteil überproportional. Das wirft die Frage auf, wie viel vom Prämienanstieg in Behandlung fliesst und wie viel in Bürokratie.
+
+---
+
+### Verwaltungsanteil im Zeitverlauf
+
+Der Verwaltungsanteil steigt langsam, aber stetig. Das ist kein Zufall: Die fragmentierte Versicherungslandschaft mit über 50 Krankenkassen erzeugt strukturelle Mehrkosten — Rechnungswesen, Marketing, Risikoselektion — die in einem Einheitssystem nicht anfallen würden.
+
+---
+
+### Internationaler Vergleich
+
+Die Schweiz liegt bei den Verwaltungskosten deutlich über dem OECD-Durchschnitt. Länder mit zentralisierteren Systemen (z.B. skandinavische Staaten) erzielen tiefere Admin-Anteile bei vergleichbarer oder besserer Versorgungsqualität. Der Vergleich zeigt: Effizienzgewinne sind möglich.
+
+---
+
+### Verwaltungsüberschuss
+
+Der Überschuss gegenüber dem OECD-Schnitt lässt sich in Franken pro Person und Monat ausdrücken. Dieses Geld geht nicht in Behandlungen, Medikamente oder Pflege — es finanziert administrative Strukturen, deren Vereinfachung direkt Prämien senken würde.
+
+---
+
+## Einschränkungen
+
+- SHA-Harmonisierung erleichtert Vergleiche, aber Systemunterschiede bleiben
+- Verwaltungskosten enthalten auch Qualitätssicherung und Regulierungsaufwand
+- Einheitskasse vs. Wettbewerbsmodell erzeugt strukturell verschiedene Admin-Kosten
+- OECD-Daten teilweise zeitlich versetzt (2021–2023)
+
+---
+
+## Datenquellen
+
+- BFS: Kosten und Finanzierung des Gesundheitswesens (1995–2019)
+- OECD: Health at a Glance 2023 — Health Expenditure and Financing
+- WHO: Global Health Expenditure Database
+
+---
+
+# Grundeinkommen: Drei Finanzierungsmodelle im Vergleich
+
+> Was passiert mit der Einkommensverteilung, wenn ein UBI über Einkommensteuer, Transferablösung oder Konsumsteuer finanziert wird? Dezil-Simulation mit BFS-Daten.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/grundeinkommen-finanzierungsmodelle/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Drei Finanzierungsmodelle für ein bedingungsloses Grundeinkommen von CHF 2'500/Monat
+zeigen grundlegend verschiedene Verteilungswirkungen. Eine pauschale Einkommensteuer
+senkt den Gini am stärksten. Die Ablösung bestehender Transfers spart zwar Steuern,
+kann aber die ärmsten Haushalte schlechter stellen — ein nicht-trivialer Befund.
+Eine Konsumsteuer wirkt progressiv, aber schwächer.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Grundlage sind die Einkommensanteile nach Dezilen aus der
+Haushaltsbudgeterhebung (HABE) 2018 des BFS. Daraus werden absolute
+Monatseinkommen pro Dezil geschätzt (Anteil × Mittelwert × 10).
+
+Drei Finanzierungsszenarien werden simuliert:
+
+- **A — Pauschale Einkommensteuer**: Bruttokosten (CHF 222.0 Mrd./Jahr)
+  werden über einen linearen Einkommensteuerzuschlag finanziert.
+- **B — Transferablösung**: AHV, IV, EL, Sozialhilfe, ALV und Familienzulagen
+  (CHF 79.0 Mrd.) werden durch das UBI ersetzt.
+  Der verbleibende Betrag wird über Einkommensteuer finanziert.
+- **C — Konsumsteuer**: Die Finanzierung erfolgt über einen MwSt.-Zuschlag.
+  Konsumquoten variieren nach Dezil (D1: 95%, D10: 55%).
+
+---
+
+### Baseline: Einkommensverteilung 2018
+
+Die heutige Einkommensverteilung zeigt eine starke Konzentration: Das oberste Dezil verfügt über rund einen Viertel des Gesamteinkommens, das unterste über weniger als 3%. Diese Baseline ist der Ausgangspunkt für alle drei Szenarien — sie zeigt, von welcher Ausgangslage aus Umverteilung wirkt.
+
+---
+
+### Nettowirkung der drei Szenarien
+
+Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkommensteuer) verteilt linear um — untere Dezile gewinnen, obere verlieren. Szenario B (Transferablösung) produziert ein Paradox: Die untersten Dezile können netto verlieren, weil bestehende Transfers höher waren als das UBI. Szenario C (Konsumsteuer) belastet untere Dezile stärker über ihre höhere Konsumquote.
+
+---
+
+### Gini-Koeffizient nach Szenario
+
+Der Gini-Koeffizient misst die Einkommenskonzentration (0 = perfekte Gleichheit, 1 = totale Ungleichheit). Szenario A senkt den Gini am stärksten, weil die progressive Finanzierung direkt umverteilt. Szenario B verändert ihn kaum, weil es bestehende Transfers nur ersetzt. Szenario C wirkt sogar leicht regressiv.
+
+---
+
+### Relative Gewinner und Verlierer
+
+Hier wird sichtbar, welche Dezile netto gewinnen oder verlieren. Der Wendepunkt variiert je nach Finanzierungsmodell. In Szenario B zeigt sich das Transferparadox am deutlichsten: Dezile 1–2, die stark von bestehenden Sozialleistungen abhängen, profitieren weniger als die Mittelschicht — ein kontraintuitives Ergebnis, das bei der politischen Umsetzung entscheidend ist.
+
+---
+
+## Einschränkungen
+
+- Aggregierte Dezildaten statt Mikrodaten (Individualdaten erfordern BFS-Antrag)
+- Keine Verhaltensanpassungen (Arbeitsangebot, Konsummuster)
+- Transferverteilung auf Dezile geschätzt (nicht direkt aus SILC-Mikrodaten)
+- Konsumquoten nach Dezil basieren auf Literaturwerten, nicht BFS-HABE-Detail
+- Daten nur bis 2018 verfügbar (neueste BFS-HABE-Publikation)
+
+---
+
+## Datenquellen
+
+- BFS HABE 2018: Einkommensanteile nach Dezilen (Verfügbares Äquivalenzeinkommen)
+- BSV Sozialversicherungsstatistik: Transfervolumen AHV, IV, EL, ALV
+- BFS SILC: publizierte Verteilungsanteile der Sozialtransfers
+
+---
+
+# Mietbelastung: Wann wird es in welchem Kanton kritisch?
+
+> Das unterste Quintil zahlt 40% für Miete. Bei aktuellen Trends überschreiten weitere Kantone die 30%-Schwelle.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/mietbelastung-kantonale-prognose/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Das unterste Quintil zahlt 40% für Miete. Bei aktuellem Mietpreiswachstum und
+1% Einkommenszuwachs überschreiten mehrere Kantone die 30%-Schwelle bis 2035.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+BFS-Mietpreisstatistik (2010–2023, 3-Zimmer nach Kanton) und
+BFS-SILC-Mietbelastungsquoten. CAGR aus 2010/2023-Verhältnis.
+Schwellenprognose: Miete×(1+CAGR)^t / Einkommen×(1+1%)^t = 30%.
+
+---
+
+### Mietbelastung nach Einkommensquintil
+
+Das unterste Quintil gibt rund 40% des verfügbaren Einkommens für Miete aus — weit über der 30%-Schwelle, die als kritisch gilt. Die oberen Quintile liegen bei 15–20%. Die Mietbelastung wirkt wie eine regressive Steuer: Wer weniger verdient, zahlt prozentual mehr.
+
+---
+
+### Mietpreise nach Kanton
+
+Die kantonalen Unterschiede sind erheblich: Zürich, Genf und Zug liegen an der Spitze, ländliche Kantone deutlich darunter. Die Grafik zeigt die Preisspanne einer durchschnittlichen 3-Zimmer-Wohnung — der meistverbreitete Wohnungstyp in der Schweiz.
+
+---
+
+### Mietpreiswachstum (CAGR)
+
+Das jährliche Mietpreiswachstum (CAGR) variiert stark zwischen den Kantonen. Einige Kantone wachsen doppelt so schnell wie andere — bei gleichzeitig stagnierenden Reallöhnen entsteht eine zunehmende Schere. Das Wachstumstempo bestimmt, wann die Belastungsschwelle überschritten wird.
+
+---
+
+### Schwellenprognose
+
+Bei Fortschreibung der aktuellen Trends und einem angenommenen Einkommenswachstum von 1% pro Jahr überschreiten mehrere Kantone die 30%-Schwelle bis 2035. Die Prognose ist konservativ — Neuvertragsmieten liegen oft deutlich über Bestandsmieten.
+
+---
+
+## Einschränkungen
+
+- CAGR extrapoliert Vergangenheitstrend
+- Q1-Einkommen nicht kantonal differenziert
+- Bestandsmieten (Neuvertragsmieten oft höher)
+
+---
+
+## Datenquellen
+
+- BFS Strukturerhebung: Mietpreise nach Kanton und Zimmerzahl
+- BFS SILC 2022: Mietbelastungsquote nach Quintil
+
+---
+
+# Talent & Migration: Werden Qualifikationen genutzt — oder verschwendet?
+
+> 36% der Drittstaatsangehörigen arbeiten unter ihrem Qualifikationsniveau. Das ist kein Integrationsversagen — es ist Wertschöpfungsverlust.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/talent-ueberqualifikation/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Die Schweiz hat 2024 eine Nettowanderung von +82792 Personen.
+Doch Qualifikationen werden systematisch verschwendet: 36% der Drittstaatsangehörigen
+arbeiten unter Niveau (vs. 13% der Schweizer/innen). Der geschätzte Wertschöpfungsverlust
+beträgt ~3.6 Mrd. CHF jährlich.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Bevölkerungsdaten: BFS Statistik der Bevölkerung und der Haushalte (2010–2024).
+Wanderungsdaten: BFS Wanderungsstatistik (1991–2024).
+Überqualifikation: BFS Strukturerhebung / SAKE (Selbsteinschätzung + formale Qualifikation),
+ergänzt durch OECD Indicators of Talent Attractiveness 2023.
+
+---
+
+### Ausländische Bevölkerung nach Bewilligungstyp
+
+Die Zusammensetzung der ausländischen Bevölkerung hat sich verschoben: EU/EFTA-Niederlassungen dominieren, Kurzaufenthalte schwanken konjunkturell. Die Grafik zeigt die Bestandsentwicklung — ein stabiles Wachstum, das die Arbeitskräftenachfrage der Schweizer Wirtschaft widerspiegelt.
+
+---
+
+### Nettowanderung nach Herkunft
+
+Die Nettowanderung zeigt, wer kommt und wer geht. EU/EFTA-Bürger stellen den Grossteil des Zuzugs — getrieben durch die Personenfreizügigkeit. Drittstaatsangehörige kommen in geringerer Zahl, haben aber die grössten Integrationshürden bei der Berufsanerkennung.
+
+---
+
+### Überqualifikationsrate nach Herkunftsgruppe
+
+36% der Drittstaatsangehörigen arbeiten unter ihrem Qualifikationsniveau — fast dreimal so viel wie bei Schweizer/innen (13%). Das ist kein Integrationsversagen der Betroffenen, sondern ein strukturelles Problem: Diplomanerkennung, Sprachbarrieren und berufliche Schutzregelungen verhindern den qualifikationsgerechten Einsatz.
+
+---
+
+### Sektoren mit hohem Überqualifikationsanteil
+
+Bestimmte Sektoren «verschwenden» systematisch Talent: Gastgewerbe, Reinigung und Detailhandel beschäftigen besonders viele Überqualifizierte. Das ist Wertschöpfungsverlust in doppeltem Sinn — für die Betroffenen (Lohneinbusse) und für die Volkswirtschaft (ungenutzte Kompetenz).
+
+---
+
+## Einschränkungen
+
+- Überqualifikation basiert auf Selbsteinschätzung und formaler Diplomanerkennung
+- Nicht alle ausländischen Diplome sind automatisch gleichwertig (Sprachbarrieren, Berufsschutz)
+- Ökonomische Verlustschätzung ist Grössenordnung (Lohndifferenz variiert stark nach Sektor)
+- SAKE-Daten sind Stichprobendaten mit Konfidenzintervallen
+
+---
+
+## Datenquellen
+
+- BFS: Statistik der Bevölkerung und der Haushalte (STATPOP)
+- BFS: Wanderungsstatistik (internationale Wanderungen)
+- BFS: Strukturerhebung — Erwerbstätigkeit nach Qualifikation und Nationalität
+- OECD: Indicators of Talent Attractiveness 2023
+
+---
+
+# Verteidigung: Was kauft der Schweizer Verteidigungsfranken?
+
+> Die Schweiz gibt 0.706% des BIP für Verteidigung aus. 58% gehen in Personal — aber die Bevölkerung will Cyber und Katastrophenhilfe.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/verteidigung-ausgaben-prioritaeten/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Die Schweiz gibt 0.706% des BIP für Verteidigung aus (2023). Die
+Miliz-Truppenstärke (140'000) bindet 58% des Budgets für Personal. Cyber und
+Katastrophenhilfe — Toppriorität der Bevölkerung (82%/88%) — erhalten je nur 3-4%.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Verteidigungsausgaben als BIP-Anteil: World Bank / SIPRI (2000–2023,
+8 Länder). Pro-Soldat-Kosten: IISS Military Balance 2024.
+Budgetallokation: VBS Armeebotschaft 2024, vereinfachte Kategorien.
+Bevölkerungsprioritäten: ETH CSS Sicherheitsstudie 2024.
+
+---
+
+### Schweizer Ausgabentrend
+
+Die Schweizer Verteidigungsausgaben sind seit den 1990er-Jahren kontinuierlich gesunken und liegen heute deutlich unter 1% des BIP. Der aktuelle politische Druck zur Aufstockung steht im Kontrast zu einem Jahrzehnte langen Spartrend — die Frage ist nicht nur «wie viel mehr», sondern «wofür».
+
+---
+
+### Internationaler Vergleich
+
+Im internationalen Vergleich liegt die Schweiz am unteren Ende — unter dem NATO-Ziel von 2% und unter den meisten europäischen Nachbarn. Dabei ist zu beachten: Die Schweiz hat keine Bündnisverpflichtungen, was den direkten Vergleich relativiert, aber die Fähigkeitslücken nicht kleiner macht.
+
+---
+
+### Kosten pro aktivem Soldaten
+
+Das Milizmodell führt zu einer besonderen Kostenstruktur: Die Schweiz hat 140'000 Angehörige der Armee, aber der Grossteil dient im Milizdienst. Die Kosten pro Soldat liegen im Vergleich zu Berufsarmeen tiefer — dafür binden Personalkosten 58% des Gesamtbudgets und lassen wenig Raum für Modernisierung.
+
+---
+
+### Budget vs. Bevölkerungsprioritäten
+
+Die Diskrepanz zwischen Budgetallokation und Bevölkerungsprioritäten ist frappant: Cyber-Sicherheit und Katastrophenhilfe werden von 82–88% der Bevölkerung als prioritär eingestuft, erhalten aber je nur 3–4% des Budgets. Klassische Landesverteidigung bindet das meiste Geld — obwohl die Bedrohungswahrnehmung sich verschoben hat.
+
+---
+
+## Einschränkungen
+
+- Miliz-Truppenstärke ≠ Vollzeitäquivalente (Kosten pro AdA nicht direkt vergleichbar)
+- VBS-Budgetkategorien vereinfacht dargestellt
+- Bevölkerungsprioritäten: Befragung (nicht gewichtet nach Sicherheitsexpertise)
+- SIPRI-Daten: Definitionsunterschiede bei Verteidigungsausgaben zwischen Ländern
+
+---
+
+## Datenquellen
+
+- World Bank / SIPRI: Military expenditure (% of GDP), 2000–2023
+- IISS: Military Balance 2024 — Truppenstärke und Budgets
+- VBS: Armeebotschaft 2024 — Budgetallokation
+- ETH CSS: Sicherheit 2024 — Sicherheitspolitische Meinungsbildung
+
+---
+
+# Weiterbildung: Wer bildet sich weiter — und wer nicht?
+
+> Die Schere bei der Weiterbildung ist riesig: Hochqualifizierte bilden sich 2.6× häufiger weiter als Geringqualifizierte. Gerade die am stärksten exponierten Branchen investieren zu wenig.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/weiterbildung-teilnahme-luecken/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Die Weiterbildungsteilnahme stagniert bei 60% — und die Schere zwischen
+Hoch- und Geringqualifizierten (79% vs. 30%) ist enorm. Branchen mit
+hohem Automatisierungsrisiko bilden sich oft unterdurchschnittlich weiter.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Weiterbildungsdaten aus dem BFS Mikrozensus Aus- und Weiterbildung
+(2011, 2016, 2021). Teilnahme an nicht-formaler Weiterbildung (Kurse,
+Seminare, betriebliche Schulungen). Beschäftigungsdaten aus BFS SAKE
+(2024). Automatisierungsrisiko: IMF AI Preparedness Index 2024.
+
+---
+
+### Nach Bildungsniveau
+
+Hochqualifizierte bilden sich 2.6-mal häufiger weiter als Geringqualifizierte. Diese Schere ist das zentrale Problem: Wer bereits gut ausgebildet ist, investiert weiter — wer es am meisten bräuchte, bleibt zurück. Ohne gezielte Angebote für Geringqualifizierte verschärft Weiterbildung die Ungleichheit statt sie zu mindern.
+
+---
+
+### Nach Altersgruppe
+
+Die Teilnahme fällt ab 45 Jahren deutlich ab. Gerade für die Altersgruppe 45–64 ist Weiterbildung aber entscheidend: Sie müssen noch 15–20 Jahre in einem sich wandelnden Arbeitsmarkt bestehen. Der Rückgang ist weniger ein individuelles Problem als ein Versagen der betrieblichen und institutionellen Angebotsstruktur.
+
+---
+
+### Zeitreihe
+
+Ein Jahrzehnt nahezu Stillstand: Die Gesamtquote bewegt sich seit 2011 um die 60%. Trotz Digitalisierungsdebatte, Automatisierungsängsten und politischer Rhetorik hat sich an der tatsächlichen Weiterbildungsbeteiligung wenig geändert.
+
+---
+
+### Kreuzanalyse mit Automatisierungsrisiko
+
+Der kritischste Befund: Branchen mit dem höchsten Automatisierungsrisiko weisen oft die tiefste Weiterbildungsquote auf. Die am stärksten exponierten Sektoren investieren am wenigsten in die Anpassungsfähigkeit ihrer Beschäftigten — ein strukturelles Risiko, das politische Intervention erfordert.
+
+---
+
+## Einschränkungen
+
+- BFS Mikrozensus wird nur alle 5 Jahre erhoben
+- Branchenspezifische Weiterbildungsquoten teilweise geschätzt
+- Qualität der Weiterbildung nicht erfasst (nur Teilnahme)
+- Korrelation ≠ Kausalität
+
+---
+
+## Datenquellen
+
+- BFS: Mikrozensus Aus- und Weiterbildung 2011, 2016, 2021
+- BFS: SAKE 2024 — Erwerbstätige nach Wirtschaftsabschnitt
+- IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
