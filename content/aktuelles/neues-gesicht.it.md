@@ -1,0 +1,63 @@
++++
+title = "Un volto nuovo – e perché lo costruiamo apertamente"
+description = "Il sito di Il Futuro è nuovo: più chiaro nel messaggio, più approfondito nei contenuti, con un nuovo marchio. Cosa è cambiato, come abbiamo deciso e perché sviluppiamo tutto pubblicamente."
+date = 2026-11-07
+template = "page.html"
+
+[extra]
+og_image = "og/aktuelles/neues-gesicht.it.png"
++++
+
+Da oggi il nuovo sito di Il Futuro è online. Ha un aspetto diverso, ma soprattutto dice più chiaramente che cosa ci sta a cuore: l'intelligenza artificiale e la robotica possono creare prosperità per tutte e tutti. Perché ciò riesca, la Svizzera ha bisogno di un piano. Il sito deve poter mostrare questo piano in tre secondi e spiegarlo in tre ore.
+
+---
+
+## Prima la posizione, poi la profondità
+
+Il vecchio sito era una sequenza di diapositive. Si scorreva, una pagina scattava in posizione, arrivava la successiva. Sembrava ordinato, ma nascondeva due cose: il nostro messaggio e la profondità che c'è dietro.
+
+La nuova pagina iniziale funziona a livelli. In cima c'è ciò che vogliamo: «Il Futuro. Lo costruiamo.» e tre frasi che riassumono la nostra posizione: prosperità invece di pensiero di scarsità, sicurezza invece di paura, sovranità invece di dipendenza. Seguono le dieci tesi del [manifesto](@/manifest.md), poi tutti i tredici pilastri del [programma](@/programm.md) a colpo d'occhio, poi le prove dal [Laboratorio del futuro](@/zukunftslabor/_index.md). Se hai solo un minuto, ci capisci. Se hai una serata, trovi le fonti.
+
+![La nuova pagina iniziale: logotipo, frase chiave e la croce svizzera di cubi sullo sfondo](/aktuelles/neues-gesicht/startseite.webp)
+
+---
+
+## Un futuro concreto invece della fantascienza
+
+Il sito doveva sembrare futuristico, ma non kitsch. Niente colori al neon, niente occhi di robot. Ci siamo ispirati a cose che si possono toccare: un fondo chiaro come la ceramica, inchiostro scuro, linee sottili come su un progetto di costruzione. Dietro ogni pagina c'è lo stesso oggetto, una croce svizzera tridimensionale fatta di cubi. Ruota lentamente, reagisce allo scorrimento e si ritira non appena tocca al testo.
+
+Il nuovo colore si chiama **Alpenglühen** (l'enrosadira): rosa, magenta, viola e indaco, come le montagne alle prime luci del giorno. Esprime ottimismo senza retorica e si distingue chiaramente dai colori dei partiti affermati.
+
+La nuova icona, il **Würfelkreuz** (croce di cubi), è composta da sette cubi. Una croce svizzera assemblata con dei mattoncini: è esattamente ciò che intendiamo fare in politica.
+
+---
+
+## Come abbiamo deciso
+
+Non abbiamo deciso al tavolo da disegno, ma con il confronto diretto. Per il logotipo abbiamo messo una accanto all'altra quindici varianti, per il colore nove palette, per l'icona quattordici bozze, ogni volta in grande e in piccolo, in chiaro e in scuro, in tutte e quattro le lingue. Alcune cose le abbiamo provate e poi scartate, per esempio un punto finale rosso nel logotipo. È rimasto ciò che funziona sul telefono tanto quanto su un manifesto.
+
+![Nove palette di colori a confronto, qui l'Alpenglühen scelto](/aktuelles/neues-gesicht/paletten.webp)
+
+È lo stesso metodo che proponiamo per la politica: mettere le varianti una accanto all'altra, esaminarle, decidere e documentare apertamente il perché.
+
+---
+
+## Cosa c'è di nuovo
+
+- **La visione come progetto di costruzione.** La [visione](@/vision.md) mostra «lo stack dell'abbondanza»: dall'energia, passando per la potenza di calcolo, l'IA sovrana e i talenti, fino all'applicazione in tutti i settori e a un dividendo per tutte e tutti. Con cifre, fonti e obiettivi con una data.
+- **Un nuovo pilastro.** [IA sovrana & potenza di calcolo](@/souveraene-ki.md) è ora al primo posto del programma, perché tutto il resto si basa su di esso.
+- **Il manifesto, versione 2.0.** Dieci tesi, ognuna con un indirizzo permanente che si può collegare e citare.
+- **Fissare.** Puoi fissare ogni sezione e ritrovarla più tardi. I pin restano nel tuo browser, senza account e senza cookie, e si possono condividere come link.
+- **Più tranquillo sul telefono.** Molti si sono lamentati dello scatto «magnetico» durante lo scorrimento, soprattutto sull'iPhone. Non c'è più. La pagina scorre liberamente, e i moduli non zoomano più senza essere richiesti.
+
+![Il nuovo sito sull'iPhone](/aktuelles/neues-gesicht/iphone.webp)
+
+---
+
+## Costruito apertamente
+
+Ogni sezione ha un indirizzo nell'angolo, per esempio 0x1002 per la prima tesi. Questo rivela come lavoriamo: come in un progetto software aperto. Il codice sorgente del sito, il design e tutti gli elementi del marchio sono pubblici su [GitHub](https://github.com/zukunft-ch). In fondo a ogni pagina è indicato quanto pesa, misurato nel tuo browser, e che funziona senza tracker.
+
+Se trovi un errore, hai una formulazione migliore o vuoi migliorare una traduzione, puoi collaborare direttamente, con una issue o una pull request. Un partito che chiede uno Stato aperto dovrebbe lavorare apertamente anche lui.
+
+Il futuro è un cantiere. Anche questo sito. [Costruisci con noi.](@/mitmachen.md)

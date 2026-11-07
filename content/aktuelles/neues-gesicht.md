@@ -1,0 +1,63 @@
++++
+title = "Ein neues Gesicht – und warum wir es offen bauen"
+description = "Die Website von Die Zukunft ist neu: klarer in der Botschaft, tiefer im Inhalt, mit neuer Marke. Was sich verändert hat, wie wir entschieden haben und warum wir alles öffentlich entwickeln."
+date = 2026-11-07
+template = "page.html"
+
+[extra]
+og_image = "og/aktuelles/neues-gesicht.de.png"
++++
+
+Seit heute ist die neue Website von Die Zukunft online. Sie sieht anders aus, aber vor allem sagt sie klarer, worum es uns geht: Künstliche Intelligenz und Robotik können Wohlstand für alle schaffen. Damit das gelingt, braucht die Schweiz einen Plan. Die Website soll diesen Plan in drei Sekunden zeigen und in drei Stunden erklären können.
+
+---
+
+## Zuerst die Haltung, dann die Tiefe
+
+Die alte Website war eine Folge von Folien. Man scrollte, eine Seite rastete ein, die nächste kam. Das wirkte ruhig, hat aber zwei Dinge versteckt: unsere Botschaft und die Tiefe dahinter.
+
+Die neue Startseite funktioniert in Ebenen. Ganz oben steht, was wir wollen: «Die Zukunft. Wir bauen sie.» und drei Sätze, die unsere Haltung zusammenfassen: Wohlstand statt Mangeldenken, Sicherheit statt Angst, Souveränität statt Abhängigkeit. Darunter folgen die zehn Thesen des [Manifests](@/manifest.md), dann alle dreizehn Pfeiler des [Programms](@/programm.md) auf einen Blick, dann die Belege aus dem [Zukunftslabor](@/zukunftslabor/_index.md). Wer nur eine Minute hat, versteht uns. Wer einen Abend hat, findet die Quellen.
+
+![Die neue Startseite: Wortmarke, Kernsatz und das Schweizerkreuz aus Würfeln im Hintergrund](/aktuelles/neues-gesicht/startseite.webp)
+
+---
+
+## Eine greifbare Zukunft statt Science-Fiction
+
+Futuristisch sollte die Website wirken, aber nicht kitschig. Keine Neonfarben, keine Roboteraugen. Wir haben uns an Dingen orientiert, die man anfassen kann: ein heller Grund wie Keramik, dunkle Tinte, feine Linien wie auf einem Bauplan. Hinter jeder Seite steht dasselbe Objekt, ein dreidimensionales Schweizerkreuz aus Würfeln. Es dreht sich langsam, reagiert auf das Scrollen und tritt zurück, sobald es um Text geht.
+
+Die neue Farbe heisst **Alpenglühen**: Rosa, Magenta, Violett und Indigo, wie die Berge im ersten Licht. Sie steht für Optimismus ohne Pathos und unterscheidet sich klar von den Farben der etablierten Parteien.
+
+Das neue Icon, das **Würfelkreuz**, besteht aus sieben Würfeln. Ein Schweizerkreuz, zusammengesetzt aus Bausteinen: Genau das haben wir politisch vor.
+
+---
+
+## Wie wir entschieden haben
+
+Entschieden haben wir nicht am Reissbrett, sondern im direkten Vergleich. Für die Wortmarke haben wir fünfzehn Varianten nebeneinandergestellt, für die Farbe neun Paletten, für das Icon vierzehn Entwürfe, jeweils gross und klein, hell und dunkel, in allen vier Sprachen. Manches haben wir ausprobiert und wieder verworfen, etwa einen roten Schlusspunkt in der Wortmarke. Geblieben ist, was auf dem Handy genauso funktioniert wie auf einem Plakat.
+
+![Neun Farbpaletten im Vergleich, hier das gewählte Alpenglühen](/aktuelles/neues-gesicht/paletten.webp)
+
+Das ist dieselbe Methode, die wir für die Politik vorschlagen: Varianten nebeneinanderlegen, prüfen, entscheiden und offen dokumentieren, warum.
+
+---
+
+## Was neu ist
+
+- **Die Vision als Bauplan.** Die [Vision](@/vision.md) zeigt den «Stack der Abundance»: von der Energie über Rechenkraft, souveräne KI und Talent bis zur Anwendung in allen Sektoren und einer Dividende für alle. Mit Zahlen, Quellen und Zielen mit Jahreszahl.
+- **Ein neuer Pfeiler.** [Souveräne KI & Rechenkraft](@/souveraene-ki.md) steht jetzt an erster Stelle des Programms, weil alles andere darauf aufbaut.
+- **Das Manifest, Fassung 2.0.** Zehn Thesen, jede mit einer festen Adresse, die man verlinken und zitieren kann.
+- **Anheften.** Jeden Abschnitt kannst du anheften und später wiederfinden. Die Pins bleiben in deinem Browser, ohne Konto und ohne Cookies, und lassen sich als Link teilen.
+- **Ruhiger auf dem Handy.** Viele haben sich über das «magnetische» Einrasten beim Scrollen beschwert, besonders auf dem iPhone. Es ist weg. Die Seite scrollt frei, und Formulare zoomen nicht mehr ungefragt hinein.
+
+![Die neue Website auf dem iPhone](/aktuelles/neues-gesicht/iphone.webp)
+
+---
+
+## Offen gebaut
+
+Jeder Abschnitt hat eine Adresse in der Ecke, zum Beispiel 0x1002 für die erste These. Das verrät, wie wir arbeiten: wie in einem offenen Software-Projekt. Der Quelltext der Website, das Design und alle Markenbausteine liegen öffentlich auf [GitHub](https://github.com/zukunft-ch). Unten auf jeder Seite steht, wie viel sie wiegt, gemessen in deinem Browser, und dass sie ohne Tracker auskommt.
+
+Wer einen Fehler findet, eine bessere Formulierung hat oder eine Übersetzung verbessern will, kann direkt mitarbeiten, mit einem Issue oder einem Pull Request. Eine Partei, die einen offenen Staat fordert, sollte selbst offen arbeiten.
+
+Die Zukunft ist ein Bauprojekt. Diese Website auch. [Bau mit.](@/mitmachen.md)

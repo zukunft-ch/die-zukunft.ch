@@ -51,10 +51,10 @@ timeline_title = "Comment nous démarrons"
 horizon_eyebrow = "Horizon"
 horizon_intro = "Nous commençons là où nous vivons, et nous pensons plus loin que la prochaine élection."
 timeline = [
-  { phase = "Phase 1", title = "Bâle", text = "Fondation, premiers membres, ancrage local dans la région de Bâle." },
-  { phase = "Phase 2", title = "Suisse", text = "Expansion dans toutes les régions linguistiques, création de sections locales et travail politique national." },
-  { phase = "Phase 3", title = "Europe", text = "Partenariats avec des mouvements partageant nos valeurs, agenda commun pour une Europe tournée vers l'avenir." },
-  { phase = "Phase 4", title = "Mondial", text = "Réseau international, transfert de connaissances et impulsions pour une nouvelle politique sociétale dans le monde." },
+  { map = "basel", area = "37 km²", reach = "≈ 200'000 personnes", phase = "Phase 1", title = "Bâle", text = "Fondation, premiers membres, ancrage local dans la région de Bâle." },
+  { map = "schweiz", area = "41'285 km²", reach = "≈ 9 millions de personnes", phase = "Phase 2", title = "Suisse", text = "Expansion dans toutes les régions linguistiques, création de sections locales et travail politique national." },
+  { map = "europa", area = "≈ 10 millions de km²", reach = "≈ 745 millions de personnes", phase = "Phase 3", title = "Europe", text = "Partenariats avec des mouvements partageant nos valeurs, agenda commun pour une Europe tournée vers l'avenir." },
+  { map = "welt", area = "≈ 149 millions de km² de terres", reach = "≈ 8,2 milliards de personnes", phase = "Phase 4", title = "Mondial", text = "Réseau international, transfert de connaissances et impulsions pour une nouvelle politique sociétale dans le monde." },
 ]
 
 cta_title = "Participer"

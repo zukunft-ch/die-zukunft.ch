@@ -1,0 +1,63 @@
++++
+title = "Un nouveau visage – et pourquoi nous le construisons ouvertement"
+description = "Le site de Le Futur fait peau neuve : un message plus clair, un contenu plus approfondi, une nouvelle marque. Ce qui a changé, comment nous avons décidé et pourquoi nous développons tout publiquement."
+date = 2026-11-07
+template = "page.html"
+
+[extra]
+og_image = "og/aktuelles/neues-gesicht.fr.png"
++++
+
+Depuis aujourd'hui, le nouveau site de Le Futur est en ligne. Il a changé d'apparence, mais surtout, il dit plus clairement ce qui nous importe : l'intelligence artificielle et la robotique peuvent créer la prospérité pour toutes et tous. Pour y parvenir, la Suisse a besoin d'un plan. Le site doit pouvoir montrer ce plan en trois secondes et l'expliquer en trois heures.
+
+---
+
+## D'abord la posture, ensuite la profondeur
+
+L'ancien site était une suite de diapositives. On faisait défiler, une page s'enclenchait, puis venait la suivante. Cela paraissait calme, mais cachait deux choses : notre message et la profondeur qui se trouve derrière.
+
+La nouvelle page d'accueil fonctionne par niveaux. Tout en haut figure ce que nous voulons : « Le Futur. Nous le construisons. » et trois phrases qui résument notre posture : prospérité au lieu de la pensée de pénurie, sécurité au lieu de la peur, souveraineté au lieu de la dépendance. Suivent les dix thèses du [manifeste](@/manifest.md), puis les treize piliers du [programme](@/programm.md) d'un seul coup d'œil, puis les preuves issues du [Laboratoire du futur](@/zukunftslabor/_index.md). Si tu n'as qu'une minute, tu nous comprends. Si tu as une soirée, tu trouves les sources.
+
+![La nouvelle page d'accueil : logotype, phrase clé et la croix suisse en cubes en arrière-plan](/aktuelles/neues-gesicht/startseite.webp)
+
+---
+
+## Un futur tangible plutôt que de la science-fiction
+
+Le site devait paraître futuriste, mais pas kitsch. Pas de couleurs néon, pas d'yeux de robot. Nous nous sommes inspirés de choses que l'on peut toucher : un fond clair comme la céramique, de l'encre sombre, des lignes fines comme sur un plan de construction. Derrière chaque page se trouve le même objet, une croix suisse en trois dimensions faite de cubes. Elle tourne lentement, réagit au défilement et s'efface dès que le texte prend le relais.
+
+La nouvelle couleur s'appelle **Alpenglühen** (l'embrasement des Alpes) : rose, magenta, violet et indigo, comme les montagnes aux premières lueurs du jour. Elle exprime un optimisme sans emphase et se distingue clairement des couleurs des partis établis.
+
+La nouvelle icône, le **Würfelkreuz** (croix de cubes), se compose de sept cubes. Une croix suisse assemblée à partir de briques : c'est exactement ce que nous voulons faire en politique.
+
+---
+
+## Comment nous avons décidé
+
+Nous n'avons pas décidé sur la planche à dessin, mais par comparaison directe. Pour le logotype, nous avons mis côte à côte quinze variantes, pour la couleur neuf palettes, pour l'icône quatorze ébauches, chaque fois en grand et en petit, en clair et en sombre, dans les quatre langues. Certaines choses ont été essayées puis abandonnées, comme un point final rouge dans le logotype. Ce qui est resté, c'est ce qui fonctionne aussi bien sur un téléphone que sur une affiche.
+
+![Neuf palettes de couleurs comparées, ici l'Alpenglühen retenu](/aktuelles/neues-gesicht/paletten.webp)
+
+C'est la même méthode que nous proposons pour la politique : poser les variantes côte à côte, les examiner, décider et documenter ouvertement pourquoi.
+
+---
+
+## Ce qui est nouveau
+
+- **La vision comme plan de construction.** La [vision](@/vision.md) présente « la pile de l'abondance » : de l'énergie à l'application dans tous les secteurs et à un dividende pour toutes et tous, en passant par la puissance de calcul, l'IA souveraine et les talents. Avec des chiffres, des sources et des objectifs datés.
+- **Un nouveau pilier.** [IA souveraine & puissance de calcul](@/souveraene-ki.md) figure désormais en tête du programme, parce que tout le reste repose dessus.
+- **Le manifeste, version 2.0.** Dix thèses, chacune avec une adresse permanente que l'on peut lier et citer.
+- **Épingler.** Tu peux épingler chaque section et la retrouver plus tard. Les épingles restent dans ton navigateur, sans compte et sans cookies, et peuvent être partagées sous forme de lien.
+- **Plus calme sur mobile.** Beaucoup se sont plaints de l'enclenchement « magnétique » lors du défilement, en particulier sur iPhone. Il a disparu. La page défile librement, et les formulaires ne zooment plus sans qu'on le demande.
+
+![Le nouveau site sur iPhone](/aktuelles/neues-gesicht/iphone.webp)
+
+---
+
+## Construit ouvertement
+
+Chaque section a une adresse dans le coin, par exemple 0x1002 pour la première thèse. Cela révèle notre façon de travailler : comme dans un projet logiciel ouvert. Le code source du site, le design et tous les éléments de la marque sont publics sur [GitHub](https://github.com/zukunft-ch). Au bas de chaque page figure son poids, mesuré dans ton navigateur, et le fait qu'elle fonctionne sans traceurs.
+
+Si tu trouves une erreur, as une meilleure formulation ou veux améliorer une traduction, tu peux contribuer directement, avec une issue ou une pull request. Un parti qui réclame un État ouvert devrait lui-même travailler ouvertement.
+
+Le futur est un chantier. Ce site aussi. [Construis avec nous.](@/mitmachen.md)
