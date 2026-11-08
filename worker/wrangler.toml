@@ -1,6 +1,9 @@
 name = "lang-proxy"
 main = "src/worker.js"
 compatibility_date = "2025-11-01"
+# The Cloudflare account that owns le-futur.ch, il-futuro.ch, die-zukunft.ch and the Pages
+# project. Pinned so a wrangler login to another account cannot deploy elsewhere.
+account_id = "cf608a0a961c5a40f720e3dec3cc7135"
 
 # le-futur.ch (French)
 [[routes]]
