@@ -9,6 +9,10 @@
  *   sub:<timestamp>:<random>      → { email, lang, ts }
  *
  * Spam protection: honeypot field + rate limiting per IP.
+ *
+ * Also serves the-future.world (international site): records from there carry
+ * site: "world", optional `country` and, for contact, an optional `topic`
+ * (e.g. "chapter" for people who want to start a national chapter).
  */
 
 import { EmailMessage } from 'cloudflare:email';
@@ -20,7 +24,19 @@ const ALLOWED_ORIGINS = [
   'https://www.die-zukunft.ch',
   'https://www.le-futur.ch',
   'https://www.il-futuro.ch',
+  'https://the-future.world',
+  'https://www.the-future.world',
 ];
+
+const TOPICS = ['general', 'chapter'];
+
+function siteOf(origin) {
+  return origin.includes('the-future.world') ? 'world' : 'ch';
+}
+
+function optional(value, max) {
+  return value ? sanitize(value).slice(0, max) : undefined;
+}
 
 const RATE_LIMIT_SECONDS = 60;
 
@@ -77,6 +93,9 @@ export default {
 async function handleContact(request, env, origin, ip, rateKey) {
   const data = await request.json();
   const { name, email, message, lang } = data;
+  const site = siteOf(origin);
+  const country = optional(data.country, 100);
+  const topic = TOPICS.includes(data.topic) ? data.topic : undefined;
 
   // Honeypot — if "website" field is filled, it's a bot
   if (data.website) {
@@ -102,6 +121,9 @@ async function handleContact(request, env, origin, ip, rateKey) {
     email: sanitize(email),
     message: sanitize(message),
     lang: sanitize(lang || 'de'),
+    site,
+    country,
+    topic,
     // IP intentionally not persisted (data minimization / FADP). Abuse throttling uses
     // the ephemeral `rate:<ip>` key below, which expires after RATE_LIMIT_SECONDS.
     ts: new Date(ts).toISOString(),
@@ -110,10 +132,12 @@ async function handleContact(request, env, origin, ip, rateKey) {
   await env.FORMS.put(key, value, { expirationTtl: 86400 * 365 });
   await env.FORMS.put(rateKey, String(ts), { expirationTtl: RATE_LIMIT_SECONDS });
 
-  await sendNotification(env, 'New contact form submission', [
+  await sendNotification(env, site, topic === 'chapter' ? 'New chapter enquiry' : 'New contact form submission', [
     `Name: ${sanitize(name)}`,
     `Email: ${sanitize(email)}`,
     `Language: ${sanitize(lang || 'de')}`,
+    ...(country ? [`Country: ${country}`] : []),
+    ...(topic ? [`Topic: ${topic}`] : []),
     '',
     sanitize(message),
   ].join('\n'));
@@ -124,6 +148,8 @@ async function handleContact(request, env, origin, ip, rateKey) {
 async function handleSubscribe(request, env, origin, ip, rateKey) {
   const data = await request.json();
   const { email, lang } = data;
+  const site = siteOf(origin);
+  const country = optional(data.country, 100);
 
   // Honeypot
   if (data.website) {
@@ -142,6 +168,8 @@ async function handleSubscribe(request, env, origin, ip, rateKey) {
   const value = JSON.stringify({
     email: sanitize(email),
     lang: sanitize(lang || 'de'),
+    site,
+    country,
     // IP intentionally not persisted (data minimization / FADP). See handleContact.
     ts: new Date(ts).toISOString(),
   });
@@ -149,9 +177,10 @@ async function handleSubscribe(request, env, origin, ip, rateKey) {
   await env.FORMS.put(key, value, { expirationTtl: 86400 * 365 });
   await env.FORMS.put(rateKey, String(ts), { expirationTtl: RATE_LIMIT_SECONDS });
 
-  await sendNotification(env, 'New newsletter subscriber', [
+  await sendNotification(env, site, 'New newsletter subscriber', [
     `Email: ${sanitize(email)}`,
     `Language: ${sanitize(lang || 'de')}`,
+    ...(country ? [`Country: ${country}`] : []),
   ].join('\n'));
 
   return corsResponse(origin, 200, { ok: true });
@@ -202,13 +231,14 @@ function sanitize(str) {
   return String(str).trim().slice(0, 5000);
 }
 
-async function sendNotification(env, subject, body) {
+async function sendNotification(env, site, subject, body) {
+  const brand = site === 'world' ? 'The Future' : 'Die Zukunft';
   try {
     const msgId = `<${Date.now()}.${crypto.randomUUID().slice(0, 8)}@die-zukunft.ch>`;
     const msg = [
-      `From: Die Zukunft Forms <${env.NOTIFY_FROM}>`,
+      `From: ${brand} Forms <${env.NOTIFY_FROM}>`,
       `To: ${env.NOTIFY_TO}`,
-      `Subject: [Die Zukunft] ${subject}`,
+      `Subject: [${brand}] ${subject}`,
       `Message-ID: ${msgId}`,
       `Date: ${new Date().toUTCString()}`,
       'MIME-Version: 1.0',

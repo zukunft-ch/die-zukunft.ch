@@ -18,8 +18,11 @@ depends = ["llms"]
 run = "zola build"
 
 [tasks.check]
-description = "Check the site for errors without building"
-run = "zola check"
+description = "Check the site for errors without building; fail 60 days before security.txt expires"
+run = [
+  "python -c \"import re,sys,datetime as d; e=d.date.fromisoformat(re.search(r'Expires: (\\d{4}-\\d\\d-\\d\\d)', open('static/.well-known/security.txt').read())[1]); left=(e-d.date.today()).days; print(f'security.txt expires {e} ({left} days)'); sys.exit(left < 60)\"",
+  "zola check",
+]
 
 [tasks.clean]
 description = "Remove the public/ output directory"
