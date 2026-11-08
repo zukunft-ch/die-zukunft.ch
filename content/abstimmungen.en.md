@@ -1,10 +1,10 @@
 +++
 title = "Votes"
-description = "Swiss federal popular votes — overview of proposals, framed along The Future's twelve pillars. No voting recommendation, with a program perspective."
+description = "Swiss federal popular votes — overview of proposals, framed along The Future's twelve pillars. No voting recommendation, with a programme perspective."
 template = "page.html"
 +++
 
-Switzerland votes on federal proposals four times a year. This page is a permanent overview: for each voting Sunday, a short framing per proposal along the twelve pillars of our [program](@/programm.en.md). We deliberately don't issue voting recommendations yet: ballot positions belong to a democratic party process with members and assemblies — and as a young party, we are building exactly that. Until then, we describe where a proposal meets the program and what tension sits behind it.
+Switzerland votes on federal proposals four times a year. This page is a permanent overview: for each voting Sunday, a short framing per proposal along the twelve pillars of our [programme](@/programm.en.md). We deliberately don't issue voting recommendations yet: ballot positions belong to a democratic party process with members and assemblies — and as a young party, we are building exactly that. Until then, we describe where a proposal meets the programme and what tension sits behind it.
 
 ---
 
@@ -26,7 +26,7 @@ Four proposals are on the ballot. The full framing is in the article [29 Novembe
 
 Two popular initiatives, both rejected. The full framing is in the article [27 September 2026 vote: two initiatives, three pillars](@/aktuelles/abstimmung-27-september-2026.en.md).
 
-**Popular initiative "Preserving Swiss neutrality (Neutrality Initiative)".** Sought to enshrine perpetual, armed neutrality in the constitution and to rule out military alliances and coercive measures not mandated by the UN. The goals largely overlap with our program — the tension lies in the sanctions clause and in the ban on cooperation, which could hamper defensive cooperation against hybrid threats. → Pillars [Neutrality & peace](@/neutralitaet-frieden.en.md) and [Energy & resilience](@/energy-resilience.en.md). People: no (70.2%), cantons: all no.
+**Popular initiative "Preserving Swiss neutrality (Neutrality Initiative)".** Sought to enshrine perpetual, armed neutrality in the constitution and to rule out military alliances and coercive measures not mandated by the UN. The goals largely overlap with our programme — the tension lies in the sanctions clause and in the ban on cooperation, which could hamper defensive cooperation against hybrid threats. → Pillars [Neutrality & peace](@/neutralitaet-frieden.en.md) and [Energy & resilience](@/energy-resilience.en.md). People: no (70.2%), cantons: all no.
 
 **Popular initiative "For secure nutrition (Nutrition Initiative)".** Sought a net self-sufficiency rate of at least 70 percent within ten years, more plant-based food and clean drinking water. Names a real dependence but sets a target without a plan: supply becomes more secure through technology and stockpiling, not through a number in the constitution. → Pillars [Energy & resilience](@/energy-resilience.en.md) and [Life science & health](@/life-science.en.md). People: no (72.5%), cantons: all no.
 

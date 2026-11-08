@@ -62,7 +62,7 @@ Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkom
 ### Gini-Koeffizient nach Szenario
 
 {% chart(spec="grundeinkommen_gini_szenarien", alt="Gini-Koeffizient: Baseline vs. drei Szenarien") %}
-Der Gini-Koeffizient misst die Einkommenskonzentration (0 = perfekte Gleichheit, 1 = totale Ungleichheit). Szenario A senkt den Gini am stärksten, weil die progressive Finanzierung direkt umverteilt. Szenario B verändert ihn kaum, weil es bestehende Transfers nur ersetzt. Szenario C wirkt sogar leicht regressiv.
+Der Gini-Koeffizient misst die Einkommenskonzentration (0 = perfekte Gleichheit, 1 = totale Ungleichheit). Szenario A senkt den Gini am stärksten, weil die progressive Finanzierung direkt umverteilt. Szenario B verändert ihn kaum, weil es bestehende Transfers nur ersetzt. Szenario C senkt ihn ebenfalls deutlich (von 0,28 auf 0,18), aber weniger als A: Die Konsumsteuer selbst belastet tiefe Einkommen relativ stärker, das Grundeinkommen gleicht das mehr als aus.
 {% end %}
 
 ---

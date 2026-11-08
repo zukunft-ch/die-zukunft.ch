@@ -1,0 +1,70 @@
++++
+title = "Potenza di calcolo ed elettricità: di cosa ha bisogno una capacità pubblica di IA dieci volte maggiore"
+description = "Nel 2024 i centri di calcolo hanno consumato circa 2,1 TWh, ossia il 3,6% dell'elettricità svizzera. Secondo la nostra stima, decuplicare la potenza di calcolo pubblica sulla base di Alps richiederebbe da 0,6 a 0,8 TWh all'anno: pianificabile, ma non di passaggio."
+slug = "rechenkraft-und-strom"
+date = 2026-11-08
+template = "notiz.html"
+
+[extra]
+code_path = "output/datenbriefings-2026-11/rechenkraft-und-strom"
+data = "rechenkraft-und-strom.csv"
+category = "datenbriefing"
+evidence = "mittel"
+tags = ["potenza di calcolo", "ia", "elettricità", "centri di calcolo", "cscs", "ufe"]
+charts = ["rechenkraft_rechenzentren_strom.svg", "rechenkraft_landeserzeugung.svg", "rechenkraft_verzehnfachung.svg"]
+pillar = "souveraene-ki"
++++
+
+Nel 2024 i centri di calcolo della Svizzera hanno consumato circa 2,1 terawattora di elettricità, il 3,6% del consumo nazionale. Entro il 2030 l'Ufficio federale dell'energia prevede da 2,5 a 3,2 TWh, nello scenario massimo 3,5 TWh. Il più grande calcolatore pubblico di IA del Paese, Alps al CSCS di Lugano, ha assorbito circa 7,1 megawatt durante la misurazione ufficiale delle prestazioni. Secondo la nostra stima, una potenza di calcolo pubblica dieci volte maggiore con la tecnologia odierna richiederebbe da 0,6 a 0,8 TWh all'anno, ossia poco più dell'1% dell'attuale consumo finale.
+
+<!-- more -->
+
+---
+
+## Metodologia
+
+Combiniamo tre fonti ufficiali o primarie: lo studio di SvizzeraEnergia/UFE sul consumo di elettricità dei centri di calcolo (maggio 2026), la statistica dell'elettricità 2025 dell'UFE e la potenza assorbita misurata di Alps nella lista TOP500 (7'124 kW, misurazione di livello 3). Alps comprende 10'752 superchip GH200 di NVIDIA in 2'688 nodi (CSCS).
+
+La proiezione per un decuplicamento è una **nostra stima** con ipotesi volutamente semplici: funzionamento continuo per 8'760 ore all'anno alla potenza Linpack misurata, con scala lineare. Per il raffreddamento e gli impianti tecnici dell'edificio ipotizziamo un supplemento del 30% (PUE 1,3); si tratta di un'ipotesi, non di un valore misurato per Alps. I chip più recenti forniscono più potenza di calcolo per watt, per cui la stima va intesa piuttosto come limite superiore per «dieci volte Alps».
+
+---
+
+### I centri di calcolo crescono, ma in modo pianificabile
+
+{% chart(spec="rechenkraft_rechenzentren_strom", alt="Consumo di elettricità dei centri di calcolo svizzeri nel 2019 e nel 2024 e scenari dell'UFE per il 2030") %}
+Dal 2019 al 2024 il consumo dei centri di calcolo è salito da 1,77 a 2,1 TWh, in media del 3,4% all'anno. La crescita proviene dai grandi centri di calcolo commerciali (44% del consumo), il cui fabbisogno potrebbe più che raddoppiare entro il 2030. I centri di calcolo aziendali (56%) ristagnano o diminuiscono, perché i carichi si spostano nel cloud. L'UFE stima il potenziale di efficienza residuo a circa 0,8 TWh, quasi il 38% del consumo attuale.
+{% end %}
+
+---
+
+### La situazione di partenza nella rete
+
+{% chart(spec="rechenkraft_landeserzeugung", alt="Produzione di elettricità svizzera 2025 per fonte, in terawattora") %}
+Nel 2025 la Svizzera ha prodotto 67,5 TWh di elettricità, con un consumo finale di 58,0 TWh (+0,8% rispetto al 2024). Il 55,5% proveniva dall'energia idroelettrica, di cui 31,3 punti percentuali da centrali ad accumulazione, il 27,2% dall'energia nucleare e l'11,8% dal fotovoltaico. Il bilancio annuale dice però poco sull'inverno: i centri di calcolo funzionano tutto l'anno con un carico quasi costante, quindi anche quando la produzione indigena scarseggia.
+{% end %}
+
+---
+
+### Quanto costerebbe un decuplicamento, in elettricità
+
+{% chart(spec="rechenkraft_verzehnfachung", alt="Fabbisogno annuo stimato di elettricità di dieci volte Alps rispetto al consumo di tutti i centri di calcolo") %}
+Calcolo (stima): 7,124 MW × 8'760 h danno circa 62 GWh all'anno per Alps. Dieci volte tanto sono 71 MW e 0,62 TWh, con il supplemento del 30% per il raffreddamento 93 MW e 0,81 TWh. Ciò corrisponde all'1,1–1,4% del consumo finale 2025, meno dell'aumento che l'UFE si attende comunque nello scenario alto per tutti i centri di calcolo entro il 2030 (+1,1 TWh), e circa quanto il potenziale di efficienza dei centri di calcolo esistenti indicato dall'UFE. A titolo di confronto: secondo l'Agenzia internazionale dell'energia, un tipico centro di calcolo per l'IA consuma tanta elettricità quanto 100'000 economie domestiche, i più grandi in costruzione venti volte tanto.
+{% end %}
+
+---
+
+## Cosa significa per la politica
+
+- **Pianificare insieme energia e potenza di calcolo.** Un programma pubblico di IA dell'ordine di 70–90 MW è fattibile per la rete svizzera, ma richiede siti fissi con allacciamento alla rete, raffreddamento e recupero del calore residuo. Rientra nella stessa pianificazione dell'ampliamento della produzione invernale: [Energia & resilienza delle infrastrutture](@/energy-resilience.md).
+- **Sfruttare prima l'efficienza.** Il potenziale di efficienza indicato di circa 0,8 TWh nei centri di calcolo esistenti corrisponde all'incirca al fabbisogno stimato per decuplicare la potenza di calcolo pubblica. Indicatori di efficienza vincolanti per i grandi centri di calcolo liberano spazio nella rete.
+- **Ampliare la potenza di calcolo pubblica in modo misurabile.** Indicare obiettivi e progressi in megawatt e potenza di calcolo, con accesso aperto per scuole universitarie, PMI e amministrazione: [IA sovrana & potenza di calcolo](@/souveraene-ki.md).
+
+---
+
+## Fonti
+
+1. Ufficio federale dell'energia / SvizzeraEnergia: Stromverbrauch der Rechenzentren in der Schweiz, comunicato stampa del 7 maggio 2026. https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN
+2. Ufficio federale dell'energia: Elektrizitätsbilanz 2025, comunicato stampa del 18 giugno 2026. https://www.admin.ch/de/newnsb/YQtEZcK-D9fQ
+3. TOP500: Alps, HPE Cray EX254n, CSCS (potenza assorbita 7'124 kW, liste da novembre 2024 a giugno 2026). https://www.top500.org/system/180259/
+4. CSCS: Alps hardware (2'688 nodi, 10'752 GH200). https://docs.cscs.ch/alps/hardware/
+5. Agenzia internazionale dell'energia (IEA): Energy and AI, Executive Summary, 2025. https://www.iea.org/reports/energy-and-ai/executive-summary

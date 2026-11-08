@@ -29,6 +29,10 @@ When you sign up for our newsletter, we store your email address. You can unsubs
 
 This website is statically hosted on Cloudflare's infrastructure. No cookies are set and no tracking tools are used. All fonts, scripts and resources are served from our own domain — we do not embed any external CDNs or third-party services that could receive your IP address.
 
+### Pins and settings on your device
+
+If you pin sections or switch the colour theme, your browser stores this locally (localStorage, keys `dz-pins-v1` and `dz-theme`). This information stays on your device, is never transmitted to us or to third parties, and is not a cookie. You delete it by removing the pins or clearing the site data in your browser. If you share a pin link (`#pins=…`), it contains only the addresses of the pinned sections.
+
 ### Your rights
 
 You have the right at any time to request information about your stored data, its correction or deletion. Please contact us at the address above.

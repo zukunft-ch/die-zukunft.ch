@@ -29,6 +29,10 @@ Si tu t'inscris à notre newsletter, nous conservons ton adresse e-mail. Tu peux
 
 Ce site est hébergé de manière statique sur l'infrastructure de Cloudflare. Aucun cookie n'est installé et aucun outil de suivi n'est utilisé. Toutes les polices, scripts et ressources sont servis depuis notre propre domaine – nous n'intégrons aucun CDN externe ni service tiers susceptible de recevoir ton adresse IP.
 
+### Épingles et réglages sur ton appareil
+
+Si tu épingles des sections ou changes le thème de couleur, ton navigateur l'enregistre localement (localStorage, clés `dz-pins-v1` et `dz-theme`). Ces informations restent sur ton appareil, ne nous sont jamais transmises, ni à des tiers, et ne sont pas des cookies. Tu les supprimes en retirant les épingles ou en effaçant les données du site dans ton navigateur. Si tu partages un lien d'épingles (`#pins=…`), il ne contient que les adresses des sections épinglées.
+
 ### Tes droits
 
 Tu as à tout moment le droit d'obtenir des informations sur tes données enregistrées, leur rectification ou leur suppression. Adresse-toi à l'adresse de contact indiquée ci-dessus.

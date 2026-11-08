@@ -1,7 +1,7 @@
 +++
 title = "Datenschutz"
 description = "Datenschutzerklärung von Die Zukunft."
-updated = 2026-02-08
+updated = 2026-11-08
 template = "page.html"
 +++
 
@@ -28,6 +28,10 @@ Wenn du dich für unseren Newsletter anmeldest, speichern wir deine E-Mail-Adres
 ### Hosting und Schriften
 
 Diese Website wird statisch auf der Infrastruktur von Cloudflare gehostet. Es werden keine Cookies gesetzt und keine Tracking-Tools verwendet. Alle Schriften, Skripte und Ressourcen werden von unserer eigenen Domain ausgeliefert – wir binden keine externen CDNs oder Drittanbieter-Dienste ein, die deine IP-Adresse erhalten könnten.
+
+### Pins und Einstellungen auf deinem Gerät
+
+Wenn du Abschnitte pinnst oder das Farbschema wechselst, speichert dein Browser das lokal (localStorage, Schlüssel `dz-pins-v1` und `dz-theme`). Diese Angaben bleiben auf deinem Gerät, werden nie an uns oder Dritte übertragen und sind keine Cookies. Du löschst sie, indem du die Pins entfernst oder die Websitedaten in deinem Browser löschst. Teilst du einen Pin-Link (`#pins=…`), enthält er nur die Adressen der gepinnten Abschnitte.
 
 ### Deine Rechte
 

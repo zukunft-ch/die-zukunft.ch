@@ -1,0 +1,86 @@
++++
+title = "Trasparente per legge: 20 anni di principio di trasparenza in cifre"
+description = "Dal 2015 le domande di accesso all'Amministrazione federale sono più che triplicate. Nel 2025, però, l'accesso integrale è stato concesso solo nel 39 per cento dei casi, e il numero di eccezioni legali è in aumento."
+slug = "transparent-per-gesetz"
+date = 2026-11-08
+template = "notiz.html"
+
+[extra]
+code_path = "output/datenbriefings-2026-11/transparent-per-gesetz"
+data = "transparent-per-gesetz.csv"
+category = "datenbriefing"
+evidence = "mittel"
+tags = ["trasparenza", "principio di trasparenza", "ltras", "relazioni d'interesse", "stato aperto"]
+charts = ["transparenz_gesuche_verlauf.svg", "transparenz_ergebnisse.svg", "transparenz_schlichtung_frist.svg"]
+pillar = "offener-staat"
++++
+
+Dal 1° luglio 2006 i documenti dell'Amministrazione federale sono in linea di principio pubblici, e dal 1° novembre 2023 l'accesso è in linea di principio gratuito. La domanda è fortemente cresciuta: nel 2025 le autorità federali hanno segnalato 2'145 domande di accesso trattate, quasi quattro volte quelle del 2015. Allo stesso tempo la quota di domande con accesso integrale è scesa al 39 per cento, e Consiglio federale e Parlamento hanno escluso completamente 13 ambiti dalla legge. Svezia ed Estonia mostrano come si presenta l'apertura quale caso normale.
+
+<!-- more -->
+
+---
+
+## Metodologia
+
+I dati sulla Confederazione provengono dai rapporti d'attività dell'Incaricato federale della protezione dei dati e della trasparenza (IFPDT), da ultimo il 33° rapporto 2025/2026 con la statistica delle domande di accesso secondo la legge sulla trasparenza (LTras) per l'anno civile 2025. Le autorità segnalano i propri casi autonomamente; l'IFPDT rileva che l'onere non viene registrato in modo uniforme. Per la Svezia e l'Estonia non esiste una statistica complessiva comparabile; il confronto si limita quindi alle norme di legge. Le leggi cantonali e il Parlamento stesso non rientrano nella LTras.
+
+---
+
+### La domanda cresce
+
+{% chart(spec="transparenz_gesuche_verlauf", alt="Numero di domande di accesso secondo la LTras all'Amministrazione federale dal 2006 al 2025") %}
+Nel primo (mezzo) anno, il 2006, sono pervenute 95 domande; nel 2015 erano 600, nel 2024 si è raggiunto il massimo di 2'232 e nel 2025 sono state 2'145 (2'086 nuove più 59 dall'anno precedente). Secondo l'IFPDT, in dieci anni il numero annuo è più che triplicato. Gli emolumenti sono l'eccezione: nel 2025 le autorità federali hanno fatturato complessivamente 7'601 franchi.
+{% end %}
+
+---
+
+### Meno accesso integrale
+
+{% chart(spec="transparenz_ergebnisse", alt="Esito delle domande di accesso secondo la LTras dal 2019 al 2025 in percentuale") %}
+Dal 2020 al 2024 la quota di domande con accesso integrale si è mantenuta stabile intorno al 50 per cento, per poi scendere al 39 per cento nel 2025. L'accesso parziale o differito è salito al 25 per cento, mentre i rifiuti totali sono rimasti intorno al 10 per cento. Sono fortemente aumentati i casi senza documento ufficiale (13 per cento) e le domande pendenti (9 per cento). L'IFPDT osserva inoltre che la LTras viene in parte utilizzata per scopi privi di un nesso con la trasparenza.
+{% end %}
+
+---
+
+### La mediazione dura troppo
+
+{% chart(spec="transparenz_schlichtung_frist", alt="Quota delle procedure di mediazione presso l'IFPDT concluse entro 30 giorni, dal 2018 al 2025") %}
+Chi non è d'accordo con la decisione di un'autorità può chiedere una mediazione all'IFPDT; nel 2025 le domande sono state 203. La legge prevede a tale scopo 30 giorni. Nel 2018 e nel 2019 l'IFPDT ha rispettato questo termine in circa la metà dei casi, dal 2022 solo in circa un quarto (2025: 24 per cento); il 36 per cento è durato oltre 100 giorni. Quando una mediazione ha luogo, spesso ha successo: nel 73 per cento delle sedute si è giunti a un accordo.
+{% end %}
+
+---
+
+### Eccezioni e confronto
+
+- **Eccezioni in aumento:** dal 2006 Consiglio federale e Parlamento hanno introdotto 13 riserve in leggi speciali; secondo l'IFPDT ne sono previste almeno altre 11, spesso per autorità di vigilanza.
+- **Svezia:** il principio di trasparenza vale dall'Ordinanza sulla libertà di stampa del 1766 ed è oggi sancito nel capitolo 2 della Tryckfrihetsförordningen (1949:105), quindi a livello costituzionale. Le autorità devono consegnare gli atti rapidamente («skyndsamt»); le eccezioni sono elencate in modo esaustivo nella legge sulla pubblicità e sul segreto.
+- **Estonia:** la legge sull'informazione pubblica obbliga le autorità a tenere registri elettronici dei documenti consultabili pubblicamente; le richieste vanno evase entro cinque giorni lavorativi e sono in linea di principio gratuite.
+
+### Interessi e durata del mandato
+
+I membri dell'Assemblea federale devono rendere note le loro attività professionali, i mandati e le funzioni di consulenza e, dal dicembre 2019, indicare se un mandato è retribuito od onorifico (art. 11 LParl). I Servizi del Parlamento pubblicano il registro online. L'importo delle indennità non deve essere indicato. A livello federale non esistono limiti alla durata del mandato, ma in alcuni Cantoni sì: nel Gran Consiglio di Basilea Città, dopo 16 anni è necessaria una pausa di quattro anni; nel Landrat di Basilea Campagna, dopo quattro legislature consecutive non ci si può ricandidare per la successiva (§ 54 Cost. BL).
+
+---
+
+## Cosa significa per la politica
+
+- **Motivare e limitare nel tempo le eccezioni:** ogni nuova eccezione alla LTras con una motivazione pubblica e una data di scadenza; le 13 esistenti vengono riesaminate: [Stato aperto](@/offener-staat.md).
+- **Proattività invece che su domanda:** registri dei documenti sul modello estone, affinché i documenti non debbano nemmeno essere richiesti singolarmente.
+- **Rispettare i termini:** dotare l'IFPDT dei mezzi necessari affinché il termine di 30 giorni torni a essere la regola; misurarlo pubblicamente ogni anno.
+- **Quantificare gli interessi:** rendere noti i redditi da mandati per fasce; esaminare limiti alla durata del mandato sul modello basilese.
+
+---
+
+## Fonti
+
+1. IFPDT: 33. Tätigkeitsbericht 2025/2026, Kapitel Öffentlichkeitsprinzip und Statistik der Zugangsgesuche 2025. https://www.edoeb.admin.ch/dam/de/sd-web/ZgZZm5CLxIFF/33_T%C3%A4tigkeitsbericht%202025-2026%20DE_Web.pdf
+2. IFPDT: 32. Tätigkeitsbericht 2024/2025 (Gebührenfreiheit seit 1. November 2023). https://www.oeffentlichkeitsgesetz.ch/deutsch/files/2025/07/Taetigkeitsbericht-DE.pdf
+3. Legge federale sul principio di trasparenza dell'amministrazione (LTras), RS 152.3. https://www.fedlex.admin.ch/eli/cc/2006/355/it
+4. Sveriges riksdag: Tryckfrihetsförordning (1949:105). https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/
+5. Regeringskansliet: Offentlighetsprincipen och sekretess, kortfattat om lagstiftningen. https://regeringen.se/contentassets/243fe724fd9a41218886261ff999fc2a/offentlighetsprincipen-och-sekretess--kortfattat-om-lagstiftningen
+6. Riigi Teataja: Public Information Act (Avaliku teabe seadus). https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/514112013001/consolide
+7. Kultuuriministeerium (Estonia): File a request for information. https://kulka.ee/public-information/file-a-request-for-information
+8. Servizi del Parlamento: Offenlegungspflicht der Ratsmitglieder. https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsportraet/ratsmitglieder/rechtsstellung-der-ratsmitglieder/offenlegungspflicht
+9. Grosser Rat Basel-Stadt: Broschüre 2025. https://grosserrat.bs.ch/images/dateien/broschuere/2025_broschuere.pdf
+10. Verfassung des Kantons Basel-Landschaft, SGS 100, § 54. https://bl.clex.ch/data/100

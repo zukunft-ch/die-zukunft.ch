@@ -2,7 +2,7 @@
 title = "Protezione dei dati"
 slug = "protezione-dei-dati"
 description = "Informativa sulla privacy di Il Futuro."
-updated = 2026-02-08
+updated = 2026-11-08
 template = "page.html"
 +++
 
@@ -29,6 +29,10 @@ Se ti iscrivi alla nostra newsletter, conserviamo il tuo indirizzo e-mail. Puoi 
 ### Hosting e caratteri
 
 Questo sito è ospitato in modo statico sull'infrastruttura di Cloudflare. Non vengono installati cookie e non vengono utilizzati strumenti di tracciamento. Tutti i caratteri, gli script e le risorse sono serviti dal nostro dominio – non integriamo alcun CDN esterno né servizi di terzi che potrebbero ricevere il tuo indirizzo IP.
+
+### Pin e impostazioni sul tuo dispositivo
+
+Se fissi delle sezioni con un pin o cambi il tema dei colori, il tuo browser lo salva localmente (localStorage, chiavi `dz-pins-v1` e `dz-theme`). Questi dati restano sul tuo dispositivo, non vengono mai trasmessi a noi né a terzi e non sono cookie. Li cancelli rimuovendo i pin o eliminando i dati del sito nel tuo browser. Se condividi un link di pin (`#pins=…`), contiene solo gli indirizzi delle sezioni fissate.
 
 ### I tuoi diritti
 

@@ -1,12 +1,12 @@
 +++
-title = "Program"
+title = "Programme"
 slug = "program"
-description = "Our political program for structural transformation."
+description = "Our political programme for structural transformation."
 template = "programm.html"
 
 [extra]
 show_cta = true
-cta_text = "Convinced? Support our program."
+cta_text = "Convinced? Support our programme."
 
 [[extra.chapters]]
 icon = "🧠"
@@ -87,6 +87,6 @@ text = "Switzerland should become the European model for understanding: more sha
 link = "@/sprache-verstaendigung.md"
 +++
 
-## Our program for transformation
+## Our programme for transformation
 
-Our program addresses the central challenges of structural change — pragmatic, measurable and tailored to Swiss conditions.
+Our programme addresses the central challenges of structural change — pragmatic, measurable and tailored to Swiss conditions.

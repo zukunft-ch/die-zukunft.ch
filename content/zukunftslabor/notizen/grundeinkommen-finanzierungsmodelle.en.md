@@ -62,7 +62,7 @@ The three financing models have fundamentally different effects. Scenario A (inc
 ### Gini coefficient by scenario
 
 {% chart(spec="grundeinkommen_gini_szenarien", alt="Gini coefficient: baseline vs. three scenarios") %}
-The Gini coefficient measures income concentration (0 = perfect equality, 1 = total inequality). Scenario A reduces the Gini the most, because progressive financing redistributes directly. Scenario B barely changes it, because it merely replaces existing transfers. Scenario C even has a slightly regressive effect.
+The Gini coefficient measures income concentration (0 = perfect equality, 1 = total inequality). Scenario A reduces the Gini the most, because progressive financing redistributes directly. Scenario B barely changes it, because it merely replaces existing transfers. Scenario C also lowers it markedly (from 0.28 to 0.18), but less than A: the consumption tax itself weighs relatively more on low incomes, and the basic income more than offsets this.
 {% end %}
 
 ---
