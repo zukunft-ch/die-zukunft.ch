@@ -1,0 +1,448 @@
+{
+  "images": [
+    {
+      "slot": "pillar-souveraene-ki",
+      "generated_on": "2026-11-08",
+      "tool": "OpenAI built-in image_gen",
+      "source": "visuals/incoming/pillar-souveraene-ki.png",
+      "source_sha256": "a09a6efd65af64954255424152df53fa7a66229545e6db532edbb16dc75a2e53",
+      "prompt_file": "visuals/incoming/pillar-souveraene-ki.txt",
+      "prompt": "Documentary photograph, medium format, natural colour, subtle film grain, soft early-morning alpenglow light (pale rose and violet in the sky, warm light on the land, clear air, light haze in the distance). A real Swiss landscape dominates the frame (about two thirds): mountains, lake, meadows, forest or river. Human-made structures are small, calm and well made: pale ceramic, light timber, glass, low and integrated into the terrain. Technology is mature and quiet: matte white, rounded, functional, never the subject of the picture. Few people, small in the frame, natural and unposed, seen from a distance, behind or in profile, no recognisable faces. One small accent of warm rose or violet. Wide composition, high horizon, a sense of order and calm. No text, no logos, no flags, no signage, no screens or holograms, no neon, no chrome, no spaceships or flying vehicles, no crowds, no dystopia, no glossy CGI look.\n\nA low, discreet compute building with a timber and glass façade set into a hillside above a reservoir lake, warm air vents feeding a greenhouse next to it; mountains and a hydroelectric dam in the distance.\n\nUse case: photorealistic-natural. Website hero illustration. Landscape 3:2, 1536×1024. This is an imagined, generic Swiss near-future setting, not a recognisable real place or actual project. Keep the architecture physically plausible and avoid identifiable people. No lettering anywhere. Compose the important elements within the central 80% of the frame.",
+      "outputs": [
+        {
+          "path": "static/visuals/pillar-souveraene-ki-600.avif",
+          "width": 600,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 26731
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-600.webp",
+          "width": 600,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 55482
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-600.jpg",
+          "width": 600,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 63495
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-960.avif",
+          "width": 960,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 63346
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-960.webp",
+          "width": 960,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 127014
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-960.jpg",
+          "width": 960,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 152819
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-1536.avif",
+          "width": 1536,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 140472
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-1536.webp",
+          "width": 1536,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 275542
+        },
+        {
+          "path": "static/visuals/pillar-souveraene-ki-1536.jpg",
+          "width": 1536,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 350842
+        }
+      ]
+    },
+    {
+      "slot": "pillar-robotik",
+      "generated_on": "2026-11-08",
+      "tool": "OpenAI built-in image_gen",
+      "source": "visuals/incoming/pillar-robotik.png",
+      "source_sha256": "39f4e39003059ec8960d574d68cc7a422c6843d0bcf8e7fefeece2b7a004e6b5",
+      "prompt_file": "visuals/incoming/pillar-robotik.txt",
+      "prompt": "Documentary photograph, medium format, natural colour, subtle film grain, soft early-morning alpenglow light (pale rose and violet in the sky, warm light on the land, clear air, light haze in the distance). A real Swiss landscape dominates the frame (about two thirds): mountains, lake, meadows, forest or river. Human-made structures are small, calm and well made: pale ceramic, light timber, glass, low and integrated into the terrain. Technology is mature and quiet: matte white, rounded, functional, never the subject of the picture. Few people, small in the frame, natural and unposed, seen from a distance, behind or in profile, no recognisable faces. One small accent of warm rose or violet. Wide composition, high horizon, a sense of order and calm. No text, no logos, no flags, no signage, no screens or holograms, no neon, no chrome, no spaceships or flying vehicles, no crowds, no dystopia, no glossy CGI look.\n\nA small industrial campus of three low precision-workshop buildings in a green Alpine valley, glass façades, solar roofs, a freight rail siding, meadows all around. A few matte-white industrial robot arms are subtly visible inside one workshop; two distant technicians in plain work clothes. The landscape dominates.\n\nUse case: photorealistic-natural. Website hero illustration. Landscape 3:2, 1536×1024. This is an imagined, generic Swiss near-future setting, not a recognisable real place or actual project. Keep the architecture physically plausible and avoid identifiable people. No lettering anywhere. Compose the important elements within the central 80% of the frame.",
+      "outputs": [
+        {
+          "path": "static/visuals/pillar-robotik-600.avif",
+          "width": 600,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 23641
+        },
+        {
+          "path": "static/visuals/pillar-robotik-600.webp",
+          "width": 600,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 46122
+        },
+        {
+          "path": "static/visuals/pillar-robotik-600.jpg",
+          "width": 600,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 56458
+        },
+        {
+          "path": "static/visuals/pillar-robotik-960.avif",
+          "width": 960,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 55189
+        },
+        {
+          "path": "static/visuals/pillar-robotik-960.webp",
+          "width": 960,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 105380
+        },
+        {
+          "path": "static/visuals/pillar-robotik-960.jpg",
+          "width": 960,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 134289
+        },
+        {
+          "path": "static/visuals/pillar-robotik-1536.avif",
+          "width": 1536,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 122190
+        },
+        {
+          "path": "static/visuals/pillar-robotik-1536.webp",
+          "width": 1536,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 231572
+        },
+        {
+          "path": "static/visuals/pillar-robotik-1536.jpg",
+          "width": 1536,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 309219
+        }
+      ]
+    },
+    {
+      "slot": "pillar-grundeinkommen",
+      "generated_on": "2026-11-08",
+      "tool": "OpenAI built-in image_gen",
+      "source": "visuals/incoming/pillar-grundeinkommen.png",
+      "source_sha256": "96995578f3befb600aa313af985fefe6030add84c374b353d91079eb08038444",
+      "prompt_file": "visuals/incoming/pillar-grundeinkommen.txt",
+      "prompt": "Documentary photograph, medium format, natural colour, subtle film grain, soft early-morning alpenglow light (pale rose and violet in the sky, warm light on the land, clear air, light haze in the distance). A real Swiss landscape dominates the frame (about two thirds): mountains, lake, meadows, forest or river. Human-made structures are small, calm and well made: pale ceramic, light timber, glass, low and integrated into the terrain. Technology is mature and quiet: matte white, rounded, functional, never the subject of the picture. Few people, small in the frame, natural and unposed, seen from a distance, behind or in profile, no recognisable faces. One small accent of warm rose or violet. Wide composition, high horizon, a sense of order and calm. No text, no logos, no flags, no signage, no screens or holograms, no neon, no chrome, no spaceships or flying vehicles, no crowds, no dystopia, no glossy CGI look.\n\nA young woman opens a small workshop in a village shop space, morning light, a neighbour helps carry a table; the valley behind. Feeling: a calm new start. View from across the small square, people small, seen from behind or in profile.\n\nUse case: photorealistic-natural. Website hero illustration. Landscape 3:2, 1536×1024. This is an imagined, generic Swiss near-future setting, not a recognisable real place or actual project. Keep the architecture physically plausible and avoid identifiable people. No lettering anywhere. Compose the important elements within the central 80% of the frame.",
+      "outputs": [
+        {
+          "path": "static/visuals/pillar-grundeinkommen-600.avif",
+          "width": 600,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 24676
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-600.webp",
+          "width": 600,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 49782
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-600.jpg",
+          "width": 600,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 59485
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-960.avif",
+          "width": 960,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 56645
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-960.webp",
+          "width": 960,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 110600
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-960.jpg",
+          "width": 960,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 140621
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-1536.avif",
+          "width": 1536,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 124186
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-1536.webp",
+          "width": 1536,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 239982
+        },
+        {
+          "path": "static/visuals/pillar-grundeinkommen-1536.jpg",
+          "width": 1536,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 321455
+        }
+      ]
+    },
+    {
+      "slot": "pillar-stadte-wohnen",
+      "generated_on": "2026-11-08",
+      "tool": "OpenAI built-in image_gen",
+      "source": "visuals/incoming/pillar-stadte-wohnen.png",
+      "source_sha256": "5dcc896f92fa021dc419cf15ca993425a4a27c1595e851305693a1f38528d929",
+      "prompt_file": "visuals/incoming/pillar-stadte-wohnen.txt",
+      "prompt": "Documentary photograph, medium format, natural colour, subtle film grain, soft early-morning alpenglow light (pale rose and violet in the sky, warm light on the land, clear air, light haze in the distance). A real Swiss landscape dominates the frame (about two thirds): mountains, lake, meadows, forest or river. Human-made structures are small, calm and well made: pale ceramic, light timber, glass, low and integrated into the terrain. Technology is mature and quiet: matte white, rounded, functional, never the subject of the picture. Few people, small in the frame, natural and unposed, seen from a distance, behind or in profile, no recognisable faces. One small accent of warm rose or violet. Wide composition, high horizon, a sense of order and calm. No text, no logos, no flags, no signage, no screens or holograms, no neon, no chrome, no spaceships or flying vehicles, no crowds, no dystopia, no glossy CGI look.\n\nA compact, green neighbourhood around a small train station on a lake: mid-rise timber buildings, trees, people walking and cycling, the lake and mountains dominating.\n\nUse case: photorealistic-natural. Website hero illustration. Landscape 3:2, 1536×1024. This is an imagined, generic Swiss near-future setting, not a recognisable real place or actual project. Keep the architecture physically plausible and avoid identifiable people. No lettering anywhere. Compose the important elements within the central 80% of the frame.",
+      "outputs": [
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-600.avif",
+          "width": 600,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 28512
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-600.webp",
+          "width": 600,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 59492
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-600.jpg",
+          "width": 600,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 68761
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-960.avif",
+          "width": 960,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 69125
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-960.webp",
+          "width": 960,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 140038
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-960.jpg",
+          "width": 960,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 168043
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-1536.avif",
+          "width": 1536,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 153954
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-1536.webp",
+          "width": 1536,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 317662
+        },
+        {
+          "path": "static/visuals/pillar-stadte-wohnen-1536.jpg",
+          "width": 1536,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 389046
+        }
+      ]
+    },
+    {
+      "slot": "pillar-energy-resilience",
+      "generated_on": "2026-11-08",
+      "tool": "OpenAI built-in image_gen",
+      "source": "visuals/incoming/pillar-energy-resilience.png",
+      "source_sha256": "c9c1cbe6d0de8fa957c51708bf02d10801eaaa702a95d44fdd07d4f296121a78",
+      "prompt_file": "visuals/incoming/pillar-energy-resilience.txt",
+      "prompt": "Documentary photograph, medium format, natural colour, subtle film grain, soft early-morning alpenglow light (pale rose and violet in the sky, warm light on the land, clear air, light haze in the distance). A real Swiss landscape dominates the frame (about two thirds): mountains, lake, meadows, forest or river. Human-made structures are small, calm and well made: pale ceramic, light timber, glass, low and integrated into the terrain. Technology is mature and quiet: matte white, rounded, functional, never the subject of the picture. Few people, small in the frame, natural and unposed, seen from a distance, behind or in profile, no recognisable faces. One small accent of warm rose or violet. Wide composition, high horizon, a sense of order and calm. No text, no logos, no flags, no signage, no screens or holograms, no neon, no chrome, no spaceships or flying vehicles, no crowds, no dystopia, no glossy CGI look.\n\nAn Alpine reservoir and dam at dawn, a slim new pumped-storage intake, power lines tracing the valley; small maintenance vehicle, no people close.\n\nUse case: photorealistic-natural. Website hero illustration. Landscape 3:2, 1536×1024. This is an imagined, generic Swiss near-future setting, not a recognisable real place or actual project. Keep the architecture physically plausible and avoid identifiable people. No lettering anywhere. Compose the important elements within the central 80% of the frame.",
+      "outputs": [
+        {
+          "path": "static/visuals/pillar-energy-resilience-600.avif",
+          "width": 600,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 22948
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-600.webp",
+          "width": 600,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 45444
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-600.jpg",
+          "width": 600,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 55543
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-960.avif",
+          "width": 960,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 58372
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-960.webp",
+          "width": 960,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 115358
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-960.jpg",
+          "width": 960,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 140715
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-1536.avif",
+          "width": 1536,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 138343
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-1536.webp",
+          "width": 1536,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 276742
+        },
+        {
+          "path": "static/visuals/pillar-energy-resilience-1536.jpg",
+          "width": 1536,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 342504
+        }
+      ]
+    },
+    {
+      "slot": "lab-hero",
+      "generated_on": "2026-11-08",
+      "tool": "OpenAI built-in image_gen",
+      "source": "visuals/incoming/lab-hero.png",
+      "source_sha256": "3c19950748a35670c2683bd6bd4f53090eedefed5d0fc5073f70ec40a0459107",
+      "prompt_file": "visuals/incoming/lab-hero.txt",
+      "prompt": "Documentary photograph, medium format, natural colour, subtle film grain, soft early-morning alpenglow light (pale rose and violet in the sky, warm light on the land, clear air, light haze in the distance). A real Swiss landscape dominates the frame (about two thirds): mountains, lake, meadows, forest or river. Human-made structures are small, calm and well made: pale ceramic, light timber, glass, low and integrated into the terrain. Technology is mature and quiet: matte white, rounded, functional, never the subject of the picture. Few people, small in the frame, natural and unposed, seen from a distance, behind or in profile, no recognisable faces. One small accent of warm rose or violet. Wide composition, high horizon, a sense of order and calm. No text, no logos, no flags, no signage, no screens or holograms, no neon, no chrome, no spaceships or flying vehicles, no crowds, no dystopia, no glossy CGI look.\n\nA calm research room with a long timber table, printed charts and a closed laptop, a generous window onto a lake and mountains; one person writing in a notebook in the distance. Evening alpenglow. The lake and mountains occupy about two thirds of the frame through the window; charts have only abstract lines, no text.\n\nUse case: photorealistic-natural. Website hero illustration. Landscape 3:2, 1536×1024. This is an imagined, generic Swiss near-future setting, not a recognisable real place or actual project. Keep the architecture physically plausible and avoid identifiable people. No lettering anywhere. Compose the important elements within the central 80% of the frame.",
+      "outputs": [
+        {
+          "path": "static/visuals/lab-hero-600.avif",
+          "width": 600,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 14264
+        },
+        {
+          "path": "static/visuals/lab-hero-600.webp",
+          "width": 600,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 25812
+        },
+        {
+          "path": "static/visuals/lab-hero-600.jpg",
+          "width": 600,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 40089
+        },
+        {
+          "path": "static/visuals/lab-hero-960.avif",
+          "width": 960,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 32772
+        },
+        {
+          "path": "static/visuals/lab-hero-960.webp",
+          "width": 960,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 57210
+        },
+        {
+          "path": "static/visuals/lab-hero-960.jpg",
+          "width": 960,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 91669
+        },
+        {
+          "path": "static/visuals/lab-hero-1536.avif",
+          "width": 1536,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 75475
+        },
+        {
+          "path": "static/visuals/lab-hero-1536.webp",
+          "width": 1536,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 127970
+        },
+        {
+          "path": "static/visuals/lab-hero-1536.jpg",
+          "width": 1536,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 213069
+        }
+      ]
+    }
+  ]
+}

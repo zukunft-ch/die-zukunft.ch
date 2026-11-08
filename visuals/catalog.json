@@ -1,0 +1,88 @@
+{
+  "captions": {
+    "de": "Visualisierung · KI-generiert",
+    "fr": "Visualisation · générée par IA",
+    "it": "Visualizzazione · generata con IA",
+    "en": "Visualisation · AI-generated"
+  },
+  "notes": {
+    "de": "Fiktive Szene, kein bestehendes Projekt.",
+    "fr": "Scène fictive, aucun projet existant.",
+    "it": "Scena immaginaria, non un progetto esistente.",
+    "en": "Imagined scene, not an existing project."
+  },
+  "images": [
+    {
+      "slot": "pillar-souveraene-ki",
+      "page": "@/souveraene-ki.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Visualisierung eines flachen Rechenzentrums mit begrüntem Dach und angeschlossenem Gewächshaus an einem alpinen Stausee.",
+        "fr": "Visualisation d’un centre de calcul bas, au toit végétalisé, relié à une serre au bord d’un lac de retenue alpin.",
+        "it": "Visualizzazione di un centro di calcolo basso con tetto verde e serra collegata accanto a un bacino alpino.",
+        "en": "Visualisation of a low compute centre with a green roof and connected greenhouse beside an Alpine reservoir."
+      }
+    },
+    {
+      "slot": "pillar-robotik",
+      "page": "@/robotik.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Visualisierung dreier kleiner Werkhallen mit Solardächern, Roboterarmen und Bahnanschluss in einem grünen Alpental.",
+        "fr": "Visualisation de trois petits ateliers aux toits solaires, avec bras robotisés et raccordement ferroviaire, dans une vallée alpine verdoyante.",
+        "it": "Visualizzazione di tre piccoli stabilimenti con tetti solari, bracci robotici e raccordo ferroviario in una verde valle alpina.",
+        "en": "Visualisation of three small workshops with solar roofs, robot arms and a rail siding in a green Alpine valley."
+      }
+    },
+    {
+      "slot": "pillar-grundeinkommen",
+      "page": "@/grundeinkommen.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Visualisierung einer neuen Werkstatt am Dorfplatz: Zwei Menschen tragen einen Tisch hinein, dahinter öffnet sich ein Alpental.",
+        "fr": "Visualisation d’un nouvel atelier sur une place de village : deux personnes y portent une table, avec une vallée alpine en arrière-plan.",
+        "it": "Visualizzazione di una nuova bottega sulla piazza di un villaggio: due persone portano un tavolo all’interno, con una valle alpina sullo sfondo.",
+        "en": "Visualisation of a new workshop on a village square: two people carry a table inside, with an Alpine valley beyond."
+      }
+    },
+    {
+      "slot": "pillar-stadte-wohnen",
+      "page": "@/stadte-wohnen.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Visualisierung eines begrünten Wohnquartiers mit mehrgeschossigen Holzhäusern, Fuss- und Velowegen und einem Bahnhof am See.",
+        "fr": "Visualisation d’un quartier verdoyant avec des immeubles en bois, des chemins piétons et cyclables et une gare au bord d’un lac.",
+        "it": "Visualizzazione di un quartiere verde con edifici in legno a più piani, percorsi pedonali e ciclabili e una stazione sul lago.",
+        "en": "Visualisation of a green neighbourhood with timber apartment buildings, walking and cycling paths and a lakeside station."
+      }
+    },
+    {
+      "slot": "pillar-energy-resilience",
+      "page": "@/energy-resilience.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Visualisierung eines alpinen Stausees mit Staumauer, Wasserfassung und Stromleitungen im Morgenlicht.",
+        "fr": "Visualisation d’un lac de retenue alpin avec barrage, prise d’eau et lignes électriques dans la lumière du matin.",
+        "it": "Visualizzazione di un bacino alpino con diga, presa d’acqua e linee elettriche nella luce del mattino.",
+        "en": "Visualisation of an Alpine reservoir with a dam, water intake and power lines in the morning light."
+      }
+    },
+    {
+      "slot": "lab-hero",
+      "page": "@/zukunftslabor/_index.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Visualisierung eines ruhigen Forschungsraums mit Diagrammen auf einem Holztisch und weitem Blick auf See und Berge im Abendlicht.",
+        "fr": "Visualisation d’un espace de recherche calme, avec des graphiques sur une table en bois et une vue sur un lac et les montagnes au crépuscule.",
+        "it": "Visualizzazione di uno spazio di ricerca tranquillo con grafici su un tavolo in legno e vista sul lago e sulle montagne al tramonto.",
+        "en": "Visualisation of a quiet research room with charts on a timber table and a broad view of a lake and mountains at dusk."
+      }
+    }
+  ]
+}

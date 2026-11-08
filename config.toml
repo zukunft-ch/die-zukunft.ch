@@ -34,6 +34,7 @@ feed_filenames = ["atom.xml", "rss.xml"]
 taxonomies = [{name = "tags", feed = false}]
 
 [extra]
+visuals_catalog = "visuals/catalog.json"
 contact_email = "hey@die-zukunft.ch"
 contact_city = "Basel, Schweiz"
 
@@ -519,7 +520,7 @@ colophon_weight = "This page weighs"
 colophon_built = "Built"
 colophon_source = "Open source"
 nav_vision = "Vision"
-nav_programm = "Program"
+nav_programm = "Programme"
 nav_grundeinkommen = "Basic Income"
 nav_digitale_souveraenitaet = "Digital Sovereignty"
 nav_menschen = "People"
