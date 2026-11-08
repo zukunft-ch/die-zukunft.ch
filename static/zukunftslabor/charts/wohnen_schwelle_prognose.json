@@ -171,8 +171,7 @@
       "field": "Schwelle erreicht",
       "legend": null,
       "scale": {
-        "reverse": true,
-        "scheme": "redyellowgreen"
+        "reverse": true
       },
       "type": "quantitative"
     },
@@ -182,7 +181,8 @@
         "domain": [
           2020,
           2060
-        ]
+        ],
+        "zero": false
       },
       "title": "Jahr der 30%-Überschreitung",
       "type": "quantitative"
@@ -199,8 +199,9 @@
   },
   "height": 500,
   "mark": {
-    "cornerRadiusEnd": 4,
-    "type": "bar"
+    "type": "circle",
+    "size": 120,
+    "opacity": 1
   },
   "title": "Wann erreicht Q1 die 30%-Schwelle? (bei 1% Einkommenswachstum)",
   "width": 720

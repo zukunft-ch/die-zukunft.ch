@@ -15,9 +15,9 @@ shift_intro = "Künstliche Intelligenz macht kognitive Arbeit billiger, Robotik 
 shift_note = "Die Zutaten sind da: Mit <strong>Apertus</strong> haben ETH Zürich, EPFL und CSCS 2025 eines der offensten grossen Sprachmodelle der Welt veröffentlicht, trainiert auf dem Supercomputer <strong>Alps</strong> in Lugano mit 10'752 GH200-Chips. Der Schweizerische Wissenschaftsrat empfahl im Mai 2026 eine nationale KI-Infrastrukturstrategie. Was fehlt, ist der politische Wille, daraus ein Programm zu machen."
 shift = [
   { figure = "2047", title = "Allgemeine KI rückt näher", text = "In der grössten Umfrage unter 2'778 KI-Forschenden lag die Wahrscheinlichkeit bei 50 Prozent, dass Maschinen bis 2047 jede Aufgabe besser erledigen als Menschen. Das ist 13 Jahre früher als in der Umfrage davor. Niemand weiss, wann. Wir planen für den Fall, dass es früh ist.", source = "Grace et al., JAIR", source_url = "https://jair.org/index.php/jair/article/view/19087" },
-  { figure = "294", title = "Die Schweiz automatisiert zaghaft", text = "Roboter pro 10'000 Industriebeschäftigte. Südkorea hat 1'220, Deutschland 449. Wer Produktion im Land halten oder zurückholen will, muss sie automatisieren.", source = "IFR World Robotics 2025", source_url = "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas" },
-  { figure = "3,6 %", title = "Rechenkraft braucht Strom", text = "So viel des Schweizer Stroms brauchten Rechenzentren 2024, rund 2,1 Terawattstunden. Bis 2030 könnten es bis zu 6 Prozent sein. Wer KI im Land will, muss Energie und Rechenkraft zusammen planen.", source = "Bundesamt für Energie, 2026", source_url = "https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN" },
-  { figure = "Rang 26", title = "Der Staat fällt zurück", text = "Im E-Government-Index der UNO lag die Schweiz 2024 auf Rang 26, nach Rang 16 im Jahr 2020. Ein reiches, gut ausgebildetes Land sollte hier unter den Besten sein.", source = "UN E-Government Survey 2024", source_url = "https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland" },
+  { figure = "294", title = "Die Schweiz automatisiert zaghaft", text = "Roboter pro 10'000 Industriebeschäftigte. Südkorea hat 1'220, Deutschland 449. Wer Produktion im Land halten oder zurückholen will, muss sie automatisieren.", source = "IFR World Robotics 2025", source_url = "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas", monitor = "robot_density" },
+  { figure = "3,6 %", title = "Rechenkraft braucht Strom", text = "So viel des Schweizer Stroms brauchten Rechenzentren 2024, rund 2,1 Terawattstunden. Bis 2030 könnten es bis zu 6 Prozent sein. Wer KI im Land will, muss Energie und Rechenkraft zusammen planen.", source = "Bundesamt für Energie, 2026", source_url = "https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN", monitor = "dc_electricity_share" },
+  { figure = "Rang 26", title = "Der Staat fällt zurück", text = "Im E-Government-Index der UNO lag die Schweiz 2024 auf Rang 26, nach Rang 16 im Jahr 2020. Ein reiches, gut ausgebildetes Land sollte hier unter den Besten sein.", source = "UN E-Government Survey 2024", source_url = "https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland", monitor = "egdi_rank" },
 ]
 
 outcomes_eyebrow = "Ziel"
@@ -87,13 +87,13 @@ targets_eyebrow = "Messgrössen"
 targets_title = "Woran man uns messen kann"
 targets_intro = "Ziele mit Jahreszahl. Wir berichten öffentlich, wie weit die Schweiz ist."
 targets = [
-  { year = "2027", goal = "Nationale KI-Infrastrukturstrategie mit gesicherter Finanzierung", how = "Wie vom Wissenschaftsrat 2026 empfohlen: Rechenkraft als dauerhafte Infrastruktur, nicht als befristetes Projektgeld." },
-  { year = "2027", goal = "Ein Schweizer Talent-Visum für Spitzenkräfte", how = "Für Forschende, Gründer:innen und Spezialist:innen in KI, Robotik und Life Science: Entscheid in zehn Arbeitstagen, Familie inklusive, Zuzug ohne Hürden. Es geht nicht um mehr allgemeine Arbeitsmigration, sondern um die Menschen, um die sich die Bay Area, Singapur und Hongkong bemühen." },
-  { year = "2028", goal = "Ein offenes Schweizer KI-Modell im Einsatz in der Bundesverwaltung", how = "Auf Basis von Apertus, betrieben auf Schweizer Infrastruktur, in allen Landessprachen." },
-  { year = "2028", goal = "Bundesweiter Grundeinkommens-Pilot läuft", how = "Mit unabhängiger Evaluation von Bürokratiekosten, Gründungen und Wohlbefinden." },
-  { year = "2030", goal = "Zehnmal mehr öffentlich zugängliche KI-Rechenkapazität", how = "Für Hochschulen, KMU und Verwaltung, mit dem Strombedarf von Anfang an mitgeplant." },
-  { year = "2030", goal = "Unter den besten zehn Ländern im E-Government-Index der UNO", how = "Heute Rang 26. Routinefälle digital und automatisiert, mit Begründung und Einspruchsrecht." },
-  { year = "2035", goal = "Roboterdichte in der Industrie verdoppelt", how = "Von 294 auf rund 600 Roboter pro 10'000 Beschäftigte, vor Deutschland mit heute 449." },
+  { year = "2027", goal = "Nationale KI-Infrastrukturstrategie mit gesicherter Finanzierung", how = "Wie vom Wissenschaftsrat 2026 empfohlen: Rechenkraft als dauerhafte Infrastruktur, nicht als befristetes Projektgeld.", milestone = "ai_infra_strategy" },
+  { year = "2027", goal = "Ein Schweizer Talent-Visum für Spitzenkräfte", how = "Für Forschende, Gründer:innen und Spezialist:innen in KI, Robotik und Life Science: Entscheid in zehn Arbeitstagen, Familie inklusive, Zuzug ohne Hürden. Es geht nicht um mehr allgemeine Arbeitsmigration, sondern um die Menschen, um die sich die Bay Area, Singapur und Hongkong bemühen.", milestone = "talent_visa" },
+  { year = "2028", goal = "Ein offenes Schweizer KI-Modell im Einsatz in der Bundesverwaltung", how = "Auf Basis von Apertus, betrieben auf Schweizer Infrastruktur, in allen Landessprachen.", milestone = "open_model_admin" },
+  { year = "2028", goal = "Bundesweiter Grundeinkommens-Pilot läuft", how = "Mit unabhängiger Evaluation von Bürokratiekosten, Gründungen und Wohlbefinden.", milestone = "basic_income_pilot" },
+  { year = "2030", goal = "Zehnmal mehr öffentlich zugängliche KI-Rechenkapazität", how = "Für Hochschulen, KMU und Verwaltung, mit dem Strombedarf von Anfang an mitgeplant.", monitor = "public_ai_compute" },
+  { year = "2030", goal = "Unter den besten zehn Ländern im E-Government-Index der UNO", how = "Heute Rang 26. Routinefälle digital und automatisiert, mit Begründung und Einspruchsrecht.", monitor = "egdi_rank" },
+  { year = "2035", goal = "Roboterdichte in der Industrie verdoppelt", how = "Von 294 auf rund 600 Roboter pro 10'000 Beschäftigte, vor Deutschland mit heute 449.", monitor = "robot_density" },
 ]
 
 sources_title = "Quellen"

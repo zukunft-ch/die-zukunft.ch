@@ -17,13 +17,13 @@ axes_example_label = "Esempio"
 # Profile labels + colors
 profile_left_label = "Tipicamente Sinistra"
 profile_left_short = "S"
-profile_left_color = "#ef4444"
+profile_left_color = "#64748b"
 profile_right_label = "Tipicamente Destra"
 profile_right_short = "D"
-profile_right_color = "#f97316"
+profile_right_color = "#a16207"
 profile_zukunft_label = "Il Futuro"
 profile_zukunft_short = "F"
-profile_zukunft_color = "#a855f7"
+profile_zukunft_color = "#c026d3"
 
 [[extra.radar_axes]]
 label = "Sovranità"

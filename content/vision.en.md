@@ -16,9 +16,9 @@ shift_intro = "Artificial intelligence makes cognitive work cheaper, robotics ma
 shift_note = "The ingredients are there: with <strong>Apertus</strong>, ETH Zurich, EPFL and CSCS released one of the world's most open large language models in 2025, trained on the <strong>Alps</strong> supercomputer in Lugano with 10,752 GH200 chips. In May 2026 the Swiss Science Council recommended a national AI infrastructure strategy. What is missing is the political will to turn this into a programme."
 shift = [
   { figure = "2047", title = "General AI is getting closer", text = "In the largest survey of 2,778 AI researchers, the probability that machines will do every task better than humans by 2047 was put at 50 percent. That is 13 years earlier than in the previous survey. Nobody knows when. We plan for the case that it comes early.", source = "Grace et al., JAIR", source_url = "https://jair.org/index.php/jair/article/view/19087" },
-  { figure = "294", title = "Switzerland automates hesitantly", text = "Robots per 10,000 industrial workers. South Korea has 1,220, Germany 449. Anyone who wants to keep production in the country or bring it back has to automate it.", source = "IFR World Robotics 2025", source_url = "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas" },
-  { figure = "3.6%", title = "Compute needs electricity", text = "That is the share of Swiss electricity used by data centres in 2024, around 2.1 terawatt hours. By 2030 it could be up to 6 percent. Anyone who wants AI in the country has to plan energy and compute together.", source = "Swiss Federal Office of Energy, 2026", source_url = "https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN" },
-  { figure = "Rank 26", title = "The state is falling behind", text = "In the UN E-Government Index, Switzerland ranked 26th in 2024, down from 16th in 2020. A rich, well-educated country should be among the best here.", source = "UN E-Government Survey 2024", source_url = "https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland" },
+  { figure = "294", title = "Switzerland automates hesitantly", text = "Robots per 10,000 industrial workers. South Korea has 1,220, Germany 449. Anyone who wants to keep production in the country or bring it back has to automate it.", source = "IFR World Robotics 2025", source_url = "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas", monitor = "robot_density" },
+  { figure = "3.6%", title = "Compute needs electricity", text = "That is the share of Swiss electricity used by data centres in 2024, around 2.1 terawatt hours. By 2030 it could be up to 6 percent. Anyone who wants AI in the country has to plan energy and compute together.", source = "Swiss Federal Office of Energy, 2026", source_url = "https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN", monitor = "dc_electricity_share" },
+  { figure = "Rank 26", title = "The state is falling behind", text = "In the UN E-Government Index, Switzerland ranked 26th in 2024, down from 16th in 2020. A rich, well-educated country should be among the best here.", source = "UN E-Government Survey 2024", source_url = "https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland", monitor = "egdi_rank" },
 ]
 
 outcomes_eyebrow = "Goal"
@@ -88,13 +88,13 @@ targets_eyebrow = "Indicators"
 targets_title = "What you can measure us by"
 targets_intro = "Goals with a year attached. We report publicly on how far Switzerland has come."
 targets = [
-  { year = "2027", goal = "National AI infrastructure strategy with secured funding", how = "As recommended by the Science Council in 2026: compute as permanent infrastructure, not as time-limited project money." },
-  { year = "2027", goal = "A Swiss talent visa for top talent", how = "For researchers, founders and specialists in AI, robotics and life sciences: a decision within ten working days, family included, relocation without friction. This is not about more general labour migration, but about the people the Bay Area, Singapore and Hong Kong compete for." },
-  { year = "2028", goal = "An open Swiss AI model in use in the federal administration", how = "Based on Apertus, operated on Swiss infrastructure, in all national languages." },
-  { year = "2028", goal = "Nationwide basic income pilot under way", how = "With independent evaluation of bureaucracy costs, business start-ups and well-being." },
-  { year = "2030", goal = "Ten times more publicly accessible AI computing capacity", how = "For universities, SMEs and public administration, with the electricity demand planned in from the start." },
-  { year = "2030", goal = "Among the top ten countries in the UN E-Government Index", how = "Rank 26 today. Routine cases digital and automated, with reasons given and a right of appeal." },
-  { year = "2035", goal = "Robot density in industry doubled", how = "From 294 to around 600 robots per 10,000 workers, ahead of Germany at 449 today." },
+  { year = "2027", goal = "National AI infrastructure strategy with secured funding", how = "As recommended by the Science Council in 2026: compute as permanent infrastructure, not as time-limited project money.", milestone = "ai_infra_strategy" },
+  { year = "2027", goal = "A Swiss talent visa for top talent", how = "For researchers, founders and specialists in AI, robotics and life sciences: a decision within ten working days, family included, relocation without friction. This is not about more general labour migration, but about the people the Bay Area, Singapore and Hong Kong compete for.", milestone = "talent_visa" },
+  { year = "2028", goal = "An open Swiss AI model in use in the federal administration", how = "Based on Apertus, operated on Swiss infrastructure, in all national languages.", milestone = "open_model_admin" },
+  { year = "2028", goal = "Nationwide basic income pilot under way", how = "With independent evaluation of bureaucracy costs, business start-ups and well-being.", milestone = "basic_income_pilot" },
+  { year = "2030", goal = "Ten times more publicly accessible AI computing capacity", how = "For universities, SMEs and public administration, with the electricity demand planned in from the start.", monitor = "public_ai_compute" },
+  { year = "2030", goal = "Among the top ten countries in the UN E-Government Index", how = "Rank 26 today. Routine cases digital and automated, with reasons given and a right of appeal.", monitor = "egdi_rank" },
+  { year = "2035", goal = "Robot density in industry doubled", how = "From 294 to around 600 robots per 10,000 workers, ahead of Germany at 449 today.", monitor = "robot_density" },
 ]
 
 sources_title = "Sources"
