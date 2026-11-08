@@ -21,6 +21,10 @@ Jede Notiz erhält eine von drei Evidenzstufen:
 
 Fehler sind unvermeidlich — entscheidend ist der Umgang damit. Sachfehler werden sofort korrigiert und die Korrektur am Ende der Notiz dokumentiert. Verändert sich die Datenlage wesentlich, wird die Notiz aktualisiert und mit einem Änderungshinweis versehen.
 
+1. **Prüfen**: Sachfehler oder neue Daten mit den Quellen abgleichen.
+2. **Korrigieren**: Sachfehler sofort berichtigen; bei wesentlich neuer Datenlage die Notiz aktualisieren.
+3. **Dokumentieren**: Korrektur am Ende der Notiz festhalten; wesentliche Änderungen mit einem Hinweis kenntlich machen.
+
 ## Aktualisierungspolitik
 
 Notizen werden nicht gelöscht. Bei veralteten Daten wird ein Hinweis ergänzt. Wesentliche Neubewertungen führen zu einer neuen Notiz, die auf die ursprüngliche verweist.

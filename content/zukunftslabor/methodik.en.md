@@ -14,6 +14,7 @@ text = "The Future Lab publishes evidence-based analysis. Every note cites its s
 [[extra.sections]]
 title = "Evidence levels"
 text = "Every note receives one of three evidence levels:"
+presentation = "evidence"
 items = [
   { label = "Strong evidence", text = "Peer-reviewed studies, official statistics (FSO, SECO, OECD), replicated results." },
   { label = "Medium evidence", text = "Individual studies, working papers, official reports without peer review, consistent journalistic research." },
@@ -23,6 +24,11 @@ items = [
 [[extra.sections]]
 title = "Correction policy"
 text = "Mistakes are inevitable — what matters is how they are handled. Factual errors are corrected immediately and the correction is documented at the end of the note. If the data changes significantly, the note is updated with a change notice."
+steps = [
+  { label = "Check", text = "Compare factual errors or new data with the sources." },
+  { label = "Correct", text = "Fix factual errors immediately; update the note when the data changes significantly." },
+  { label = "Document", text = "Record the correction at the end of the note; flag substantial changes with a notice." },
+]
 
 [[extra.sections]]
 title = "Update policy"

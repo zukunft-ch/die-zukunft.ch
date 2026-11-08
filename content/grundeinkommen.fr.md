@@ -117,4 +117,14 @@ param = "Dépenses sociales"
 value = "CHF 185 mrd."
 source = "OFAS, Comptes globaux de la protection sociale 2022"
 url = "https://www.bsv.admin.ch/bsv/fr/home/assurances-sociales/ueberblick/grsv.html"
+
+[extra.dividend_guide]
+eyebrow = "Proposition · Mécanisme envisagé"
+title = "De la productivité à la sécurité"
+note = "Une proposition politique, pas un flux automatique : le montant, le financement et les modalités doivent être décidés démocratiquement et testés dans un projet pilote. Le calculateur ci-dessous fait varier les taux, les transferts et des économies forfaitaires sur des bases fiscales fixes. Il ne prédit ni gains de productivité ni effets comportementaux."
+steps = [
+  { label = "Créer de la valeur", text = "L’IA et la robotique peuvent produire davantage avec moins de ressources. La valeur ajoutée supplémentaire est une hypothèse, pas une garantie." },
+  { label = "Organiser le financement", text = "Une part revient à la collectivité via les impôts sur le revenu, la consommation et le patrimoine, avec des réaffectations et des économies proposées dans le système social." },
+  { label = "Sécuriser le revenu", text = "Le revenu de base offre un socle régulier. Le montant net restant à un ménage dépend aussi des impôts supplémentaires et des prestations remplacées." },
+]
 +++

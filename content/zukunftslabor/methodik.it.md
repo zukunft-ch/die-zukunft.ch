@@ -14,6 +14,7 @@ text = "Il Laboratorio del futuro pubblica analisi basate sulle evidenze. Ogni n
 [[extra.sections]]
 title = "Livelli di evidenza"
 text = "Ogni nota riceve uno dei tre livelli di evidenza:"
+presentation = "evidence"
 items = [
   { label = "Evidenza forte", text = "Studi peer-reviewed, statistiche ufficiali (UST, SECO, OCSE), risultati replicati." },
   { label = "Evidenza media", text = "Studi singoli, documenti di lavoro, rapporti ufficiali senza peer-review, ricerche giornalistiche coerenti." },
@@ -23,6 +24,11 @@ items = [
 [[extra.sections]]
 title = "Politica di correzione"
 text = "Gli errori sono inevitabili — ciò che conta è come vengono gestiti. Gli errori fattuali vengono corretti immediatamente e la correzione viene documentata alla fine della nota. Se i dati cambiano in modo significativo, la nota viene aggiornata con un avviso di modifica."
+steps = [
+  { label = "Verificare", text = "Confrontare errori fattuali o nuovi dati con le fonti." },
+  { label = "Correggere", text = "Rettificare subito gli errori; aggiornare la nota quando i dati cambiano in modo significativo." },
+  { label = "Documentare", text = "Registrare la correzione alla fine della nota; segnalare le modifiche sostanziali." },
+]
 
 [[extra.sections]]
 title = "Politica di aggiornamento"

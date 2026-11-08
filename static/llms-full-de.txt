@@ -702,6 +702,16 @@ Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil
 
 Die Schweiz hat eines der besten Sozialsysteme der Welt. Das Grundeinkommen baut darauf auf: einfacher, direkter, zeitgemässer. Es ist die logische Weiterentwicklung für eine Gesellschaft im Wandel.
 
+## Von Produktivität zu Sicherheit
+
+Vorschlag · Wirkungsweg
+
+1. **Wertschöpfung wächst**: KI und Robotik können mehr Leistung mit weniger Aufwand ermöglichen. Zusätzliche Wertschöpfung ist eine Annahme, keine Garantie.
+2. **Finanzierung gestalten**: Ein Teil fliesst über Steuern auf Einkommen, Konsum und Vermögen zurück. Dazu kommen vorgeschlagene Umschichtungen und Einsparungen im Sozialsystem.
+3. **Einkommen absichern**: Das Grundeinkommen schafft ein regelmässiges Fundament. Was einem Haushalt netto bleibt, hängt auch von zusätzlichen Steuern und ersetzten Leistungen ab.
+
+Politischer Vorschlag, kein automatischer Geldfluss: Höhe, Finanzierung und Ausgestaltung sind demokratisch zu entscheiden und im Pilot zu prüfen. Der Rechner unten variiert Steuersätze, Transfers und pauschale Einsparungen bei festen Bemessungsgrundlagen. Er prognostiziert keine Produktivitätsgewinne und bildet Verhaltenseffekte nicht ab.
+
 ## Häufige Fragen
 
 **Ist das nicht einfach 'Geld für alle'?**  
@@ -1864,6 +1874,10 @@ Jede Notiz erhält eine von drei Evidenzstufen:
 ## Korrekturpolitik
 
 Fehler sind unvermeidlich — entscheidend ist der Umgang damit. Sachfehler werden sofort korrigiert und die Korrektur am Ende der Notiz dokumentiert. Verändert sich die Datenlage wesentlich, wird die Notiz aktualisiert und mit einem Änderungshinweis versehen.
+
+1. **Prüfen**: Sachfehler oder neue Daten mit den Quellen abgleichen.
+2. **Korrigieren**: Sachfehler sofort berichtigen; bei wesentlich neuer Datenlage die Notiz aktualisieren.
+3. **Dokumentieren**: Korrektur am Ende der Notiz festhalten; wesentliche Änderungen mit einem Hinweis kenntlich machen.
 
 ## Aktualisierungspolitik
 

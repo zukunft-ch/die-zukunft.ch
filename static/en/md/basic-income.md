@@ -21,6 +21,16 @@ When machines produce a growing share of value, part of this dividend must flow 
 
 Switzerland has one of the best social systems in the world. Basic income builds on it: simpler, more direct, more contemporary. It is the logical evolution for a society in transition.
 
+## From productivity to security
+
+Proposal · How it could work
+
+1. **Create more value**: AI and robotics can enable more output with fewer resources. Additional value creation is an assumption, not a guarantee.
+2. **Design the funding**: A share returns through taxes on income, consumption and wealth, alongside proposed reallocations and savings in the social system.
+3. **Provide income security**: Basic income provides a regular foundation. A household’s net position also depends on additional taxes and the benefits being replaced.
+
+A political proposal, not an automatic flow of money: the amount, funding and design require democratic decisions and pilot evaluation. The calculator below varies tax rates, transfers and flat-rate savings using fixed tax bases. It does not forecast productivity gains or model behavioural effects.
+
 ## Frequently asked questions
 
 **Isn't this just 'money for everyone'?**  

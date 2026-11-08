@@ -117,4 +117,14 @@ param = "Social expenditure"
 value = "CHF 185bn"
 source = "FSIO, General account of social insurance 2022"
 url = "https://www.bsv.admin.ch/bsv/en/home/social-insurance/ueberblick/grsv.html"
+
+[extra.dividend_guide]
+eyebrow = "Proposal · How it could work"
+title = "From productivity to security"
+note = "A political proposal, not an automatic flow of money: the amount, funding and design require democratic decisions and pilot evaluation. The calculator below varies tax rates, transfers and flat-rate savings using fixed tax bases. It does not forecast productivity gains or model behavioural effects."
+steps = [
+  { label = "Create more value", text = "AI and robotics can enable more output with fewer resources. Additional value creation is an assumption, not a guarantee." },
+  { label = "Design the funding", text = "A share returns through taxes on income, consumption and wealth, alongside proposed reallocations and savings in the social system." },
+  { label = "Provide income security", text = "Basic income provides a regular foundation. A household’s net position also depends on additional taxes and the benefits being replaced." },
+]
 +++

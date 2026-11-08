@@ -21,6 +21,16 @@ Quand les machines produisent une part croissante de la valeur ajoutée, une par
 
 La Suisse possède l'un des meilleurs systèmes sociaux du monde. Le revenu de base s'appuie dessus : plus simple, plus direct, plus actuel. C'est l'évolution logique pour une société en mutation.
 
+## De la productivité à la sécurité
+
+Proposition · Mécanisme envisagé
+
+1. **Créer de la valeur**: L’IA et la robotique peuvent produire davantage avec moins de ressources. La valeur ajoutée supplémentaire est une hypothèse, pas une garantie.
+2. **Organiser le financement**: Une part revient à la collectivité via les impôts sur le revenu, la consommation et le patrimoine, avec des réaffectations et des économies proposées dans le système social.
+3. **Sécuriser le revenu**: Le revenu de base offre un socle régulier. Le montant net restant à un ménage dépend aussi des impôts supplémentaires et des prestations remplacées.
+
+Une proposition politique, pas un flux automatique : le montant, le financement et les modalités doivent être décidés démocratiquement et testés dans un projet pilote. Le calculateur ci-dessous fait varier les taux, les transferts et des économies forfaitaires sur des bases fiscales fixes. Il ne prédit ni gains de productivité ni effets comportementaux.
+
 ## Questions fréquentes
 
 **N'est-ce pas simplement «de l'argent pour tous» ?**  

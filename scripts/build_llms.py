@@ -139,6 +139,10 @@ def render_sections(p: Page) -> str:
             out.append(f"- **{clean(it.get('label', ''), p.lang)}**: {clean(it.get('text', ''), p.lang)}")
         if s.get("items"):
             out.append("")
+        for i, step in enumerate(s.get("steps", []), 1):
+            out.append(f"{i}. **{clean(step['label'], p.lang)}**: {clean(step['text'], p.lang)}")
+        if s.get("steps"):
+            out.append("")
         for sub in s.get("subsections", []):
             out.append(f"### {clean(sub.get('title', ''), p.lang)}\n")
             if sub.get("text"):
@@ -153,6 +157,17 @@ def render_chapters(p: Page) -> str:
     for c in p.extra.get("chapters", []):
         link = url_for(c["link"], p.lang) if c.get("link") else ""
         out.append(f"### [{clean(c['title'], p.lang)}]({link})\n\n{clean(c.get('text', ''), p.lang)}\n")
+    return "\n".join(out)
+
+
+def render_dividend_guide(p: Page) -> str:
+    guide = p.extra.get("dividend_guide")
+    if not guide:
+        return ""
+    out = [f"## {clean(guide['title'], p.lang)}\n", clean(guide['eyebrow'], p.lang) + "\n"]
+    for i, step in enumerate(guide["steps"], 1):
+        out.append(f"{i}. **{clean(step['label'], p.lang)}**: {clean(step['text'], p.lang)}")
+    out.append("\n" + clean(guide["note"], p.lang) + "\n")
     return "\n".join(out)
 
 
@@ -267,7 +282,7 @@ def render(p: Page) -> str:
         body = (f"## {f.get('name', '')}\n\n**{f.get('role', '')}**, {f.get('place', '')}\n\n{clean(f.get('text', ''), p.lang)}\n\n"
                 f"### {f.get('why_title', '')}\n\n{clean(f.get('why_text', ''), p.lang)}\n\n{links}\n\n" + render_sections(p))
     else:
-        body = "\n".join(filter(None, [render_sections(p), render_chapters(p), clean(p.body, p.lang), render_faq(p)]))
+        body = "\n".join(filter(None, [render_sections(p), render_dividend_guide(p), render_chapters(p), clean(p.body, p.lang), render_faq(p)]))
         if p.is_section and p.dir:
             body += "\n" + render_section_index(p)
     return "\n".join(head) + "\n" + body.strip() + "\n"

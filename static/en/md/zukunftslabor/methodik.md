@@ -21,6 +21,10 @@ Every note receives one of three evidence levels:
 
 Mistakes are inevitable — what matters is how they are handled. Factual errors are corrected immediately and the correction is documented at the end of the note. If the data changes significantly, the note is updated with a change notice.
 
+1. **Check**: Compare factual errors or new data with the sources.
+2. **Correct**: Fix factual errors immediately; update the note when the data changes significantly.
+3. **Document**: Record the correction at the end of the note; flag substantial changes with a notice.
+
 ## Update policy
 
 Notes are never deleted. When data becomes outdated, a notice is added. Major reassessments result in a new note that references the original.

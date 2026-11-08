@@ -21,6 +21,10 @@ Chaque note reçoit un des trois niveaux de preuve :
 
 Les erreurs sont inévitables — c'est la manière de les traiter qui compte. Les erreurs factuelles sont corrigées immédiatement et la correction est documentée en fin de note. Si les données changent de manière significative, la note est mise à jour avec une mention de modification.
 
+1. **Vérifier**: Comparer les erreurs factuelles ou les nouvelles données aux sources.
+2. **Corriger**: Rectifier immédiatement les erreurs ; actualiser la note si les données changent sensiblement.
+3. **Documenter**: Consigner la correction en fin de note ; signaler les modifications importantes.
+
 ## Politique de mise à jour
 
 Les notes ne sont pas supprimées. En cas de données obsolètes, un avis est ajouté. Les réévaluations majeures donnent lieu à une nouvelle note qui fait référence à l'originale.

@@ -21,6 +21,16 @@ Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil
 
 Die Schweiz hat eines der besten Sozialsysteme der Welt. Das Grundeinkommen baut darauf auf: einfacher, direkter, zeitgemässer. Es ist die logische Weiterentwicklung für eine Gesellschaft im Wandel.
 
+## Von Produktivität zu Sicherheit
+
+Vorschlag · Wirkungsweg
+
+1. **Wertschöpfung wächst**: KI und Robotik können mehr Leistung mit weniger Aufwand ermöglichen. Zusätzliche Wertschöpfung ist eine Annahme, keine Garantie.
+2. **Finanzierung gestalten**: Ein Teil fliesst über Steuern auf Einkommen, Konsum und Vermögen zurück. Dazu kommen vorgeschlagene Umschichtungen und Einsparungen im Sozialsystem.
+3. **Einkommen absichern**: Das Grundeinkommen schafft ein regelmässiges Fundament. Was einem Haushalt netto bleibt, hängt auch von zusätzlichen Steuern und ersetzten Leistungen ab.
+
+Politischer Vorschlag, kein automatischer Geldfluss: Höhe, Finanzierung und Ausgestaltung sind demokratisch zu entscheiden und im Pilot zu prüfen. Der Rechner unten variiert Steuersätze, Transfers und pauschale Einsparungen bei festen Bemessungsgrundlagen. Er prognostiziert keine Produktivitätsgewinne und bildet Verhaltenseffekte nicht ab.
+
 ## Häufige Fragen
 
 **Ist das nicht einfach 'Geld für alle'?**  

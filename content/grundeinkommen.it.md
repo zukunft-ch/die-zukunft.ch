@@ -117,4 +117,14 @@ param = "Spese sociali"
 value = "CHF 185 mrd."
 source = "UFAS, Conto globale della protezione sociale 2022"
 url = "https://www.bsv.admin.ch/bsv/it/home/assicurazioni-sociali/ueberblick/grsv.html"
+
+[extra.dividend_guide]
+eyebrow = "Proposta · Meccanismo previsto"
+title = "Dalla produttività alla sicurezza"
+note = "Una proposta politica, non un flusso automatico: importo, finanziamento e modalità vanno decisi democraticamente e verificati in un progetto pilota. Il calcolatore qui sotto varia aliquote, trasferimenti e risparmi forfettari su basi imponibili fisse. Non prevede guadagni di produttività né effetti comportamentali."
+steps = [
+  { label = "Creare valore", text = "IA e robotica possono produrre di più con meno risorse. Il valore aggiunto supplementare è un’ipotesi, non una garanzia." },
+  { label = "Definire il finanziamento", text = "Una parte torna alla collettività tramite imposte su reddito, consumi e patrimonio, insieme a riallocazioni e risparmi proposti nel sistema sociale." },
+  { label = "Garantire un reddito", text = "Il reddito di base offre una sicurezza regolare. Il saldo netto di un nucleo familiare dipende anche dalle imposte aggiuntive e dalle prestazioni sostituite." },
+]
 +++

@@ -1479,6 +1479,80 @@
           "bytes": 312030
         }
       ]
+    },
+    {
+      "slot": "join-together",
+      "generated_on": "2026-11-08",
+      "tool": "OpenAI built-in image_gen",
+      "source": "visuals/incoming/join-together.png",
+      "source_sha256": "43651f58d1c75e5da682d8e0a74b22164bedc92c4d1ef4ba37b5d97c96f64474",
+      "prompt_file": "visuals/incoming/join-together.txt",
+      "prompt": "Documentary photograph, medium format, natural colour, subtle film grain, soft early-morning\nalpenglow light (pale rose and violet in the sky, warm light on the land, clear air, light haze in\nthe distance). A real Swiss landscape dominates the frame (about two thirds): mountains, lake, meadows,\nforest or river. Human-made structures are small, calm and well made: pale ceramic, light timber, glass,\nlow and integrated into the terrain. Technology is mature and quiet: matte white, rounded, functional,\nnever the subject of the picture. Few people, small in the frame, natural and unposed, seen from a\ndistance, behind or in profile, no recognisable faces. One small accent of warm rose or violet. Wide\ncomposition, high horizon, a sense of order and calm. No text, no logos, no flags, no signage, no\nscreens or holograms, no neon, no chrome, no spaceships or flying vehicles, no crowds, no dystopia,\nno glossy CGI look.\n\nSCENE: A welcoming open-sided timber community pavilion beside a Swiss lake, with mountains and meadows beyond. Five adults of different ages and backgrounds sit naturally around one shared wooden table, seen from a distance and mostly from behind or in profile. They work together on blank paper sheets and a small cardboard neighbourhood model, with plain ceramic coffee cups. An empty chair welcomes the next person. One muted rose notebook is the only colour accent. The gathering is small within the landscape, not a posed group portrait. An imagined everyday collaboration scene, no identifiable real place or people. Landscape 3:2, 1536 by 1024 pixels.",
+      "outputs": [
+        {
+          "path": "static/visuals/join-together-600.avif",
+          "width": 600,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 24109
+        },
+        {
+          "path": "static/visuals/join-together-600.webp",
+          "width": 600,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 50142
+        },
+        {
+          "path": "static/visuals/join-together-600.jpg",
+          "width": 600,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 59561
+        },
+        {
+          "path": "static/visuals/join-together-960.avif",
+          "width": 960,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 57099
+        },
+        {
+          "path": "static/visuals/join-together-960.webp",
+          "width": 960,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 117076
+        },
+        {
+          "path": "static/visuals/join-together-960.jpg",
+          "width": 960,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 142746
+        },
+        {
+          "path": "static/visuals/join-together-1536.avif",
+          "width": 1536,
+          "format": "avif",
+          "quality": 50,
+          "bytes": 128886
+        },
+        {
+          "path": "static/visuals/join-together-1536.webp",
+          "width": 1536,
+          "format": "webp",
+          "quality": 78,
+          "bytes": 258094
+        },
+        {
+          "path": "static/visuals/join-together-1536.jpg",
+          "width": 1536,
+          "format": "jpg",
+          "quality": 80,
+          "bytes": 329497
+        }
+      ]
     }
   ]
 }

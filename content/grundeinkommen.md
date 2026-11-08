@@ -116,4 +116,14 @@ param = "Sozialausgaben"
 value = "CHF 185 Mrd."
 source = "BSV, Gesamtrechnung der Sozialen Sicherheit 2022"
 url = "https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ueberblick/grsv.html"
+
+[extra.dividend_guide]
+eyebrow = "Vorschlag · Wirkungsweg"
+title = "Von Produktivität zu Sicherheit"
+note = "Politischer Vorschlag, kein automatischer Geldfluss: Höhe, Finanzierung und Ausgestaltung sind demokratisch zu entscheiden und im Pilot zu prüfen. Der Rechner unten variiert Steuersätze, Transfers und pauschale Einsparungen bei festen Bemessungsgrundlagen. Er prognostiziert keine Produktivitätsgewinne und bildet Verhaltenseffekte nicht ab."
+steps = [
+  { label = "Wertschöpfung wächst", text = "KI und Robotik können mehr Leistung mit weniger Aufwand ermöglichen. Zusätzliche Wertschöpfung ist eine Annahme, keine Garantie." },
+  { label = "Finanzierung gestalten", text = "Ein Teil fliesst über Steuern auf Einkommen, Konsum und Vermögen zurück. Dazu kommen vorgeschlagene Umschichtungen und Einsparungen im Sozialsystem." },
+  { label = "Einkommen absichern", text = "Das Grundeinkommen schafft ein regelmässiges Fundament. Was einem Haushalt netto bleibt, hängt auch von zusätzlichen Steuern und ersetzten Leistungen ab." },
+]
 +++

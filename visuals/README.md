@@ -1,6 +1,6 @@
 # Hero visuals
 
-Twenty imagined Swiss near-future scenes, generated on 2026-11-08 using the built-in
+Twenty-one imagined Swiss near-future scenes, generated on 2026-11-08 using the built-in
 OpenAI `image_gen` tool. The art direction follows the shared
 `../assets/visuals/PROMPTS.md` prompt kit (relative to the site repository root).
 The complete prompts used here are preserved beside the originals.
@@ -13,6 +13,7 @@ The complete prompts used here are preserved beside the originals.
 | `pillar-stadte-wohnen` | Cities and housing |
 | `pillar-energy-resilience` | Energy and infrastructure resilience |
 | `lab-hero` | Future Lab |
+| `join-together` | Get involved / Mitmachen |
 | `pillar-digitale-souveraenitaet` | Digital sovereignty |
 | `pillar-uebergaenge` | Work without fear / retraining |
 | `pillar-life-science` | Life science and health |
@@ -74,3 +75,21 @@ fallback selection. Use `mise exec -- zola` to select the pinned version.
 
 Integration includes changes in the `themes/avenir` submodule. Include those
 theme changes along with the site assets/configuration when committing or deploying.
+
+## Follow-up placements (2026-11-08)
+
+Programme chapters reuse the thirteen pillar scenes with CSS crops. The manifesto
+adds two wide pauses after the production and dividend theses; their permanent
+hex addresses map to `manifest_interludes` in the catalogue. Mitmachen uses the
+new `join-together` scene, generated with the built-in image tool; its exact
+prompt and original are in `incoming/` and its provenance is recorded as usual.
+
+`macros/visual_guide.html` renders semantic HTML lists for the automation-dividend
+flow and the Methodology evidence/correction guides. Their copy lives in the four
+localized content files and is included in the generated Markdown twins and
+LLM corpora. Decorative arrows and evidence bars are hidden from screen readers.
+
+This pass: production build and internal-link check passed, and all 20 affected
+localized pages passed asset/markup checks (68 pictures). Full desktop/mobile
+light/dark browser review remains pending: browser connector unavailable, with
+concurrent native-browser use preventing reliable completion. See `TODO.md`.

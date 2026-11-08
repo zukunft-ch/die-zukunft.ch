@@ -251,6 +251,18 @@
         "it": "Un piccolo robot agricolo percorre file di ortaggi mentre un agricoltore e un bambino osservano dal bordo del campo.",
         "en": "A small field robot moves through vegetable rows as a farmer and child watch from the edge of the field."
       }
+    },
+    {
+      "slot": "join-together",
+      "page": "@/mitmachen.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Fiktive Szene: Fünf Menschen arbeiten gemeinsam an einem Holztisch in einem offenen Pavillon am See; ein freier Stuhl lädt zum Mitmachen ein.",
+        "fr": "Scène fictive : cinq personnes travaillent ensemble autour d’une table en bois dans un pavillon ouvert au bord d’un lac ; une chaise libre invite à les rejoindre.",
+        "it": "Scena immaginaria: cinque persone lavorano insieme a un tavolo di legno in un padiglione aperto sul lago; una sedia libera invita a partecipare.",
+        "en": "Imagined scene: five people work together around a timber table in an open lakeside pavilion; an empty chair invites others to join."
+      }
     }
   ],
   "vision_outcomes": [
@@ -260,5 +272,15 @@
     "vision-04-bauen",
     "vision-05-hof",
     "vision-06-zeit"
+  ],
+  "manifest_interludes": [
+    {
+      "after": "0x1005",
+      "slot": "vision-03-fabrik"
+    },
+    {
+      "after": "0x1008",
+      "slot": "vision-06-zeit"
+    }
   ]
 }

@@ -14,6 +14,7 @@ text = "Le Laboratoire du futur publie des analyses fondées sur les preuves. Ch
 [[extra.sections]]
 title = "Niveaux de preuve"
 text = "Chaque note reçoit un des trois niveaux de preuve :"
+presentation = "evidence"
 items = [
   { label = "Évidence forte", text = "Études évaluées par les pairs, statistiques officielles (OFS, SECO, OCDE), résultats répliqués." },
   { label = "Évidence moyenne", text = "Études individuelles, documents de travail, rapports officiels sans évaluation par les pairs, recherches journalistiques cohérentes." },
@@ -23,6 +24,11 @@ items = [
 [[extra.sections]]
 title = "Politique de correction"
 text = "Les erreurs sont inévitables — c'est la manière de les traiter qui compte. Les erreurs factuelles sont corrigées immédiatement et la correction est documentée en fin de note. Si les données changent de manière significative, la note est mise à jour avec une mention de modification."
+steps = [
+  { label = "Vérifier", text = "Comparer les erreurs factuelles ou les nouvelles données aux sources." },
+  { label = "Corriger", text = "Rectifier immédiatement les erreurs ; actualiser la note si les données changent sensiblement." },
+  { label = "Documenter", text = "Consigner la correction en fin de note ; signaler les modifications importantes." },
+]
 
 [[extra.sections]]
 title = "Politique de mise à jour"

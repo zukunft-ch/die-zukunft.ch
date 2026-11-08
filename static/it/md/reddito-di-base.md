@@ -21,6 +21,16 @@ Quando le macchine producono una quota crescente del valore aggiunto, una parte 
 
 La Svizzera possiede uno dei migliori sistemi sociali al mondo. Il reddito di base si basa su questo: più semplice, più diretto, più attuale. È l'evoluzione logica per una società in transizione.
 
+## Dalla produttività alla sicurezza
+
+Proposta · Meccanismo previsto
+
+1. **Creare valore**: IA e robotica possono produrre di più con meno risorse. Il valore aggiunto supplementare è un’ipotesi, non una garanzia.
+2. **Definire il finanziamento**: Una parte torna alla collettività tramite imposte su reddito, consumi e patrimonio, insieme a riallocazioni e risparmi proposti nel sistema sociale.
+3. **Garantire un reddito**: Il reddito di base offre una sicurezza regolare. Il saldo netto di un nucleo familiare dipende anche dalle imposte aggiuntive e dalle prestazioni sostituite.
+
+Una proposta politica, non un flusso automatico: importo, finanziamento e modalità vanno decisi democraticamente e verificati in un progetto pilota. Il calcolatore qui sotto varia aliquote, trasferimenti e risparmi forfettari su basi imponibili fisse. Non prevede guadagni di produttività né effetti comportamentali.
+
 ## Domande frequenti
 
 **Non è semplicemente 'soldi per tutti'?**  

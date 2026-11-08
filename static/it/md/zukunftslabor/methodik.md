@@ -21,6 +21,10 @@ Ogni nota riceve uno dei tre livelli di evidenza:
 
 Gli errori sono inevitabili — ciò che conta è come vengono gestiti. Gli errori fattuali vengono corretti immediatamente e la correzione viene documentata alla fine della nota. Se i dati cambiano in modo significativo, la nota viene aggiornata con un avviso di modifica.
 
+1. **Verificare**: Confrontare errori fattuali o nuovi dati con le fonti.
+2. **Correggere**: Rettificare subito gli errori; aggiornare la nota quando i dati cambiano in modo significativo.
+3. **Documentare**: Registrare la correzione alla fine della nota; segnalare le modifiche sostanziali.
+
 ## Politica di aggiornamento
 
 Le note non vengono cancellate. In caso di dati obsoleti, viene aggiunto un avviso. Le rivalutazioni importanti portano a una nuova nota che fa riferimento all'originale.
