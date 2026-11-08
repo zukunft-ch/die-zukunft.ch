@@ -72,7 +72,7 @@ link_text = "Pillar: Re-industrialisation with Robotics"
 [[extra.theses]]
 hex = "0x1006"
 title = "The state becomes the best service provider in the country."
-text = "Open data, open procedures, AI in every public office. Routine cases in minutes, every decision explained and open to appeal. Citizens should be able to read the state, check it and build better tools on top of it."
+text = "Transparent by law, open data and APIs, AI in every public office. Routine cases in minutes, every decision explained and open to appeal. Offices are filled on ability, not party membership, and politics is a phase of life, not a profession. Citizens should be able to read the state, check it and build better tools on top of it."
 link = "@/offener-staat.md"
 link_text = "Pillar: Open Government"
 

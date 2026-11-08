@@ -37,7 +37,7 @@ Robot nei campi, nei cantieri e nelle fabbriche rendono di nuovo competitiva la 
 
 ## 05. Lo Stato diventa il miglior fornitore di servizi del Paese. (0x1006)
 
-Dati aperti, procedure aperte, IA in ogni ufficio pubblico. Casi di routine in pochi minuti, ogni decisione motivata e impugnabile. Cittadine e cittadini devono poter leggere lo Stato, controllarlo e costruirci sopra strumenti migliori.
+Trasparente per legge, dati aperti e API, IA in ogni ufficio pubblico. Casi di routine in pochi minuti, ogni decisione motivata e impugnabile. Le cariche vengono assegnate in base alle capacità, non alla tessera di partito, e la politica è una fase della vita, non un mestiere. Cittadine e cittadini devono poter leggere lo Stato, controllarlo e costruirci sopra strumenti migliori.
 
 → [Pilastro: Stato aperto](https://il-futuro.ch/stato-aperto/)
 

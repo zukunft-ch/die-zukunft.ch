@@ -41,7 +41,7 @@ pillars = [
   { hex = "0x25", icon = "🏙️", title = "Cities & Housing", text = "More affordable housing and quality of life through densification at transit hubs — less sprawl, more comfort.", link = "@/stadte-wohnen.md" },
   { hex = "0x26", icon = "🔬", title = "Research, Innovation & Commons", text = "Testbeds, open standards and a nationwide innovation network — so innovation has broad impact and doesn't stay in silos.", link = "@/research-innovation.md" },
   { hex = "0x27", icon = "⚡", title = "Energy & Infrastructure Resilience", text = "Reliable, affordable, robust supply — resilience through engineering, not ideology.", link = "@/energy-resilience.md" },
-  { hex = "0x28", icon = "📡", title = "Open Government", text = "API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.", link = "@/offener-staat.md" },
+  { hex = "0x28", icon = "📡", title = "Open Government", text = "Transparent by law, API-by-default, offices filled on competence rather than party membership, and term limits: a state everyone can scrutinise.", link = "@/offener-staat.md" },
   { hex = "0x29", icon = "🕊️", title = "Neutrality & Peace", text = "Strictly defensive, credibly neutral — and once again a centre for peace talks and good offices.", link = "@/neutralitaet-frieden.md" },
   { hex = "0x2A", icon = "🤝", title = "Talent, Integration & Rule of Law", text = "Open to people who contribute — clear on the rule of law and the rules of coexistence.", link = "@/talent-integration.md" },
   { hex = "0x2B", icon = "🗣️", title = "Language & Understanding", text = "Strengthening national languages, English as a pragmatic bridge — understanding without friction.", link = "@/sprache-verstaendigung.md" },

@@ -65,7 +65,7 @@ link = "@/energy-resilience.md"
 [[extra.chapters]]
 icon = "📡"
 title = "Open Government"
-text = "A state that enables rather than blocks: API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state."
+text = "A state that enables rather than blocks: transparent by law, API-by-default and open procedures. Offices filled on competence rather than party membership, term limits, all interests declared — so citizens can scrutinise the state and build better tools."
 link = "@/offener-staat.md"
 
 [[extra.chapters]]

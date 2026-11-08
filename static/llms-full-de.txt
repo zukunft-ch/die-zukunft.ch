@@ -42,7 +42,7 @@ Dreizehn Pfeiler, alle auf einen Blick. Jeder Pfeiler hat eine eigene Seite mit 
 - [Städte & Wohnen](https://die-zukunft.ch/stadte-wohnen/) (0x25): Mehr bezahlbarer Wohnraum und mehr Lebensqualität durch Verdichtung an ÖV-Knoten – weniger Zersiedlung, mehr Komfort.
 - [Forschung, Innovation & Commons](https://die-zukunft.ch/research-innovation/) (0x26): Reallabore, offene Standards und ein schweizweites Innovationsnetz – damit Innovation breit wirkt und nicht in Silos bleibt.
 - [Energie & Infrastruktur-Resilienz](https://die-zukunft.ch/energy-resilience/) (0x27): Zuverlässige, bezahlbare, robuste Versorgung – Resilienz durch Engineering, nicht durch Ideologie.
-- [Offener Staat](https://die-zukunft.ch/offener-staat/) (0x28): API-by-default, radikale Transparenz und offene Verfahren – damit Bürger:innen bessere Tools bauen und den Staat effektiv prüfen können.
+- [Offener Staat](https://die-zukunft.ch/offener-staat/) (0x28): Transparent per Gesetz, API-by-default, Ämter nach Kompetenz statt Parteibuch und begrenzte Amtszeiten: ein Staat, den alle prüfen können.
 - [Neutralität & Frieden](https://die-zukunft.ch/neutralitaet-frieden/) (0x29): Strikt defensiv, glaubwürdig neutral – und wieder ein Zentrum für Friedensgespräche und Good Offices.
 - [Talent, Integration & Rechtsstaat](https://die-zukunft.ch/talent-integration/) (0x2A): Offen für Menschen, die etwas beitragen – klar im Rechtsstaat und in den Regeln des Zusammenlebens.
 - [Sprache & Verständigung](https://die-zukunft.ch/sprache-verstaendigung/) (0x2B): Landessprachen stärken, Englisch als pragmatische Brücke – Verständigung ohne Reibungsverlust.
@@ -100,7 +100,7 @@ Roboter auf Feldern, Baustellen und in Fabriken machen Produktion in der Schweiz
 
 ## 05. Der Staat wird zum besten Dienstleister des Landes. (0x1006)
 
-Offene Daten, offene Verfahren, KI in jeder Amtsstube. Routinefälle in Minuten, jeder Entscheid begründet und anfechtbar. Bürger:innen sollen den Staat lesen, prüfen und bessere Werkzeuge darauf bauen können.
+Transparent per Gesetz, offene Daten und APIs, KI in jeder Amtsstube. Routinefälle in Minuten, jeder Entscheid begründet und anfechtbar. Ämter werden nach Können vergeben, nicht nach Parteibuch, und Politik ist eine Lebensphase, kein Beruf. Bürger:innen sollen den Staat lesen, prüfen und bessere Werkzeuge darauf bauen können.
 
 → [Pfeiler: Offener Staat](https://die-zukunft.ch/offener-staat/)
 
@@ -226,7 +226,8 @@ Hoch automatisierte Fertigung macht Produktion in der Schweiz wieder wettbewerbs
 
 KI macht Dienstleistungen schneller, günstiger und zugänglicher. Der Staat geht voran und wird zum besten Dienstleister des Landes.
 
-- Verwaltung: Routinefälle automatisch, jeder Entscheid begründet
+- Verwaltung: transparent per Gesetz, Routinefälle automatisch, jeder Entscheid begründet
+- Ämter nach Kompetenz statt Parteibuch, begrenzte Amtszeiten
 - KI-Assistenz in Gesundheit, Recht und Bildung
 - Tiefere Kosten bei Banken, Versicherungen und im Handel
 - Mehr Zeit für das Persönliche, Komplexe und Fürsorgliche
@@ -332,7 +333,7 @@ Verlässliche Versorgung, robuste Infrastruktur und planbare Kosten — als Grun
 
 ### [Offener Staat](https://die-zukunft.ch/offener-staat/)
 
-Ein Staat, der ermöglicht statt blockiert: API-by-default, radikale Transparenz und offene Verfahren — damit Bürger:innen bessere Tools bauen und den Staat effektiv prüfen können.
+Ein Staat, der ermöglicht statt blockiert: transparent per Gesetz, API-by-default und offene Verfahren. Ämter nach Kompetenz statt Parteibuch, begrenzte Amtszeiten, alle Interessen offengelegt — damit Bürger:innen den Staat prüfen und bessere Werkzeuge bauen können.
 
 ### [Neutralität & Frieden](https://die-zukunft.ch/neutralitaet-frieden/)
 
@@ -904,7 +905,7 @@ Das Ziel ist das Gegenteil: planbare Kosten. Ausfälle und Krisen sind am Ende t
 
 # Offener Staat
 
-> Ein Staat, der ermöglicht statt blockiert: Daten und Verfahren offen, maschinenlesbar und über APIs verfügbar.
+> Ein Staat, der ermöglicht statt blockiert: transparent per Gesetz, Daten und Verfahren über APIs, Ämter nach Kompetenz statt Parteibuch.
 
 Source: https://die-zukunft.ch/offener-staat/ · Publisher: Die Zukunft (Swiss political party, Basel)
 
@@ -930,14 +931,14 @@ Jeder Prozess wird digital als Workflow beschrieben:
 - Gebühren
 - Eindeutige Zuständigkeiten
 
-## Transparenz als Standard
+## Transparent per Gesetz
 
-Transparenz soll nicht vom Goodwill abhängen, sondern Standard sein:
+Transparenz darf nicht vom guten Willen abhängen. Öffentlich ist alles, was nicht ausdrücklich ausgenommen ist. Ausnahmen gibt es nur für die nationale Sicherheit und für Personendaten, und jede Ausnahme wird begründet und selbst veröffentlicht.
 
-- Budgets und Ausgaben
-- Beschaffung und Verträge (wo möglich)
-- Kennzahlen der Verwaltung (Bearbeitungszeiten etc.)
-- Stellenprofile und Lohnbänder (wo sinnvoll)
+- Budgets und Ausgaben, bis auf den Einzelposten
+- Beschaffungen und Verträge, inklusive Preise
+- Kennzahlen jeder Verwaltungseinheit: Bearbeitungszeiten, Rückstände, Kosten pro Fall
+- Stellenprofile, Lohnbänder und Organigramme
 
 ## Transparenz in der Politik
 
@@ -946,6 +947,32 @@ Damit Demokratie sauber bleibt, braucht es Klarheit:
 - Parteifinanzierung und Spendenflüsse
 - Kampagnenbudgets und wesentliche Geldgeber
 - Zeitnah und öffentlich
+
+## Kompetenz statt Karriere
+
+Politik soll eine Lebensphase sein, kein Beruf. Und öffentliche Ämter werden nach Können vergeben, nicht nach Parteibuch. Das ist die Schweizer Milizidee, konsequent zu Ende gedacht. Gewählt wird weiterhin frei: Kompetenz ist ein Anspruch an Ämter und Verwaltung, keine Hürde für das Wahlrecht.
+
+### Amtszeitbeschränkung
+
+- Höchstens zwölf Jahre im selben Parlament oder in derselben Regierung
+- Danach zurück in Beruf, Forschung oder Unternehmen: Erfahrung zirkuliert, Seilschaften nicht
+
+### Verwaltung nach Leistung
+
+- Jede Stelle wird öffentlich ausgeschrieben, mit veröffentlichten Kriterien
+- Kaderstellen werden von unabhängigen Gremien besetzt, nicht nach Parteizugehörigkeit
+- Ziele und Ergebnisse jeder Verwaltungseinheit werden gemessen und veröffentlicht
+
+### Alle Interessen offen
+
+- Öffentliches Register aller Mandate, Nebeneinkünfte und Lobby-Treffen von Parlamentsmitgliedern und Kaderleuten
+- Eine Karenzfrist, bevor Amtsträger:innen in Lobbying-Funktionen wechseln
+
+### Entscheide mit Begründung
+
+- Unabhängige Fachräte veröffentlichen ihre Empfehlungen vollständig
+- Jeder Regierungsentscheid kommt mit einer öffentlichen, maschinenlesbaren Begründung und den Daten dahinter
+- Wer von einer Empfehlung abweicht, erklärt öffentlich, warum
 
 ## Bürgerkontrolle im 21. Jahrhundert
 
@@ -981,6 +1008,12 @@ Nein — Offenheit gilt für Daten und Prozesse des Staates, nicht für Personen
 
 **Was bringt das im Alltag?**  
 Weniger Papier und Wartezeit, niedrigere Verwaltungskosten und bessere Services — weil Bürger:innen, Medien und Unternehmen auf offenen Daten bessere Tools bauen können.
+
+**Heisst «Kompetenz statt Karriere», dass nur Expert:innen gewählt werden dürfen?**  
+Nein. Wählen und gewählt werden bleibt ein Recht aller. Der Anspruch richtet sich an Ämter und Verwaltung: Stellen nach Können statt nach Parteibuch, begrenzte Amtszeiten, offengelegte Interessen und begründete Entscheide.
+
+**Warum Amtszeitbeschränkungen?**  
+Weil Politik von Menschen profitiert, die aus dem echten Leben kommen und dorthin zurückkehren. Begrenzte Amtszeiten verhindern Seilschaften und Abhängigkeiten und halten Parlamente offen für neue Erfahrung. Das entspricht der Schweizer Milizidee.
 
 **Gilt Transparenz auch für die Politik selbst?**  
 Ja: Parteifinanzierung, Spendenflüsse und Kampagnenbudgets sollen zeitnah und öffentlich einsehbar sein. Das gilt auch für uns.

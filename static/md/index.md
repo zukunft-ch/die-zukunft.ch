@@ -35,7 +35,7 @@ Dreizehn Pfeiler, alle auf einen Blick. Jeder Pfeiler hat eine eigene Seite mit 
 - [Städte & Wohnen](https://die-zukunft.ch/stadte-wohnen/) (0x25): Mehr bezahlbarer Wohnraum und mehr Lebensqualität durch Verdichtung an ÖV-Knoten – weniger Zersiedlung, mehr Komfort.
 - [Forschung, Innovation & Commons](https://die-zukunft.ch/research-innovation/) (0x26): Reallabore, offene Standards und ein schweizweites Innovationsnetz – damit Innovation breit wirkt und nicht in Silos bleibt.
 - [Energie & Infrastruktur-Resilienz](https://die-zukunft.ch/energy-resilience/) (0x27): Zuverlässige, bezahlbare, robuste Versorgung – Resilienz durch Engineering, nicht durch Ideologie.
-- [Offener Staat](https://die-zukunft.ch/offener-staat/) (0x28): API-by-default, radikale Transparenz und offene Verfahren – damit Bürger:innen bessere Tools bauen und den Staat effektiv prüfen können.
+- [Offener Staat](https://die-zukunft.ch/offener-staat/) (0x28): Transparent per Gesetz, API-by-default, Ämter nach Kompetenz statt Parteibuch und begrenzte Amtszeiten: ein Staat, den alle prüfen können.
 - [Neutralität & Frieden](https://die-zukunft.ch/neutralitaet-frieden/) (0x29): Strikt defensiv, glaubwürdig neutral – und wieder ein Zentrum für Friedensgespräche und Good Offices.
 - [Talent, Integration & Rechtsstaat](https://die-zukunft.ch/talent-integration/) (0x2A): Offen für Menschen, die etwas beitragen – klar im Rechtsstaat und in den Regeln des Zusammenlebens.
 - [Sprache & Verständigung](https://die-zukunft.ch/sprache-verstaendigung/) (0x2B): Landessprachen stärken, Englisch als pragmatische Brücke – Verständigung ohne Reibungsverlust.

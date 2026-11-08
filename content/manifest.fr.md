@@ -72,7 +72,7 @@ link_text = "Pilier : Réindustrialisation par la robotique"
 [[extra.theses]]
 hex = "0x1006"
 title = "L'État devient le meilleur prestataire de services du pays."
-text = "Données ouvertes, procédures ouvertes, IA dans chaque bureau de l'administration. Les cas de routine réglés en quelques minutes, chaque décision motivée et contestable. Les citoyennes et citoyens doivent pouvoir lire l'État, le contrôler et construire de meilleurs outils par-dessus."
+text = "Transparent par la loi, données ouvertes et API, IA dans chaque bureau de l'administration. Les cas de routine réglés en quelques minutes, chaque décision motivée et contestable. Les fonctions sont attribuées selon les compétences, pas selon l'appartenance partisane, et la politique est une étape de vie, pas un métier. Les citoyennes et citoyens doivent pouvoir lire l'État, le contrôler et construire de meilleurs outils par-dessus."
 link = "@/offener-staat.md"
 link_text = "Pilier : État ouvert"
 

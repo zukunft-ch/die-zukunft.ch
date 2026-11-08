@@ -1,7 +1,7 @@
 +++
 title = "Stato aperto"
 slug = "stato-aperto"
-description = "Uno Stato che rende possibile invece di bloccare: dati e procedure aperti, leggibili dalle macchine e accessibili via API."
+description = "Uno Stato che rende possibile invece di bloccare: trasparente per legge, dati e procedure tramite API, cariche assegnate per competenza e non per tessera di partito."
 template = "page.html"
 
 [extra]
@@ -12,6 +12,8 @@ faq = [
   { q = "Cosa significa API per default?", a = "Le autorità non pubblicano dati e procedure solo come PDF, ma come interfacce affidabili e documentate — con standard unificati, versionamento e disponibilità stabile. Tutto ciò che non riguarda la sicurezza nazionale è aperto e leggibile dalle macchine." },
   { q = "Non è un rischio per la protezione dei dati?", a = "No — l'apertura riguarda i dati e i processi dello Stato, non i dati personali. Valgono il privacy-by-design (minimizzare, anonimizzare, aggregare) e il security-by-design (standard forti, audit, responsabilità chiare)." },
   { q = "Cosa porta nella vita quotidiana?", a = "Meno carta e attese, costi amministrativi più bassi e servizi migliori — perché cittadini, media e imprese possono costruire strumenti migliori su dati aperti." },
+  { q = "«Competenza invece di carriera» significa che possono essere eletti solo esperti?", a = "No. Votare ed essere eletti resta un diritto di tutti. L'esigenza riguarda le cariche pubbliche e l'amministrazione: posti assegnati per competenza e non per tessera di partito, limiti di mandato, interessi dichiarati e decisioni motivate." },
+  { q = "Perché i limiti di mandato?", a = "Perché la politica trae vantaggio da persone che vengono dalla vita reale e vi ritornano. I limiti di mandato impediscono clientelismi e dipendenze e mantengono i parlamenti aperti a nuove esperienze. È lo spirito del sistema di milizia svizzero." },
   { q = "La trasparenza vale anche per la politica stessa?", a = "Sì: il finanziamento dei partiti, i flussi di donazioni e i budget delle campagne devono essere consultabili pubblicamente e tempestivamente. Questo vale anche per noi." },
 ]
 
@@ -40,13 +42,13 @@ points = [
 ]
 
 [[extra.sections]]
-title = "La trasparenza come standard"
-text = "La trasparenza non deve dipendere dalla buona volontà, ma essere lo standard:"
+title = "Trasparente per legge"
+text = "La trasparenza non può dipendere dalla buona volontà. È pubblico tutto ciò che non è espressamente escluso. Le eccezioni valgono solo per la sicurezza nazionale e per i dati personali, e ogni eccezione viene motivata e a sua volta pubblicata."
 points = [
-  "Budget e spese",
-  "Appalti e contratti (dove possibile)",
-  "Indicatori dell'amministrazione (tempi di elaborazione, ecc.)",
-  "Profili professionali e fasce salariali (dove sensato)",
+  "Budget e spese, fino alla singola voce",
+  "Appalti e contratti, prezzi inclusi",
+  "Indicatori di ogni unità amministrativa: tempi di elaborazione, arretrati, costi per caso",
+  "Profili professionali, fasce salariali e organigrammi",
 ]
 
 [[extra.sections]]
@@ -56,6 +58,16 @@ points = [
   "Finanziamento dei partiti e flussi di donazioni",
   "Budget delle campagne e principali finanziatori",
   "Tempestivamente e pubblicamente",
+]
+
+[[extra.sections]]
+title = "Competenza invece di carriera"
+text = "La politica deve essere una fase della vita, non un mestiere. E le cariche pubbliche vengono assegnate in base alle capacità, non alla tessera di partito. È l'idea svizzera di milizia, portata fino in fondo. Le elezioni restano libere: la competenza è un'esigenza verso le cariche pubbliche e l'amministrazione, non un ostacolo al diritto di voto o di eleggibilità."
+subsections = [
+  { title = "Limite di mandato", text = "", points = ["Al massimo dodici anni nello stesso parlamento o nello stesso governo", "Poi di nuovo nella professione, nella ricerca o nell'impresa: l'esperienza circola, i clientelismi no"] },
+  { title = "Amministrazione basata sul merito", text = "", points = ["Ogni posto viene messo a concorso pubblicamente, con criteri pubblicati", "I posti di quadro vengono assegnati da organi indipendenti, non in base all'appartenenza di partito", "Obiettivi e risultati di ogni unità amministrativa vengono misurati e pubblicati"] },
+  { title = "Tutti gli interessi dichiarati", text = "", points = ["Un registro pubblico di tutti i mandati, redditi accessori e incontri con lobbisti di parlamentari e quadri", "Un periodo di carenza prima che chi ricopre una carica pubblica passi a funzioni di lobbying"] },
+  { title = "Decisioni motivate", text = "", points = ["Consigli di esperti indipendenti pubblicano integralmente le loro raccomandazioni", "Ogni decisione del governo è accompagnata da una motivazione pubblica, leggibile dalle macchine, e dai dati su cui si basa", "Chi si discosta da una raccomandazione spiega pubblicamente perché"] },
 ]
 
 [[extra.sections]]

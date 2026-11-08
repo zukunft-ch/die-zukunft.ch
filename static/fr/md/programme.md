@@ -43,7 +43,7 @@ Approvisionnement fiable, infrastructure robuste et coûts prévisibles — comm
 
 ### [État ouvert](https://le-futur.ch/etat-ouvert/)
 
-Un État qui rend possible au lieu de bloquer : API par défaut, transparence radicale et procédures ouvertes — pour que les citoyens puissent construire de meilleurs outils et contrôler efficacement l'État.
+Un État qui rend possible au lieu de bloquer : transparent par la loi, API par défaut et procédures ouvertes. Des fonctions attribuées selon la compétence plutôt que l'appartenance partisane, des mandats limités dans le temps, tous les intérêts déclarés — pour que les citoyens puissent contrôler l'État et construire de meilleurs outils.
 
 ### [Neutralité & paix](https://le-futur.ch/neutralite-paix/)
 

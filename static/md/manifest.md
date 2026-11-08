@@ -37,7 +37,7 @@ Roboter auf Feldern, Baustellen und in Fabriken machen Produktion in der Schweiz
 
 ## 05. Der Staat wird zum besten Dienstleister des Landes. (0x1006)
 
-Offene Daten, offene Verfahren, KI in jeder Amtsstube. Routinefälle in Minuten, jeder Entscheid begründet und anfechtbar. Bürger:innen sollen den Staat lesen, prüfen und bessere Werkzeuge darauf bauen können.
+Transparent per Gesetz, offene Daten und APIs, KI in jeder Amtsstube. Routinefälle in Minuten, jeder Entscheid begründet und anfechtbar. Ämter werden nach Können vergeben, nicht nach Parteibuch, und Politik ist eine Lebensphase, kein Beruf. Bürger:innen sollen den Staat lesen, prüfen und bessere Werkzeuge darauf bauen können.
 
 → [Pfeiler: Offener Staat](https://die-zukunft.ch/offener-staat/)
 

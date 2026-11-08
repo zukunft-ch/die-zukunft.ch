@@ -66,7 +66,8 @@ Una fabbricazione altamente automatizzata rende di nuovo competitiva la produzio
 
 L'IA rende i servizi più rapidi, più economici e più accessibili. Lo Stato dà l'esempio e diventa il miglior fornitore di servizi del Paese.
 
-- Amministrazione: casi di routine automatici, ogni decisione motivata
+- Amministrazione: trasparente per legge, casi di routine automatici, ogni decisione motivata
+- Cariche assegnate per competenza invece che per tessera di partito, mandati limitati
 - Assistenza IA in salute, diritto e formazione
 - Costi più bassi in banche, assicurazioni e commercio
 - Più tempo per ciò che è personale, complesso e di cura

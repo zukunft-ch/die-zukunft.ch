@@ -66,7 +66,8 @@ Highly automated manufacturing makes production in Switzerland competitive again
 
 AI makes services faster, cheaper and more accessible. The state leads the way and becomes the best service provider in the country.
 
-- Administration: routine cases automated, every decision explained
+- Administration: transparent by law, routine cases automated, every decision explained
+- Offices filled on competence rather than party membership, term limits
 - AI assistance in health, law and education
 - Lower costs in banking, insurance and retail
 - More time for the personal, the complex and the caring

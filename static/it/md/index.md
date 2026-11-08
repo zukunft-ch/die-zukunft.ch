@@ -35,7 +35,7 @@ Tredici pilastri, tutti in un colpo d'occhio. Ognuno ha una propria pagina con m
 - [Città & abitare](https://il-futuro.ch/urbanistica/) (0x25): Più alloggi accessibili e più qualità di vita grazie alla densificazione intorno ai nodi TP – meno dispersione, più comfort.
 - [Ricerca, innovazione & beni comuni](https://il-futuro.ch/ricerca-innovazione/) (0x26): Laboratori reali, standard aperti e rete d'innovazione a livello svizzero – perché l'innovazione abbia un impatto ampio e non resti nei silos.
 - [Energia & resilienza delle infrastrutture](https://il-futuro.ch/energia-resilienza/) (0x27): Approvvigionamento affidabile, accessibile e robusto – resilienza attraverso l'ingegneria, non l'ideologia.
-- [Stato aperto](https://il-futuro.ch/stato-aperto/) (0x28): API per default, trasparenza radicale e procedure aperte – perché i cittadini possano costruire strumenti migliori e controllare efficacemente lo Stato.
+- [Stato aperto](https://il-futuro.ch/stato-aperto/) (0x28): Trasparente per legge, API per default, cariche assegnate per competenza invece che per tessera di partito e mandati limitati: uno Stato che tutti possono controllare.
 - [Neutralità & pace](https://il-futuro.ch/neutralita-pace/) (0x29): Strettamente difensivo, credibilmente neutrale – e di nuovo un centro per colloqui di pace e buoni uffici.
 - [Talento, integrazione & Stato di diritto](https://il-futuro.ch/talento-integrazione/) (0x2A): Aperto a chi contribuisce – chiaro nello Stato di diritto e nelle regole della convivenza.
 - [Lingua & comprensione](https://il-futuro.ch/lingua-comprensione/) (0x2B): Rafforzare le lingue nazionali, l'inglese come ponte pragmatico – una comprensione senza attrito.

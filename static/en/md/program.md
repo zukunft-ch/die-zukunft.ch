@@ -43,7 +43,7 @@ Reliable supply, robust infrastructure and predictable costs — as the foundati
 
 ### [Open Government](https://die-zukunft.ch/en/open-government/)
 
-A state that enables rather than blocks: API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.
+A state that enables rather than blocks: transparent by law, API-by-default and open procedures. Offices filled on competence rather than party membership, term limits, all interests declared — so citizens can scrutinise the state and build better tools.
 
 ### [Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/)
 

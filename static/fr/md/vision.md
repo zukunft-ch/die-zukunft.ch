@@ -66,7 +66,8 @@ Une fabrication hautement automatisée rend la production en Suisse à nouveau c
 
 L'IA rend les services plus rapides, moins chers et plus accessibles. L'État montre l'exemple et devient le meilleur prestataire de services du pays.
 
-- Administration : les cas de routine automatisés, chaque décision motivée
+- Administration : transparente par la loi, les cas de routine automatisés, chaque décision motivée
+- Des fonctions attribuées selon la compétence plutôt que l'appartenance partisane, des mandats limités
 - Assistance IA dans la santé, le droit et la formation
 - Des coûts plus bas dans les banques, les assurances et le commerce
 - Plus de temps pour le personnel, le complexe et le soin aux autres

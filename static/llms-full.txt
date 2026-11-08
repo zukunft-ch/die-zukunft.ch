@@ -42,7 +42,7 @@ Thirteen pillars, all at a glance. Each has its own page with concrete measures,
 - [Cities & Housing](https://die-zukunft.ch/en/urban-housing/) (0x25): More affordable housing and quality of life through densification at transit hubs — less sprawl, more comfort.
 - [Research, Innovation & Commons](https://die-zukunft.ch/en/research-innovation/) (0x26): Testbeds, open standards and a nationwide innovation network — so innovation has broad impact and doesn't stay in silos.
 - [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/) (0x27): Reliable, affordable, robust supply — resilience through engineering, not ideology.
-- [Open Government](https://die-zukunft.ch/en/open-government/) (0x28): API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.
+- [Open Government](https://die-zukunft.ch/en/open-government/) (0x28): Transparent by law, API-by-default, offices filled on competence rather than party membership, and term limits: a state everyone can scrutinise.
 - [Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/) (0x29): Strictly defensive, credibly neutral — and once again a centre for peace talks and good offices.
 - [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/) (0x2A): Open to people who contribute — clear on the rule of law and the rules of coexistence.
 - [Language & Understanding](https://die-zukunft.ch/en/language-understanding/) (0x2B): Strengthening national languages, English as a pragmatic bridge — understanding without friction.
@@ -100,7 +100,7 @@ Robots in fields, on building sites and in factories make production in Switzerl
 
 ## 05. The state becomes the best service provider in the country. (0x1006)
 
-Open data, open procedures, AI in every public office. Routine cases in minutes, every decision explained and open to appeal. Citizens should be able to read the state, check it and build better tools on top of it.
+Transparent by law, open data and APIs, AI in every public office. Routine cases in minutes, every decision explained and open to appeal. Offices are filled on ability, not party membership, and politics is a phase of life, not a profession. Citizens should be able to read the state, check it and build better tools on top of it.
 
 → [Pillar: Open Government](https://die-zukunft.ch/en/open-government/)
 
@@ -226,7 +226,8 @@ Highly automated manufacturing makes production in Switzerland competitive again
 
 AI makes services faster, cheaper and more accessible. The state leads the way and becomes the best service provider in the country.
 
-- Administration: routine cases automated, every decision explained
+- Administration: transparent by law, routine cases automated, every decision explained
+- Offices filled on competence rather than party membership, term limits
 - AI assistance in health, law and education
 - Lower costs in banking, insurance and retail
 - More time for the personal, the complex and the caring
@@ -332,7 +333,7 @@ Reliable supply, robust infrastructure and predictable costs — as the foundati
 
 ### [Open Government](https://die-zukunft.ch/en/open-government/)
 
-A state that enables rather than blocks: API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.
+A state that enables rather than blocks: transparent by law, API-by-default and open procedures. Offices filled on competence rather than party membership, term limits, all interests declared — so citizens can scrutinise the state and build better tools.
 
 ### [Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/)
 
@@ -904,7 +905,7 @@ The goal is the opposite: predictable costs. Outages and crises end up costing m
 
 # Open Government
 
-> A state that enables rather than blocks: data and procedures open, machine-readable and available via APIs.
+> A state that enables rather than blocks: transparent by law, data and procedures via APIs, offices filled on competence rather than party membership.
 
 Source: https://die-zukunft.ch/en/open-government/ · Publisher: The Future (Swiss political party, Basel)
 
@@ -930,14 +931,14 @@ Every process is described digitally as a workflow:
 - Fees
 - Clear responsibilities
 
-## Transparency as Standard
+## Transparent by Law
 
-Transparency should not depend on goodwill, but be standard:
+Transparency must not depend on goodwill. Everything is public unless expressly exempted. Exemptions exist only for national security and personal data, and every exemption is justified and itself published.
 
-- Budgets and expenditure
-- Procurement and contracts (where possible)
-- Government KPIs (processing times etc.)
-- Job profiles and salary bands (where sensible)
+- Budgets and expenditure, down to the individual line item
+- Procurement and contracts, including prices
+- KPIs for every administrative unit: processing times, backlogs, cost per case
+- Job profiles, salary bands and organisation charts
 
 ## Transparency in Politics
 
@@ -946,6 +947,32 @@ For democracy to stay clean, clarity is needed:
 - Party financing and donation flows
 - Campaign budgets and major funders
 - Timely and public
+
+## Competence over Careers
+
+Politics should be a phase of life, not a profession. And public offices are filled on ability, not on party membership. That is the Swiss militia idea, taken to its logical conclusion. Elections remain free: competence is a standard for public offices and the administration, not a barrier to the right to vote or stand for election.
+
+### Term limits
+
+- No more than twelve years in the same parliament or the same government
+- Then back to work, research or business: experience circulates, cronyism does not
+
+### An administration based on merit
+
+- Every post is advertised publicly, with published criteria
+- Senior posts are filled by independent panels, not by party affiliation
+- Goals and results of every administrative unit are measured and published
+
+### All interests declared
+
+- A public register of all mandates, outside income and lobbying meetings of members of parliament and senior officials
+- A cooling-off period before office holders move into lobbying roles
+
+### Decisions with reasons
+
+- Independent expert councils publish their recommendations in full
+- Every government decision comes with a public, machine-readable rationale and the data behind it
+- Anyone who departs from a recommendation explains publicly why
 
 ## Citizen Oversight in the 21st Century
 
@@ -981,6 +1008,12 @@ No — openness applies to the state's data and processes, not to personal data.
 
 **What does this deliver in everyday life?**  
 Less paperwork and waiting, lower administrative costs and better services — because citizens, media and companies can build better tools on open data.
+
+**Does "competence over careers" mean only experts may be elected?**  
+No. Voting and standing for election remain everyone's right. The standard applies to public offices and the administration: posts filled on ability rather than party membership, term limits, declared interests and reasoned decisions.
+
+**Why term limits?**  
+Because politics benefits from people who come from real life and go back to it. Term limits prevent cronyism and dependencies and keep parliaments open to fresh experience. That is the Swiss militia idea.
 
 **Does transparency also apply to politics itself?**  
 Yes: party financing, donation flows and campaign budgets should be publicly viewable, promptly. That applies to us too.

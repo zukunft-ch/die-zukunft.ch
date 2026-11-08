@@ -47,9 +47,16 @@ stack (energy → compute → sovereign AI → talent → application in all thr
 | sovereign AI | souveräne KI | IA souveraine | IA sovrana | sovereign AI |
 | automation dividend | (Automatisierungs-)Dividende | dividende (de l'automatisation) | dividendo (dell'automazione) | (automation) dividend |
 | the stack | der Stack der Abundance | la pile de l'abondance | lo stack dell'abbondanza | the abundance stack |
+| open state, transparency | transparent per Gesetz | transparent par défaut (par la loi) | trasparente per legge | transparent by default (by law) |
+| meritocracy principle | Kompetenz statt Karriere | la compétence plutôt que la carrière | competenza invece di carriera | competence over careers |
+| party patronage | Parteibuch | appartenance partisane / carte de parti | tessera di partito | party membership / patronage |
+| term limits | Amtszeitbeschränkung | limitation de la durée des mandats | limite di mandato | term limits |
+| cooling-off period | Karenzfrist | délai de carence | periodo di carenza | cooling-off period |
+| militia system | Milizsystem / Milizidee | système de milice | sistema di milizia | militia system |
+| talent visa | Talent-Visum | visa talents | visto per talenti | talent visa |
 | sectors | 1./2./3. Sektor | secteur primaire/secondaire/tertiaire | settore primario/secondario/terziario | primary/secondary/tertiary sector |
 
-Rules: never claim machines "think"; say they do cognitive work / Denkarbeit. AGI timing is uncertain —
+Meritocracy applies to offices and the administration, never to the right to vote or stand for election: always keep that safeguard sentence. Rules: never claim machines "think"; say they do cognitive work / Denkarbeit. AGI timing is uncertain —
 frame it as planning for the early case, not as prophecy. Cite figures with a source (see Vision page).
 
 ## Framing rules

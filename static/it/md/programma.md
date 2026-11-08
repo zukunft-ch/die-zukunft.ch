@@ -43,7 +43,7 @@ Approvvigionamento affidabile, infrastruttura robusta e costi prevedibili — co
 
 ### [Stato aperto](https://il-futuro.ch/stato-aperto/)
 
-Uno Stato che rende possibile invece di bloccare: API per default, trasparenza radicale e procedure aperte — affinché i cittadini possano costruire strumenti migliori e controllare efficacemente lo Stato.
+Uno Stato che rende possibile invece di bloccare: trasparente per legge, API per default e procedure aperte. Cariche assegnate per competenza invece che per tessera di partito, limiti di mandato, tutti gli interessi dichiarati — affinché i cittadini possano controllare lo Stato e costruire strumenti migliori.
 
 ### [Neutralità & pace](https://il-futuro.ch/neutralita-pace/)
 

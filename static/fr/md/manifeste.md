@@ -37,7 +37,7 @@ Des robots dans les champs, sur les chantiers et dans les usines rendent la prod
 
 ## 05. L'État devient le meilleur prestataire de services du pays. (0x1006)
 
-Données ouvertes, procédures ouvertes, IA dans chaque bureau de l'administration. Les cas de routine réglés en quelques minutes, chaque décision motivée et contestable. Les citoyennes et citoyens doivent pouvoir lire l'État, le contrôler et construire de meilleurs outils par-dessus.
+Transparent par la loi, données ouvertes et API, IA dans chaque bureau de l'administration. Les cas de routine réglés en quelques minutes, chaque décision motivée et contestable. Les fonctions sont attribuées selon les compétences, pas selon l'appartenance partisane, et la politique est une étape de vie, pas un métier. Les citoyennes et citoyens doivent pouvoir lire l'État, le contrôler et construire de meilleurs outils par-dessus.
 
 → [Pilier : État ouvert](https://le-futur.ch/etat-ouvert/)
 

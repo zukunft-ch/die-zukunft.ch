@@ -65,7 +65,7 @@ link = "@/energy-resilience.md"
 [[extra.chapters]]
 icon = "📡"
 title = "État ouvert"
-text = "Un État qui rend possible au lieu de bloquer : API par défaut, transparence radicale et procédures ouvertes — pour que les citoyens puissent construire de meilleurs outils et contrôler efficacement l'État."
+text = "Un État qui rend possible au lieu de bloquer : transparent par la loi, API par défaut et procédures ouvertes. Des fonctions attribuées selon la compétence plutôt que l'appartenance partisane, des mandats limités dans le temps, tous les intérêts déclarés — pour que les citoyens puissent contrôler l'État et construire de meilleurs outils."
 link = "@/offener-staat.md"
 
 [[extra.chapters]]

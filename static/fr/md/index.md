@@ -35,7 +35,7 @@ Treize piliers, tous d'un seul coup d'œil. Chacun a sa propre page avec des mes
 - [Villes & logement](https://le-futur.ch/urbanisme/) (0x25): Plus de logements abordables et plus de qualité de vie grâce à la densification autour des nœuds TP – moins d'étalement, plus de confort.
 - [Recherche, innovation & biens communs](https://le-futur.ch/recherche-innovation/) (0x26): Laboratoires réels, standards ouverts et réseau d'innovation à l'échelle suisse – pour que l'innovation profite largement et ne reste pas en silos.
 - [Énergie & résilience des infrastructures](https://le-futur.ch/energie-resilience/) (0x27): Un approvisionnement fiable, abordable et robuste – la résilience par l'ingénierie, pas par l'idéologie.
-- [État ouvert](https://le-futur.ch/etat-ouvert/) (0x28): API par défaut, transparence radicale et procédures ouvertes – pour que les citoyens puissent construire de meilleurs outils et contrôler efficacement l'État.
+- [État ouvert](https://le-futur.ch/etat-ouvert/) (0x28): Transparent par la loi, API par défaut, des fonctions attribuées selon la compétence plutôt que l'appartenance partisane et des mandats limités : un État que chacun peut contrôler.
 - [Neutralité & paix](https://le-futur.ch/neutralite-paix/) (0x29): Strictement défensif, crédiblement neutre – et à nouveau un centre pour les pourparlers de paix et les bons offices.
 - [Talent, intégration & État de droit](https://le-futur.ch/talent-integration/) (0x2A): Ouvert aux personnes qui contribuent – clair dans l'État de droit et les règles du vivre ensemble.
 - [Langue & compréhension](https://le-futur.ch/langue-comprehension/) (0x2B): Renforcer les langues nationales, l'anglais comme pont pragmatique – une compréhension sans friction.

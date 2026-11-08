@@ -71,7 +71,7 @@ link_text = "Pfeiler: Reindustrialisierung mit Robotik"
 [[extra.theses]]
 hex = "0x1006"
 title = "Der Staat wird zum besten Dienstleister des Landes."
-text = "Offene Daten, offene Verfahren, KI in jeder Amtsstube. Routinefälle in Minuten, jeder Entscheid begründet und anfechtbar. Bürger:innen sollen den Staat lesen, prüfen und bessere Werkzeuge darauf bauen können."
+text = "Transparent per Gesetz, offene Daten und APIs, KI in jeder Amtsstube. Routinefälle in Minuten, jeder Entscheid begründet und anfechtbar. Ämter werden nach Können vergeben, nicht nach Parteibuch, und Politik ist eine Lebensphase, kein Beruf. Bürger:innen sollen den Staat lesen, prüfen und bessere Werkzeuge darauf bauen können."
 link = "@/offener-staat.md"
 link_text = "Pfeiler: Offener Staat"
 

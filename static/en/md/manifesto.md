@@ -37,7 +37,7 @@ Robots in fields, on building sites and in factories make production in Switzerl
 
 ## 05. The state becomes the best service provider in the country. (0x1006)
 
-Open data, open procedures, AI in every public office. Routine cases in minutes, every decision explained and open to appeal. Citizens should be able to read the state, check it and build better tools on top of it.
+Transparent by law, open data and APIs, AI in every public office. Routine cases in minutes, every decision explained and open to appeal. Offices are filled on ability, not party membership, and politics is a phase of life, not a profession. Citizens should be able to read the state, check it and build better tools on top of it.
 
 → [Pillar: Open Government](https://die-zukunft.ch/en/open-government/)
 

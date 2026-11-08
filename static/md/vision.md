@@ -66,7 +66,8 @@ Hoch automatisierte Fertigung macht Produktion in der Schweiz wieder wettbewerbs
 
 KI macht Dienstleistungen schneller, günstiger und zugänglicher. Der Staat geht voran und wird zum besten Dienstleister des Landes.
 
-- Verwaltung: Routinefälle automatisch, jeder Entscheid begründet
+- Verwaltung: transparent per Gesetz, Routinefälle automatisch, jeder Entscheid begründet
+- Ämter nach Kompetenz statt Parteibuch, begrenzte Amtszeiten
 - KI-Assistenz in Gesundheit, Recht und Bildung
 - Tiefere Kosten bei Banken, Versicherungen und im Handel
 - Mehr Zeit für das Persönliche, Komplexe und Fürsorgliche

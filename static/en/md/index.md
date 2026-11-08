@@ -35,7 +35,7 @@ Thirteen pillars, all at a glance. Each has its own page with concrete measures,
 - [Cities & Housing](https://die-zukunft.ch/en/urban-housing/) (0x25): More affordable housing and quality of life through densification at transit hubs — less sprawl, more comfort.
 - [Research, Innovation & Commons](https://die-zukunft.ch/en/research-innovation/) (0x26): Testbeds, open standards and a nationwide innovation network — so innovation has broad impact and doesn't stay in silos.
 - [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/) (0x27): Reliable, affordable, robust supply — resilience through engineering, not ideology.
-- [Open Government](https://die-zukunft.ch/en/open-government/) (0x28): API-by-default, radical transparency and open procedures — so citizens can build better tools and effectively scrutinise the state.
+- [Open Government](https://die-zukunft.ch/en/open-government/) (0x28): Transparent by law, API-by-default, offices filled on competence rather than party membership, and term limits: a state everyone can scrutinise.
 - [Neutrality & Peace](https://die-zukunft.ch/en/neutrality-peace/) (0x29): Strictly defensive, credibly neutral — and once again a centre for peace talks and good offices.
 - [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/) (0x2A): Open to people who contribute — clear on the rule of law and the rules of coexistence.
 - [Language & Understanding](https://die-zukunft.ch/en/language-understanding/) (0x2B): Strengthening national languages, English as a pragmatic bridge — understanding without friction.

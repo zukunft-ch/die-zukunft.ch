@@ -43,7 +43,7 @@ Verlässliche Versorgung, robuste Infrastruktur und planbare Kosten — als Grun
 
 ### [Offener Staat](https://die-zukunft.ch/offener-staat/)
 
-Ein Staat, der ermöglicht statt blockiert: API-by-default, radikale Transparenz und offene Verfahren — damit Bürger:innen bessere Tools bauen und den Staat effektiv prüfen können.
+Ein Staat, der ermöglicht statt blockiert: transparent per Gesetz, API-by-default und offene Verfahren. Ämter nach Kompetenz statt Parteibuch, begrenzte Amtszeiten, alle Interessen offengelegt — damit Bürger:innen den Staat prüfen und bessere Werkzeuge bauen können.
 
 ### [Neutralität & Frieden](https://die-zukunft.ch/neutralitaet-frieden/)
 

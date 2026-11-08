@@ -72,7 +72,7 @@ link_text = "Pilastro: Reindustrializzazione con la robotica"
 [[extra.theses]]
 hex = "0x1006"
 title = "Lo Stato diventa il miglior fornitore di servizi del Paese."
-text = "Dati aperti, procedure aperte, IA in ogni ufficio pubblico. Casi di routine in pochi minuti, ogni decisione motivata e impugnabile. Cittadine e cittadini devono poter leggere lo Stato, controllarlo e costruirci sopra strumenti migliori."
+text = "Trasparente per legge, dati aperti e API, IA in ogni ufficio pubblico. Casi di routine in pochi minuti, ogni decisione motivata e impugnabile. Le cariche vengono assegnate in base alle capacità, non alla tessera di partito, e la politica è una fase della vita, non un mestiere. Cittadine e cittadini devono poter leggere lo Stato, controllarlo e costruirci sopra strumenti migliori."
 link = "@/offener-staat.md"
 link_text = "Pilastro: Stato aperto"
 
