@@ -49,7 +49,7 @@ I membri dell'Assemblea federale devono rendere note le loro attività professio
 
 ## Cosa significa per la politica
 
-- **Motivare e limitare nel tempo le eccezioni:** ogni nuova eccezione alla LTras con una motivazione pubblica e una data di scadenza; le 13 esistenti vengono riesaminate: [Stato aperto](https://il-futuro.ch/stato-aperto/).
+- **Motivare e limitare nel tempo le eccezioni:** ogni nuova eccezione alla LTras con una motivazione pubblica e una data di scadenza; le 13 esistenti vengono riesaminate: [Stato aperto](@/offener-staat.it.md).
 - **Proattività invece che su domanda:** registri dei documenti sul modello estone, affinché i documenti non debbano nemmeno essere richiesti singolarmente.
 - **Rispettare i termini:** dotare l'IFPDT dei mezzi necessari affinché il termine di 30 giorni torni a essere la regola; misurarlo pubblicamente ogni anno.
 - **Quantificare gli interessi:** rendere noti i redditi da mandati per fasce; esaminare limiti alla durata del mandato sul modello basilese.

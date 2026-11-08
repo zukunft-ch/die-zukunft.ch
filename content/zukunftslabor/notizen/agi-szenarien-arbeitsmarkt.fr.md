@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["ia", "agi", "marche-du-travail", "professions", "scenarios", "transitions"]
 charts = ["agi_berufe_2025.svg", "agi_berufe_veraenderung.svg", "agi_zeithorizonte.svg"]
 pillar = "uebergaenge"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Première publication le 8 novembre 2026 ; chiffres et sources à jour au moment de la publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Première publication."
 +++
 
 Selon l'OIT, dans les pays à revenu élevé, environ un tiers des personnes actives occupées travaillent dans des professions exposées à l'IA générative ; le FMI arrive à quelque 60 % pour les économies avancées, dont environ la moitié serait plutôt complétée que remplacée. La Suisse compte en 2025 environ 4,89 millions de personnes actives occupées ; le groupe le plus exposé, les employés de type administratif, se réduit déjà depuis des années. Personne ne sait à quelle vitesse cela va s'accélérer : les chercheuses et chercheurs en IA situent en 2047 la probabilité de 50 % que les machines accomplissent chaque tâche mieux que les humains. Nous décrivons donc deux scénarios et ce que chacun exige de la politique.
@@ -61,8 +70,8 @@ Dans la plus vaste enquête menée auprès de 2 778 chercheuses et chercheurs en
 
 ## Ce que cela signifie pour la politique
 
-- **Pour le scénario A :** adapter en continu la formation continue en entreprise et les métiers d'apprentissage, de manière ciblée pour les professions de bureau et de gestion de dossiers ; publier chaque année l'exposition et l'emploi par profession : [Travailler sans peur](@/uebergaenge.md).
-- **Pour le scénario B :** des instruments préparés, qui peuvent monter en puissance rapidement : assurance salariale en cas de changement de profession, un modèle de revenu de base testé comme fondement et un dividende issu des gains de productivité : [Revenu de base](@/grundeinkommen.md).
+- **Pour le scénario A :** adapter en continu la formation continue en entreprise et les métiers d'apprentissage, de manière ciblée pour les professions de bureau et de gestion de dossiers ; publier chaque année l'exposition et l'emploi par profession : [Travailler sans peur](@/uebergaenge.fr.md).
+- **Pour le scénario B :** des instruments préparés, qui peuvent monter en puissance rapidement : assurance salariale en cas de changement de profession, un modèle de revenu de base testé comme fondement et un dividende issu des gains de productivité : [Revenu de base](@/grundeinkommen.fr.md).
 - **Pour les deux :** nous planifions pour le cas précoce, sans le prophétiser. Des indicateurs avancés comme les données trimestrielles de l'ESPA par profession doivent déterminer quand les instruments du scénario B sont déclenchés.
 
 ---

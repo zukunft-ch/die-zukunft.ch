@@ -29,4 +29,4 @@ As of 2026-11-08. Data: https://die-zukunft.ch/zukunftslabor/monitor.json (CC BY
 
 ## Method
 
-We use official sources (FSO, SFOE, SEM, UN, IFR, TOP500, CSCS) and flag values that come only from media reports or charts. Ranks are relative: a worse rank can also mean others improved faster. The data is available under CC BY 4.0 as [monitor.json](https://die-zukunft.ch/zukunftslabor/monitor.json). Found an error? [Tell us](https://die-zukunft.ch/en/contact/); we correct publicly, as described in the [method](https://die-zukunft.ch/en/zukunftslabor/methodik/).
+We use official sources (FSO, SFOE, SEM, UN, IFR, TOP500, CSCS) and flag values that come only from media reports or charts. Ranks are relative: a worse rank can also mean others improved faster. The data is available under CC BY 4.0 as [monitor.json](https://die-zukunft.ch/zukunftslabor/monitor.json). Found an error? [Tell us](@/kontakt.en.md); we correct publicly, as described in the [method](@/zukunftslabor/methodik.en.md).

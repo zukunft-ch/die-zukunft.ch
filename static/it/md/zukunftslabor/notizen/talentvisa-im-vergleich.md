@@ -46,7 +46,7 @@ Il numero di visti Global Talent (nel 2019 e in parte nel 2020 ancora il predece
 
 ## Cosa significa per la politica
 
-- **Un visto per talenti proprio, al di fuori dei contingenti:** criteri stretti e verificabili (soglia salariale o endorsement da parte del settore dei PF, delle università, del FNS o di Innosuisse), decisione in dieci giorni lavorativi, famiglia inclusa: [Talento, integrazione & Stato di diritto](https://il-futuro.ch/talento-integrazione/).
+- **Un visto per talenti proprio, al di fuori dei contingenti:** criteri stretti e verificabili (soglia salariale o endorsement da parte del settore dei PF, delle università, del FNS o di Innosuisse), decisione in dieci giorni lavorativi, famiglia inclusa: [Talento, integrazione & Stato di diritto](@/talent-integration.it.md).
 - **Partire in piccolo e in modo misurabile:** un ordine di grandezza come quello del Regno Unito o di Singapore (alcune migliaia all'anno), non come quello di Hong Kong; rapporto annuale su rilasci, permanenza e fondazioni di aziende.
 - **Misurare la permanenza invece del volume:** l'esempio di Hong Kong mostra che i tassi di proroga sono più significativi del numero di domande.
 

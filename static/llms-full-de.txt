@@ -1819,6 +1819,16 @@ Quellen: [WIPO GII 2025](https://www.wipo.int/web-publications/global-innovation
 
 ---
 
+# Agenda & Korrekturen
+
+> Woran das Zukunftslabor als Nächstes arbeitet, welche Fragen die Öffentlichkeit stellt und was wir wann korrigiert haben.
+
+Source: https://die-zukunft.ch/zukunftslabor/agenda/ · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Alle Notizen werden regelmässig gegen neue Datenstände geprüft. Der Status «teilweise veraltet» heisst: Die Aussagen stimmen mit den verwendeten Daten überein, es gibt aber neuere Zahlen, die wir noch nicht eingearbeitet haben.
+
+---
+
 # Dossiers
 
 > Die Belege hinter jedem unserer dreizehn Pfeiler: Analysen aus dem Zukunftslabor und Messgrössen aus dem Zukunftsmonitor.
@@ -1952,6 +1962,82 @@ In der grössten Umfrage unter 2'778 KI-Forschenden (Herbst 2023) liegt die aggr
 
 ---
 
+# AHV und Mehrwertsteuer: Was die Zahlen zur Vorlage vom 29. November zeigen
+
+> Die 13. AHV-Rente kostet ab 2026 rund 4,1 Milliarden Franken pro Jahr. Die Mehrwertsteuererhöhung um 0,4 Punkte deckt zusammen mit dem Bundesbeitrag rund die Hälfte davon. Die amtlichen Zahlen zu Defiziten, Haushaltsbelastung und Alterung, ohne Stimmempfehlung.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/ahv-mehrwertsteuer-zahlen/ · Published: 2026-11-08 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Mit der 13. AHV-Rente kippt das Umlageergebnis der AHV 2026 ins Minus: Laut den Finanzperspektiven des Bundesamts für Sozialversicherungen (BSV) vom Juli 2026 fehlen 2026 rund 1,3 Milliarden Franken, 2035 ohne Zusatzfinanzierung rund 4,9 Milliarden. Mit der Mehrwertsteuererhöhung, über die am 29. November abgestimmt wird, wären es 2035 rund 3,3 Milliarden. Ein durchschnittlicher Haushalt würde laut der Eidgenössischen Steuerverwaltung (ESTV) rund 180 Franken pro Jahr mehr bezahlen. Darunter liegt ein demografischer Trend, den keines der drei BFS-Szenarien umkehrt: 2025 kommen auf 100 Personen im Erwerbsalter 33 Personen ab 65, 2050 sind es 43. Wir geben hier keine Stimmempfehlung ab.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Alle AHV-Zahlen stammen aus den Finanzperspektiven des BSV vom 2. Juli 2026, in Millionen Franken zu konstanten Preisen von 2025. Wir zeigen das **Umlageergebnis**: laufende Einnahmen minus Ausgaben, ohne Erträge aus der Anlage des AHV-Fonds. Das BSV rechnet zwei Varianten: die geltende Ordnung (13. Rente ab 2026, ohne Zusatzfinanzierung) und die Finanzierung der 13. Altersrente gemäss Abstimmungsvorlage (Mehrwertsteuer +0,4 Prozentpunkte ab 2028, reduzierter Satz unverändert). Eine Variante **ohne 13. Rente** veröffentlicht das BSV nicht mehr; wir leiten sie ab, indem wir zur geltenden Ordnung die vom BSV ausgewiesenen Kosten der 13. Rente addieren und den Bundesbeitrag darauf (20,2 Prozent) abziehen. Diese Linie ist eine eigene Rechnung und als solche markiert. Die Haushaltsbelastung stammt aus den Erläuterungen des Bundesrates (Schätzung der ESTV auf Basis der Haushaltsbudgeterhebung HABE 2018–2019). Die Demografie stammt aus den Szenarien des Bundesamts für Statistik (BFS) 2025–2055.
+
+---
+
+### Defizite mit und ohne Vorlage
+
+2025 schloss die AHV mit einem Umlageüberschuss von 1,84 Milliarden Franken. Ab 2026 kostet die 13. Rente laut BSV 4,1 Milliarden pro Jahr, 2035 5,1 Milliarden; der Bund trägt davon 20,2 Prozent. In der geltenden Ordnung sinkt das Umlageergebnis auf –2,6 Milliarden (2030) und –4,9 Milliarden (2035). Mit der Vorlage fliessen ab 2028 zusätzlich 1,1 Milliarden, ab 2029 rund 1,4 bis 1,5 Milliarden pro Jahr in die AHV; das Defizit beträgt dann –1,2 Milliarden (2030) und –3,3 Milliarden (2035). Mehrwertsteuer und Bundesbeitrag decken ab 2029 zusammen 50 bis 52 Prozent der Kosten der 13. Rente (eigene Rechnung aus den BSV-Tabellen). Die gestrichelte Linie zeigt: Ohne 13. Rente läge das Umlageergebnis bis 2040 etwa zwischen –0,8 und +2,0 Milliarden. Das Zickzack entsteht, weil die Renten alle zwei Jahre angepasst werden.
+
+**Der AHV-Fonds.** Das Gesetz verlangt, dass der Ausgleichsfonds in der Regel mindestens eine Jahresausgabe umfasst (100 Prozent). In der geltenden Ordnung fällt er laut BSV 2027 auf 99 Prozent, 2035 auf 51 Prozent und 2040 auf 23 Prozent. Mit der Vorlage wären es 2035 68 Prozent und 2040 53 Prozent. Die Mindestreserve wird also in beiden Varianten unterschritten.
+
+**Die Bandbreite.** Neben dem Referenzszenario rechnet das BSV ein günstiges und ein ungünstiges Szenario. Für die geltende Ordnung reicht das Umlageergebnis 2035 von –8,3 Milliarden (tief) bis –1,3 Milliarden (hoch). Das BSV übersetzt das Referenzdefizit 2035 auch in Mehrwertsteuerpunkte: Ohne Vorlage entspricht es 1,2 Punkten, mit Vorlage noch 0,8 Punkten.
+
+---
+
+### Was die Erhöhung einen Haushalt kostet
+
+Laut ESTV belastet die Erhöhung einen Haushalt im Durchschnitt mit rund 180 Franken pro Jahr (15 Franken pro Monat). Haushalte mit einem Bruttoeinkommen bis 4'599 Franken pro Monat zahlen rund 7 Franken pro Monat mehr, Haushalte mit 6'700 bis 9'399 Franken rund 13 Franken, Haushalte ab 13'400 Franken rund 28 Franken. Für die beiden Zwischenklassen weisen die Erläuterungen keine Werte aus; die hellen Balken sind ein Modell: die ESTV-Werte der Botschaft für +0,7 Punkte, mal 4/7. Bei den drei amtlichen Klassen liegt diese einfache Umrechnung 5 bis 10 Prozent über dem amtlichen Wert, weil der reduzierte Satz diesmal nicht steigt. Die Modellwerte sind deshalb eher zu hoch.
+
+In Franken zahlen Haushalte mit hohem Einkommen also mehr, gemessen am Einkommen aber weniger. Für eine Erhöhung um 0,7 Punkte hatte die ESTV in der Botschaft 0,41 Prozent des Bruttoeinkommens im tiefsten Fünftel berechnet und 0,26 Prozent im höchsten. Für die nun beschlossenen 0,4 Punkte ist keine Prozentrechnung publiziert. Gleichzeitig erhalten Rentnerinnen und Rentner die 13. Rente: alleinstehend bis zu 2'520 Franken pro Jahr, Ehepaare bis zu 3'780 Franken.
+
+---
+
+### Demografie: der Trend unter den Zahlen
+
+Im Referenzszenario des BFS steigt der Altersquotient von 33,0 (2025) auf 36,8 (2030), 40,9 (2040) und 43,3 (2050). Anders gesagt: 2025 kommen auf eine Person ab 65 rund drei Personen zwischen 20 und 64, 2050 noch rund 2,3. Das hohe und das tiefe Szenario liegen 2050 nur 0,2 bis 0,3 Punkte daneben; sie unterscheiden sich vor allem in der Grösse der Bevölkerung, kaum in ihrer Altersstruktur. Erst die Extremvarianten spannen eine grössere Bandbreite auf: 2055 zwischen 38,6 und 52,8. Die Zahl der Personen ab 65 steigt im Referenzszenario von 1,81 Millionen (2025) auf 2,67 Millionen (2055), die Zahl der über 80-Jährigen von 0,54 auf 1,03 Millionen.
+
+Das BSV verwendet für sein Referenzszenario genau dieses BFS-Szenario A-00-2025. Die Alterung ist damit in allen AHV-Zahlen oben bereits eingerechnet.
+
+---
+
+## Was die Zahlen nicht sagen
+
+- **Keine Gewissheit über 2035 hinaus.** Das BSV schreibt selbst, dass Projektionen über mehr als zehn Jahre mit grosser Unsicherheit behaftet sind. Die Bandbreite für 2035 reicht von –1,3 bis –8,3 Milliarden Franken.
+- **Keine Anlageerträge.** Das Umlageergebnis lässt die Erträge des AHV-Fonds weg; das BSV rechnet für den Fondsstand mit real rund 2 Prozent Rendite. Gute oder schlechte Börsenjahre verschieben den Fondsstand spürbar.
+- **Alte Konsumdaten.** Die Haushaltszahlen beruhen auf Preisen und Konsum von 2018–2019. Laut den Erläuterungen dürfte die tatsächliche Mehrbelastung etwas höher ausfallen. Auch die Weitergabe an die Preise ist eine Annahme: Unternehmen überwälzen eine Erhöhung nicht immer vollständig.
+- **Keine Nettobilanz pro Haushalt.** Die Zahlen zeigen die Belastung durch die Steuer, nicht den Saldo mit der 13. Rente. Ob ein Haushalt unter dem Strich gewinnt, hängt davon ab, ob und wie viel AHV-Rente er bezieht.
+- **Offene Parameter.** Ob der Sondersatz für die Hotellerie über 2027 hinaus gilt, war bei Redaktionsschluss der Erläuterungen offen. Der Bundesrat will die Reform AHV2030 voraussichtlich im Frühling 2027 vorlegen; sie wird die Perspektiven verändern.
+- **Keine Aussage über die richtige Finanzierung.** Die Zahlen zeigen, wie gross die Lücke ist und wer wie viel trägt. Ob Mehrwertsteuer, Lohnbeiträge, Bundesmittel oder Leistungsanpassungen der richtige Weg sind, ist eine politische Frage, keine statistische.
+
+---
+
+## Einordnung
+
+Unsere Lesart der vier Vorlagen vom 29. November, ebenfalls ohne Stimmempfehlung, steht im Artikel [Abstimmung vom 29. November 2026](https://die-zukunft.ch/aktuelles/abstimmung-29-november-2026/). Warum uns die Finanzierungsbasis der Sozialwerke über Konsum statt allein über Löhne interessiert, beschreibt der Pfeiler [Grundeinkommen](https://die-zukunft.ch/grundeinkommen/); wie sich verschiedene Steuerbasen auf die Einkommensverteilung auswirken, zeigt die Notiz [Grundeinkommen: Drei Finanzierungsmodelle im Vergleich](https://die-zukunft.ch/zukunftslabor/notizen/grundeinkommen-finanzierungsmodelle/).
+
+---
+
+## Quellen
+
+1. Bundesamt für Sozialversicherungen (BSV): Finanzielle Lage und Perspektiven der AHV, Finanzperspektiven vom 2. Juli 2026. https://www.bsv.admin.ch/finanzen-ahv
+2. BSV: Finanzperspektiven der AHV gemäss geltender Ordnung (Referenzszenario, Szenarien tief und hoch), 2. Juli 2026. https://www.bsv.admin.ch/dam/de/sd-web/op2mTMWV0HCj/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20geltender%20Ordnung.xlsx
+3. BSV: Finanzperspektiven der AHV gemäss Finanzierung der 13. Altersrente (inkl. Blatt «Massnahmen»), 2. Juli 2026. https://www.bsv.admin.ch/dam/de/sd-web/jnnnev0Cvqna/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20Finanzierung%20der%2013.%20Altersrente.xlsx
+4. BSV: Das Wichtigste in Kürze: Finanzperspektiven der AHV, der IV und der EO mit Szenarien, 2. Juli 2026. https://www.bsv.admin.ch/dam/de/sd-web/layXpeKUCS4Y/Faktenblatt%20Szenarien_2026_DE.pdf
+5. Bundeskanzlei: Erläuterungen des Bundesrates zur Volksabstimmung vom 29. November 2026, S. 13–19. https://www.admin.ch/dam/de/sd-web/HXhFMFWOaa6u/BAR_Erlaeuterungen_Nov26_DE_v10.pdf
+6. BSV: 13. AHV-Rente: Volksabstimmung über die AHV-Zusatzfinanzierung. https://www.bsv.admin.ch/de/abstimmung-13-ahv-rente
+7. Bundesrat: Botschaft vom 16. Oktober 2024 zur Umsetzung und Finanzierung der Initiative für eine 13. AHV-Rente, BBl 2024 2747, Ziff. 6.5, Tabellen 6–4 und 6–5. https://www.fedlex.admin.ch/eli/fga/2024/2747/de
+8. Bundesamt für Statistik (BFS): Szenarien zur Bevölkerungsentwicklung der Schweiz und der Kantone 2025–2055, Tabellen TA7–TA9. https://www.bfs.admin.ch/asset/de/34687099
+9. BFS: Projections – reference scenario 2025–2055 (Faktenblatt). https://dam-api.bfs.admin.ch/hub/api/dam/assets/34687124/master
+10. Parlament: Fragen und Antworten zur Finanzierung der 13. AHV-Rente, 19. Juni 2026. https://www.parlament.ch/de/services/news/Seiten/2026/20260619104626831194158159026_bsd070.aspx
+
+---
+
 # Automatisierung: Wie KI die Risikolandkarte verschiebt
 
 > LLM-fähige KI verändert das Automatisierungsrisiko: Bürojobs stärker exponiert, manuelle Arbeit weniger.
@@ -1960,7 +2046,7 @@ Source: https://die-zukunft.ch/zukunftslabor/notizen/automatisierungsrisiko-bran
 
 LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
 Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
-weniger. rund 1,27 Millionen Stellen unter Post-LLM-Risiko.
+weniger. Rund 1,27 Millionen Stellen stehen unter Post-LLM-Risiko.
 
 <!-- more -->
 
@@ -1969,20 +2055,24 @@ weniger. rund 1,27 Millionen Stellen unter Post-LLM-Risiko.
 ## Methodik
 
 BFS-SAKE-Beschäftigungsdaten (2024) und zwei Risikomodelle:
-OECD/Frey-Osborne (2018, Routinetätigkeiten) und IMF AI Preparedness
-Index (2024, LLM-Fähigkeiten). Exponierte Stellen = Beschäftigte × Risikoanteil.
+Pre-LLM in Anlehnung an die OECD-Studie von Nedelkoska & Quintini (2018,
+Routinetätigkeiten, aufbauend auf Frey & Osborne 2013) und Post-LLM in
+Anlehnung an den IMF (Cazzaniga et al. 2024, KI-Exposition). Die
+Branchenwerte sind eigene, gerundete Modellannahmen, die aus diesen Studien
+abgeleitet sind; die Studien selbst weisen keine Werte nach Schweizer
+Wirtschaftsabschnitt aus. Exponierte Stellen = Beschäftigte × Risikoanteil.
 
 ---
 
 ### Beschäftigung nach Branche
 
-Die Branchenstruktur bildet den Kontext: Gesundheit, Handel und Bau beschäftigen die meisten Personen. Die Verteilung zeigt, welche Sektoren bei einem Automatisierungsschub die grössten absoluten Effekte spüren würden.
+Die Branchenstruktur bildet den Kontext: Gesundheits- und Sozialwesen, Industrie und Handel beschäftigen die meisten Personen. Die Verteilung zeigt, welche Sektoren bei einem Automatisierungsschub die grössten absoluten Effekte spüren würden.
 
 ---
 
 ### Pre vs. Post LLM
 
-LLM-fähige KI verschiebt die Risikolandkarte grundlegend: Branchen wie Finanz- und Versicherungswesen, öffentliche Verwaltung und Information/Kommunikation sind Post-LLM deutlich stärker exponiert als im klassischen Routinemodell. Manuelle Berufe (Bau, Landwirtschaft) bleiben weitgehend unverändert.
+LLM-fähige KI verschiebt die Risikolandkarte grundlegend: Branchen wie Finanz- und Versicherungswesen, öffentliche Verwaltung und Information/Kommunikation sind Post-LLM deutlich stärker exponiert als im klassischen Routinemodell. Manuelle Berufe (Bau, Verkehr, Gastgewerbe) sind Post-LLM dagegen weniger exponiert.
 
 ---
 
@@ -1994,12 +2084,13 @@ Die Verschiebung zeigt Richtung und Ausmass der Veränderung. Positive Werte bed
 
 ### Exponierte Stellen
 
-In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vielen Beschäftigten und hohem Post-LLM-Risiko führen zu zehntausenden potenziell exponierten Stellen. Das bedeutet nicht zwingend Jobverlust — aber die Notwendigkeit systematischer Übergangsgestaltung.
+In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vielen Beschäftigten und hohem Post-LLM-Risiko kommen auf jeweils Zehntausende bis knapp 190'000 potenziell exponierte Stellen. Das bedeutet nicht zwingend Jobverlust — aber die Notwendigkeit systematischer Übergangsgestaltung.
 
 ---
 
 ## Einschränkungen
 
+- Risikowerte nach Branche sind modelliert (eigene Annahmen in Anlehnung an OECD und IMF), keine gemessenen Werte
 - Risikoschätzungen sind Branchendurchschnitte, nicht berufsspezifisch
 - Post-LLM-Schätzungen vorläufig (LLM-Fähigkeiten entwickeln sich schnell)
 - Tatsächliche Jobverluste hängen von Regulierung und Komplementarität ab
@@ -2010,6 +2101,7 @@ In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vie
 
 - BFS SAKE 2024: Erwerbstätige nach Wirtschaftsabschnitt
 - OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
+- Frey & Osborne (2013): The Future of Employment (Grundlage des OECD-Ansatzes)
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
 
 ---
@@ -2023,9 +2115,10 @@ Source: https://die-zukunft.ch/zukunftslabor/notizen/digitale-souveraenitaet-lue
 90% der Schweizer Bevölkerung nutzen das Internet regelmässig — aber
 E-Government-Nutzung, Online-Verfügbarkeit und Open-Data-Reife liegen
 unter dem EU-Durchschnitt. Die Bereitschaftslücke zwischen digitaler
-Bevölkerung und digitalem Staat beträgt 12.1 Prozentpunkte.
-Das E-ID-Referendum 2021 zeigt: Die Lösung muss staatlich und
-datenschutzfreundlich sein.
+Bevölkerung und digitalem Staat betrug 2025 13,2 Prozentpunkte.
+2021 scheiterte ein privatwirtschaftliches E-ID-Modell an der Urne
+(64,4% Nein); die staatliche E-ID wurde am 28. September 2025 nur knapp
+angenommen (50,4% Ja).
 
 <!-- more -->
 
@@ -2037,38 +2130,39 @@ Die Analyse kombiniert zwei BFS-Omnibus-ICT-Datensätze (2014–2025):
 Internetnutzung nach Altersgruppe (E-Mail als Proxy) und
 E-Government-Nutzung nach Dienstart. Die «Bereitschaftslücke» ist die
 Differenz zwischen allgemeiner Internetnutzung und E-Gov-Nutzung der
-Gesamtbevölkerung. Ergänzt durch das EU Open Data Maturity Ranking und
-VOX/Sotomo-Daten zum E-ID-Referendum 2021.
+Gesamtbevölkerung. Ergänzt durch den EU Open Data Maturity Report 2025, die
+VOX-Nachbefragung (gfs.bern) zum E-ID-Referendum 2021 und die amtlichen
+Resultate der E-ID-Abstimmungen 2021 und 2025.
 
 ---
 
 ### Internetnutzung nach Altersgruppe
 
-Nahezu alle Altersgruppen unter 65 liegen über 90% Internetnutzung. Selbst die 65–74-Jährigen sind inzwischen mehrheitlich online. Das Problem ist nicht die digitale Kompetenz der Bevölkerung — es ist die fehlende digitale Infrastruktur auf Staatsseite.
+Die 15–29- und die 30–59-Jährigen liegen bei rund 95% Internetnutzung. Selbst von den über 60-Jährigen sind inzwischen knapp 80% online. Das Problem ist nicht die digitale Kompetenz der Bevölkerung — es ist die fehlende digitale Infrastruktur auf Staatsseite.
 
 ---
 
 ### E-Government-Nutzung
 
-Die E-Government-Nutzung stagniert seit Jahren. Trotz zunehmender Internetdurchdringung ist der Anteil der Bevölkerung, der staatliche Online-Dienste nutzt, kaum gewachsen. Das deutet auf ein Angebotsproblem hin: Nicht die Nachfrage fehlt, sondern brauchbare digitale Services.
+Die E-Government-Nutzung ist von 67% (2014) auf 82% (2023) gestiegen, 2025 aber auf 77% zurückgefallen — obwohl die Internetnutzung weiter zunahm. Das deutet auf ein Angebotsproblem hin: Nicht die Nachfrage fehlt, sondern brauchbare digitale Services.
 
 ---
 
 ### Bereitschaftslücke
 
-Die Lücke zwischen allgemeiner Internetnutzung und E-Gov-Nutzung beträgt rund 12 Prozentpunkte. Diese Bereitschaftslücke ist kein technologisches, sondern ein institutionelles Problem: Die Bevölkerung ist bereit — der Staat nicht.
+Die Lücke zwischen allgemeiner Internetnutzung und E-Gov-Nutzung lag 2025 bei rund 13 Prozentpunkten, nachdem sie sich bis 2021 auf 8 Prozentpunkte verkleinert hatte. Diese Bereitschaftslücke ist kein technologisches, sondern ein institutionelles Problem: Die Bevölkerung ist bereit — der Staat nicht.
 
 ---
 
 ### E-ID-Referendum: Vertrauensfrage
 
-Das Nein zur E-ID 2021 war keine Ablehnung digitaler Identitäten, sondern des privatwirtschaftlichen Modells. Datenschutzbedenken und fehlendes Vertrauen in private Anbieter waren die Hauptmotive. Eine staatliche, datenschutzfreundliche Lösung hat weiterhin breite Unterstützung.
+Das Nein zur E-ID 2021 (64,4%) richtete sich vor allem gegen das privatwirtschaftliche Modell: In der VOX-Nachbefragung nannten die Nein-Stimmenden am häufigsten Datenschutz und Datensicherheit (60% aller Nennungen) sowie die Rolle des Staates (49%), etwa «E-ID soll staatlich sein» (25%). Die neu aufgesetzte, staatliche E-ID wurde am 28. September 2025 mit 50,4% Ja angenommen. Das knappe Resultat zeigt: Vertrauen in Datenschutz und staatliche Verantwortung ist die Bedingung für digitale Identität, keine Selbstverständlichkeit.
 
 ---
 
 ### Open-Data-Reife
 
-Im EU Open Data Maturity Ranking liegt die Schweiz unter dem Durchschnitt — sowohl bei der Verfügbarkeit als auch bei der Nutzbarkeit offener Verwaltungsdaten. Das erschwert Innovation, Transparenz und datenbasierte Politikgestaltung.
+Im Open Data Maturity Report 2025 erreicht die Schweiz 82% (2 Punkte mehr als 2024) und gehört zur Gruppe der «Followers» (73–84%). Der EU-27-Schnitt liegt bei 86%, Frankreich führt mit 100%. Fortschritte gibt es, etwa das Prinzip «open by default» im EMBAG und den Masterplan OGD 2024–2027; der Abstand zu den führenden Ländern bleibt. Das erschwert Innovation, Transparenz und datenbasierte Politikgestaltung.
 
 ---
 
@@ -2076,16 +2170,19 @@ Im EU Open Data Maturity Ranking liegt die Schweiz unter dem Durchschnitt — so
 
 - E-Mail-Nutzung als Proxy für Internetnutzung (BFS-Definition)
 - E-Gov-Daten nicht nach Altersgruppe verfügbar — Lücke nur auf Totalebene berechenbar
-- Open-Data-Score basiert auf EU-Methodik (Schweiz als Beobachterstaat)
-- E-ID-Motive: VOX-Nachbefragung mit begrenzter Stichprobe
+- Open-Data-Score basiert auf EU-Methodik (Schweiz als teilnehmendes EFTA-Land)
+- E-ID-Motive: VOX-Nachbefragung mit begrenzter Stichprobe, offene Frage mit Mehrfachnennungen
 
 ---
 
 ## Datenquellen
 
-- BFS Omnibus ICT 2014–2025: Internetnutzung, E-Government-Nutzung
-- EU Open Data Maturity Report 2023 (data.europa.eu)
-- VOX/Sotomo: Nachbefragung E-ID-Referendum 7. März 2021
+- BFS Omnibus IKT 2014–2025: Internetnutzung, E-Government-Nutzung
+- data.europa.eu: Open Data Maturity Report 2025, https://data.europa.eu/sites/default/files/2025-12/2025_odm_report_7.pdf
+- data.europa.eu: Open Data Maturity 2025, Länderprofil Schweiz, https://data.europa.eu/sites/default/files/2025-12/2025_odm_factsheet_switzerland.pdf
+- gfs.bern: VOX-Analyse März 2021 (E-ID-Gesetz), https://swissvotes.ch/vote/639.00/nachbefragung-de.pdf
+- Swissvotes: E-ID-Gesetz 7. März 2021, abgelehnt mit 64,4% Nein, https://swissvotes.ch/vote/639.00
+- SRF: Abstimmung 28. September 2025, E-ID-Gesetz angenommen mit 50,4% Ja, https://www.srf.ch/news/schweiz/abstimmungen-28-september-so-hat-die-schweiz-abgestimmt
 
 ---
 
@@ -2171,8 +2268,8 @@ Source: https://die-zukunft.ch/zukunftslabor/notizen/energieresilienz-stressszen
 
 Vier Stressszenarien auf Basis realer BFE-Daten (2024) zeigen:
 Im Worst Case (Trockenjahr + Atomausstieg) müsste die Schweiz
-39.1% ihres Stroms importieren — Kosten
-2.29 Mrd. CHF/Jahr bei aktuellen Spotpreisen.
+39,1% ihres Stroms importieren — Kosten
+rund 2,07 Mrd. CHF/Jahr bei 90 EUR/MWh.
 
 <!-- more -->
 
@@ -2185,42 +2282,44 @@ modifizieren die Produktionszahlen des Basisjahres:
 
 - **A — Baseline**: Reale Produktion 2024
 - **B — Trockenjahr**: -30% Wasserkraftproduktion (historisch plausibel, z.B. 2022)
-- **C — Atomausstieg**: Kernkraftwerke abgeschaltet (-22983 GWh)
+- **C — Atomausstieg**: Kernkraftwerke abgeschaltet (−22'983 GWh)
 - **D — Kombiniert**: Trockenjahr + Atomausstieg
 
-Importkosten berechnet bei 90 EUR/MWh (europ. Spotpreis-Durchschnitt).
+Importkosten berechnet bei 90 EUR/MWh (europäischer Spotpreis-Durchschnitt 2023–2024) und
+einem Wechselkurs von 0,95 CHF pro EUR, also rund 86 CHF/MWh.
 Endenergieverbrauch nach Sektor aus der BFE-Gesamtenergiebilanz.
 
 ---
 
 ### Strommix
 
-Wasserkraft und Kernenergie dominieren die Schweizer Stromproduktion mit zusammen über 90%. Diese Konzentration auf zwei Quellen ist zugleich Stärke (CO₂-arm) und Verwundbarkeit — beide reagieren empfindlich auf externe Schocks: Trockenheit bei Wasser, politische Entscheide bei Atom.
+Wasserkraft und Kernenergie dominieren die Schweizer Stromproduktion mit zusammen über 90%. Diese Konzentration auf zwei Quellen ist zugleich Stärke (planbare, inländische Produktion) und Verwundbarkeit — beide reagieren empfindlich auf externe Schocks: Trockenheit bei Wasser, politische Entscheide bei Atom.
 
 ---
 
 ### Endenergieverbrauch nach Sektor
 
-Industrie und Verkehr sind die grössten Stromverbraucher. Die Sektorverteilung zeigt, wo Effizienzgewinne und Elektrifizierung (z.B. E-Mobilität) den grössten Hebel haben — und wo zusätzlicher Strombedarf entstehen wird.
+Verkehr und Haushalte sind die grössten Endenergieverbraucher (alle Energieträger, nicht nur Strom). Die Sektorverteilung zeigt, wo Effizienzgewinne und Elektrifizierung (z.B. E-Mobilität) den grössten Hebel haben — und wo zusätzlicher Strombedarf entstehen wird.
 
 ---
 
 ### Stressszenarien
 
-Vier Szenarien zeigen die Bandbreite der Verwundbarkeit: Von der stabilen Baseline bis zum Worst Case (Trockenjahr + Atomausstieg). Im kombinierten Szenario entsteht eine Importabhängigkeit, die bei angespannten europäischen Märkten nicht ohne weiteres gedeckt werden kann.
+Vier Szenarien zeigen die Bandbreite der Verwundbarkeit: Von der stabilen Baseline bis zum Worst Case (Trockenjahr + Atomausstieg). Im kombinierten Szenario entsteht eine Importabhängigkeit, die bei angespannten europäischen Märkten nicht ohne weiteres gedeckt werden kann. Szenario C ist ein Stresstest, keine Prognose: Das geltende Kernenergiegesetz verbietet neue Kernkraftwerke, die bestehenden laufen, solange sie sicher sind. Der Bundesrat hat im August 2025 als indirekten Gegenvorschlag zur Volksinitiative «Blackout stoppen» beantragt, das Neubauverbot aufzuheben. Wie lange die heutigen Anlagen laufen und ob neue gebaut werden, ist politisch offen.
 
 ---
 
 ### Importkosten
 
-Die finanziellen Folgen der Importabhängigkeit sind erheblich: Im Worst Case liegen die jährlichen Importkosten bei mehreren Milliarden Franken — berechnet zu aktuellen europäischen Spotpreisen. Bei Marktspitzen (wie 2022) wären die Kosten ein Vielfaches davon.
+Die finanziellen Folgen der Importabhängigkeit sind erheblich: Im Worst Case liegen die jährlichen Importkosten bei rund 2,1 Milliarden Franken — berechnet bei 90 EUR/MWh und 0,95 CHF pro EUR. Jede Abweichung beim Wechselkurs verschiebt die Kosten proportional. Bei Marktspitzen (wie 2022) wären die Kosten ein Vielfaches davon.
 
 ---
 
 ## Einschränkungen
 
 - Statische Szenarien (kein Ausbau Solar/Wind, keine Nachfragereduktion)
-- Importpreise schwanken stark (2022: bis 400 EUR/MWh)
+- Importpreise schwanken stark (2022: bis 400 EUR/MWh); Wechselkurs EUR/CHF als fixe Annahme (0,95)
+- Datenbasis 2024; die Elektrizitätsbilanz 2025 des BFE ist noch nicht eingearbeitet
 - Saisonale Effekte nicht modelliert (Winterlücke > Jahresdurchschnitt)
 - Keine Speichereffekte (Pumpspeicher, Batterien)
 
@@ -2231,20 +2330,21 @@ Die finanziellen Folgen der Importabhängigkeit sind erheblich: Im Worst Case li
 - BFE: Schweizerische Elektrizitätsbilanz (OGD, Jahreswerte)
 - BFE: Schweizerische Gesamtenergiebilanz (Endenergieverbrauch nach Sektor)
 - ENTSO-E: Europäische Strompreise (Day-Ahead-Spotmarkt)
+- Bundesrat: Medienmitteilung vom 13. August 2025 zur Botschaft über die Initiative «Blackout stoppen» und den indirekten Gegenvorschlag (Aufhebung des Neubauverbots für Kernkraftwerke), https://www.admin.ch/de/newnsb/GIECKzWVs6ZX6W1ba4i6X
 
 ---
 
 # Forschung: Wer forscht, wer zahlt — und was kommt zurück?
 
-> Die Schweiz ist Weltspitze bei F&E pro Kopf und Patenteffizienz. Aber die Privatwirtschaft dominiert — und die Frage nach dem öffentlichen Ertrag öffentlicher Forschung bleibt offen.
+> Die Schweiz investiert viel in F&E und meldet pro Kopf die meisten europäischen Patente an. Aber die Privatwirtschaft dominiert — und die Frage nach dem öffentlichen Ertrag öffentlicher Forschung bleibt offen.
 
 Source: https://die-zukunft.ch/zukunftslabor/notizen/forschung-wer-forscht-wer-zahlt/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
 
-Die Schweiz investiert 25.6 Mrd. CHF in F&E
-(2023) und erzielt mit 182 EPO-Patenten pro Milliarde weltweit die
-höchste Patenteffizienz. Aber die Privatwirtschaft überwiegt die öffentliche
-Forschung um das 2.37-Fache — und die Top 2 Sektoren
-vereinen 45.4% der Ausgaben.
+Die Schweiz investiert 25,6 Mrd. CHF in F&E
+(2023) und erzielt mit 182 EPO-Patenten pro Milliarde die höchste
+Patenteffizienz unter den verglichenen Ländern. Aber die Privatwirtschaft überwiegt die öffentliche
+Forschung um das 2,37-Fache — und die Top 2 Sektoren
+vereinen 45,4% der Ausgaben.
 
 <!-- more -->
 
@@ -2261,32 +2361,33 @@ Industriesektoren. Öffentlich: Hochschulen, ETH-Bereich, Bundesämter.
 
 ### F&E-Ausgaben im Zeitverlauf
 
-Die Privatwirtschaft dominiert die F&E-Ausgaben und ihr Anteil wächst. Das zeigt Innovationskraft — aber auch eine Abhängigkeit: Wenn wenige Grosskonzerne den Grossteil der Forschung finanzieren, entstehen blinde Flecken bei Themen ohne direkten Marktanreiz.
+Die Privatwirtschaft dominiert die F&E-Ausgaben, ihr Vorsprung ist seit 2000 aber geschrumpft (Verhältnis privat zu öffentlich: 3,1 → 2,4) und wächst erst seit 2017 wieder leicht. Das zeigt Innovationskraft — aber auch eine Abhängigkeit: Wenn wenige Grosskonzerne den Grossteil der Forschung finanzieren, entstehen blinde Flecken bei Themen ohne direkten Marktanreiz.
 
 ---
 
 ### Privat vs. Öffentlich
 
-Das Verhältnis zwischen privaten und öffentlichen F&E-Ausgaben ist in der Schweiz eines der höchsten weltweit. Das ist einerseits ein Zeichen für eine forschungsstarke Privatwirtschaft — andererseits stellt sich die Frage, ob öffentliche Forschung genug Eigengewicht hat, um Grundlagen und Gemeinwohlthemen abzudecken.
+Die Privatwirtschaft wendet in der Schweiz deutlich mehr für F&E auf als die öffentliche Hand (2023: 2,4 zu 1). Das ist einerseits ein Zeichen für eine forschungsstarke Privatwirtschaft — andererseits stellt sich die Frage, ob öffentliche Forschung genug Eigengewicht hat, um Grundlagen und Gemeinwohlthemen abzudecken.
 
 ---
 
 ### Patenteffizienz im internationalen Vergleich
 
-Die Schweiz erzielt weltweit die höchste Patenteffizienz: Mehr EPO-Patente pro investierte Milliarde als jedes andere Land. Das spricht für eine effektive Umsetzungskette von Forschung zu verwertbarem Wissen — ein Standortvorteil, der gepflegt werden muss.
+Unter den verglichenen Ländern erzielt die Schweiz die höchste Patenteffizienz: mehr EPO-Patentanmeldungen pro investierte Milliarde als Schweden, die Niederlande, Deutschland, Österreich, Frankreich, die USA und Japan. Auch pro Kopf meldet die Schweiz laut EPO (Technology Dashboard 2025) unter den Ländern mit mehr als einer Million Einwohnern die meisten europäischen Patente an. Das spricht für eine effektive Umsetzungskette von Forschung zu verwertbarem Wissen — ein Standortvorteil, der gepflegt werden muss.
 
 ---
 
 ### Sektorkonzentration
 
-Zwei Sektoren — Pharma und ICT — vereinen den Grossteil der privaten F&E. Das macht die Forschungslandschaft verletzlich: Ein Standortwechsel eines einzigen Unternehmens könnte die Gesamtstatistik markant verschieben. Diversifikation der Forschungsbasis ist eine strategische Frage.
+Ein Sektor — Chemie/Pharma — trägt rund ein Drittel der privaten F&E, zusammen mit ICT fast die Hälfte. Das macht die Forschungslandschaft verletzlich: Ein Standortwechsel eines einzigen Unternehmens könnte die Gesamtstatistik markant verschieben. Diversifikation der Forschungsbasis ist eine strategische Frage.
 
 ---
 
 ## Einschränkungen
 
 - BFS-Daten alle 2 Jahre erhoben (keine Jahreswerte)
-- Patenteffizienz: EPO-Patente als Proxy (nicht alle Innovationen münden in Patente)
+- Patenteffizienz: EPO-Patente als Proxy (nicht alle Innovationen münden in Patente); Auswahl von acht Ländern
+- Patentdaten Stand 2023; die EPO-Zahlen 2025 (Technology Dashboard 2025, Nachfolger des Patent Index) sind noch nicht eingearbeitet
 - Private F&E-Ausgaben teilweise geschätzt (Unternehmensgeheimnisse)
 - Sektorklassifikation folgt BFS-Logik (Frascati-Manual)
 
@@ -2297,19 +2398,20 @@ Zwei Sektoren — Pharma und ICT — vereinen den Grossteil der privaten F&E. Da
 - BFS: Forschung und Entwicklung — Intramuros-Aufwendungen (2000–2023)
 - EPO: Annual Report 2023 — Patentanmeldungen nach Herkunftsland
 - OECD: Main Science and Technology Indicators (GERD)
+- EPO: Technology Dashboard 2025 (Patentanmeldungen pro Kopf), https://www.epo.org/en/about-us/statistics/technology-dashboard-2025
 
 ---
 
 # Gesundheitskosten: Wo fliesst das Geld — und wo versickert es?
 
-> Die Schweiz gibt 5.2% der Gesundheitsausgaben für Verwaltung aus — deutlich über dem OECD-Schnitt. Der Überschuss kostet ~10 CHF pro Person und Monat.
+> 2024 kostete das Schweizer Gesundheitswesen 97,2 Mrd. Franken, 4,4% davon entfielen auf Verwaltung (BFS). Nach OECD-Abgrenzung liegt der Anteil bei 5,2%, über dem OECD-Schnitt von 3,3%.
 
 Source: https://die-zukunft.ch/zukunftslabor/notizen/gesundheitskosten-verwaltung-fokus/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
 
-Die Schweiz gibt 82472 Mio. CHF für Gesundheit aus
-(2019), davon 4.03% für Verwaltung.
-Im OECD-Vergleich liegt die Schweiz mit 5.2% weit über dem Schnitt
-(3.3%) — der Überschuss kostet ~10 CHF/Person/Monat.
+Das Schweizer Gesundheitswesen kostete 2024 97,2 Mrd. Franken
+(2023: 93,4 Mrd.), davon 4,24 Mrd. oder 4,4% für Verwaltung (BFS).
+Nach OECD-Abgrenzung liegt die Schweiz mit 5,2% über dem OECD-Schnitt
+(3,3%). Die Differenz entspricht rund 17 Franken pro Person und Monat.
 
 <!-- more -->
 
@@ -2317,40 +2419,46 @@ Im OECD-Vergleich liegt die Schweiz mit 5.2% weit über dem Schnitt
 
 ## Methodik
 
-BFS-Gesundheitsausgabenstatistik (1995–2019) nach dem
-System of Health Accounts (SHA). Kategorien: Ambulante/stationäre Kurativbehandlung,
-Langzeitpflege, Gesundheitsgüter, Verwaltung, Prävention. Internationaler Vergleich
-auf Basis OECD Health at a Glance 2023.
+BFS-Statistik der Kosten und der Finanzierung des Gesundheitswesens nach
+dem System of Health Accounts (SHA). Die lange Reihe 1995–2019 beruht auf
+der Methodik vor der BFS-Revision vom April 2025; revidierte Werte liegen für
+2019, 2023 und 2024 vor und sind separat ausgewiesen (2024 provisorisch).
+Kategorien: ambulante/stationäre Kurativbehandlung, Langzeitpflege,
+Gesundheitsgüter, Verwaltung, Prävention. Internationaler Vergleich auf
+Basis OECD Health at a Glance 2023 (OECD-Abgrenzung, nicht deckungsgleich
+mit den BFS-Werten).
 
 ---
 
 ### Ausgaben nach Kategorie im Zeitverlauf
 
-Die Gesundheitsausgaben steigen kontinuierlich — aber nicht gleichmässig. Während ambulante und stationäre Versorgung den Löwenanteil ausmachen, wächst der Verwaltungsanteil überproportional. Das wirft die Frage auf, wie viel vom Prämienanstieg in Behandlung fliesst und wie viel in Bürokratie.
+Die Gesundheitsausgaben steigen kontinuierlich — aber nicht gleichmässig. Ambulante und stationäre Versorgung machen den Löwenanteil aus. Die Verwaltungskosten haben sich zwischen 1995 und 2019 fast verdoppelt (1,7 → 3,3 Mrd. CHF, alte BFS-Methodik), sind aber langsamer gewachsen als die Gesamtausgaben. Nach revidierter Methodik lagen sie 2024 bei 4,24 Mrd. Franken; 2023 stiegen sie um 9,6%, deutlich stärker als die Gesamtkosten. Offen bleibt die Frage, wie viel vom Prämienanstieg in Behandlung fliesst und wie viel in Bürokratie.
 
 ---
 
 ### Verwaltungsanteil im Zeitverlauf
 
-Der Verwaltungsanteil steigt langsam, aber stetig. Das ist kein Zufall: Die fragmentierte Versicherungslandschaft mit über 50 Krankenkassen erzeugt strukturelle Mehrkosten — Rechnungswesen, Marketing, Risikoselektion — die in einem Einheitssystem nicht anfallen würden.
+Nach alter BFS-Abgrenzung ist der Verwaltungsanteil von rund 5% (1995) auf 4% (2019) gesunken. Nach der revidierten Methodik liegt er etwas höher: 4,1% (2019), 4,5% (2023) und 4,4% (2024). Im OECD-Vergleich bleibt er hoch: Die Versicherungslandschaft mit 42 Krankenversicherern (2025, BAG) erzeugt strukturelle Mehrkosten — Rechnungswesen, Marketing, Risikoselektion —, die in einem einfacheren System teilweise nicht anfallen würden.
 
 ---
 
 ### Internationaler Vergleich
 
-Die Schweiz liegt bei den Verwaltungskosten deutlich über dem OECD-Durchschnitt. Länder mit zentralisierteren Systemen (z.B. skandinavische Staaten) erzielen tiefere Admin-Anteile bei vergleichbarer oder besserer Versorgungsqualität. Der Vergleich zeigt: Effizienzgewinne sind möglich.
+Nach OECD-Abgrenzung (5,2%) liegt die Schweiz bei den Verwaltungskosten deutlich über dem OECD-Durchschnitt (3,3%); nach BFS-Abgrenzung sind es 4,4%. Länder mit zentralisierteren Systemen (z.B. Schweden) erzielen tiefere Verwaltungsanteile bei vergleichbarer oder besserer Versorgungsqualität. Der Vergleich zeigt: Effizienzgewinne sind möglich.
 
 ---
 
 ### Verwaltungsüberschuss
 
-Der Überschuss gegenüber dem OECD-Schnitt lässt sich in Franken pro Person und Monat ausdrücken. Dieses Geld geht nicht in Behandlungen, Medikamente oder Pflege — es finanziert administrative Strukturen, deren Vereinfachung direkt Prämien senken würde.
+Die Differenz von 1,9 Prozentpunkten zum OECD-Schnitt entspricht, angewendet auf die BFS-Gesundheitskosten 2024 von 899 Franken pro Kopf und Monat, rund 17 Franken pro Person und Monat. Rechnet man mit dem BFS-Verwaltungsanteil (4,4%), sind es rund 10 Franken. Dieses Geld geht nicht in Behandlungen, Medikamente oder Pflege — es finanziert administrative Strukturen, deren Vereinfachung die Prämien senken würde.
 
 ---
 
 ## Einschränkungen
 
 - SHA-Harmonisierung erleichtert Vergleiche, aber Systemunterschiede bleiben
+- BFS-Revision 2025: Werte vor und nach der Revision sind nicht direkt vergleichbar; Werte 2024 provisorisch
+- OECD- und BFS-Abgrenzung der Verwaltungskosten unterscheiden sich (5,2% vs. 4,4%); die Frankenbeträge mischen OECD-Anteile mit BFS-Gesamtkosten
 - Verwaltungskosten enthalten auch Qualitätssicherung und Regulierungsaufwand
 - Einheitskasse vs. Wettbewerbsmodell erzeugt strukturell verschiedene Admin-Kosten
 - OECD-Daten teilweise zeitlich versetzt (2021–2023)
@@ -2359,7 +2467,12 @@ Der Überschuss gegenüber dem OECD-Schnitt lässt sich in Franken pro Person un
 
 ## Datenquellen
 
-- BFS: Kosten und Finanzierung des Gesundheitswesens (1995–2019)
+- BFS: Kosten und Finanzierung des Gesundheitswesens 2023, Medienmitteilung vom 28. April 2025, https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788155/master
+- BFS: Kosten des Gesundheitswesens nach Leistung (2019, 2023, 2024), https://www.bfs.admin.ch/asset/de/36519541
+- BFS: Kosten des Gesundheitswesens seit 1960, https://www.bfs.admin.ch/asset/de/36519640
+- BFS: Gesundheitskosten und Finanzierung 2024 (97,2 Mrd. Franken, 899 Franken pro Kopf und Monat), https://www.bfs.admin.ch/asset/de/36515499
+- BFS: Kosten und Finanzierung des Gesundheitswesens (Reihe 1995–2019, Methodik vor 2025)
+- BAG: Tätigkeitsbericht 2025 soziale Kranken- und Unfallversicherung (Anzahl Versicherer), https://www.bag.admin.ch/dam/en/sd-web/TiFIhRVtPuIx/BAG_Ta%CC%88tigkeitsbericht_2025_soziale-Kranken-und-Unfallversicherung.pdf
 - OECD: Health at a Glance 2023 — Health Expenditure and Financing
 - WHO: Global Health Expenditure Database
 
@@ -2374,7 +2487,7 @@ Source: https://die-zukunft.ch/zukunftslabor/notizen/grundeinkommen-finanzierung
 Drei Finanzierungsmodelle für ein bedingungsloses Grundeinkommen von CHF 2'500/Monat
 zeigen grundlegend verschiedene Verteilungswirkungen. Eine pauschale Einkommensteuer
 senkt den Gini am stärksten. Die Ablösung bestehender Transfers spart zwar Steuern,
-kann aber die ärmsten Haushalte schlechter stellen — ein nicht-trivialer Befund.
+bringt aber den ärmsten Haushalten am wenigsten — ein nicht-trivialer Befund.
 Eine Konsumsteuer wirkt progressiv, aber schwächer.
 
 <!-- more -->
@@ -2383,31 +2496,37 @@ Eine Konsumsteuer wirkt progressiv, aber schwächer.
 
 ## Methodik
 
-Grundlage sind die Einkommensanteile nach Dezilen aus der
-Haushaltsbudgeterhebung (HABE) 2018 des BFS. Daraus werden absolute
-Monatseinkommen pro Dezil geschätzt (Anteil × Mittelwert × 10).
+Grundlage sind die Anteile der Dezile am verfügbaren Äquivalenzeinkommen
+aus der BFS-Tabelle «Kennzahlen zur Verteilung der Einkommen»
+(Datengrundlage 2018, Haushaltsbudgeterhebung HABE). Daraus werden
+absolute verfügbare Äquivalenzeinkommen pro Dezil und Monat geschätzt
+(Anteil × Mittelwert × 10).
 
 Drei Finanzierungsszenarien werden simuliert:
 
-- **A — Pauschale Einkommensteuer**: Bruttokosten (CHF 222.0 Mrd./Jahr)
+- **A — Pauschale Einkommensteuer**: Bruttokosten (CHF 222 Mrd./Jahr)
   werden über einen linearen Einkommensteuerzuschlag finanziert.
 - **B — Transferablösung**: AHV, IV, EL, Sozialhilfe, ALV und Familienzulagen
-  (CHF 79.0 Mrd.) werden durch das UBI ersetzt.
+  (CHF 79 Mrd.) werden durch das UBI ersetzt.
   Der verbleibende Betrag wird über Einkommensteuer finanziert.
 - **C — Konsumsteuer**: Die Finanzierung erfolgt über einen MwSt.-Zuschlag.
   Konsumquoten variieren nach Dezil (D1: 95%, D10: 55%).
+
+Das Modell ist statisch: Es ignoriert Verhaltensreaktionen wie ein
+verändertes Arbeitsangebot, andere Konsummuster oder Ausweichverhalten bei
+Steuern. Die Resultate zeigen reine Erstrundeneffekte.
 
 ---
 
 ### Baseline: Einkommensverteilung 2018
 
-Die heutige Einkommensverteilung zeigt eine starke Konzentration: Das oberste Dezil verfügt über rund einen Viertel des Gesamteinkommens, das unterste über weniger als 3%. Diese Baseline ist der Ausgangspunkt für alle drei Szenarien — sie zeigt, von welcher Ausgangslage aus Umverteilung wirkt.
+Die heutige Einkommensverteilung zeigt eine starke Konzentration: Das oberste Dezil verfügt über gut einen Fünftel (22%) des gesamten verfügbaren Äquivalenzeinkommens, das unterste über weniger als 3%. Diese Baseline ist der Ausgangspunkt für alle drei Szenarien — sie zeigt, von welcher Ausgangslage aus Umverteilung wirkt.
 
 ---
 
 ### Nettowirkung der drei Szenarien
 
-Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkommensteuer) verteilt linear um — untere Dezile gewinnen, obere verlieren. Szenario B (Transferablösung) produziert ein Paradox: Die untersten Dezile können netto verlieren, weil bestehende Transfers höher waren als das UBI. Szenario C (Konsumsteuer) belastet untere Dezile stärker über ihre höhere Konsumquote.
+Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkommensteuer) verteilt linear um — untere Dezile gewinnen, obere verlieren. Szenario B (Transferablösung) produziert ein Paradox: Die untersten Dezile gewinnen netto am wenigsten (D1: +92 CHF/Monat), weil das Grundeinkommen ihre bisherigen Transfers weitgehend nur ersetzt. Szenario C (Konsumsteuer) belastet untere Dezile über ihre höhere Konsumquote relativ stärker; netto gewinnen sie dank Grundeinkommen dennoch deutlich.
 
 ---
 
@@ -2426,29 +2545,29 @@ Hier wird sichtbar, welche Dezile netto gewinnen oder verlieren. Der Wendepunkt 
 ## Einschränkungen
 
 - Aggregierte Dezildaten statt Mikrodaten (Individualdaten erfordern BFS-Antrag)
-- Keine Verhaltensanpassungen (Arbeitsangebot, Konsummuster)
+- Keine Verhaltensreaktionen modelliert (Arbeitsangebot, Konsummuster, Steuerausweichung): statische Erstrundeneffekte
 - Transferverteilung auf Dezile geschätzt (nicht direkt aus SILC-Mikrodaten)
 - Konsumquoten nach Dezil basieren auf Literaturwerten, nicht BFS-HABE-Detail
-- Daten nur bis 2018 verfügbar (neueste BFS-HABE-Publikation)
+- Datengrundlage 2018: Die verwendete BFS-Tabellenreihe endet 2018; neuere HABE- und SILC-Wellen sind noch nicht eingearbeitet
 
 ---
 
 ## Datenquellen
 
-- BFS HABE 2018: Einkommensanteile nach Dezilen (Verfügbares Äquivalenzeinkommen)
+- BFS: Kennzahlen zur Verteilung der Einkommen vor und nach staatlichen Transfers (HABE, Datengrundlage 2018), Anteile der Dezile am verfügbaren Äquivalenzeinkommen, https://www.bfs.admin.ch/bfsstatic/dam/assets/15344786/master
 - BSV Sozialversicherungsstatistik: Transfervolumen AHV, IV, EL, ALV
 - BFS SILC: publizierte Verteilungsanteile der Sozialtransfers
 
 ---
 
-# Mietbelastung: Wann wird es in welchem Kanton kritisch?
+# Mietbelastung: Wie stark trifft die Miete das unterste Quintil in den Kantonen?
 
-> Das unterste Quintil zahlt 40% für Miete. Bei aktuellen Trends überschreiten weitere Kantone die 30%-Schwelle.
+> Das unterste Quintil zahlt 40% für Miete — und liegt gemessen an den kantonalen Mieten bereits in allen Kantonen über der 30%-Schwelle.
 
 Source: https://die-zukunft.ch/zukunftslabor/notizen/mietbelastung-kantonale-prognose/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
 
-Das unterste Quintil zahlt 40% für Miete. Bei aktuellem Mietpreiswachstum und
-1% Einkommenszuwachs überschreiten mehrere Kantone die 30%-Schwelle bis 2035.
+Das unterste Quintil zahlt 40% für Miete. Gemessen an den kantonalen Mieten
+liegt es schon 2023 in allen 26 Kantonen über der 30%-Schwelle — von 33% im Jura bis 65% in Zug.
 
 <!-- more -->
 
@@ -2458,37 +2577,30 @@ Das unterste Quintil zahlt 40% für Miete. Bei aktuellem Mietpreiswachstum und
 
 BFS-Mietpreisstatistik (2010–2023, 3-Zimmer nach Kanton) und
 BFS-SILC-Mietbelastungsquoten. CAGR aus 2010/2023-Verhältnis.
-Schwellenprognose: Miete×(1+CAGR)^t / Einkommen×(1+1%)^t = 30%.
 
 ---
 
 ### Mietbelastung nach Einkommensquintil
 
-Das unterste Quintil gibt rund 40% des verfügbaren Einkommens für Miete aus — weit über der 30%-Schwelle, die als kritisch gilt. Die oberen Quintile liegen bei 15–20%. Die Mietbelastung wirkt wie eine regressive Steuer: Wer weniger verdient, zahlt prozentual mehr.
+Das unterste Quintil gibt rund 40% des verfügbaren Einkommens für Miete aus — weit über der 30%-Schwelle, die als kritisch gilt. Die oberen Quintile liegen bei 12–18%. Die Mietbelastung wirkt wie eine regressive Steuer: Wer weniger verdient, zahlt prozentual mehr.
 
 ---
 
 ### Mietpreise nach Kanton
 
-Die kantonalen Unterschiede sind erheblich: Zürich, Genf und Zug liegen an der Spitze, ländliche Kantone deutlich darunter. Die Grafik zeigt die Preisspanne einer durchschnittlichen 3-Zimmer-Wohnung — der meistverbreitete Wohnungstyp in der Schweiz.
+Die kantonalen Unterschiede sind erheblich: Zug, Zürich und Schwyz liegen an der Spitze, ländliche Kantone deutlich darunter. Die Grafik zeigt die Preisspanne einer durchschnittlichen 3-Zimmer-Wohnung — der meistverbreitete Wohnungstyp in der Schweiz.
 
 ---
 
 ### Mietpreiswachstum (CAGR)
 
-Das jährliche Mietpreiswachstum (CAGR) variiert stark zwischen den Kantonen. Einige Kantone wachsen doppelt so schnell wie andere — bei gleichzeitig stagnierenden Reallöhnen entsteht eine zunehmende Schere. Das Wachstumstempo bestimmt, wann die Belastungsschwelle überschritten wird.
-
----
-
-### Schwellenprognose
-
-Bei Fortschreibung der aktuellen Trends und einem angenommenen Einkommenswachstum von 1% pro Jahr überschreiten mehrere Kantone die 30%-Schwelle bis 2035. Die Prognose ist konservativ — Neuvertragsmieten liegen oft deutlich über Bestandsmieten.
+Das jährliche Mietpreiswachstum (CAGR) variiert stark zwischen den Kantonen. Einige Kantone wachsen doppelt so schnell wie andere — bei gleichzeitig stagnierenden Reallöhnen entsteht eine zunehmende Schere. Das Wachstumstempo bestimmt, wie schnell die Belastung weiter steigt, wenn die Einkommen nicht mithalten.
 
 ---
 
 ## Einschränkungen
 
-- CAGR extrapoliert Vergangenheitstrend
+- CAGR beschreibt den Trend 2010–2023, keine Prognose
 - Q1-Einkommen nicht kantonal differenziert
 - Bestandsmieten (Neuvertragsmieten oft höher)
 
@@ -2621,16 +2733,96 @@ Die Unterschiede zwischen Deutschland und den USA zeigen: Der Arbeitsmarkt passt
 
 ---
 
-# Talent & Migration: Werden Qualifikationen genutzt — oder verschwendet?
+# Wie sich die Schweiz versteht: Englisch ist im Alltag verbreiteter als jede zweite Landessprache
+
+> 44 Prozent der Bevölkerung verwenden regelmässig Englisch, aber nur 15 Prozent der Deutschschweiz Französisch und 16 Prozent der Romandie Deutsch. Bei der Arbeit wächst Englisch am stärksten. Gleichzeitig halten 86 Prozent mehrere Landessprachen für wichtig für den Zusammenhalt.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/sprachen-verstaendigung-zahlen/ · Published: 2026-11-08 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Die Schweiz ist mehrsprachig, aber nicht so, wie das Bild der vier Landessprachen vermuten lässt. Laut der Erhebung zur Sprache, Religion und Kultur 2024 des BFS verwenden 44 Prozent der Bevölkerung ab 15 Jahren regelmässig Englisch. Die jeweils andere grosse Landessprache verwenden deutlich weniger: 15 Prozent der Deutschschweiz Französisch, 16 Prozent der Romandie Deutsch. Bei der Arbeit sprechen 24 Prozent der Erwerbstätigen üblicherweise Englisch, 2010 waren es 17 Prozent. Gleichzeitig halten 86 Prozent Kenntnisse mehrerer Landessprachen für wichtig für den Zusammenhalt. Die Daten zeigen kein Entweder-oder, sondern eine Lücke zwischen Anspruch und Alltag.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Die Angaben zu regelmässig verwendeten Sprachen, Sprachkompetenzen und Einstellungen stammen aus der Erhebung zur Sprache, Religion und Kultur (ESRK) 2024 des Bundesamts für Statistik (BFS): rund 14'500 befragte Personen ab 15 Jahren, Befragung April bis Juni 2024. «Regelmässig verwendet» heisst: mindestens einmal pro Woche gesprochen, geschrieben, gelesen oder gehört, zuhause, in der Freizeit, in Medien oder bei der Arbeit. Die Sprachregion richtet sich nach dem Wohnort. Die Zeitreihen zu Hauptsprachen und Arbeitssprachen stammen aus den Volkszählungen (bis 2000) und der jährlichen Strukturerhebung (ab 2010). Seit 2010 können Befragte bis zu drei Hauptsprachen angeben; der Sprung bei den Nichtlandessprachen zwischen 2000 und 2010 ist deshalb grösstenteils methodisch. Die ESRK wurde 2024 erstmals mehrheitlich online durchgeführt; wir vergleichen ihre Werte deshalb nicht mit den Wellen 2014 und 2019. Angaben zum Schulunterricht stammen von EDK, Eurydice und Bundesrat.
+
+---
+
+### Englisch vor der zweiten Landessprache
+
+In allen drei grossen Sprachregionen verwenden mehr Menschen regelmässig Englisch als irgendeine andere Landessprache: in der Deutschschweiz 45,1 Prozent Englisch gegenüber 15,0 Prozent Französisch, in der Romandie 40,9 Prozent Englisch gegenüber 15,8 Prozent Deutsch (Schweizerdeutsch: 6,5 Prozent), in der italienischen Schweiz 33,6 Prozent Englisch gegenüber 22,2 Prozent Deutsch und 18,6 Prozent Französisch. Die italienische Schweiz ist die Region, in der die anderen Landessprachen im Alltag am stärksten präsent sind.
+
+---
+
+### Bei der Arbeit: Englisch wächst am stärksten
+
+Von 2010 bis 2024 stieg der Anteil der Erwerbstätigen, die bei der Arbeit üblicherweise Englisch sprechen, von 16,5 auf 23,6 Prozent. Schweizerdeutsch sank von 67,2 auf 60,8 Prozent, Französisch von 29,2 auf 27,6 Prozent; Hochdeutsch stieg von 32,4 auf 35,6 Prozent. Laut BFS hat Englisch zwischen 2014 und 2024 bei den 15- bis 24-Jährigen am stärksten zugelegt (von 14 auf 22 Prozent) und ist in Unternehmen ab 500 Vollzeitäquivalenten mit 27 Prozent am verbreitetsten. Trotzdem sprechen 95 Prozent der Erwerbstätigen bei der Arbeit mindestens eine Landessprache.
+
+---
+
+### Hauptsprachen: Die Bevölkerung wird vielsprachiger
+
+Deutsch (oder Schweizerdeutsch) ist 2024 für 61,1 Prozent der Wohnbevölkerung Hauptsprache, Französisch für 22,6, Italienisch für 7,8 und Rätoromanisch für 0,4 Prozent. Französisch ist seit 1970 von 18,4 auf über 22 Prozent gewachsen, Italienisch von 11,0 auf 7,8 Prozent zurückgegangen. Nichtlandessprachen nennen 24,5 Prozent als (eine ihrer) Hauptsprachen; Englisch stieg dabei von 4,2 Prozent (2010) auf 6,5 Prozent (2024). Wegen der Mehrfachnennung ab 2010 summieren sich die Anteile nicht auf 100 Prozent.
+
+---
+
+### Kompetenzen, Generationen und Hürden
+
+- **Englisch können die meisten, die Landessprachen weniger gut:** Von den 15- bis 64-Jährigen, die eine Sprache kennen, ohne dass sie ihre Hauptsprache ist, schätzen in der Deutschschweiz 53,4 Prozent ihr aktives Englisch als gut oder sehr gut ein, aber nur 13,2 Prozent ihr Französisch. In der Romandie sind es 48,4 Prozent beim Englisch und 14,0 Prozent beim Deutsch.
+- **Die Jungen sind mehrsprachiger:** 81 Prozent der 15- bis 24-Jährigen verwenden regelmässig mindestens zwei Sprachen, bei den Personen ab 65 Jahren sind es 38 Prozent. Knapp zwei Drittel der 15- bis 24-Jährigen schätzen ihr aktives Englisch als gut oder sehr gut ein, bei den 45- bis 64-Jährigen 42 Prozent.
+- **Der Anspruch bleibt hoch, bei den Jungen etwas tiefer:** 85,9 Prozent finden Kenntnisse mehrerer Landessprachen wichtig für den Zusammenhalt (Deutschschweiz 84,3, Romandie 89,1, italienische Schweiz 93,7 Prozent). 77,3 Prozent finden, die erste Fremdsprache in der Schule solle eine Landessprache sein; bei den 15- bis 24-Jährigen sind es rund zwei Drittel, 20 Prozentpunkte weniger als bei den Personen ab 65.
+- **Sprache als Hürde im Alltag:** 12 Prozent der Bevölkerung haben keine Landessprache als Hauptsprache, 4 Prozentpunkte mehr als 2010; Englisch ist dabei mit 21 Prozent die häufigste. Von den Personen, deren Hauptsprache nicht die Sprache am Wohnort ist, hatten 31,3 Prozent sprachliche Schwierigkeiten im Kontakt mit Behörden, 26,3 Prozent mit Gesundheitspersonal und 25,0 Prozent am Arbeitsplatz oder bei der Stellensuche. In der Romandie ist der Anteil bei Behördenkontakten mit 40 Prozent deutlich höher als in der Deutschschweiz (27 Prozent).
+
+---
+
+### Schule: Welche Fremdsprache zuerst?
+
+Nach der Sprachenstrategie der Kantone von 2004 und dem HarmoS-Konkordat lernen Kinder in der Primarschule zwei Fremdsprachen: eine Landessprache und Englisch. Die Reihenfolge wählen die Kantone. Laut Eurydice (Stand Dezember 2023) beginnen 14 Kantone mit Englisch und 12 mit einer zweiten Landessprache; mit einer Landessprache beginnen unter anderem alle französisch- und italienischsprachigen Kantone sowie, nach einer Vereinbarung von 2004, Bern, Basel-Landschaft, Basel-Stadt, Solothurn, Deutschfreiburg und das Oberwallis mit Französisch. Seit 2025 haben mehrere Deutschschweizer Kantonsparlamente beschlossen, Französisch erst auf der Oberstufe zu unterrichten, darunter laut SRF Appenzell Ausserrhoden und Zürich. Der Bundesrat hat deshalb am 12. Juni 2026 eine Änderung des Sprachengesetzes in die Vernehmlassung gegeben (Frist: 5. Oktober 2026): Variante 1 schreibt das HarmoS-Modell fest, Variante 2 verlangt, dass eine zweite Landessprache in der Primarschule beginnt und bis zum Ende der Sekundarstufe I unterrichtet wird. Verzichten die Kantone auf abweichende Entscheide, will der Bundesrat die Vorlage nicht ans Parlament weiterleiten.
+
+---
+
+### Was die Daten nicht zeigen
+
+Die ausgewerteten Erhebungen messen nicht, wie oft Menschen maschinelle Übersetzung oder KI-Werkzeuge nutzen, um sich über Sprachgrenzen hinweg zu verständigen. Ob solche Werkzeuge das Lernen einer zweiten Landessprache ergänzen oder ersetzen, ist für die Schweiz nicht untersucht. Ebenso fehlen landesweit vergleichbare Messungen, welches Sprachniveau Schülerinnen und Schüler am Ende der obligatorischen Schule tatsächlich erreichen; die Sprachkompetenzen in der ESRK sind Selbsteinschätzungen.
+
+---
+
+## Was das für die Politik heisst
+
+- **Beides stärken statt gegeneinander ausspielen:** Englisch ist im Alltag und bei der Arbeit bereits die verbreitetste Brückensprache; gleichzeitig wollen grosse Mehrheiten die Landessprachen. Die Politik sollte die Landessprachen erhalten und Englisch als zusätzliche gemeinsame Verkehrssprache anerkennen: [Sprache & Verständigung](https://die-zukunft.ch/sprache-verstaendigung/).
+- **Behörden dort mehrsprachig, wo es Wirkung hat:** Fast ein Drittel der Menschen ohne Lokalsprache als Hauptsprache stösst bei Behörden auf sprachliche Hürden. Zentrale Behördeninformationen und Online-Dienste sollten deshalb auch auf Englisch verfügbar sein: [Offener Staat](https://die-zukunft.ch/offener-staat/).
+- **Messen statt vermuten:** Statt um die Reihenfolge der Fremdsprachen zu streiten, sollten Kantone und Bund regelmässig erheben, welches Niveau in Landessprachen und Englisch am Ende der Schulzeit erreicht wird, und Sprachkompetenzen aus Arbeit und Weiterbildung anerkennen: [Talent, Integration & Rechtsstaat](https://die-zukunft.ch/talent-integration/).
+
+---
+
+## Quellen
+
+1. Bundesamt für Statistik (BFS): Sprachliche Praktiken in der Schweiz. Ergebnisse der Erhebung zur Sprache, Religion und Kultur 2024, Neuchâtel 2025 (BFS-Nummer 1368-2401). https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788128/master
+2. Bundesamt für Statistik (BFS): Sprachen bei der Arbeit, Neuchâtel 2026 (BFS-Nummer 1795-2600). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36630116/master
+3. Bundesamt für Statistik (BFS), Strukturerhebung: Die üblicherweise bei der Arbeit gesprochenen Sprachen, 2010–2024 (su-d-01.08.01.03). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399471/master
+4. Bundesamt für Statistik (BFS), Volkszählung und Strukturerhebung: Hauptsprachen seit 1910 (T 01.08.01.01). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399472/master
+5. Bundesamt für Statistik (BFS), Strukturerhebung: Die häufigsten Hauptsprachen, 2010–2024 (su-d-01.08.01.01). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399478/master
+6. Europäische Kommission, Eurydice: Schweiz, Lehren und Lernen in der Primarschule (Stand 14. Dezember 2023). https://eurydice.eacea.ec.europa.eu/de/national-education-systems/switzerland/lehren-und-lernen
+7. Der Bundesrat: Bundesrat will Verankerung der Landessprachen in der Schule stärken, Medienmitteilung, 12. Juni 2026. https://www.admin.ch/de/newnsb/HE5QaMVS0dRYeHzeHa_8p
+8. Eidgenössisches Departement des Innern (EDI): Der Bundesrat lässt Vorgaben zum Unterricht der Landessprachen ausarbeiten, 19. September 2025. https://www.edi.admin.ch/de/newnsb/CbsqmmLpkhDjQgEILMp_P
+9. Kanton Basel-Stadt, Erziehungsdepartement: Französisch als erste Fremdsprache an den Volksschulen der Kantone Basel-Landschaft, Basel-Stadt, Bern, Deutsch-Freiburg, Solothurn und Deutsch-Wallis, Medienmitteilung 2004. https://www.bs.ch/medienmitteilungen/ed/2004-franzoesisch-als-erste-fremdsprache-den-volksschulen-der-kantone-basel-landschaft-basel-stadt-bern-deutsch-freiburg-solothurn-und-deutsch-wallis
+10. SRF: Zürcher Parlament will Frühfranzösisch abschaffen, 1. September 2025. https://www.srf.ch/news/schweiz/fremdsprachenunterricht-zuercher-parlament-will-fruehfranzoesisch-abschaffen
+
+---
+
+# Talent & Migration: Werden Qualifikationen genutzt — oder bleiben sie ungenutzt?
 
 > 36% der Drittstaatsangehörigen arbeiten unter ihrem Qualifikationsniveau. Das ist kein Integrationsversagen — es ist Wertschöpfungsverlust.
 
 Source: https://die-zukunft.ch/zukunftslabor/notizen/talent-ueberqualifikation/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
 
-Die Schweiz hat 2024 eine Nettowanderung von +82792 Personen.
-Doch Qualifikationen werden systematisch verschwendet: 36% der Drittstaatsangehörigen
-arbeiten unter Niveau (vs. 13% der Schweizer/innen). Der geschätzte Wertschöpfungsverlust
-beträgt ~3.6 Mrd. CHF jährlich.
+Die Schweiz hat 2024 eine Nettowanderung von +82'792 Personen.
+Doch viele Qualifikationen bleiben ungenutzt: 36% der Drittstaatsangehörigen
+arbeiten unter Niveau (vs. 13% der Schweizer/innen). Nach einer eigenen Grobschätzung entgehen
+dadurch rund 3,6 Mrd. CHF Lohnsumme pro Jahr.
 
 <!-- more -->
 
@@ -2643,11 +2835,17 @@ Wanderungsdaten: BFS Wanderungsstatistik (1991–2024).
 Überqualifikation: BFS Strukturerhebung / SAKE (Selbsteinschätzung + formale Qualifikation),
 ergänzt durch OECD Indicators of Talent Attractiveness 2023.
 
+Die Verlustschätzung ist eine eigene Grobschätzung: rund 200'000
+überqualifiziert beschäftigte Zugewanderte × eine angenommene
+Lohndifferenz von rund 18'000 Franken pro Jahr ≈ 3,6 Mrd. Franken. Beide
+Werte sind Annahmen, keine publizierten Statistiken; die Zahl zeigt eine
+Grössenordnung.
+
 ---
 
 ### Ausländische Bevölkerung nach Bewilligungstyp
 
-Die Zusammensetzung der ausländischen Bevölkerung hat sich verschoben: EU/EFTA-Niederlassungen dominieren, Kurzaufenthalte schwanken konjunkturell. Die Grafik zeigt die Bestandsentwicklung — ein stabiles Wachstum, das die Arbeitskräftenachfrage der Schweizer Wirtschaft widerspiegelt.
+Die Zusammensetzung der ausländischen Bevölkerung hat sich verschoben: Niedergelassene (C) bilden weiterhin die Mehrheit, doch seit 2021 wächst vor allem die Zahl der Aufenthalter (B) — von 759'769 auf 915'566 (2024). Die Grafik zeigt die Bestandsentwicklung — ein stabiles Wachstum, das die Arbeitskräftenachfrage der Schweizer Wirtschaft widerspiegelt.
 
 ---
 
@@ -2665,7 +2863,7 @@ Die Nettowanderung zeigt, wer kommt und wer geht. EU/EFTA-Bürger stellen den Gr
 
 ### Sektoren mit hohem Überqualifikationsanteil
 
-Bestimmte Sektoren «verschwenden» systematisch Talent: Gastgewerbe, Reinigung und Detailhandel beschäftigen besonders viele Überqualifizierte. Das ist Wertschöpfungsverlust in doppeltem Sinn — für die Betroffenen (Lohneinbusse) und für die Volkswirtschaft (ungenutzte Kompetenz).
+In bestimmten Sektoren bleibt besonders viel Talent ungenutzt: Gastgewerbe, Reinigung und Detailhandel beschäftigen besonders viele Überqualifizierte. Das ist Wertschöpfungsverlust in doppeltem Sinn — für die Betroffenen (Lohneinbusse) und für die Volkswirtschaft (ungenutzte Kompetenz).
 
 ---
 
@@ -2673,7 +2871,7 @@ Bestimmte Sektoren «verschwenden» systematisch Talent: Gastgewerbe, Reinigung 
 
 - Überqualifikation basiert auf Selbsteinschätzung und formaler Diplomanerkennung
 - Nicht alle ausländischen Diplome sind automatisch gleichwertig (Sprachbarrieren, Berufsschutz)
-- Ökonomische Verlustschätzung ist Grössenordnung (Lohndifferenz variiert stark nach Sektor)
+- Ökonomische Verlustschätzung ist eine eigene Grobschätzung mit angenommenen Werten (Anzahl Betroffene, Lohndifferenz variiert stark nach Sektor)
 - SAKE-Daten sind Stichprobendaten mit Konfidenzintervallen
 
 ---
@@ -2829,13 +3027,15 @@ Mitglieder der Bundesversammlung müssen ihre beruflichen Tätigkeiten, Mandate 
 
 # Verteidigung: Was kauft der Schweizer Verteidigungsfranken?
 
-> Die Schweiz gibt 0.706% des BIP für Verteidigung aus. 58% gehen in Personal — aber die Bevölkerung will Cyber und Katastrophenhilfe.
+> Die Schweiz gab 2025 laut SIPRI 0,76% des BIP für Verteidigung aus, weniger als alle verglichenen europäischen Länder. Die Frage ist nicht nur, wie viel mehr, sondern wofür.
 
 Source: https://die-zukunft.ch/zukunftslabor/notizen/verteidigung-ausgaben-prioritaeten/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
 
-Die Schweiz gibt 0.706% des BIP für Verteidigung aus (2023). Die
-Miliz-Truppenstärke (140'000) bindet 58% des Budgets für Personal. Cyber und
-Katastrophenhilfe — Toppriorität der Bevölkerung (82%/88%) — erhalten je nur 3-4%.
+Die Schweiz gab 2025 laut SIPRI 0,76% des BIP für Verteidigung aus
+(7,6 Mrd. USD), nach 0,70% im Jahr 2024. Damit liegt sie unter allen
+verglichenen europäischen Ländern. Die Milizarmee mit rund 140'000
+Angehörigen hält die Kosten pro Kopf tief, die Frage ist deshalb nicht nur
+«wie viel mehr», sondern «wofür».
 
 <!-- more -->
 
@@ -2843,64 +3043,56 @@ Katastrophenhilfe — Toppriorität der Bevölkerung (82%/88%) — erhalten je n
 
 ## Methodik
 
-Verteidigungsausgaben als BIP-Anteil: World Bank / SIPRI (2000–2023,
-8 Länder). Pro-Soldat-Kosten: IISS Military Balance 2024.
-Budgetallokation: VBS Armeebotschaft 2024, vereinfachte Kategorien.
-Bevölkerungsprioritäten: ETH CSS Sicherheitsstudie 2024.
+Verteidigungsausgaben als BIP-Anteil: SIPRI Military Expenditure Database
+(Ausgabe April 2026, 2000–2025, 7 Länder). Pro-Soldat-Kosten: IISS Military
+Balance 2024 (Stand 2023/24).
 
 ---
 
 ### Schweizer Ausgabentrend
 
-Die Schweizer Verteidigungsausgaben sind seit den 1990er-Jahren kontinuierlich gesunken und liegen heute deutlich unter 1% des BIP. Der aktuelle politische Druck zur Aufstockung steht im Kontrast zu einem Jahrzehnte langen Spartrend — die Frage ist nicht nur «wie viel mehr», sondern «wofür».
+Die Schweizer Verteidigungsausgaben sind von rund 1% des BIP (2000) auf 0,64% (2014) gesunken und seither auf 0,76% (2025) gestiegen, weiterhin deutlich unter 1% des BIP. Real nahmen sie 2025 gegenüber dem Vorjahr um 9,4% zu (SIPRI). Der aktuelle politische Druck zur Aufstockung steht im Kontrast zu einem jahrzehntelangen Spartrend — die Frage ist nicht nur «wie viel mehr», sondern «wofür».
 
 ---
 
 ### Internationaler Vergleich
 
-Im internationalen Vergleich liegt die Schweiz am unteren Ende — unter dem NATO-Ziel von 2% und unter den meisten europäischen Nachbarn. Dabei ist zu beachten: Die Schweiz hat keine Bündnisverpflichtungen, was den direkten Vergleich relativiert, aber die Fähigkeitslücken nicht kleiner macht.
+Im internationalen Vergleich liegt die Schweiz am unteren Ende: 2025 gaben Österreich 1,1%, Frankreich 2,0%, Deutschland 2,3%, Schweden 2,5% und Finnland 2,6% des BIP aus. Die NATO-Mitglieder haben sich am Gipfel von Den Haag (Juni 2025) verpflichtet, bis 2035 jährlich 5% des BIP aufzuwenden: mindestens 3,5% für Kernausgaben der Verteidigung und bis zu 1,5% für verteidigungs- und sicherheitsrelevante Ausgaben wie Infrastrukturschutz und Resilienz. Für die neutrale Schweiz gilt diese Vorgabe nicht, und ohne Bündnisverpflichtungen ist der direkte Vergleich relativ. Die Fähigkeitslücken werden dadurch aber nicht kleiner.
 
 ---
 
 ### Kosten pro aktivem Soldaten
 
-Das Milizmodell führt zu einer besonderen Kostenstruktur: Die Schweiz hat 140'000 Angehörige der Armee, aber der Grossteil dient im Milizdienst. Die Kosten pro Soldat liegen im Vergleich zu Berufsarmeen tiefer — dafür binden Personalkosten 58% des Gesamtbudgets und lassen wenig Raum für Modernisierung.
-
----
-
-### Budget vs. Bevölkerungsprioritäten
-
-Die Diskrepanz zwischen Budgetallokation und Bevölkerungsprioritäten ist frappant: Cyber-Sicherheit und Katastrophenhilfe werden von 82–88% der Bevölkerung als prioritär eingestuft, erhalten aber je nur 3–4% des Budgets. Klassische Landesverteidigung bindet das meiste Geld — obwohl die Bedrohungswahrnehmung sich verschoben hat.
+Das Milizmodell führt zu einer besonderen Kostenstruktur: Die Schweiz hat rund 140'000 Angehörige der Armee, der Grossteil leistet Milizdienst. Pro Kopf liegen die Kosten deshalb deutlich tiefer als bei Berufsarmeen. Direkt vergleichbar sind die Werte nicht, weil Milizangehörige keine Vollzeitstellen besetzen.
 
 ---
 
 ## Einschränkungen
 
 - Miliz-Truppenstärke ≠ Vollzeitäquivalente (Kosten pro AdA nicht direkt vergleichbar)
-- VBS-Budgetkategorien vereinfacht dargestellt
-- Bevölkerungsprioritäten: Befragung (nicht gewichtet nach Sicherheitsexpertise)
-- SIPRI-Daten: Definitionsunterschiede bei Verteidigungsausgaben zwischen Ländern
+- Pro-Soldat-Vergleich auf IISS-Stand 2023/24, nicht aktualisiert
+- SIPRI-Daten: Definitionsunterschiede bei Verteidigungsausgaben zwischen Ländern; BIP-Anteile 2025 auf Basis von IWF-Schätzungen
 
 ---
 
 ## Datenquellen
 
-- World Bank / SIPRI: Military expenditure (% of GDP), 2000–2023
+- SIPRI Military Expenditure Database, Ausgabe April 2026: https://www.sipri.org/databases/milex (Datentabelle: https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2025.xlsx)
+- SIPRI Fact Sheet «Trends in World Military Expenditure, 2025» (April 2026): https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf
+- NATO: Gipfel von Den Haag, 24.–25. Juni 2025 (5% des BIP bis 2035, davon 3,5% Kernausgaben und 1,5% verteidigungs- und sicherheitsrelevante Ausgaben), https://www.nato.int/en/news-and-events/articles/news/2025/06/27/nato-concludes-historic-summit-in-the-hague
 - IISS: Military Balance 2024 — Truppenstärke und Budgets
-- VBS: Armeebotschaft 2024 — Budgetallokation
-- ETH CSS: Sicherheit 2024 — Sicherheitspolitische Meinungsbildung
 
 ---
 
 # Weiterbildung: Wer bildet sich weiter — und wer nicht?
 
-> Die Schere bei der Weiterbildung ist riesig: Hochqualifizierte bilden sich 2.6× häufiger weiter als Geringqualifizierte. Gerade die am stärksten exponierten Branchen investieren zu wenig.
+> Die Schere bei der Weiterbildung ist riesig: Hochqualifizierte bilden sich 2,6× häufiger weiter als Geringqualifizierte. Am wenigsten bilden sich Branchen mit viel manueller Arbeit weiter — nicht die Büroberufe mit dem höchsten KI-Risiko.
 
 Source: https://die-zukunft.ch/zukunftslabor/notizen/weiterbildung-teilnahme-luecken/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
 
 Die Weiterbildungsteilnahme stagniert bei 60% — und die Schere zwischen
-Hoch- und Geringqualifizierten (79% vs. 30%) ist enorm. Branchen mit
-hohem Automatisierungsrisiko bilden sich oft unterdurchschnittlich weiter.
+Hoch- und Geringqualifizierten (79% vs. 30%) ist enorm. Die tiefsten Quoten haben
+Gastgewerbe, Verkehr und Bau — nicht die Branchen mit dem höchsten KI-Risiko.
 
 <!-- more -->
 
@@ -2911,19 +3103,21 @@ hohem Automatisierungsrisiko bilden sich oft unterdurchschnittlich weiter.
 Weiterbildungsdaten aus dem BFS Mikrozensus Aus- und Weiterbildung
 (2011, 2016, 2021). Teilnahme an nicht-formaler Weiterbildung (Kurse,
 Seminare, betriebliche Schulungen). Beschäftigungsdaten aus BFS SAKE
-(2024). Automatisierungsrisiko: IMF AI Preparedness Index 2024.
+(2024). Automatisierungsrisiko: modellierte Post-LLM-Branchenwerte aus der
+Notiz «Automatisierungsrisiko nach Branche» (eigene Annahmen in Anlehnung
+an IMF, Cazzaniga et al. 2024, keine gemessenen Werte).
 
 ---
 
 ### Nach Bildungsniveau
 
-Hochqualifizierte bilden sich 2.6-mal häufiger weiter als Geringqualifizierte. Diese Schere ist das zentrale Problem: Wer bereits gut ausgebildet ist, investiert weiter — wer es am meisten bräuchte, bleibt zurück. Ohne gezielte Angebote für Geringqualifizierte verschärft Weiterbildung die Ungleichheit statt sie zu mindern.
+Hochqualifizierte bilden sich 2,6-mal häufiger weiter als Geringqualifizierte. Diese Schere ist das zentrale Problem: Wer bereits gut ausgebildet ist, investiert weiter — wer es am meisten bräuchte, bleibt zurück. Ohne gezielte Angebote für Geringqualifizierte verschärft Weiterbildung die Ungleichheit statt sie zu mindern.
 
 ---
 
 ### Nach Altersgruppe
 
-Die Teilnahme fällt ab 45 Jahren deutlich ab. Gerade für die Altersgruppe 45–64 ist Weiterbildung aber entscheidend: Sie müssen noch 15–20 Jahre in einem sich wandelnden Arbeitsmarkt bestehen. Der Rückgang ist weniger ein individuelles Problem als ein Versagen der betrieblichen und institutionellen Angebotsstruktur.
+Die Teilnahme sinkt mit dem Alter und fällt ab 55 Jahren deutlich ab (55–64: 51%). Gerade für die Altersgruppe 45–64 ist Weiterbildung aber entscheidend: Sie müssen noch 15–20 Jahre in einem sich wandelnden Arbeitsmarkt bestehen. Der Rückgang ist weniger ein individuelles Problem als ein Versagen der betrieblichen und institutionellen Angebotsstruktur.
 
 ---
 
@@ -2935,7 +3129,7 @@ Ein Jahrzehnt nahezu Stillstand: Die Gesamtquote bewegt sich seit 2011 um die 60
 
 ### Kreuzanalyse mit Automatisierungsrisiko
 
-Der kritischste Befund: Branchen mit dem höchsten Automatisierungsrisiko weisen oft die tiefste Weiterbildungsquote auf. Die am stärksten exponierten Sektoren investieren am wenigsten in die Anpassungsfähigkeit ihrer Beschäftigten — ein strukturelles Risiko, das politische Intervention erfordert.
+Der Zusammenhang ist schwach positiv (r = 0,28): Die Branchen mit dem höchsten Post-LLM-Risiko — Finanz, freiberufliche Dienstleistungen, ICT — bilden sich überdurchschnittlich weiter (75–78%). Die tiefsten Quoten haben Gastgewerbe (35%), sonstige wirtschaftliche Dienstleistungen (38%) und Verkehr (40%), deren Risiko im mittleren Bereich liegt. Dort fehlt die Anpassungsfähigkeit für den nächsten Strukturwandel — ein strukturelles Risiko, das gezielte Angebote erfordert.
 
 ---
 
@@ -2943,6 +3137,7 @@ Der kritischste Befund: Branchen mit dem höchsten Automatisierungsrisiko weisen
 
 - BFS Mikrozensus wird nur alle 5 Jahre erhoben
 - Branchenspezifische Weiterbildungsquoten teilweise geschätzt
+- Automatisierungsrisiko nach Branche modelliert, nicht gemessen
 - Qualität der Weiterbildung nicht erfasst (nur Teilnahme)
 - Korrelation ≠ Kausalität
 

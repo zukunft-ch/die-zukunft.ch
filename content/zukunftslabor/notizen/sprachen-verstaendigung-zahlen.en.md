@@ -1,0 +1,102 @@
++++
+title = "How Switzerland understands itself: English is more widespread in daily life than any second national language"
+description = "44% of the population regularly use English, but only 15% of German-speaking Switzerland use French and 16% of French-speaking Switzerland use German. At work, English is growing fastest. At the same time, 86% consider several national languages important for cohesion."
+slug = "sprachen-verstaendigung-zahlen"
+date = 2026-11-08
+template = "notiz.html"
+
+[extra]
+data = "sprachen-verstaendigung-zahlen.csv"
+category = "datenbriefing"
+evidence = "stark"
+tags = ["languages", "multilingualism", "english", "national-languages", "school", "fso"]
+charts = ["sprache_regionen_2024.svg", "sprache_arbeit_verlauf.svg", "sprache_hauptsprachen_verlauf.svg"]
+pillar = "sprache-verstaendigung"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Data: FSO survey on language, religion and culture 2024 and structural survey 2024."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "First publication."
++++
+
+Switzerland is multilingual, but not in the way the picture of four national languages suggests. According to the Federal Statistical Office's (FSO) 2024 Survey on Language, Religion and Culture, 44% of the population aged 15 and over regularly use English. Far fewer use the other major national language: 15% of German-speaking Switzerland use French, 16% of French-speaking Switzerland use German. At work, 24% of employed people usually speak English, up from 17% in 2010. At the same time, 86% consider knowledge of several national languages important for the country's cohesion. The data show no either-or, but a gap between aspiration and everyday life.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+Figures on regularly used languages, language skills and attitudes come from the FSO's Survey on Language, Religion and Culture (ESRK) 2024: around 14,500 respondents aged 15 and over, surveyed from April to June 2024. "Regularly used" means spoken, written, read or heard at least once a week, at home, in leisure time, in the media or at work. The language region is determined by place of residence. The time series on main languages and languages at work come from the censuses (up to 2000) and the annual structural survey (from 2010). Since 2010, respondents can name up to three main languages; the jump in non-national languages between 2000 and 2010 is therefore largely methodological. In 2024 the ESRK was conducted mostly online for the first time, so we do not compare its values with the 2014 and 2019 waves. Information on school language teaching comes from the EDK, Eurydice and the Federal Council.
+
+---
+
+### English ahead of the second national language
+
+{% chart(spec="sprache_regionen_2024", alt="Regularly used national languages and English by language region, 2024") %}
+In all three major language regions, more people regularly use English than any other national language: in German-speaking Switzerland 45.1% English versus 15.0% French; in French-speaking Switzerland 40.9% English versus 15.8% German (Swiss German: 6.5%); in Italian-speaking Switzerland 33.6% English versus 22.2% German and 18.6% French. Italian-speaking Switzerland is the region where the other national languages are most present in daily life.
+{% end %}
+
+---
+
+### At work: English is growing fastest
+
+{% chart(spec="sprache_arbeit_verlauf", alt="Languages usually spoken at work in Switzerland, 2010 to 2024") %}
+From 2010 to 2024, the share of employed people who usually speak English at work rose from 16.5% to 23.6%. Swiss German fell from 67.2% to 60.8%, French from 29.2% to 27.6%; Standard German rose from 32.4% to 35.6%. According to the FSO, English grew most between 2014 and 2024 among 15- to 24-year-olds (from 14% to 22%) and is most widespread in companies with 500 or more full-time equivalents, at 27%. Even so, 95% of employed people speak at least one national language at work.
+{% end %}
+
+---
+
+### Main languages: the population is becoming more multilingual
+
+{% chart(spec="sprache_hauptsprachen_verlauf", alt="Main languages of the permanent resident population, 1970 to 2024") %}
+In 2024, German (or Swiss German) is the main language of 61.1% of the resident population, French of 22.6%, Italian of 7.8% and Romansh of 0.4%. French has grown from 18.4% in 1970 to over 22%, while Italian has declined from 11.0% to 7.8%. 24.5% name a non-national language as (one of) their main languages; English rose from 4.2% (2010) to 6.5% (2024). Because multiple answers have been possible since 2010, the shares do not add up to 100%.
+{% end %}
+
+---
+
+### Skills, generations and barriers
+
+- **Most people know English; the national languages less well:** Among 15- to 64-year-olds who know a language that is not their main language, 53.4% in German-speaking Switzerland rate their active English as good or very good, but only 13.2% their French. In French-speaking Switzerland the figures are 48.4% for English and 14.0% for German.
+- **Young people are more multilingual:** 81% of 15- to 24-year-olds regularly use at least two languages, compared with 38% of people aged 65 and over. Almost two thirds of 15- to 24-year-olds rate their active English as good or very good, compared with 42% of 45- to 64-year-olds.
+- **Aspiration remains high, slightly lower among the young:** 85.9% consider knowledge of several national languages important for cohesion (German-speaking Switzerland 84.3%, French-speaking 89.1%, Italian-speaking 93.7%). 77.3% think the first foreign language at school should be a national language; among 15- to 24-year-olds it is around two thirds, 20 percentage points fewer than among those aged 65 and over.
+- **Language as an everyday barrier:** 12% of the population have no national language as their main language, 4 percentage points more than in 2010; English is the most common among them, at 21%. Of people whose main language is not the local language, 31.3% had language difficulties in dealing with the authorities, 26.3% with health professionals and 25.0% at work or when looking for a job. In French-speaking Switzerland the share for dealings with the authorities is markedly higher, at 40%, than in German-speaking Switzerland (27%).
+
+---
+
+### School: which foreign language first?
+
+Under the cantons' 2004 language strategy and the HarmoS concordat, children learn two foreign languages in primary school: a national language and English. The cantons choose the order. According to Eurydice (as of December 2023), 14 cantons start with English and 12 with a second national language; those starting with a national language include all French- and Italian-speaking cantons and, under an agreement from 2004, Bern, Basel-Landschaft, Basel-Stadt, Solothurn, German-speaking Fribourg and Upper Valais, which start with French. Since 2025, several German-speaking cantonal parliaments have decided to teach French only at lower secondary level, including Appenzell Ausserrhoden and Zurich, according to SRF. On 12 June 2026 the Federal Council therefore opened a consultation on amending the Languages Act (deadline: 5 October 2026): option 1 enshrines the HarmoS model; option 2 requires a second national language to begin in primary school and continue to the end of lower secondary. If the cantons refrain from deviating decisions, the Federal Council does not intend to submit the bill to Parliament.
+
+---
+
+### What the data do not show
+
+The surveys analysed do not measure how often people use machine translation or AI tools to communicate across language boundaries. Whether such tools complement or replace learning a second national language has not been studied for Switzerland. Nor are there nationally comparable measurements of the language level pupils actually reach at the end of compulsory schooling; the language skills in the ESRK are self-assessments.
+
+---
+
+## What this means for policy
+
+- **Strengthen both instead of playing them off against each other:** English is already the most widespread bridge language in daily life and at work; at the same time, large majorities want the national languages. Policy should preserve the national languages and recognise English as an additional common lingua franca: [Language & Understanding](@/sprache-verstaendigung.en.md).
+- **Multilingual authorities where it has an impact:** Almost a third of people without the local language as their main language face language barriers with the authorities. Key official information and online services should therefore also be available in English: [Open Government](@/offener-staat.en.md).
+- **Measure instead of guessing:** Instead of arguing about the order of foreign languages, cantons and the Confederation should regularly assess the level reached in national languages and English at the end of schooling, and recognise language skills acquired at work and in further education: [Talent, Integration & Rule of Law](@/talent-integration.en.md).
+
+---
+
+## Sources
+
+1. Federal Statistical Office (FSO): Sprachliche Praktiken in der Schweiz. Ergebnisse der Erhebung zur Sprache, Religion und Kultur 2024, Neuchâtel 2025 (FSO number 1368-2401). https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788128/master
+2. Federal Statistical Office (FSO): Sprachen bei der Arbeit, Neuchâtel 2026 (FSO number 1795-2600). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36630116/master
+3. Federal Statistical Office (FSO), structural survey: Languages usually spoken at work, 2010–2024 (su-d-01.08.01.03). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399471/master
+4. Federal Statistical Office (FSO), census and structural survey: Main languages since 1910 (T 01.08.01.01). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399472/master
+5. Federal Statistical Office (FSO), structural survey: Most common main languages, 2010–2024 (su-d-01.08.01.01). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399478/master
+6. European Commission, Eurydice: Switzerland, teaching and learning in primary education (as of 14 December 2023). https://eurydice.eacea.ec.europa.eu/de/national-education-systems/switzerland/lehren-und-lernen
+7. Federal Council: Bundesrat will Verankerung der Landessprachen in der Schule stärken, press release, 12 June 2026. https://www.admin.ch/de/newnsb/HE5QaMVS0dRYeHzeHa_8p
+8. Federal Department of Home Affairs (FDHA): Der Bundesrat lässt Vorgaben zum Unterricht der Landessprachen ausarbeiten, 19 September 2025. https://www.edi.admin.ch/de/newnsb/CbsqmmLpkhDjQgEILMp_P
+9. Canton of Basel-Stadt, Department of Education: French as the first foreign language in the schools of Basel-Landschaft, Basel-Stadt, Bern, German-speaking Fribourg, Solothurn and German-speaking Valais, press release, 2004. https://www.bs.ch/medienmitteilungen/ed/2004-franzoesisch-als-erste-fremdsprache-den-volksschulen-der-kantone-basel-landschaft-basel-stadt-bern-deutsch-freiburg-solothurn-und-deutsch-wallis
+10. SRF: Zürcher Parlament will Frühfranzösisch abschaffen, 1 September 2025. https://www.srf.ch/news/schweiz/fremdsprachenunterricht-zuercher-parlament-will-fruehfranzoesisch-abschaffen

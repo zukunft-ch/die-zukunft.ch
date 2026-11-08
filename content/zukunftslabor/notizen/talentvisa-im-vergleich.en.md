@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["talent", "talent visa", "migration", "research", "comparison"]
 charts = ["talent_bearbeitungszeit.svg", "talent_erteilungen.svg", "talent_uk_verlauf.svg"]
 pillar = "talent-integration"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "First published on 8 November 2026; figures and sources reflect the state at publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "First publication."
 +++
 
 Singapore (ONE Pass), Hong Kong (Top Talent Pass Scheme) and the United Kingdom (Global Talent) have created dedicated admission routes for top talent. What they have in common: clear criteria instead of a case-by-case labour market test, a decision within around four to eight weeks, and family included. Switzerland has no such route; researchers and founders from third countries go through the same quota procedure as all qualified workers. The point here is a narrow, fast route for a few thousand people a year, not more general immigration.
@@ -62,7 +71,7 @@ The number of Global Talent visas (in 2019 and partly 2020 still its predecessor
 
 ## What this means for policy
 
-- **A dedicated talent visa outside the quotas:** narrow, verifiable criteria (salary threshold or endorsement by the ETH Domain, universities, SNSF, Innosuisse), a decision within ten working days, family included: [Talent, Integration & Rule of Law](@/talent-integration.md).
+- **A dedicated talent visa outside the quotas:** narrow, verifiable criteria (salary threshold or endorsement by the ETH Domain, universities, SNSF, Innosuisse), a decision within ten working days, family included: [Talent, Integration & Rule of Law](@/talent-integration.en.md).
 - **Start small and measurable:** an order of magnitude like the United Kingdom or Singapore (a few thousand per year), not like Hong Kong; an annual report on permits granted, retention and company formations.
 - **Measure retention, not volume:** the Hong Kong example shows that extension rates are more meaningful than application numbers.
 

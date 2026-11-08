@@ -45,8 +45,8 @@ Dans la plus vaste enquête menée auprès de 2 778 chercheuses et chercheurs en
 
 ## Ce que cela signifie pour la politique
 
-- **Pour le scénario A :** adapter en continu la formation continue en entreprise et les métiers d'apprentissage, de manière ciblée pour les professions de bureau et de gestion de dossiers ; publier chaque année l'exposition et l'emploi par profession : [Travailler sans peur](https://le-futur.ch/transitions/).
-- **Pour le scénario B :** des instruments préparés, qui peuvent monter en puissance rapidement : assurance salariale en cas de changement de profession, un modèle de revenu de base testé comme fondement et un dividende issu des gains de productivité : [Revenu de base](https://le-futur.ch/revenu-de-base/).
+- **Pour le scénario A :** adapter en continu la formation continue en entreprise et les métiers d'apprentissage, de manière ciblée pour les professions de bureau et de gestion de dossiers ; publier chaque année l'exposition et l'emploi par profession : [Travailler sans peur](@/uebergaenge.fr.md).
+- **Pour le scénario B :** des instruments préparés, qui peuvent monter en puissance rapidement : assurance salariale en cas de changement de profession, un modèle de revenu de base testé comme fondement et un dividende issu des gains de productivité : [Revenu de base](@/grundeinkommen.fr.md).
 - **Pour les deux :** nous planifions pour le cas précoce, sans le prophétiser. Des indicateurs avancés comme les données trimestrielles de l'ESPA par profession doivent déterminer quand les instruments du scénario B sont déclenchés.
 
 ---

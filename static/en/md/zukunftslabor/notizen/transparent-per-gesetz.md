@@ -49,7 +49,7 @@ Members of the Federal Assembly must disclose their professional activities, man
 
 ## What this means for policy
 
-- **Justify exemptions and give them a time limit:** every new exemption from the FoIA with a public justification and an expiry date; the existing 13 are reviewed: [Open Government](https://die-zukunft.ch/en/open-government/).
+- **Justify exemptions and give them a time limit:** every new exemption from the FoIA with a public justification and an expiry date; the existing 13 are reviewed: [Open Government](@/offener-staat.en.md).
 - **Proactive rather than on request:** document registers on the Estonian model, so that documents do not have to be requested individually in the first place.
 - **Meet deadlines:** resource the FDPIC so that the 30-day deadline is the rule again; measure it publicly every year.
 - **Put a figure on interests:** disclose income from mandates in bands; examine term limits on the Basel model.

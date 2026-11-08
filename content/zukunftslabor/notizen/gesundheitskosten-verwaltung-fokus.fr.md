@@ -1,6 +1,6 @@
 +++
 title = "Coûts de la santé : où va l'argent — et où se perd-il ?"
-description = "La Suisse consacre 5,2 % de ses dépenses de santé à l'administration — nettement au-dessus de la moyenne de l'OCDE. L'excédent coûte ~10 CHF par personne et par mois."
+description = "En 2024, le système de santé suisse a coûté 97,2 milliards de francs, dont 4,4 % pour l'administration (OFS). Selon la définition de l'OCDE, la part atteint 5,2 %, au-dessus de la moyenne de l'OCDE (3,3 %)."
 slug = "gesundheitskosten-verwaltung-fokus"
 date = 2026-02-12
 template = "notiz.html"
@@ -12,12 +12,22 @@ category = "datenbriefing"
 evidence = "stark"
 tags = ["sante", "couts", "administration", "ocde", "efficacite"]
 charts = ["gesundheit_ausgaben_kategorien.svg", "gesundheit_verwaltungsanteil_trend.svg", "gesundheit_verwaltung_international.svg", "gesundheit_verwaltungsueberschuss.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Mis à jour avec les coûts de la santé 2023 et 2024 de l'OFS (révision 2025) et le nombre d'assureurs-maladie selon l'OFSP ; la comparaison OCDE repose toujours sur Health at a Glance 2023."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Mis à jour avec les données 2023/2024 de l'OFS, définitions de l'OCDE et de l'OFS présentées séparément, montant par personne recalculé (environ 17 au lieu de 10 francs par mois) et nombre d'assureurs-maladie corrigé."
 +++
 
-La Suisse dépense 82 472 millions de CHF pour la santé
-(2019), dont 4,03 % pour l'administration.
-Dans la comparaison de l'OCDE, la Suisse se situe avec 5,2 % nettement au-dessus de la moyenne
-(3,3 %) — l'excédent coûte ~10 CHF par personne et par mois.
+Le système de santé suisse a coûté 97,2 milliards de francs en 2024
+(2023 : 93,4 milliards), dont 4,24 milliards, soit 4,4 %, pour
+l'administration (OFS). Selon la définition de l'OCDE, la Suisse se situe à
+5,2 %, au-dessus de la moyenne de l'OCDE (3,3 %). L'écart correspond à
+environ 17 francs par personne et par mois.
 
 
 <!-- more -->
@@ -26,25 +36,29 @@ Dans la comparaison de l'OCDE, la Suisse se situe avec 5,2 % nettement au-dessus
 
 ## Méthodologie
 
-Statistique des coûts du système de santé de l'OFS (1995–2019) selon le
-System of Health Accounts (SHA). Catégories : soins curatifs ambulatoires et hospitaliers,
-soins de longue durée, biens de santé, administration, prévention. Comparaison internationale
-sur la base du rapport OCDE Health at a Glance 2023.
+Statistique de l'OFS sur le coût et le financement du système de santé selon
+le System of Health Accounts (SHA). La longue série 1995–2019 repose sur la
+méthodologie antérieure à la révision de l'OFS d'avril 2025 ; des valeurs
+révisées existent pour 2019, 2023 et 2024 et sont présentées séparément
+(2024 provisoire). Catégories : soins curatifs ambulatoires et hospitaliers,
+soins de longue durée, biens de santé, administration, prévention.
+Comparaison internationale fondée sur l'OCDE, Health at a Glance 2023
+(définition de l'OCDE, non identique aux valeurs de l'OFS).
 
 ---
 
 ### Dépenses par catégorie au fil du temps
 
 {% chart(spec="gesundheit_ausgaben_kategorien", alt="Dépenses de santé par catégorie au fil du temps") %}
-Les dépenses de santé augmentent continuellement — mais pas de manière uniforme. Si les soins ambulatoires et hospitaliers représentent la part du lion, la part de l'administration croît plus que proportionnellement. Cela soulève la question de savoir quelle part de la hausse des primes va aux traitements et quelle part à la bureaucratie.
+Les dépenses de santé augmentent continuellement, mais pas de manière uniforme. Les soins ambulatoires et hospitaliers en constituent la plus grande part. Les coûts administratifs ont presque doublé entre 1995 et 2019 (1,7 → 3,3 milliards de francs, ancienne méthodologie de l'OFS), mais ont progressé moins vite que les dépenses totales. Selon la méthodologie révisée, ils s'élevaient à 4,24 milliards de francs en 2024 ; en 2023, ils ont augmenté de 9,6 %, nettement plus que les coûts totaux. La question reste ouverte : quelle part de la hausse des primes va aux traitements et quelle part à la bureaucratie ?
 {% end %}
 
 ---
 
 ### Part de l'administration au fil du temps
 
-{% chart(spec="gesundheit_verwaltungsanteil_trend", alt="Part de l'administration dans les dépenses de santé au fil du temps") %}
-La part de l'administration augmente lentement, mais régulièrement. Ce n'est pas un hasard : le paysage fragmenté de l'assurance, avec plus de 50 caisses-maladie, génère des surcoûts structurels — comptabilité, marketing, sélection des risques — qui n'existeraient pas dans un système unique.
+{% chart(spec="gesundheit_verwaltungsanteil_trend", alt="Part de l'administration dans les coûts de la santé au fil du temps") %}
+Selon l'ancienne définition de l'OFS, la part de l'administration est passée d'environ 5 % (1995) à 4 % (2019). Selon la méthodologie révisée, elle est un peu plus élevée : 4,1 % (2019), 4,5 % (2023) et 4,4 % (2024). En comparaison avec l'OCDE, elle reste élevée : le paysage de l'assurance, avec 42 assureurs-maladie (2025, OFSP), génère des surcoûts structurels — comptabilité, marketing, sélection des risques — qui, dans un système plus simple, n'existeraient en partie pas.
 {% end %}
 
 ---
@@ -52,15 +66,15 @@ La part de l'administration augmente lentement, mais régulièrement. Ce n'est p
 ### Comparaison internationale
 
 {% chart(spec="gesundheit_verwaltung_international", alt="Part de l'administration en comparaison internationale") %}
-Pour les coûts administratifs, la Suisse se situe nettement au-dessus de la moyenne de l'OCDE. Les pays dotés de systèmes plus centralisés (p. ex. les États scandinaves) obtiennent des parts administratives plus basses avec une qualité des soins comparable ou meilleure. La comparaison le montre : des gains d'efficacité sont possibles.
+Selon la définition de l'OCDE (5,2 %), la Suisse se situe nettement au-dessus de la moyenne de l'OCDE (3,3 %) pour les coûts administratifs ; selon la définition de l'OFS, la part est de 4,4 %. Des pays aux systèmes plus centralisés (p. ex. la Suède) obtiennent des parts administratives plus basses, avec une qualité des soins comparable ou meilleure. La comparaison le montre : des gains d'efficacité sont possibles.
 {% end %}
 
 ---
 
 ### Excédent administratif
 
-{% chart(spec="gesundheit_verwaltungsueberschuss", alt="Excédent administratif par rapport à la moyenne de l'OCDE en CHF par personne") %}
-L'excédent par rapport à la moyenne de l'OCDE peut s'exprimer en francs par personne et par mois. Cet argent ne va ni aux traitements, ni aux médicaments, ni aux soins — il finance des structures administratives dont la simplification ferait directement baisser les primes.
+{% chart(spec="gesundheit_verwaltungsueberschuss", alt="Part de l'administration en Suisse comparée à la moyenne de l'OCDE") %}
+L'écart de 1,9 point de pourcentage par rapport à la moyenne de l'OCDE correspond, appliqué aux coûts de la santé 2024 de l'OFS de 899 francs par habitant et par mois, à environ 17 francs par personne et par mois. Avec la part administrative de l'OFS (4,4 %), on obtient environ 10 francs. Cet argent ne va pas aux traitements, aux médicaments ou aux soins : il finance des structures administratives dont la simplification ferait baisser les primes.
 {% end %}
 
 ---
@@ -68,6 +82,8 @@ L'excédent par rapport à la moyenne de l'OCDE peut s'exprimer en francs par pe
 ## Limites
 
 - L'harmonisation SHA facilite les comparaisons, mais les différences entre systèmes subsistent
+- Révision de l'OFS de 2025 : les valeurs avant et après la révision ne sont pas directement comparables ; valeurs 2024 provisoires
+- Les définitions des coûts administratifs de l'OCDE et de l'OFS diffèrent (5,2 % contre 4,4 %) ; les montants en francs combinent des parts de l'OCDE et des coûts totaux de l'OFS
 - Les coûts administratifs comprennent aussi l'assurance qualité et la charge réglementaire
 - Caisse unique et modèle concurrentiel génèrent des coûts administratifs structurellement différents
 - Données de l'OCDE en partie décalées dans le temps (2021–2023)
@@ -76,6 +92,11 @@ L'excédent par rapport à la moyenne de l'OCDE peut s'exprimer en francs par pe
 
 ## Sources des données
 
-- OFS : Kosten und Finanzierung des Gesundheitswesens (Coût et financement du système de santé, 1995–2019)
+- OFS : Coût et financement du système de santé 2023, communiqué du 28 avril 2025 (en allemand), https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788155/master
+- OFS : Coûts du système de santé selon la prestation (2019, 2023, 2024), https://www.bfs.admin.ch/asset/de/36519541
+- OFS : Coûts du système de santé depuis 1960, https://www.bfs.admin.ch/asset/de/36519640
+- OFS : Coûts et financement de la santé 2024 (97,2 milliards de francs, 899 francs par habitant et par mois), https://www.bfs.admin.ch/asset/de/36515499
+- OFS : Kosten und Finanzierung des Gesundheitswesens (Coût et financement du système de santé, série 1995–2019, méthodologie antérieure à 2025)
+- OFSP : rapport d'activité 2025, assurance-maladie et accidents sociale (nombre d'assureurs, en allemand), https://www.bag.admin.ch/dam/en/sd-web/TiFIhRVtPuIx/BAG_Ta%CC%88tigkeitsbericht_2025_soziale-Kranken-und-Unfallversicherung.pdf
 - OCDE : Health at a Glance 2023 — Health Expenditure and Financing
 - OMS : Global Health Expenditure Database

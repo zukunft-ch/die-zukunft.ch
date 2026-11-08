@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["ki", "agi", "arbeitsmarkt", "berufe", "szenarien", "uebergaenge"]
 charts = ["agi_berufe_2025.svg", "agi_berufe_veraenderung.svg", "agi_zeithorizonte.svg"]
 pillar = "uebergaenge"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Erstveröffentlichung am 8. November 2026; Zahlen und Quellen entsprechen dem Stand bei Veröffentlichung."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Erstveröffentlichung."
 +++
 
 In Ländern mit hohem Einkommen arbeitet laut ILO rund ein Drittel der Erwerbstätigen in Berufen, die generativer KI ausgesetzt sind; der IWF kommt für fortgeschrittene Volkswirtschaften auf rund 60 Prozent, von denen etwa die Hälfte eher ergänzt als ersetzt wird. Die Schweiz zählt 2025 rund 4,89 Millionen Erwerbstätige; die am stärksten exponierte Gruppe, die Bürokräfte, schrumpft bereits seit Jahren. Wie schnell sich das beschleunigt, weiss niemand: KI-Forschende geben eine 50-Prozent-Wahrscheinlichkeit für 2047 an, dass Maschinen jede Aufgabe besser erledigen als Menschen. Wir beschreiben darum zwei Szenarien und was jedes von der Politik verlangt.

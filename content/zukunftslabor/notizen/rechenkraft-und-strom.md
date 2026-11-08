@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["rechenkraft", "ki", "strom", "rechenzentren", "cscs", "bfe"]
 charts = ["rechenkraft_rechenzentren_strom.svg", "rechenkraft_landeserzeugung.svg", "rechenkraft_verzehnfachung.svg"]
 pillar = "souveraene-ki"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Erstveröffentlichung am 8. November 2026; Zahlen und Quellen entsprechen dem Stand bei Veröffentlichung."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Erstveröffentlichung."
 +++
 
 Die Rechenzentren der Schweiz verbrauchten 2024 rund 2,1 Terawattstunden Strom, 3,6 Prozent des Landesverbrauchs. Bis 2030 rechnet das Bundesamt für Energie mit 2,5 bis 3,2 TWh, im Maximalszenario mit 3,5 TWh. Der grösste öffentliche KI-Rechner des Landes, Alps am CSCS in Lugano, zog bei der offiziellen Leistungsmessung rund 7,1 Megawatt. Zehnmal so viel öffentliche Rechenkraft mit heutiger Technik würde nach unserer Schätzung 0,6 bis 0,8 TWh pro Jahr brauchen, also gut 1 Prozent des heutigen Endverbrauchs.

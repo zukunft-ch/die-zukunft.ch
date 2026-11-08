@@ -1,0 +1,98 @@
++++
+title = "AVS e IVA: che cosa dicono le cifre sull'oggetto del 29 novembre"
+description = "Dal 2026 la 13a rendita AVS costa circa 4,1 miliardi di franchi all'anno. Insieme al contributo della Confederazione, l'aumento dell'IVA di 0,4 punti ne copre circa la metà. Le cifre ufficiali su disavanzi, onere per le economie domestiche e invecchiamento, senza raccomandazione di voto."
+slug = "ahv-mehrwertsteuer-zahlen"
+date = 2026-11-08
+template = "notiz.html"
+
+[extra]
+data = "ahv-mehrwertsteuer-zahlen.csv"
+category = "datenbriefing"
+evidence = "mittel"
+tags = ["avs", "iva", "previdenza-vecchiaia", "demografia", "votazione"]
+charts = ["ahv_umlageergebnis_szenarien.svg", "ahv_mwst_haushalte.svg", "ahv_altersquotient.svg"]
+pillar = "grundeinkommen"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Dati: prospettive finanziarie dell'UFAS di luglio 2026, scenari dell'UST 2025–2055."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Prima pubblicazione."
++++
+
+Con la 13a rendita, il risultato di ripartizione dell'AVS diventa negativo nel 2026. Secondo le prospettive finanziarie dell'Ufficio federale delle assicurazioni sociali (UFAS) del luglio 2026, mancano circa 1,3 miliardi di franchi nel 2026 e, senza finanziamento supplementare, circa 4,9 miliardi nel 2035. Con l'aumento dell'IVA in votazione il 29 novembre, nel 2035 sarebbero circa 3,3 miliardi. Secondo l'Amministrazione federale delle contribuzioni (AFC), un'economia domestica media pagherebbe circa 180 franchi in più all'anno. Sotto queste cifre c'è una tendenza demografica che nessuno dei tre scenari dell'UST inverte: nel 2025 ci sono 33 persone di 65 anni o più ogni 100 persone in età lavorativa, nel 2050 saranno 43. Qui non diamo alcuna raccomandazione di voto.
+
+<!-- more -->
+
+---
+
+## Metodologia
+
+Tutte le cifre sull'AVS provengono dalle prospettive finanziarie dell'UFAS del 2 luglio 2026, in milioni di franchi a prezzi costanti del 2025. Mostriamo il **risultato di ripartizione**: entrate correnti meno uscite, senza i redditi degli investimenti del Fondo AVS. L'UFAS calcola due varianti: l'ordinamento vigente (13a rendita dal 2026, senza finanziamento supplementare) e il finanziamento della 13a rendita secondo l'oggetto in votazione (IVA +0,4 punti percentuali dal 2028, aliquota ridotta invariata). L'UFAS non pubblica più una variante **senza 13a rendita**; la deriviamo aggiungendo all'ordinamento vigente i costi della 13a rendita indicati dall'UFAS e sottraendo il relativo contributo federale (20,2 per cento). Questa linea è un nostro calcolo ed è indicata come tale. L'onere per le economie domestiche proviene dalle spiegazioni del Consiglio federale (stima dell'AFC basata sull'indagine sul budget delle economie domestiche IBED 2018–2019). La demografia proviene dagli scenari dell'Ufficio federale di statistica (UST) 2025–2055.
+
+---
+
+### I disavanzi con e senza l'oggetto
+
+{% chart(spec="ahv_umlageergebnis_szenarien", alt="Risultato di ripartizione dell'AVS dal 2025 al 2040: ordinamento vigente, con aumento dell'IVA e senza 13a rendita") %}
+Nel 2025 l'AVS ha chiuso con un'eccedenza di ripartizione di 1,84 miliardi di franchi. Dal 2026 la 13a rendita costa secondo l'UFAS 4,1 miliardi all'anno, nel 2035 5,1 miliardi; la Confederazione ne sostiene il 20,2 per cento. Con l'ordinamento vigente il risultato di ripartizione scende a –2,6 miliardi (2030) e –4,9 miliardi (2035). Con l'oggetto, dal 2028 affluiscono all'AVS 1,1 miliardi supplementari, dal 2029 circa 1,4–1,5 miliardi all'anno; il disavanzo sarebbe allora di –1,2 miliardi (2030) e –3,3 miliardi (2035). Dal 2029 IVA e contributo federale coprono insieme dal 50 al 52 per cento dei costi della 13a rendita (nostro calcolo dalle tabelle dell'UFAS). La linea tratteggiata mostra che senza 13a rendita il risultato di ripartizione si situerebbe fino al 2040 all'incirca tra –0,8 e +2,0 miliardi. L'andamento a zigzag si spiega con l'adeguamento delle rendite ogni due anni.
+{% end %}
+
+**Il Fondo AVS.** La legge prevede che il fondo di compensazione non scenda di regola sotto l'importo di una spesa annua (100 per cento). Con l'ordinamento vigente scende secondo l'UFAS al 99 per cento nel 2027, al 51 per cento nel 2035 e al 23 per cento nel 2040. Con l'oggetto sarebbe al 68 per cento nel 2035 e al 53 per cento nel 2040. La riserva minima non è quindi rispettata in nessuna delle due varianti.
+
+**La forchetta.** Oltre allo scenario di riferimento, l'UFAS calcola uno scenario favorevole e uno sfavorevole. Con l'ordinamento vigente il risultato di ripartizione 2035 va da –8,3 miliardi (basso) a –1,3 miliardi (alto). L'UFAS esprime il disavanzo di riferimento 2035 anche in punti IVA: senza l'oggetto corrisponde a 1,2 punti, con l'oggetto ancora a 0,8 punti.
+
+---
+
+### Che cosa costa l'aumento a un'economia domestica
+
+{% chart(spec="ahv_mwst_haushalte", alt="Onere supplementare dovuto all'aumento dell'IVA in franchi per economia domestica e anno, per classe di reddito") %}
+Secondo l'AFC, l'aumento grava su un'economia domestica in media per circa 180 franchi all'anno (15 franchi al mese). Le economie domestiche con un reddito lordo fino a 4'599 franchi al mese pagano circa 7 franchi in più al mese, quelle con 6'700–9'399 franchi circa 13 franchi, quelle da 13'400 franchi circa 28 franchi. Per le due classi intermedie le spiegazioni non indicano valori; le barre chiare sono un modello: i valori dell'AFC del messaggio per +0,7 punti, moltiplicati per 4/7. Per le tre classi ufficiali questa semplice conversione supera del 5–10 per cento il valore ufficiale, perché questa volta l'aliquota ridotta non aumenta. I valori del modello sono quindi piuttosto troppo alti.
+{% end %}
+
+In franchi, le economie domestiche con reddito elevato pagano dunque di più, ma in rapporto al reddito di meno. Per un aumento di 0,7 punti, l'AFC aveva calcolato nel messaggio lo 0,41 per cento del reddito lordo per il quinto più basso e lo 0,26 per cento per quello più alto. Per gli 0,4 punti ora decisi non è stato pubblicato alcun calcolo in percentuale. Allo stesso tempo, le persone in pensione ricevono la 13a rendita: fino a 2'520 franchi all'anno per le persone sole, fino a 3'780 franchi per le coppie sposate.
+
+---
+
+### Demografia: la tendenza sotto le cifre
+
+{% chart(spec="ahv_altersquotient", alt="Rapporto di dipendenza degli anziani dal 2025 al 2050 secondo i tre scenari di base dell'UST") %}
+Nello scenario di riferimento dell'UST, il rapporto di dipendenza degli anziani sale da 33,0 (2025) a 36,8 (2030), 40,9 (2040) e 43,3 (2050). In altre parole: nel 2025 ci sono circa tre persone tra 20 e 64 anni per ogni persona di 65 anni o più, nel 2050 ancora circa 2,3. Gli scenari alto e basso se ne discostano nel 2050 di soli 0,2–0,3 punti; si differenziano soprattutto per la dimensione della popolazione, appena per la sua struttura per età. Solo le varianti estreme aprono una forchetta più ampia: tra 38,6 e 52,8 nel 2055. Nello scenario di riferimento il numero di persone di 65 anni o più passa da 1,81 milioni (2025) a 2,67 milioni (2055), quello delle persone di 80 anni o più da 0,54 a 1,03 milioni.
+{% end %}
+
+Per il suo scenario di riferimento, l'UFAS utilizza proprio questo scenario A-00-2025 dell'UST. L'invecchiamento è quindi già compreso in tutte le cifre sull'AVS presentate sopra.
+
+---
+
+## Che cosa le cifre non dicono
+
+- **Nessuna certezza oltre il 2035.** L'UFAS stesso scrive che le proiezioni oltre i dieci anni sono soggette a grande incertezza. La forchetta per il 2035 va da –1,3 a –8,3 miliardi di franchi.
+- **Nessun reddito degli investimenti.** Il risultato di ripartizione non considera i redditi del Fondo AVS; per lo stato del fondo l'UFAS calcola con un rendimento reale di circa il 2 per cento. Anni di borsa buoni o cattivi spostano sensibilmente lo stato del fondo.
+- **Dati sui consumi datati.** Le cifre sulle economie domestiche si basano su prezzi e consumi del 2018–2019. Secondo le spiegazioni, l'onere effettivo dovrebbe risultare un po' più alto. Anche il trasferimento sui prezzi è un'ipotesi: le imprese non sempre riversano un aumento per intero.
+- **Nessun bilancio netto per economia domestica.** Le cifre mostrano l'onere dell'imposta, non il saldo con la 13a rendita. Se un'economia domestica ci guadagna alla fine dipende dal fatto che riceva o meno una rendita AVS, e di quale importo.
+- **Parametri aperti.** Alla chiusura redazionale delle spiegazioni non era ancora deciso se l'aliquota speciale per il settore alberghiero sarà prorogata oltre il 2027. Il Consiglio federale intende presentare la riforma AVS2030 presumibilmente nella primavera 2027; essa modificherà le prospettive.
+- **Nessun giudizio sul finanziamento giusto.** Le cifre mostrano quanto è grande la lacuna e chi ne sopporta quale parte. Se la strada giusta siano l'IVA, i contributi salariali, i mezzi della Confederazione o adeguamenti delle prestazioni è una questione politica, non statistica.
+
+---
+
+## Inquadramento
+
+La nostra lettura dei quattro oggetti del 29 novembre, anch'essa senza raccomandazione di voto, si trova nell'articolo [Votazione del 29 novembre 2026](@/aktuelles/abstimmung-29-november-2026.it.md). Perché ci interessa finanziare le assicurazioni sociali tramite i consumi anziché solo tramite i salari lo spiega il pilastro [Reddito di base](@/grundeinkommen.it.md); come diverse basi imponibili agiscono sulla distribuzione dei redditi lo mostra la nota [Reddito di base: tre modelli di finanziamento a confronto](@/zukunftslabor/notizen/grundeinkommen-finanzierungsmodelle.it.md).
+
+---
+
+## Fonti
+
+1. Ufficio federale delle assicurazioni sociali (UFAS): Situazione finanziaria e prospettive dell'AVS, prospettive finanziarie del 2 luglio 2026. https://www.bsv.admin.ch/finanzen-ahv
+2. UFAS: Prospettive finanziarie dell'AVS secondo l'ordinamento vigente (scenario di riferimento, scenari basso e alto), 2 luglio 2026. https://www.bsv.admin.ch/dam/de/sd-web/op2mTMWV0HCj/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20geltender%20Ordnung.xlsx
+3. UFAS: Prospettive finanziarie dell'AVS secondo il finanziamento della 13a rendita di vecchiaia (incl. foglio «Massnahmen»), 2 luglio 2026. https://www.bsv.admin.ch/dam/de/sd-web/jnnnev0Cvqna/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20Finanzierung%20der%2013.%20Altersrente.xlsx
+4. UFAS: L'essenziale in breve: prospettive finanziarie dell'AVS, dell'AI e dell'IPG con scenari, 2 luglio 2026. https://www.bsv.admin.ch/dam/de/sd-web/layXpeKUCS4Y/Faktenblatt%20Szenarien_2026_DE.pdf
+5. Cancelleria federale: Spiegazioni del Consiglio federale per la votazione popolare del 29 novembre 2026, pagg. 13–19 (edizione tedesca). https://www.admin.ch/dam/de/sd-web/HXhFMFWOaa6u/BAR_Erlaeuterungen_Nov26_DE_v10.pdf
+6. UFAS: 13a rendita AVS: votazione sul finanziamento supplementare dell'AVS. https://www.bsv.admin.ch/de/abstimmung-13-ahv-rente
+7. Consiglio federale: Messaggio del 16 ottobre 2024 concernente l'attuazione e il finanziamento dell'iniziativa per una 13a rendita AVS, FF 2024 2747, n. 6.5, tabelle 6-4 e 6-5. https://www.fedlex.admin.ch/eli/fga/2024/2747/de
+8. Ufficio federale di statistica (UST): Scenari dell'evoluzione demografica della Svizzera e dei Cantoni 2025–2055, tabelle TA7–TA9. https://www.bfs.admin.ch/asset/de/34687099
+9. UST: Projections – reference scenario 2025–2055 (scheda informativa). https://dam-api.bfs.admin.ch/hub/api/dam/assets/34687124/master
+10. Parlamento: Domande e risposte sul finanziamento della 13a rendita AVS, 19 giugno 2026. https://www.parlament.ch/de/services/news/Seiten/2026/20260619104626831194158159026_bsd070.aspx

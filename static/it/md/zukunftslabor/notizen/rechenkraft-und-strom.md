@@ -39,9 +39,9 @@ Calcolo (stima): 7,124 MW × 8'760 h danno circa 62 GWh all'anno per Alps. Dieci
 
 ## Cosa significa per la politica
 
-- **Pianificare insieme energia e potenza di calcolo.** Un programma pubblico di IA dell'ordine di 70–90 MW è fattibile per la rete svizzera, ma richiede siti fissi con allacciamento alla rete, raffreddamento e recupero del calore residuo. Rientra nella stessa pianificazione dell'ampliamento della produzione invernale: [Energia & resilienza delle infrastrutture](https://il-futuro.ch/energia-resilienza/).
+- **Pianificare insieme energia e potenza di calcolo.** Un programma pubblico di IA dell'ordine di 70–90 MW è fattibile per la rete svizzera, ma richiede siti fissi con allacciamento alla rete, raffreddamento e recupero del calore residuo. Rientra nella stessa pianificazione dell'ampliamento della produzione invernale: [Energia & resilienza delle infrastrutture](@/energy-resilience.it.md).
 - **Sfruttare prima l'efficienza.** Il potenziale di efficienza indicato di circa 0,8 TWh nei centri di calcolo esistenti corrisponde all'incirca al fabbisogno stimato per decuplicare la potenza di calcolo pubblica. Indicatori di efficienza vincolanti per i grandi centri di calcolo liberano spazio nella rete.
-- **Ampliare la potenza di calcolo pubblica in modo misurabile.** Indicare obiettivi e progressi in megawatt e potenza di calcolo, con accesso aperto per scuole universitarie, PMI e amministrazione: [IA sovrana & potenza di calcolo](https://il-futuro.ch/ia-sovrana/).
+- **Ampliare la potenza di calcolo pubblica in modo misurabile.** Indicare obiettivi e progressi in megawatt e potenza di calcolo, con accesso aperto per scuole universitarie, PMI e amministrazione: [IA sovrana & potenza di calcolo](@/souveraene-ki.it.md).
 
 ---
 

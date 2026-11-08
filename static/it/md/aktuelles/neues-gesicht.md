@@ -13,7 +13,7 @@ Da oggi il nuovo sito di Il Futuro è online. Ha un aspetto diverso, ma soprattu
 
 Il vecchio sito era una sequenza di diapositive. Si scorreva, una pagina scattava in posizione, arrivava la successiva. Sembrava ordinato, ma nascondeva due cose: il nostro messaggio e la profondità che c'è dietro.
 
-La nuova pagina iniziale funziona a livelli. In cima c'è ciò che vogliamo: «Il Futuro. Lo costruiamo.» e tre frasi che riassumono la nostra posizione: prosperità invece di pensiero di scarsità, sicurezza invece di paura, sovranità invece di dipendenza. Seguono le dieci tesi del [manifesto](https://il-futuro.ch/manifesto/), poi tutti i tredici pilastri del [programma](https://il-futuro.ch/programma/) a colpo d'occhio, poi le prove dal [Laboratorio del futuro](https://il-futuro.ch/zukunftslabor/). Se hai solo un minuto, ci capisci. Se hai una serata, trovi le fonti.
+La nuova pagina iniziale funziona a livelli. In cima c'è ciò che vogliamo: «Il Futuro. Lo costruiamo.» e tre frasi che riassumono la nostra posizione: prosperità invece di pensiero di scarsità, sicurezza invece di paura, sovranità invece di dipendenza. Seguono le dieci tesi del [manifesto](@/manifest.it.md), poi tutti i tredici pilastri del [programma](@/programm.it.md) a colpo d'occhio, poi le prove dal [Laboratorio del futuro](@/zukunftslabor/_index.it.md). Se hai solo un minuto, ci capisci. Se hai una serata, trovi le fonti.
 
 ![La nuova pagina iniziale: logotipo, frase chiave e la croce svizzera di cubi sullo sfondo](https://die-zukunft.ch/aktuelles/neues-gesicht/startseite.webp)
 
@@ -41,8 +41,8 @@ Non abbiamo deciso al tavolo da disegno, ma con il confronto diretto. Per il log
 
 ## Cosa c'è di nuovo
 
-- **La visione come progetto di costruzione.** La [visione](https://il-futuro.ch/visione/) mostra «lo stack dell'abbondanza»: dall'energia, passando per la potenza di calcolo, l'IA sovrana e i talenti, fino all'applicazione in tutti i settori e a un dividendo per tutte e tutti. Con cifre, fonti e obiettivi con una data.
-- **Un nuovo pilastro.** [IA sovrana & potenza di calcolo](https://il-futuro.ch/ia-sovrana/) è ora al primo posto del programma, perché tutto il resto si basa su di esso.
+- **La visione come progetto di costruzione.** La [visione](@/vision.it.md) mostra «lo stack dell'abbondanza»: dall'energia, passando per la potenza di calcolo, l'IA sovrana e i talenti, fino all'applicazione in tutti i settori e a un dividendo per tutte e tutti. Con cifre, fonti e obiettivi con una data.
+- **Un nuovo pilastro.** [IA sovrana & potenza di calcolo](@/souveraene-ki.it.md) è ora al primo posto del programma, perché tutto il resto si basa su di esso.
 - **Il manifesto, versione 2.0.** Dieci tesi, ognuna con un indirizzo permanente che si può collegare e citare.
 - **Fissare.** Puoi fissare ogni sezione e ritrovarla più tardi. I pin restano nel tuo browser, senza account e senza cookie, e si possono condividere come link.
 - **Più tranquillo sul telefono.** Molti si sono lamentati dello scatto «magnetico» durante lo scorrimento, soprattutto sull'iPhone. Non c'è più. La pagina scorre liberamente, e i moduli non zoomano più senza essere richiesti.
@@ -57,4 +57,4 @@ Ogni sezione ha un indirizzo nell'angolo, per esempio 0x1002 per la prima tesi. 
 
 Se trovi un errore, hai una formulazione migliore o vuoi migliorare una traduzione, puoi collaborare direttamente, con una issue o una pull request. Un partito che chiede uno Stato aperto dovrebbe lavorare apertamente anche lui.
 
-Il futuro è un cantiere. Anche questo sito. [Costruisci con noi.](https://il-futuro.ch/partecipa/)
+Il futuro è un cantiere. Anche questo sito. [Costruisci con noi.](@/mitmachen.it.md)

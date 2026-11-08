@@ -7,7 +7,7 @@ Source: https://die-zukunft.ch/zukunftslabor/notizen/automatisierungsrisiko-bran
 
 LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
 Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
-weniger. rund 1,27 Millionen Stellen unter Post-LLM-Risiko.
+weniger. Rund 1,27 Millionen Stellen stehen unter Post-LLM-Risiko.
 
 <!-- more -->
 
@@ -16,20 +16,24 @@ weniger. rund 1,27 Millionen Stellen unter Post-LLM-Risiko.
 ## Methodik
 
 BFS-SAKE-Beschäftigungsdaten (2024) und zwei Risikomodelle:
-OECD/Frey-Osborne (2018, Routinetätigkeiten) und IMF AI Preparedness
-Index (2024, LLM-Fähigkeiten). Exponierte Stellen = Beschäftigte × Risikoanteil.
+Pre-LLM in Anlehnung an die OECD-Studie von Nedelkoska & Quintini (2018,
+Routinetätigkeiten, aufbauend auf Frey & Osborne 2013) und Post-LLM in
+Anlehnung an den IMF (Cazzaniga et al. 2024, KI-Exposition). Die
+Branchenwerte sind eigene, gerundete Modellannahmen, die aus diesen Studien
+abgeleitet sind; die Studien selbst weisen keine Werte nach Schweizer
+Wirtschaftsabschnitt aus. Exponierte Stellen = Beschäftigte × Risikoanteil.
 
 ---
 
 ### Beschäftigung nach Branche
 
-Die Branchenstruktur bildet den Kontext: Gesundheit, Handel und Bau beschäftigen die meisten Personen. Die Verteilung zeigt, welche Sektoren bei einem Automatisierungsschub die grössten absoluten Effekte spüren würden.
+Die Branchenstruktur bildet den Kontext: Gesundheits- und Sozialwesen, Industrie und Handel beschäftigen die meisten Personen. Die Verteilung zeigt, welche Sektoren bei einem Automatisierungsschub die grössten absoluten Effekte spüren würden.
 
 ---
 
 ### Pre vs. Post LLM
 
-LLM-fähige KI verschiebt die Risikolandkarte grundlegend: Branchen wie Finanz- und Versicherungswesen, öffentliche Verwaltung und Information/Kommunikation sind Post-LLM deutlich stärker exponiert als im klassischen Routinemodell. Manuelle Berufe (Bau, Landwirtschaft) bleiben weitgehend unverändert.
+LLM-fähige KI verschiebt die Risikolandkarte grundlegend: Branchen wie Finanz- und Versicherungswesen, öffentliche Verwaltung und Information/Kommunikation sind Post-LLM deutlich stärker exponiert als im klassischen Routinemodell. Manuelle Berufe (Bau, Verkehr, Gastgewerbe) sind Post-LLM dagegen weniger exponiert.
 
 ---
 
@@ -41,12 +45,13 @@ Die Verschiebung zeigt Richtung und Ausmass der Veränderung. Positive Werte bed
 
 ### Exponierte Stellen
 
-In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vielen Beschäftigten und hohem Post-LLM-Risiko führen zu zehntausenden potenziell exponierten Stellen. Das bedeutet nicht zwingend Jobverlust — aber die Notwendigkeit systematischer Übergangsgestaltung.
+In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vielen Beschäftigten und hohem Post-LLM-Risiko kommen auf jeweils Zehntausende bis knapp 190'000 potenziell exponierte Stellen. Das bedeutet nicht zwingend Jobverlust — aber die Notwendigkeit systematischer Übergangsgestaltung.
 
 ---
 
 ## Einschränkungen
 
+- Risikowerte nach Branche sind modelliert (eigene Annahmen in Anlehnung an OECD und IMF), keine gemessenen Werte
 - Risikoschätzungen sind Branchendurchschnitte, nicht berufsspezifisch
 - Post-LLM-Schätzungen vorläufig (LLM-Fähigkeiten entwickeln sich schnell)
 - Tatsächliche Jobverluste hängen von Regulierung und Komplementarität ab
@@ -57,4 +62,5 @@ In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vie
 
 - BFS SAKE 2024: Erwerbstätige nach Wirtschaftsabschnitt
 - OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
+- Frey & Osborne (2013): The Future of Employment (Grundlage des OECD-Ansatzes)
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)

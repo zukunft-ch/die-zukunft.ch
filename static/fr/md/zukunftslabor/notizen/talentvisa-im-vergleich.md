@@ -46,7 +46,7 @@ Le nombre de visas Global Talent (en 2019 et en partie en 2020 encore sous le pr
 
 ## Ce que cela signifie pour la politique
 
-- **Un visa pour talents propre, hors contingents :** critères étroits et vérifiables (seuil salarial ou endorsement par le domaine des EPF, les universités, le FNS, Innosuisse), décision en dix jours ouvrables, famille comprise : [Talent, intégration & État de droit](https://le-futur.ch/talent-integration/).
+- **Un visa pour talents propre, hors contingents :** critères étroits et vérifiables (seuil salarial ou endorsement par le domaine des EPF, les universités, le FNS, Innosuisse), décision en dix jours ouvrables, famille comprise : [Talent, intégration & État de droit](@/talent-integration.fr.md).
 - **Commencer petit et mesurable :** un ordre de grandeur comparable au Royaume-Uni ou à Singapour (quelques milliers par an), pas à Hong Kong ; rapport annuel sur les octrois, le maintien sur place et les créations d'entreprises.
 - **Mesurer le maintien plutôt que le volume :** l'exemple de Hong Kong montre que les taux de prolongation sont plus parlants que le nombre de demandes.
 

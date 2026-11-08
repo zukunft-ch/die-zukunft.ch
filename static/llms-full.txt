@@ -1691,7 +1691,7 @@ As of today, the new website of The Future is online. It looks different, but ab
 
 The old website was a sequence of slides. You scrolled, a page snapped into place, the next one followed. It felt calm, but it hid two things: our message and the depth behind it.
 
-The new homepage works in layers. At the very top is what we want: "The Future. We build it." and three phrases that sum up our stance: prosperity over scarcity thinking, security over fear, sovereignty over dependence. Below come the ten theses of the [manifesto](https://die-zukunft.ch/en/manifesto/), then all thirteen pillars of the [programme](https://die-zukunft.ch/en/program/) at a glance, then the evidence from the [Future Lab](https://die-zukunft.ch/en/zukunftslabor/). If you only have a minute, you will understand us. If you have an evening, you will find the sources.
+The new homepage works in layers. At the very top is what we want: "The Future. We build it." and three phrases that sum up our stance: prosperity over scarcity thinking, security over fear, sovereignty over dependence. Below come the ten theses of the [manifesto](@/manifest.en.md), then all thirteen pillars of the [programme](@/programm.en.md) at a glance, then the evidence from the [Future Lab](@/zukunftslabor/_index.en.md). If you only have a minute, you will understand us. If you have an evening, you will find the sources.
 
 ![The new homepage: wordmark, core statement and the Swiss cross made of cubes in the background](https://die-zukunft.ch/aktuelles/neues-gesicht/startseite.webp)
 
@@ -1719,8 +1719,8 @@ It is the same method we propose for politics: lay the options side by side, tes
 
 ## What is new
 
-- **The vision as a blueprint.** The [vision](https://die-zukunft.ch/en/vision/) shows "the abundance stack": from energy through compute, sovereign AI and talent to application in every sector and a dividend for everyone. With figures, sources and targets with dates attached.
-- **A new pillar.** [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/) now comes first in the programme, because everything else builds on it.
+- **The vision as a blueprint.** The [vision](@/vision.en.md) shows "the abundance stack": from energy through compute, sovereign AI and talent to application in every sector and a dividend for everyone. With figures, sources and targets with dates attached.
+- **A new pillar.** [Sovereign AI & Compute](@/souveraene-ki.en.md) now comes first in the programme, because everything else builds on it.
 - **The manifesto, version 2.0.** Ten theses, each with a permanent address you can link to and quote.
 - **Pinning.** You can pin any section and find it again later. The pins stay in your browser, with no account and no cookies, and can be shared as a link.
 - **Calmer on your phone.** Many of you complained about the "magnetic" snapping while scrolling, especially on the iPhone. It is gone. The page scrolls freely, and forms no longer zoom in uninvited.
@@ -1735,7 +1735,7 @@ Every section has an address in the corner, for example 0x1002 for the first the
 
 If you find a mistake, have a better wording or want to improve a translation, you can contribute directly, with an issue or a pull request. A party that calls for open government should work openly itself.
 
-The future is a construction project. So is this website. [Build it with us.](https://die-zukunft.ch/en/join/)
+The future is a construction project. So is this website. [Build it with us.](@/mitmachen.en.md)
 
 ---
 
@@ -1819,13 +1819,23 @@ Sources: [WIPO GII 2025](https://www.wipo.int/web-publications/global-innovation
 
 ---
 
+# Agenda & corrections
+
+> What the lab works on next, which questions the public asks, and what we corrected and when.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/agenda/ · Publisher: The Future (Swiss political party, Basel)
+
+All notes are checked regularly against new data releases. The status “partly outdated” means the statements match the data used, but newer figures exist that we have not yet incorporated.
+
+---
+
 # Dossiers
 
 > The evidence behind each of our thirteen pillars: analyses from the Future Lab and indicators from the Future Monitor.
 
 Source: https://die-zukunft.ch/en/zukunftslabor/dossiers/ · Publisher: The Future (Swiss political party, Basel)
 
-Missing an analysis? [Suggest a question](https://github.com/zukunft-ch/zukunftslabor/issues/new) or [write to us](https://die-zukunft.ch/en/contact/).
+Missing an analysis? [Suggest a question](https://github.com/zukunft-ch/zukunftslabor/issues/new) or [write to us](@/kontakt.en.md).
 
 ---
 
@@ -1887,7 +1897,7 @@ As of 2026-11-08. Data: https://die-zukunft.ch/zukunftslabor/monitor.json (CC BY
 
 ## Method
 
-We use official sources (FSO, SFOE, SEM, UN, IFR, TOP500, CSCS) and flag values that come only from media reports or charts. Ranks are relative: a worse rank can also mean others improved faster. The data is available under CC BY 4.0 as [monitor.json](https://die-zukunft.ch/zukunftslabor/monitor.json). Found an error? [Tell us](https://die-zukunft.ch/en/contact/); we correct publicly, as described in the [method](https://die-zukunft.ch/en/zukunftslabor/methodik/).
+We use official sources (FSO, SFOE, SEM, UN, IFR, TOP500, CSCS) and flag values that come only from media reports or charts. Ranks are relative: a worse rank can also mean others improved faster. The data is available under CC BY 4.0 as [monitor.json](https://die-zukunft.ch/zukunftslabor/monitor.json). Found an error? [Tell us](@/kontakt.en.md); we correct publicly, as described in the [method](@/zukunftslabor/methodik.en.md).
 
 ---
 
@@ -1937,8 +1947,8 @@ In the largest survey of 2,778 AI researchers (autumn 2023), the aggregate proba
 
 ## What this means for policy
 
-- **For scenario A:** continuously adapt in-company training and apprenticeship occupations, with a focus on clerical and administrative occupations; publish exposure and employment by occupation annually: [Work Without Fear](https://die-zukunft.ch/en/transitions/).
-- **For scenario B:** prepared instruments that can be scaled up quickly: wage insurance for career changes, a tested basic income model as a foundation and a dividend from productivity gains: [Basic Income](https://die-zukunft.ch/en/basic-income/).
+- **For scenario A:** continuously adapt in-company training and apprenticeship occupations, with a focus on clerical and administrative occupations; publish exposure and employment by occupation annually: [Work Without Fear](@/uebergaenge.en.md).
+- **For scenario B:** prepared instruments that can be scaled up quickly: wage insurance for career changes, a tested basic income model as a foundation and a dividend from productivity gains: [Basic Income](@/grundeinkommen.en.md).
 - **For both:** we plan for the early case without prophesying it. Leading indicators such as the quarterly SLFS data by occupation should determine when the scenario B instruments are triggered.
 
 ---
@@ -1949,6 +1959,82 @@ In the largest survey of 2,778 AI researchers (autumn 2023), the aggregate proba
 2. Gmyrek, P. et al. (2025): Generative AI and Jobs: A Refined Global Index of Occupational Exposure. ILO Working Paper 140. https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf
 3. Cazzaniga, M. et al. (2024): Gen-AI: Artificial Intelligence and the Future of Work. IMF Staff Discussion Note SDN/2024/001. https://www.imf.org/en/Publications/staff-discussion-notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379
 4. Grace, K. et al. (2025): Thousands of AI Authors on the Future of AI. Journal of Artificial Intelligence Research 84. https://jair.org/index.php/jair/article/view/19087
+
+---
+
+# AHV and VAT: what the numbers say about the 29 November proposal
+
+> From 2026 the 13th AHV pension costs around CHF 4.1 billion a year. Together with the federal contribution, the 0.4-point VAT increase covers about half of it. The official figures on deficits, household burden and ageing, without a voting recommendation.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/ahv-mehrwertsteuer-zahlen/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
+
+With the 13th pension, the AHV's pay-as-you-go result (Umlageergebnis) turns negative in 2026. According to the July 2026 financial projections of the Federal Social Insurance Office (FSIO/BSV), the shortfall is around CHF 1.3 billion in 2026 and, without additional financing, around CHF 4.9 billion in 2035. With the VAT increase that goes to the vote on 29 November, it would be around CHF 3.3 billion in 2035. According to the Federal Tax Administration (FTA/ESTV), an average household would pay around CHF 180 more per year. Underneath lies a demographic trend that none of the three FSO scenarios reverses: in 2025 there are 33 people aged 65 and over for every 100 people of working age; in 2050 there will be 43. We do not give a voting recommendation here.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+All AHV figures come from the FSIO financial projections of 2 July 2026, in millions of francs at constant 2025 prices. We show the **pay-as-you-go result**: current revenue minus expenditure, excluding returns on the AHV fund's investments. The FSIO calculates two variants: current law (13th pension from 2026, no additional financing) and the financing of the 13th pension as put to the vote (VAT +0.4 percentage points from 2028, reduced rate unchanged). The FSIO no longer publishes a variant **without the 13th pension**; we derive it by adding the cost of the 13th pension reported by the FSIO back to the current-law result and subtracting the federal contribution on it (20.2 per cent). This line is our own calculation and is marked as such. The household burden comes from the Federal Council's explanatory booklet (FTA estimate based on the 2018–2019 Household Budget Survey, HBS). Demography comes from the Federal Statistical Office (FSO) scenarios 2025–2055.
+
+---
+
+### Deficits with and without the proposal
+
+In 2025 the AHV closed with a pay-as-you-go surplus of CHF 1.84 billion. From 2026 the 13th pension costs CHF 4.1 billion a year according to the FSIO, and CHF 5.1 billion in 2035; the federal government bears 20.2 per cent of it. Under current law the result falls to –CHF 2.6 billion (2030) and –CHF 4.9 billion (2035). With the proposal, an additional CHF 1.1 billion flows into the AHV from 2028 and around CHF 1.4 to 1.5 billion a year from 2029; the deficit would then be –CHF 1.2 billion (2030) and –CHF 3.3 billion (2035). From 2029, VAT and the federal contribution together cover 50 to 52 per cent of the cost of the 13th pension (our calculation from the FSIO tables). The dashed line shows that without the 13th pension the result would lie roughly between –CHF 0.8 and +CHF 2.0 billion until 2040. The zigzag arises because pensions are adjusted every two years.
+
+**The AHV fund.** The law requires the compensation fund to hold, as a rule, at least one year's expenditure (100 per cent). Under current law it falls to 99 per cent in 2027, 51 per cent in 2035 and 23 per cent in 2040, according to the FSIO. With the proposal it would be 68 per cent in 2035 and 53 per cent in 2040. The minimum reserve is therefore undershot in both variants.
+
+**The range.** Besides the reference scenario, the FSIO calculates a favourable and an unfavourable scenario. Under current law, the 2035 result ranges from –CHF 8.3 billion (low) to –CHF 1.3 billion (high). The FSIO also expresses the 2035 reference deficit in VAT points: without the proposal it equals 1.2 points, with the proposal 0.8 points.
+
+---
+
+### What the increase costs a household
+
+According to the FTA, the increase costs an average household around CHF 180 a year (CHF 15 a month). Households with a gross income of up to CHF 4,599 a month pay around CHF 7 more per month, households with CHF 6,700 to 9,399 around CHF 13, and households from CHF 13,400 around CHF 28. The booklet gives no values for the two intermediate classes; the light bars are a model: the FTA figures from the dispatch for +0.7 points, multiplied by 4/7. For the three official classes this simple conversion is 5 to 10 per cent above the official value, because the reduced rate does not rise this time. The model values are therefore probably too high.
+
+In francs, high-income households pay more; measured against income, they pay less. For a 0.7-point increase, the FTA had calculated in the dispatch 0.41 per cent of gross income for the lowest fifth and 0.26 per cent for the highest. No percentage calculation has been published for the 0.4 points now adopted. At the same time, pensioners receive the 13th pension: up to CHF 2,520 a year for single people and up to CHF 3,780 for married couples.
+
+---
+
+### Demography: the trend beneath the numbers
+
+In the FSO reference scenario, the old-age dependency ratio rises from 33.0 (2025) to 36.8 (2030), 40.9 (2040) and 43.3 (2050). Put differently: in 2025 there are around three people aged 20 to 64 for every person aged 65 and over; in 2050 around 2.3. The high and low scenarios are only 0.2 to 0.3 points away in 2050; they differ mainly in population size, hardly in age structure. Only the extreme variants open a wider range: between 38.6 and 52.8 in 2055. In the reference scenario the number of people aged 65 and over rises from 1.81 million (2025) to 2.67 million (2055), and the number aged 80 and over from 0.54 to 1.03 million.
+
+The FSIO uses exactly this FSO scenario A-00-2025 for its reference scenario. Ageing is therefore already built into all the AHV figures above.
+
+---
+
+## What the numbers do not say
+
+- **No certainty beyond 2035.** The FSIO itself states that projections beyond ten years are subject to great uncertainty. The range for 2035 runs from –CHF 1.3 to –CHF 8.3 billion.
+- **No investment returns.** The pay-as-you-go result leaves out the AHV fund's returns; for the fund level, the FSIO assumes a real return of around 2 per cent. Good or bad market years shift the fund level noticeably.
+- **Old consumption data.** The household figures are based on 2018–2019 prices and consumption. According to the booklet, the actual burden is likely to be somewhat higher. Pass-through to prices is also an assumption: firms do not always pass on an increase in full.
+- **No net balance per household.** The figures show the burden of the tax, not the balance with the 13th pension. Whether a household gains on balance depends on whether, and how much, AHV pension it receives.
+- **Open parameters.** Whether the special rate for accommodation continues beyond 2027 was still open when the booklet went to press. The Federal Council intends to present the AHV2030 reform in spring 2027; it will change the projections.
+- **No verdict on the right financing.** The figures show how large the gap is and who bears how much. Whether VAT, wage contributions, federal funds or benefit adjustments are the right path is a political question, not a statistical one.
+
+---
+
+## Context
+
+Our reading of the four proposals of 29 November, also without a voting recommendation, is in the article [29 November 2026 vote](@/aktuelles/abstimmung-29-november-2026.en.md). Why we care about financing social insurance through consumption rather than through wages alone is explained in the [Basic Income](@/grundeinkommen.en.md) pillar; how different tax bases affect income distribution is shown in the note [Basic Income: Three Financing Models Compared](@/zukunftslabor/notizen/grundeinkommen-finanzierungsmodelle.en.md).
+
+---
+
+## Sources
+
+1. Federal Social Insurance Office (FSIO/BSV): Financial situation and outlook of the AHV, financial projections of 2 July 2026. https://www.bsv.admin.ch/finanzen-ahv
+2. FSIO: AHV financial projections under current law (reference, low and high scenarios), 2 July 2026. https://www.bsv.admin.ch/dam/de/sd-web/op2mTMWV0HCj/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20geltender%20Ordnung.xlsx
+3. FSIO: AHV financial projections with financing of the 13th pension (incl. "Massnahmen" sheet), 2 July 2026. https://www.bsv.admin.ch/dam/de/sd-web/jnnnev0Cvqna/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20Finanzierung%20der%2013.%20Altersrente.xlsx
+4. FSIO: Key facts: financial projections of the AHV, IV and EO with scenarios, 2 July 2026. https://www.bsv.admin.ch/dam/de/sd-web/layXpeKUCS4Y/Faktenblatt%20Szenarien_2026_DE.pdf
+5. Federal Chancellery: Federal Council explanatory booklet for the vote of 29 November 2026, pp. 13–19 (German edition). https://www.admin.ch/dam/de/sd-web/HXhFMFWOaa6u/BAR_Erlaeuterungen_Nov26_DE_v10.pdf
+6. FSIO: 13th AHV pension: vote on the additional AHV financing. https://www.bsv.admin.ch/de/abstimmung-13-ahv-rente
+7. Federal Council: Dispatch of 16 October 2024 on the implementation and financing of the 13th AHV pension initiative, BBl 2024 2747, section 6.5, tables 6–4 and 6–5. https://www.fedlex.admin.ch/eli/fga/2024/2747/de
+8. Federal Statistical Office (FSO): Population scenarios for Switzerland and the cantons 2025–2055, tables TA7–TA9. https://www.bfs.admin.ch/asset/de/34687099
+9. FSO: Projections – reference scenario 2025–2055 (fact sheet). https://dam-api.bfs.admin.ch/hub/api/dam/assets/34687124/master
+10. Federal Parliament: Questions and answers on the financing of the 13th AHV pension, 19 June 2026. https://www.parlament.ch/de/services/news/Seiten/2026/20260619104626831194158159026_bsd070.aspx
 
 ---
 
@@ -1969,20 +2055,24 @@ less so. Around 1.27 million jobs are at post-LLM risk.
 ## Methodology
 
 FSO SLFS employment data (2024) and two risk models:
-OECD/Frey-Osborne (2018, routine tasks) and the IMF AI Preparedness
-Index (2024, LLM capabilities). Exposed jobs = employed persons × risk share.
+pre-LLM based on the OECD study by Nedelkoska & Quintini (2018, routine
+tasks, building on Frey & Osborne 2013) and post-LLM based on the IMF
+(Cazzaniga et al. 2024, AI exposure). The industry values are our own
+rounded model assumptions derived from these studies; the studies themselves
+do not report values by Swiss economic sector. Exposed jobs = employed
+persons × risk share.
 
 ---
 
 ### Employment by industry
 
-The industry structure provides the context: health, retail and construction employ the most people. The distribution shows which sectors would feel the largest absolute effects of an automation surge.
+The industry structure provides the context: health and social work, manufacturing and retail employ the most people. The distribution shows which sectors would feel the largest absolute effects of an automation surge.
 
 ---
 
 ### Pre- vs. post-LLM
 
-LLM-capable AI fundamentally shifts the risk map: industries such as finance and insurance, public administration and information/communication are considerably more exposed post-LLM than in the classic routine model. Manual occupations (construction, agriculture) remain largely unchanged.
+LLM-capable AI fundamentally shifts the risk map: industries such as finance and insurance, public administration and information/communication are considerably more exposed post-LLM than in the classic routine model. Manual occupations (construction, transport, hospitality), by contrast, are less exposed post-LLM.
 
 ---
 
@@ -1994,12 +2084,13 @@ The shift shows the direction and extent of the change. Positive values mean inc
 
 ### Exposed jobs
 
-Absolute numbers show the social scale: industries with many employees and high post-LLM risk add up to tens of thousands of potentially exposed jobs. This does not necessarily mean job losses — but it does mean transitions need to be managed systematically.
+Absolute numbers show the social scale: industries with many employees and high post-LLM risk each account for tens of thousands to almost 190,000 potentially exposed jobs. This does not necessarily mean job losses — but it does mean transitions need to be managed systematically.
 
 ---
 
 ## Limitations
 
+- Risk values by industry are modelled (our own assumptions based on the OECD and IMF), not measured values
 - Risk estimates are industry averages, not occupation-specific
 - Post-LLM estimates are provisional (LLM capabilities are evolving quickly)
 - Actual job losses depend on regulation and complementarity
@@ -2010,6 +2101,7 @@ Absolute numbers show the social scale: industries with many employees and high 
 
 - FSO SLFS 2024: Erwerbstätige nach Wirtschaftsabschnitt [employed persons by economic section]
 - OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
+- Frey & Osborne (2013): The Future of Employment (basis of the OECD approach)
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
 
 ---
@@ -2023,9 +2115,10 @@ Source: https://die-zukunft.ch/en/zukunftslabor/notizen/digitale-souveraenitaet-
 90% of the Swiss population use the internet regularly — but
 e-government use, online availability and open-data maturity lag
 behind the EU average. The readiness gap between the digital
-population and the digital state amounts to 12.1 percentage points.
-The 2021 e-ID referendum shows that the solution must be state-run
-and privacy-friendly.
+population and the digital state was 13.2 percentage points in 2025.
+In 2021 a private-sector e-ID model was rejected at the ballot box
+(64.4% no); the state-run e-ID was accepted only narrowly on
+28 September 2025 (50.4% yes).
 
 <!-- more -->
 
@@ -2037,38 +2130,39 @@ The analysis combines two FSO Omnibus ICT datasets (2014–2025):
 internet use by age group (e-mail as a proxy) and
 e-government use by type of service. The "readiness gap" is the
 difference between general internet use and e-government use across
-the whole population. Supplemented by the EU Open Data Maturity ranking and
-VOX/Sotomo data on the 2021 e-ID referendum.
+the whole population. Supplemented by the EU Open Data Maturity Report 2025, the VOX
+post-vote survey (gfs.bern) on the 2021 e-ID referendum and the official
+results of the 2021 and 2025 e-ID votes.
 
 ---
 
 ### Internet use by age group
 
-Almost all age groups under 65 exceed 90% internet use. Even a majority of 65- to 74-year-olds are now online. The problem is not the population's digital skills — it is the missing digital infrastructure on the state's side.
+The 15–29 and 30–59 age groups are at around 95% internet use. Even among those over 60, almost 80% are now online. The problem is not the population's digital skills — it is the missing digital infrastructure on the state's side.
 
 ---
 
 ### E-government use
 
-E-government use has stagnated for years. Despite rising internet penetration, the share of the population using public online services has barely grown. This points to a supply problem: what is missing is not demand but usable digital services.
+E-government use rose from 67% (2014) to 82% (2023) but fell back to 77% in 2025 — even though internet use kept rising. This points to a supply problem: what is missing is not demand but usable digital services.
 
 ---
 
 ### Readiness gap
 
-The gap between general internet use and e-government use is around 12 percentage points. This readiness gap is not a technological but an institutional problem: the population is ready — the state is not.
+The gap between general internet use and e-government use stood at around 13 percentage points in 2025, after narrowing to 8 points by 2021. This readiness gap is not a technological but an institutional problem: the population is ready — the state is not.
 
 ---
 
 ### E-ID referendum: a question of trust
 
-The 2021 no to the e-ID was not a rejection of digital identities but of the private-sector model. Data protection concerns and a lack of trust in private providers were the main motives. A state-run, privacy-friendly solution continues to enjoy broad support.
+The 2021 no to the e-ID (64.4%) was aimed above all at the private-sector model: in the VOX post-vote survey, no voters most often cited data protection and data security (60% of all mentions) and the role of the state (49%), for example "the e-ID should be issued by the state" (25%). The redesigned, state-run e-ID was accepted with 50.4% yes on 28 September 2025. The narrow result shows that trust in data protection and state responsibility is a precondition for digital identity, not a given.
 
 ---
 
 ### Open-data maturity
 
-In the EU Open Data Maturity ranking, Switzerland is below average — both in the availability and in the usability of open government data. This hampers innovation, transparency and evidence-based policymaking.
+In the Open Data Maturity Report 2025, Switzerland scores 82% (2 points more than in 2024) and belongs to the "followers" cluster (73–84%). The EU-27 average is 86%, and France leads with 100%. There is progress, such as the "open by default" principle in the EMBAG act and the OGD master plan 2024–2027, but the distance to the leading countries remains. This hampers innovation, transparency and evidence-based policymaking.
 
 ---
 
@@ -2076,16 +2170,19 @@ In the EU Open Data Maturity ranking, Switzerland is below average — both in t
 
 - E-mail use as a proxy for internet use (FSO definition)
 - E-government data not available by age group — gap can only be calculated at total level
-- Open-data score based on EU methodology (Switzerland as an observer state)
-- E-ID motives: VOX post-vote survey with a limited sample
+- Open-data score based on EU methodology (Switzerland as a participating EFTA country)
+- E-ID motives: VOX post-vote survey with a limited sample, open question with multiple answers
 
 ---
 
 ## Data sources
 
 - FSO Omnibus ICT 2014–2025: internet use, e-government use
-- EU Open Data Maturity Report 2023 (data.europa.eu)
-- VOX/Sotomo: Nachbefragung E-ID-Referendum [post-vote survey on the e-ID referendum], 7 March 2021
+- data.europa.eu: Open Data Maturity Report 2025, https://data.europa.eu/sites/default/files/2025-12/2025_odm_report_7.pdf
+- data.europa.eu: Open Data Maturity 2025, country factsheet Switzerland, https://data.europa.eu/sites/default/files/2025-12/2025_odm_factsheet_switzerland.pdf
+- gfs.bern: VOX analysis March 2021 (e-ID act, in German), https://swissvotes.ch/vote/639.00/nachbefragung-de.pdf
+- Swissvotes: e-ID act of 7 March 2021, rejected with 64.4% no, https://swissvotes.ch/vote/639.00
+- SRF: vote of 28 September 2025, e-ID act accepted with 50.4% yes, https://www.srf.ch/news/schweiz/abstimmungen-28-september-so-hat-die-schweiz-abgestimmt
 
 ---
 
@@ -2141,7 +2238,7 @@ Switzerland has a foundation too: since 1 January 2024 the EMBAG (Federal Act on
 
 ## What this means for policy
 
-- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](https://die-zukunft.ch/en/open-government/).
+- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](@/offener-staat.en.md).
 - **Enshrine once-only in law:** data that one authority already holds may not be requested again by another; exchange takes place via documented interfaces (API by default).
 - **E-ID with a timetable:** document the security work openly and publish a binding launch date with milestones.
 - **Meet the EMBAG deadline:** from 2027, publicly report which federal offices actually make their data openly available.
@@ -2172,7 +2269,7 @@ Source: https://die-zukunft.ch/en/zukunftslabor/notizen/energieresilienz-stresss
 Four stress scenarios based on real SFOE data (2024) show that
 in the worst case (dry year + nuclear phase-out) Switzerland would
 have to import 39.1% of its electricity — at a cost of
-CHF 2.29 billion per year at current spot prices.
+around CHF 2.07 billion per year at EUR 90/MWh.
 
 <!-- more -->
 
@@ -2188,39 +2285,41 @@ modify the production figures of the base year:
 - **C — Nuclear phase-out**: nuclear power plants shut down (−22,983 GWh)
 - **D — Combined**: dry year + nuclear phase-out
 
-Import costs calculated at EUR 90/MWh (European average spot price).
+Import costs calculated at EUR 90/MWh (European average spot price 2023–2024) and
+an exchange rate of CHF 0.95 per EUR, i.e. around CHF 86/MWh.
 Final energy consumption by sector from the SFOE overall energy balance.
 
 ---
 
 ### Electricity mix
 
-Hydropower and nuclear energy dominate Swiss electricity production, together accounting for over 90%. This concentration on two sources is both a strength (low CO₂) and a vulnerability — both are sensitive to external shocks: drought for hydropower, political decisions for nuclear.
+Hydropower and nuclear energy dominate Swiss electricity production, together accounting for over 90%. This concentration on two sources is both a strength (dispatchable domestic production) and a vulnerability — both are sensitive to external shocks: drought for hydropower, political decisions for nuclear.
 
 ---
 
 ### Final energy consumption by sector
 
-Industry and transport are the largest electricity consumers. The sectoral distribution shows where efficiency gains and electrification (e.g. electric mobility) have the greatest leverage — and where additional electricity demand will arise.
+Transport and households are the largest final energy consumers (all energy carriers, not just electricity). The sectoral distribution shows where efficiency gains and electrification (e.g. electric mobility) have the greatest leverage — and where additional electricity demand will arise.
 
 ---
 
 ### Stress scenarios
 
-Four scenarios show the range of vulnerability: from the stable baseline to the worst case (dry year + nuclear phase-out). The combined scenario creates an import dependence that cannot easily be covered when European markets are tight.
+Four scenarios show the range of vulnerability: from the stable baseline to the worst case (dry year + nuclear phase-out). The combined scenario creates an import dependence that cannot easily be covered when European markets are tight. Scenario C is a stress test, not a forecast: the current Nuclear Energy Act prohibits new nuclear power plants, while the existing ones may run as long as they are safe. In August 2025 the Federal Council proposed lifting the ban on new plants as an indirect counter-proposal to the popular initiative "Blackout stoppen" (stop the blackout). How long today's plants will run and whether new ones will be built remains politically open.
 
 ---
 
 ### Import costs
 
-The financial consequences of import dependence are considerable: in the worst case, annual import costs amount to several billion francs — calculated at current European spot prices. At market peaks (as in 2022), the costs would be a multiple of that.
+The financial consequences of import dependence are considerable: in the worst case, annual import costs amount to around CHF 2.1 billion — calculated at EUR 90/MWh and CHF 0.95 per EUR. Any deviation in the exchange rate shifts the costs proportionally. At market peaks (as in 2022), the costs would be a multiple of that.
 
 ---
 
 ## Limitations
 
 - Static scenarios (no expansion of solar/wind, no reduction in demand)
-- Import prices fluctuate strongly (2022: up to EUR 400/MWh)
+- Import prices fluctuate strongly (2022: up to EUR 400/MWh); EUR/CHF exchange rate as a fixed assumption (0.95)
+- Data basis 2024; the SFOE electricity balance 2025 has not yet been incorporated
 - Seasonal effects not modelled (winter gap > annual average)
 - No storage effects (pumped storage, batteries)
 
@@ -2228,21 +2327,22 @@ The financial consequences of import dependence are considerable: in the worst c
 
 ## Data sources
 
-- SFOE: Schweizerische Elektrizitätsbilanz [Swiss electricity balance] (OGD, annual values)
-- SFOE: Schweizerische Gesamtenergiebilanz [Swiss overall energy balance] (final energy consumption by sector)
+- SFOE: Swiss electricity balance (OGD, annual figures)
+- SFOE: Swiss overall energy balance (final energy consumption by sector)
 - ENTSO-E: European electricity prices (day-ahead spot market)
+- Federal Council: press release of 13 August 2025 on the dispatch on the "Blackout stoppen" initiative and the indirect counter-proposal (lifting the ban on new nuclear power plants, in German), https://www.admin.ch/de/newnsb/GIECKzWVs6ZX6W1ba4i6X
 
 ---
 
 # Research: Who Does It, Who Pays — and What Comes Back?
 
-> Switzerland leads the world in R&D per capita and patent efficiency. But the private sector dominates — and the question of the public return on public research remains open.
+> Switzerland invests heavily in R&D and files the most European patent applications per capita. But the private sector dominates — and the question of the public return on public research remains open.
 
 Source: https://die-zukunft.ch/en/zukunftslabor/notizen/forschung-wer-forscht-wer-zahlt/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
 Switzerland invests CHF 25.6 billion in R&D
 (2023) and, with 182 EPO patents per billion, achieves the
-highest patent efficiency in the world. But private-sector research outweighs public
+highest patent efficiency among the countries compared. But private-sector research outweighs public
 research by a factor of 2.37 — and the top 2 sectors
 account for 45.4% of spending.
 
@@ -2261,32 +2361,33 @@ industrial sectors. Public: universities, the ETH Domain, federal offices.
 
 ### R&D expenditure over time
 
-The private sector dominates R&D expenditure, and its share is growing. This demonstrates innovative strength — but also a dependence: when a few large corporations finance most of the research, blind spots emerge on topics without a direct market incentive.
+The private sector dominates R&D expenditure, but its lead has narrowed since 2000 (private-to-public ratio: 3.1 → 2.4) and has only been growing slightly again since 2017. This demonstrates innovative strength — but also a dependence: when a few large corporations finance most of the research, blind spots emerge on topics without a direct market incentive.
 
 ---
 
 ### Private vs. public
 
-The ratio of private to public R&D expenditure in Switzerland is one of the highest in the world. On the one hand, this is a sign of a research-intensive private sector — on the other, it raises the question of whether public research carries enough weight of its own to cover basic research and public-interest topics.
+In Switzerland the private sector spends considerably more on R&D than the public sector (2023: 2.4 to 1). On the one hand, this is a sign of a research-intensive private sector — on the other, it raises the question of whether public research carries enough weight of its own to cover basic research and public-interest topics.
 
 ---
 
 ### Patent efficiency in international comparison
 
-Switzerland achieves the highest patent efficiency in the world: more EPO patents per billion invested than any other country. This points to an effective chain from research to usable knowledge — a locational advantage that needs to be maintained.
+Among the countries compared, Switzerland achieves the highest patent efficiency: more EPO patent applications per billion invested than Sweden, the Netherlands, Germany, Austria, France, the USA and Japan. According to the EPO (Technology Dashboard 2025), Switzerland also files the most European patent applications per capita among countries with more than one million inhabitants. This points to an effective chain from research to usable knowledge — a locational advantage that needs to be maintained.
 
 ---
 
 ### Sector concentration
 
-Two sectors — pharma and ICT — account for the bulk of private R&D. This makes the research landscape vulnerable: the relocation of a single company could shift the overall statistics markedly. Diversifying the research base is a strategic question.
+One sector — chemicals/pharma — accounts for around a third of private R&D, and together with ICT for almost half. This makes the research landscape vulnerable: the relocation of a single company could shift the overall statistics markedly. Diversifying the research base is a strategic question.
 
 ---
 
 ## Limitations
 
 - FSO data collected every 2 years (no annual values)
-- Patent efficiency: EPO patents as a proxy (not all innovations result in patents)
+- Patent efficiency: EPO patents as a proxy (not all innovations result in patents); selection of eight countries
+- Patent data as of 2023; the EPO figures for 2025 (Technology Dashboard 2025, successor to the Patent Index) have not yet been incorporated
 - Private R&D expenditure partly estimated (trade secrets)
 - Sector classification follows FSO logic (Frascati Manual)
 
@@ -2297,19 +2398,21 @@ Two sectors — pharma and ICT — account for the bulk of private R&D. This mak
 - FSO: Forschung und Entwicklung — Intramuros-Aufwendungen [research and development — intramural expenditure] (2000–2023)
 - EPO: Annual Report 2023 — patent applications by country of origin
 - OECD: Main Science and Technology Indicators (GERD)
+- EPO: Technology Dashboard 2025 (patent applications per capita), https://www.epo.org/en/about-us/statistics/technology-dashboard-2025
 
 ---
 
 # Health Costs: Where Does the Money Go — and Where Does It Drain Away?
 
-> Switzerland spends 5.2% of health expenditure on administration — well above the OECD average. The excess costs ~CHF 10 per person per month.
+> In 2024 the Swiss health system cost CHF 97.2 billion, 4.4% of which went to administration (FSO). By the OECD definition the share is 5.2%, above the OECD average of 3.3%.
 
 Source: https://die-zukunft.ch/en/zukunftslabor/notizen/gesundheitskosten-verwaltung-fokus/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
-Switzerland spends CHF 82,472 million on health
-(2019), of which 4.03% goes to administration.
-In the OECD comparison, Switzerland's 5.2% is well above the average
-(3.3%) — the excess costs ~CHF 10 per person per month.
+The Swiss health system cost CHF 97.2 billion in 2024
+(2023: CHF 93.4 billion), of which CHF 4.24 billion or 4.4% went to
+administration (FSO). By the OECD definition, Switzerland's 5.2% is above
+the OECD average (3.3%). The difference corresponds to around CHF 17 per
+person per month.
 
 <!-- more -->
 
@@ -2317,40 +2420,45 @@ In the OECD comparison, Switzerland's 5.2% is well above the average
 
 ## Methodology
 
-FSO health expenditure statistics (1995–2019) according to the
-System of Health Accounts (SHA). Categories: outpatient/inpatient curative care,
-long-term care, medical goods, administration, prevention. International comparison
-based on OECD Health at a Glance 2023.
+FSO statistics on the costs and financing of the health system according to
+the System of Health Accounts (SHA). The long series 1995–2019 is based on
+the methodology before the FSO revision of April 2025; revised figures are
+available for 2019, 2023 and 2024 and are shown separately (2024 provisional).
+Categories: outpatient/inpatient curative care, long-term care, medical goods,
+administration, prevention. International comparison based on OECD Health at
+a Glance 2023 (OECD definition, not identical to the FSO figures).
 
 ---
 
 ### Expenditure by category over time
 
-Health expenditure is rising continuously — but not evenly. While outpatient and inpatient care account for the lion's share, the administrative share is growing disproportionately. This raises the question of how much of the rise in premiums goes into treatment and how much into bureaucracy.
+Health expenditure is rising continuously — but not evenly. Outpatient and inpatient care account for the lion's share. Administrative costs almost doubled between 1995 and 2019 (CHF 1.7 → 3.3 billion, old FSO methodology), but grew more slowly than total spending. Under the revised methodology they stood at CHF 4.24 billion in 2024; in 2023 they rose by 9.6%, much faster than total costs. The open question is how much of the rise in premiums goes into treatment and how much into bureaucracy.
 
 ---
 
 ### Administrative share over time
 
-The administrative share is rising slowly but steadily. This is no coincidence: the fragmented insurance landscape with over 50 health insurers generates structural extra costs — accounting, marketing, risk selection — that would not arise in a single-payer system.
+By the old FSO definition, the administrative share fell from around 5% (1995) to 4% (2019). Under the revised methodology it is somewhat higher: 4.1% (2019), 4.5% (2023) and 4.4% (2024). In the OECD comparison it remains high: the insurance landscape with 42 health insurers (2025, FOPH) generates structural extra costs — accounting, marketing, risk selection — part of which would not arise in a simpler system.
 
 ---
 
 ### International comparison
 
-Switzerland's administrative costs are well above the OECD average. Countries with more centralised systems (e.g. the Scandinavian states) achieve lower administrative shares with comparable or better quality of care. The comparison shows that efficiency gains are possible.
+By the OECD definition (5.2%), Switzerland's administrative costs are well above the OECD average (3.3%); by the FSO definition the share is 4.4%. Countries with more centralised systems (e.g. Sweden) achieve lower administrative shares with comparable or better quality of care. The comparison shows that efficiency gains are possible.
 
 ---
 
 ### Administrative excess
 
-The excess over the OECD average can be expressed in francs per person per month. This money does not go into treatment, medicines or care — it finances administrative structures whose simplification would directly lower premiums.
+The 1.9 percentage-point gap to the OECD average corresponds to around CHF 17 per person per month when applied to the FSO's 2024 health costs of CHF 899 per capita per month. Using the FSO administrative share (4.4%), it is around CHF 10. This money does not go into treatment, medicines or care — it finances administrative structures whose simplification would lower premiums.
 
 ---
 
 ## Limitations
 
 - SHA harmonisation facilitates comparisons, but differences between systems remain
+- FSO revision 2025: figures before and after the revision are not directly comparable; 2024 figures provisional
+- OECD and FSO definitions of administrative costs differ (5.2% vs. 4.4%); the franc amounts combine OECD shares with FSO total costs
 - Administrative costs also include quality assurance and regulatory effort
 - Single-payer vs. competitive model produce structurally different administrative costs
 - OECD data partly from different years (2021–2023)
@@ -2359,7 +2467,12 @@ The excess over the OECD average can be expressed in francs per person per month
 
 ## Data sources
 
-- FSO: Kosten und Finanzierung des Gesundheitswesens [costs and financing of the health system] (1995–2019)
+- FSO: Kosten und Finanzierung des Gesundheitswesens 2023 [costs and financing of the health system 2023], press release of 28 April 2025, https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788155/master
+- FSO: Kosten des Gesundheitswesens nach Leistung [health costs by service] (2019, 2023, 2024), https://www.bfs.admin.ch/asset/de/36519541
+- FSO: Kosten des Gesundheitswesens seit 1960 [health costs since 1960], https://www.bfs.admin.ch/asset/de/36519640
+- FSO: health costs and financing 2024 (CHF 97.2 billion, CHF 899 per capita per month), https://www.bfs.admin.ch/asset/de/36515499
+- FSO: Kosten und Finanzierung des Gesundheitswesens [costs and financing of the health system] (series 1995–2019, methodology before 2025)
+- FOPH: Tätigkeitsbericht 2025 soziale Kranken- und Unfallversicherung [2025 activity report, number of insurers], https://www.bag.admin.ch/dam/en/sd-web/TiFIhRVtPuIx/BAG_Ta%CC%88tigkeitsbericht_2025_soziale-Kranken-und-Unfallversicherung.pdf
 - OECD: Health at a Glance 2023 — Health Expenditure and Financing
 - WHO: Global Health Expenditure Database
 
@@ -2374,7 +2487,7 @@ Source: https://die-zukunft.ch/en/zukunftslabor/notizen/grundeinkommen-finanzier
 Three financing models for an unconditional basic income of CHF 2,500/month
 show fundamentally different distributional effects. A flat income tax
 reduces the Gini coefficient the most. Replacing existing transfers saves taxes,
-but can leave the poorest households worse off — a non-trivial finding.
+but does the least for the poorest households — a non-trivial finding.
 A consumption tax has a progressive effect, but a weaker one.
 
 <!-- more -->
@@ -2383,31 +2496,37 @@ A consumption tax has a progressive effect, but a weaker one.
 
 ## Methodology
 
-The basis is the income shares by decile from the FSO
-Household Budget Survey (HBS) 2018. From these, absolute
-monthly incomes per decile are estimated (share × mean × 10).
+The basis is the decile shares of disposable equivalised income from
+the FSO table "Kennzahlen zur Verteilung der Einkommen" [key figures on
+income distribution] (data basis 2018, Household Budget Survey HBS). From
+these, absolute disposable equivalised incomes per decile and month are
+estimated (share × mean × 10).
 
 Three financing scenarios are simulated:
 
-- **A — Flat income tax**: gross costs (CHF 222.0 billion/year)
+- **A — Flat income tax**: gross costs (CHF 222 billion/year)
   are financed through a linear income tax surcharge.
 - **B — Replacement of transfers**: AHV/AVS (old-age and survivors' insurance), IV/AI (disability insurance), EL/PC (supplementary benefits), social assistance, ALV/AC (unemployment insurance) and family allowances
-  (CHF 79.0 billion) are replaced by the UBI.
+  (CHF 79 billion) are replaced by the UBI.
   The remaining amount is financed through income tax.
 - **C — Consumption tax**: financing is through a VAT surcharge.
   Consumption ratios vary by decile (D1: 95%, D10: 55%).
+
+The model is static: it ignores behavioural responses such as changes in
+labour supply, consumption patterns or tax avoidance. The results show
+first-round effects only.
 
 ---
 
 ### Baseline: income distribution 2018
 
-Today's income distribution shows strong concentration: the top decile has around a quarter of total income, the bottom decile less than 3%. This baseline is the starting point for all three scenarios — it shows the initial situation from which redistribution takes effect.
+Today's income distribution shows strong concentration: the top decile has just over a fifth (22%) of total disposable equivalised income, the bottom decile less than 3%. This baseline is the starting point for all three scenarios — it shows the initial situation from which redistribution takes effect.
 
 ---
 
 ### Net effect of the three scenarios
 
-The three financing models have fundamentally different effects. Scenario A (income tax) redistributes linearly — lower deciles gain, upper deciles lose. Scenario B (replacement of transfers) produces a paradox: the lowest deciles can lose out in net terms because their existing transfers were higher than the UBI. Scenario C (consumption tax) weighs more heavily on lower deciles through their higher consumption ratio.
+The three financing models have fundamentally different effects. Scenario A (income tax) redistributes linearly — lower deciles gain, upper deciles lose. Scenario B (replacement of transfers) produces a paradox: the lowest deciles gain the least in net terms (D1: +CHF 92/month) because the basic income largely just replaces their existing transfers. Scenario C (consumption tax) weighs relatively more heavily on lower deciles through their higher consumption ratio; thanks to the basic income, they still gain clearly in net terms.
 
 ---
 
@@ -2426,29 +2545,29 @@ This shows which deciles gain or lose in net terms. The turning point varies dep
 ## Limitations
 
 - Aggregated decile data instead of microdata (individual data require an application to the FSO)
-- No behavioural adjustments (labour supply, consumption patterns)
+- No behavioural responses modelled (labour supply, consumption patterns, tax avoidance): static first-round effects
 - Distribution of transfers across deciles estimated (not taken directly from SILC microdata)
 - Consumption ratios by decile based on values from the literature, not HBS detail
-- Data available only up to 2018 (latest FSO HBS publication)
+- Data basis 2018: the FSO table series used ends in 2018; more recent HBS and SILC waves have not yet been incorporated
 
 ---
 
 ## Data sources
 
-- FSO HBS 2018: income shares by decile (disposable equivalised income)
+- FSO: Kennzahlen zur Verteilung der Einkommen vor und nach staatlichen Transfers [key figures on income distribution before and after state transfers] (HBS, data basis 2018), decile shares of disposable equivalised income, https://www.bfs.admin.ch/bfsstatic/dam/assets/15344786/master
 - FSIO social insurance statistics: transfer volumes AHV, IV, EL, ALV
 - FSO SILC: published distribution shares of social transfers
 
 ---
 
-# Rent Burden: When Does It Become Critical in Which Canton?
+# Rent Burden: How Hard Do Rents Hit the Bottom Quintile in Each Canton?
 
-> The bottom quintile spends 40% on rent. On current trends, more cantons will cross the 30% threshold.
+> The bottom quintile spends 40% on rent — and, measured against cantonal rents, is already above the 30% threshold in every canton.
 
 Source: https://die-zukunft.ch/en/zukunftslabor/notizen/mietbelastung-kantonale-prognose/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
-The bottom quintile spends 40% on rent. With current rent growth and
-1% income growth, several cantons will cross the 30% threshold by 2035.
+The bottom quintile spends 40% on rent. Measured against cantonal rents,
+it was already above the 30% threshold in all 26 cantons in 2023 — from 33% in Jura to 65% in Zug.
 
 <!-- more -->
 
@@ -2458,37 +2577,30 @@ The bottom quintile spends 40% on rent. With current rent growth and
 
 FSO rent statistics (2010–2023, 3-room flats by canton) and
 FSO SILC rent burden ratios. CAGR from the 2010/2023 ratio.
-Threshold projection: rent×(1+CAGR)^t / income×(1+1%)^t = 30%.
 
 ---
 
 ### Rent burden by income quintile
 
-The bottom quintile spends around 40% of disposable income on rent — far above the 30% threshold that is considered critical. The upper quintiles are at 15–20%. The rent burden acts like a regressive tax: those who earn less pay proportionally more.
+The bottom quintile spends around 40% of disposable income on rent — far above the 30% threshold that is considered critical. The upper quintiles are at 12–18%. The rent burden acts like a regressive tax: those who earn less pay proportionally more.
 
 ---
 
 ### Rents by canton
 
-The differences between cantons are considerable: Zurich, Geneva and Zug are at the top, rural cantons well below. The chart shows the price range of an average 3-room flat — the most common type of dwelling in Switzerland.
+The differences between cantons are considerable: Zug, Zurich and Schwyz are at the top, rural cantons well below. The chart shows the price range of an average 3-room flat — the most common type of dwelling in Switzerland.
 
 ---
 
 ### Rent growth (CAGR)
 
-Annual rent growth (CAGR) varies widely between cantons. Some cantons are growing twice as fast as others — and with real wages stagnating at the same time, a widening gap emerges. The pace of growth determines when the burden threshold is crossed.
-
----
-
-### Threshold projection
-
-Extrapolating current trends and assuming income growth of 1% per year, several cantons will cross the 30% threshold by 2035. The projection is conservative — rents for new tenancies are often well above existing rents.
+Annual rent growth (CAGR) varies widely between cantons. Some cantons are growing twice as fast as others — and with real wages stagnating at the same time, a widening gap emerges. The pace of growth determines how quickly the burden keeps rising if incomes do not keep up.
 
 ---
 
 ## Limitations
 
-- CAGR extrapolates the past trend
+- CAGR describes the 2010–2023 trend, not a forecast
 - Q1 income not differentiated by canton
 - Existing rents (rents for new tenancies are often higher)
 
@@ -2541,9 +2653,9 @@ Calculation (estimate): 7.124 MW × 8,760 h gives around 62 GWh per year for Alp
 
 ## What this means for policy
 
-- **Plan energy and compute together.** A public AI programme of the order of 70 to 90 MW is feasible for the Swiss grid, but it needs fixed sites with grid connection, cooling and waste-heat recovery. This belongs in the same planning as the expansion of winter production: [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/).
+- **Plan energy and compute together.** A public AI programme of the order of 70 to 90 MW is feasible for the Swiss grid, but it needs fixed sites with grid connection, cooling and waste-heat recovery. This belongs in the same planning as the expansion of winter production: [Energy & Infrastructure Resilience](@/energy-resilience.en.md).
 - **Realise efficiency first.** The identified efficiency potential of around 0.8 TWh in existing data centres corresponds roughly to the estimated demand of a tenfold increase in public compute. Binding efficiency metrics for large data centres free up room on the grid.
-- **Expand public compute measurably.** Report targets and progress in megawatts and computing power, with open access for universities, SMEs and the administration: [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/).
+- **Expand public compute measurably.** Report targets and progress in megawatts and computing power, with open access for universities, SMEs and the administration: [Sovereign AI & Compute](@/souveraene-ki.en.md).
 
 ---
 
@@ -2605,9 +2717,9 @@ The differences between Germany and the USA show that the labour market adapts b
 
 ## What this means for policy
 
-- **A measurable target:** double robot density to around 600 by 2035 and report it annually on the basis of IFR data: [Reindustrialization with Robotics](https://die-zukunft.ch/en/robotics/).
+- **A measurable target:** double robot density to around 600 by 2035 and report it annually on the basis of IFR data: [Reindustrialization with Robotics](@/robotik.en.md).
 - **Targeted support for SMEs:** large exporters automate on their own. The leverage lies with SMEs, for example through shared test centres, leasing models and advisory services.
-- **Organise the transition within firms:** the German pattern — retraining within the same firm instead of dismissal — should be supported with training vouchers and apprenticeship occupations in robotics and maintenance: [Work Without Fear](https://die-zukunft.ch/en/transitions/).
+- **Organise the transition within firms:** the German pattern — retraining within the same firm instead of dismissal — should be supported with training vouchers and apprenticeship occupations in robotics and maintenance: [Work Without Fear](@/uebergaenge.en.md).
 
 ---
 
@@ -2621,16 +2733,96 @@ The differences between Germany and the USA show that the labour market adapts b
 
 ---
 
-# Talent & Migration: Are Qualifications Being Used — or Wasted?
+# How Switzerland understands itself: English is more widespread in daily life than any second national language
+
+> 44% of the population regularly use English, but only 15% of German-speaking Switzerland use French and 16% of French-speaking Switzerland use German. At work, English is growing fastest. At the same time, 86% consider several national languages important for cohesion.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/sprachen-verstaendigung-zahlen/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
+
+Switzerland is multilingual, but not in the way the picture of four national languages suggests. According to the Federal Statistical Office's (FSO) 2024 Survey on Language, Religion and Culture, 44% of the population aged 15 and over regularly use English. Far fewer use the other major national language: 15% of German-speaking Switzerland use French, 16% of French-speaking Switzerland use German. At work, 24% of employed people usually speak English, up from 17% in 2010. At the same time, 86% consider knowledge of several national languages important for the country's cohesion. The data show no either-or, but a gap between aspiration and everyday life.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+Figures on regularly used languages, language skills and attitudes come from the FSO's Survey on Language, Religion and Culture (ESRK) 2024: around 14,500 respondents aged 15 and over, surveyed from April to June 2024. "Regularly used" means spoken, written, read or heard at least once a week, at home, in leisure time, in the media or at work. The language region is determined by place of residence. The time series on main languages and languages at work come from the censuses (up to 2000) and the annual structural survey (from 2010). Since 2010, respondents can name up to three main languages; the jump in non-national languages between 2000 and 2010 is therefore largely methodological. In 2024 the ESRK was conducted mostly online for the first time, so we do not compare its values with the 2014 and 2019 waves. Information on school language teaching comes from the EDK, Eurydice and the Federal Council.
+
+---
+
+### English ahead of the second national language
+
+In all three major language regions, more people regularly use English than any other national language: in German-speaking Switzerland 45.1% English versus 15.0% French; in French-speaking Switzerland 40.9% English versus 15.8% German (Swiss German: 6.5%); in Italian-speaking Switzerland 33.6% English versus 22.2% German and 18.6% French. Italian-speaking Switzerland is the region where the other national languages are most present in daily life.
+
+---
+
+### At work: English is growing fastest
+
+From 2010 to 2024, the share of employed people who usually speak English at work rose from 16.5% to 23.6%. Swiss German fell from 67.2% to 60.8%, French from 29.2% to 27.6%; Standard German rose from 32.4% to 35.6%. According to the FSO, English grew most between 2014 and 2024 among 15- to 24-year-olds (from 14% to 22%) and is most widespread in companies with 500 or more full-time equivalents, at 27%. Even so, 95% of employed people speak at least one national language at work.
+
+---
+
+### Main languages: the population is becoming more multilingual
+
+In 2024, German (or Swiss German) is the main language of 61.1% of the resident population, French of 22.6%, Italian of 7.8% and Romansh of 0.4%. French has grown from 18.4% in 1970 to over 22%, while Italian has declined from 11.0% to 7.8%. 24.5% name a non-national language as (one of) their main languages; English rose from 4.2% (2010) to 6.5% (2024). Because multiple answers have been possible since 2010, the shares do not add up to 100%.
+
+---
+
+### Skills, generations and barriers
+
+- **Most people know English; the national languages less well:** Among 15- to 64-year-olds who know a language that is not their main language, 53.4% in German-speaking Switzerland rate their active English as good or very good, but only 13.2% their French. In French-speaking Switzerland the figures are 48.4% for English and 14.0% for German.
+- **Young people are more multilingual:** 81% of 15- to 24-year-olds regularly use at least two languages, compared with 38% of people aged 65 and over. Almost two thirds of 15- to 24-year-olds rate their active English as good or very good, compared with 42% of 45- to 64-year-olds.
+- **Aspiration remains high, slightly lower among the young:** 85.9% consider knowledge of several national languages important for cohesion (German-speaking Switzerland 84.3%, French-speaking 89.1%, Italian-speaking 93.7%). 77.3% think the first foreign language at school should be a national language; among 15- to 24-year-olds it is around two thirds, 20 percentage points fewer than among those aged 65 and over.
+- **Language as an everyday barrier:** 12% of the population have no national language as their main language, 4 percentage points more than in 2010; English is the most common among them, at 21%. Of people whose main language is not the local language, 31.3% had language difficulties in dealing with the authorities, 26.3% with health professionals and 25.0% at work or when looking for a job. In French-speaking Switzerland the share for dealings with the authorities is markedly higher, at 40%, than in German-speaking Switzerland (27%).
+
+---
+
+### School: which foreign language first?
+
+Under the cantons' 2004 language strategy and the HarmoS concordat, children learn two foreign languages in primary school: a national language and English. The cantons choose the order. According to Eurydice (as of December 2023), 14 cantons start with English and 12 with a second national language; those starting with a national language include all French- and Italian-speaking cantons and, under an agreement from 2004, Bern, Basel-Landschaft, Basel-Stadt, Solothurn, German-speaking Fribourg and Upper Valais, which start with French. Since 2025, several German-speaking cantonal parliaments have decided to teach French only at lower secondary level, including Appenzell Ausserrhoden and Zurich, according to SRF. On 12 June 2026 the Federal Council therefore opened a consultation on amending the Languages Act (deadline: 5 October 2026): option 1 enshrines the HarmoS model; option 2 requires a second national language to begin in primary school and continue to the end of lower secondary. If the cantons refrain from deviating decisions, the Federal Council does not intend to submit the bill to Parliament.
+
+---
+
+### What the data do not show
+
+The surveys analysed do not measure how often people use machine translation or AI tools to communicate across language boundaries. Whether such tools complement or replace learning a second national language has not been studied for Switzerland. Nor are there nationally comparable measurements of the language level pupils actually reach at the end of compulsory schooling; the language skills in the ESRK are self-assessments.
+
+---
+
+## What this means for policy
+
+- **Strengthen both instead of playing them off against each other:** English is already the most widespread bridge language in daily life and at work; at the same time, large majorities want the national languages. Policy should preserve the national languages and recognise English as an additional common lingua franca: [Language & Understanding](@/sprache-verstaendigung.en.md).
+- **Multilingual authorities where it has an impact:** Almost a third of people without the local language as their main language face language barriers with the authorities. Key official information and online services should therefore also be available in English: [Open Government](@/offener-staat.en.md).
+- **Measure instead of guessing:** Instead of arguing about the order of foreign languages, cantons and the Confederation should regularly assess the level reached in national languages and English at the end of schooling, and recognise language skills acquired at work and in further education: [Talent, Integration & Rule of Law](@/talent-integration.en.md).
+
+---
+
+## Sources
+
+1. Federal Statistical Office (FSO): Sprachliche Praktiken in der Schweiz. Ergebnisse der Erhebung zur Sprache, Religion und Kultur 2024, Neuchâtel 2025 (FSO number 1368-2401). https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788128/master
+2. Federal Statistical Office (FSO): Sprachen bei der Arbeit, Neuchâtel 2026 (FSO number 1795-2600). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36630116/master
+3. Federal Statistical Office (FSO), structural survey: Languages usually spoken at work, 2010–2024 (su-d-01.08.01.03). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399471/master
+4. Federal Statistical Office (FSO), census and structural survey: Main languages since 1910 (T 01.08.01.01). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399472/master
+5. Federal Statistical Office (FSO), structural survey: Most common main languages, 2010–2024 (su-d-01.08.01.01). https://dam-api.bfs.admin.ch/hub/api/dam/assets/36399478/master
+6. European Commission, Eurydice: Switzerland, teaching and learning in primary education (as of 14 December 2023). https://eurydice.eacea.ec.europa.eu/de/national-education-systems/switzerland/lehren-und-lernen
+7. Federal Council: Bundesrat will Verankerung der Landessprachen in der Schule stärken, press release, 12 June 2026. https://www.admin.ch/de/newnsb/HE5QaMVS0dRYeHzeHa_8p
+8. Federal Department of Home Affairs (FDHA): Der Bundesrat lässt Vorgaben zum Unterricht der Landessprachen ausarbeiten, 19 September 2025. https://www.edi.admin.ch/de/newnsb/CbsqmmLpkhDjQgEILMp_P
+9. Canton of Basel-Stadt, Department of Education: French as the first foreign language in the schools of Basel-Landschaft, Basel-Stadt, Bern, German-speaking Fribourg, Solothurn and German-speaking Valais, press release, 2004. https://www.bs.ch/medienmitteilungen/ed/2004-franzoesisch-als-erste-fremdsprache-den-volksschulen-der-kantone-basel-landschaft-basel-stadt-bern-deutsch-freiburg-solothurn-und-deutsch-wallis
+10. SRF: Zürcher Parlament will Frühfranzösisch abschaffen, 1 September 2025. https://www.srf.ch/news/schweiz/fremdsprachenunterricht-zuercher-parlament-will-fruehfranzoesisch-abschaffen
+
+---
+
+# Talent & Migration: Are Qualifications Being Used — or Left Unused?
 
 > 36% of third-country nationals work below their level of qualification. This is not an integration failure — it is a loss of value added.
 
 Source: https://die-zukunft.ch/en/zukunftslabor/notizen/talent-ueberqualifikation/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
 In 2024 Switzerland recorded net migration of +82,792 people.
-Yet qualifications are systematically wasted: 36% of third-country nationals
-work below their level (vs. 13% of Swiss nationals). The estimated loss of value added
-amounts to ~CHF 3.6 billion per year.
+Yet many qualifications remain unused: 36% of third-country nationals
+work below their level (vs. 13% of Swiss nationals). According to our own rough estimate, this
+means around CHF 3.6 billion in forgone wages per year.
 
 <!-- more -->
 
@@ -2643,11 +2835,16 @@ Migration data: FSO migration statistics (1991–2024).
 Overqualification: FSO Structural Survey / SLFS (self-assessment + formal qualification),
 supplemented by the OECD Indicators of Talent Attractiveness 2023.
 
+The loss estimate is our own rough estimate: around 200,000 overqualified
+immigrant workers × an assumed wage gap of around CHF 18,000 per year
+≈ CHF 3.6 billion. Both values are assumptions, not published statistics;
+the figure indicates an order of magnitude.
+
 ---
 
 ### Foreign population by permit type
 
-The composition of the foreign population has shifted: EU/EFTA settled residents dominate, while short-term stays fluctuate with the economic cycle. The chart shows the development of the resident stock — steady growth that reflects the Swiss economy's demand for labour.
+The composition of the foreign population has shifted: settled residents (C permits) remain the majority, but since 2021 the number of residence-permit holders (B) in particular has grown — from 759,769 to 915,566 (2024). The chart shows the development of the resident stock — steady growth that reflects the Swiss economy's demand for labour.
 
 ---
 
@@ -2665,7 +2862,7 @@ Net migration shows who arrives and who leaves. EU/EFTA citizens account for the
 
 ### Sectors with a high share of overqualification
 
-Certain sectors systematically "waste" talent: hospitality, cleaning and retail employ a particularly large number of overqualified people. This is a loss of value added in two senses — for those affected (lower wages) and for the economy (unused skills).
+In certain sectors a particularly large amount of talent remains unused: hospitality, cleaning and retail employ a particularly large number of overqualified people. This is a loss of value added in two senses — for those affected (lower wages) and for the economy (unused skills).
 
 ---
 
@@ -2673,7 +2870,7 @@ Certain sectors systematically "waste" talent: hospitality, cleaning and retail 
 
 - Overqualification is based on self-assessment and formal recognition of diplomas
 - Not all foreign diplomas are automatically equivalent (language barriers, protected professions)
-- The estimate of economic loss is an order of magnitude (the wage gap varies widely by sector)
+- The estimate of economic loss is our own rough estimate with assumed values (number of people affected; the wage gap varies widely by sector)
 - SLFS data are sample data with confidence intervals
 
 ---
@@ -2734,7 +2931,7 @@ The number of Global Talent visas (in 2019 and partly 2020 still its predecessor
 
 ## What this means for policy
 
-- **A dedicated talent visa outside the quotas:** narrow, verifiable criteria (salary threshold or endorsement by the ETH Domain, universities, SNSF, Innosuisse), a decision within ten working days, family included: [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/).
+- **A dedicated talent visa outside the quotas:** narrow, verifiable criteria (salary threshold or endorsement by the ETH Domain, universities, SNSF, Innosuisse), a decision within ten working days, family included: [Talent, Integration & Rule of Law](@/talent-integration.en.md).
 - **Start small and measurable:** an order of magnitude like the United Kingdom or Singapore (a few thousand per year), not like Hong Kong; an annual report on permits granted, retention and company formations.
 - **Measure retention, not volume:** the Hong Kong example shows that extension rates are more meaningful than application numbers.
 
@@ -2805,7 +3002,7 @@ Members of the Federal Assembly must disclose their professional activities, man
 
 ## What this means for policy
 
-- **Justify exemptions and give them a time limit:** every new exemption from the FoIA with a public justification and an expiry date; the existing 13 are reviewed: [Open Government](https://die-zukunft.ch/en/open-government/).
+- **Justify exemptions and give them a time limit:** every new exemption from the FoIA with a public justification and an expiry date; the existing 13 are reviewed: [Open Government](@/offener-staat.en.md).
 - **Proactive rather than on request:** document registers on the Estonian model, so that documents do not have to be requested individually in the first place.
 - **Meet deadlines:** resource the FDPIC so that the 30-day deadline is the rule again; measure it publicly every year.
 - **Put a figure on interests:** disclose income from mandates in bands; examine term limits on the Basel model.
@@ -2829,13 +3026,15 @@ Members of the Federal Assembly must disclose their professional activities, man
 
 # Defence: What Does the Swiss Defence Franc Buy?
 
-> Switzerland spends 0.706% of GDP on defence. 58% goes on personnel — but the population wants cyber defence and disaster relief.
+> According to SIPRI, Switzerland spent 0.76% of GDP on defence in 2025, less than any of the European countries compared. The question is not only how much more, but what for.
 
 Source: https://die-zukunft.ch/en/zukunftslabor/notizen/verteidigung-ausgaben-prioritaeten/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
-Switzerland spends 0.706% of GDP on defence (2023). The
-militia troop strength (140,000) ties up 58% of the budget in personnel. Cyber defence and
-disaster relief — top priorities for the population (82%/88%) — each receive only 3–4%.
+According to SIPRI, Switzerland spent 0.76% of GDP on defence in 2025
+(USD 7.6 billion), after 0.70% in 2024. That puts it below all the
+European countries compared. The militia army with around 140,000 members
+keeps per-capita costs low, so the question is not only "how much more"
+but "what for".
 
 <!-- more -->
 
@@ -2843,64 +3042,56 @@ disaster relief — top priorities for the population (82%/88%) — each receive
 
 ## Methodology
 
-Defence expenditure as a share of GDP: World Bank / SIPRI (2000–2023,
-8 countries). Cost per soldier: IISS Military Balance 2024.
-Budget allocation: DDPS Armeebotschaft 2024 [armed forces dispatch], simplified categories.
-Population priorities: ETH CSS Security Study 2024.
+Defence expenditure as a share of GDP: SIPRI Military Expenditure Database
+(April 2026 edition, 2000–2025, 7 countries). Cost per soldier: IISS
+Military Balance 2024 (2023/24 data).
 
 ---
 
 ### Swiss spending trend
 
-Swiss defence expenditure has fallen continuously since the 1990s and is now well below 1% of GDP. The current political pressure to increase it contrasts with a decades-long trend of cuts — the question is not only "how much more" but "for what".
+Swiss defence expenditure fell from around 1% of GDP (2000) to 0.64% (2014) and has since risen to 0.76% (2025), still well below 1% of GDP. In real terms it grew by 9.4% in 2025 compared with the previous year (SIPRI). The current political pressure to increase it contrasts with a decades-long trend of cuts — the question is not only "how much more" but "for what".
 
 ---
 
 ### International comparison
 
-In international comparison, Switzerland is at the lower end — below the NATO target of 2% and below most of its European neighbours. It should be noted that Switzerland has no alliance obligations, which puts the direct comparison into perspective but does not make the capability gaps any smaller.
+In international comparison, Switzerland is at the lower end: in 2025 Austria spent 1.1%, France 2.0%, Germany 2.3%, Sweden 2.5% and Finland 2.6% of GDP. At the summit in The Hague (June 2025), NATO members committed to spending 5% of GDP annually by 2035: at least 3.5% on core defence requirements and up to 1.5% on defence- and security-related spending such as infrastructure protection and resilience. This target does not apply to neutral Switzerland, and without alliance obligations the direct comparison is relative. The capability gaps, however, do not become any smaller.
 
 ---
 
 ### Cost per active soldier
 
-The militia system leads to a particular cost structure: Switzerland has 140,000 members of the armed forces, but most of them serve in the militia. Costs per soldier are lower than in professional armies — but personnel costs tie up 58% of the total budget, leaving little room for modernisation.
-
----
-
-### Budget vs. population priorities
-
-The discrepancy between budget allocation and the population's priorities is striking: cyber security and disaster relief are rated as priorities by 82–88% of the population but each receive only 3–4% of the budget. Conventional national defence ties up most of the money — even though threat perceptions have shifted.
+The militia system leads to a particular cost structure: Switzerland has around 140,000 members of the armed forces, most of whom serve in the militia. Per-capita costs are therefore much lower than in professional armies. The figures are not directly comparable, because militia members do not fill full-time positions.
 
 ---
 
 ## Limitations
 
 - Militia troop strength ≠ full-time equivalents (cost per member of the armed forces not directly comparable)
-- DDPS budget categories shown in simplified form
-- Population priorities: survey (not weighted by security expertise)
-- SIPRI data: definitions of defence expenditure differ between countries
+- Cost-per-soldier comparison based on IISS 2023/24 data, not updated
+- SIPRI data: definitions of defence expenditure differ between countries; 2025 GDP shares based on IMF estimates
 
 ---
 
 ## Data sources
 
-- World Bank / SIPRI: Military expenditure (% of GDP), 2000–2023
+- SIPRI Military Expenditure Database, April 2026 edition: https://www.sipri.org/databases/milex (data table: https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2025.xlsx)
+- SIPRI Fact Sheet "Trends in World Military Expenditure, 2025" (April 2026): https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf
+- NATO: The Hague Summit, 24–25 June 2025 (5% of GDP by 2035, of which 3.5% core defence and 1.5% defence- and security-related spending), https://www.nato.int/en/news-and-events/articles/news/2025/06/27/nato-concludes-historic-summit-in-the-hague
 - IISS: Military Balance 2024 — troop strength and budgets
-- DDPS: Armeebotschaft 2024 [armed forces dispatch] — budget allocation
-- ETH CSS: Sicherheit 2024 [Security 2024] — security policy opinion formation
 
 ---
 
 # Continuing Education: Who Takes Part — and Who Does Not?
 
-> The gap in continuing education is huge: highly qualified people take part 2.6× more often than those with low qualifications. The most exposed industries in particular invest too little.
+> The gap in continuing education is huge: highly qualified people take part 2.6× more often than those with low qualifications. Industries with a lot of manual work train the least — not the office occupations with the highest AI risk.
 
 Source: https://die-zukunft.ch/en/zukunftslabor/notizen/weiterbildung-teilnahme-luecken/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
 Participation in continuing education is stagnating at 60% — and the gap between
-highly and low-qualified people (79% vs. 30%) is enormous. Industries with
-a high automation risk often have below-average participation in continuing education.
+highly and low-qualified people (79% vs. 30%) is enormous. The lowest rates are found in
+hospitality, transport and construction — not in the industries with the highest AI risk.
 
 <!-- more -->
 
@@ -2911,7 +3102,9 @@ a high automation risk often have below-average participation in continuing educ
 Continuing education data from the FSO Microcensus on Education and Training
 (2011, 2016, 2021). Participation in non-formal education (courses,
 seminars, in-company training). Employment data from the FSO SLFS
-(2024). Automation risk: IMF AI Preparedness Index 2024.
+(2024). Automation risk: modelled post-LLM industry values from the note
+on automation risk by industry (our own assumptions based on the IMF,
+Cazzaniga et al. 2024, not measured values).
 
 ---
 
@@ -2923,7 +3116,7 @@ Highly qualified people take part in continuing education 2.6 times more often t
 
 ### By age group
 
-Participation drops markedly from the age of 45. Yet continuing education is crucial precisely for the 45–64 age group: they still have to hold their own for 15–20 years in a changing labour market. The decline is less an individual problem than a failure of the in-company and institutional provision.
+Participation declines with age and drops markedly from 55 (55–64: 51%). Yet continuing education is crucial precisely for the 45–64 age group: they still have to hold their own for 15–20 years in a changing labour market. The decline is less an individual problem than a failure of the in-company and institutional provision.
 
 ---
 
@@ -2935,7 +3128,7 @@ A decade of near standstill: the overall rate has hovered around 60% since 2011.
 
 ### Cross-analysis with automation risk
 
-The most critical finding: industries with the highest automation risk often have the lowest continuing education rate. The most exposed sectors invest the least in the adaptability of their employees — a structural risk that calls for political intervention.
+The relationship is weakly positive (r = 0.28): the industries with the highest post-LLM risk — finance, professional services, ICT — train above average (75–78%). The lowest rates are in hospitality (35%), other business services (38%) and transport (40%), whose risk lies in the middle range. That is where adaptability for the next structural change is missing — a structural risk that calls for targeted provision.
 
 ---
 
@@ -2943,6 +3136,7 @@ The most critical finding: industries with the highest automation risk often hav
 
 - The FSO Microcensus is conducted only every 5 years
 - Industry-specific continuing education rates partly estimated
+- Automation risk by industry is modelled, not measured
 - Quality of continuing education not recorded (participation only)
 - Correlation ≠ causation
 

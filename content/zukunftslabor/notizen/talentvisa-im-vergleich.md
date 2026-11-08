@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["talent", "talent-visum", "migration", "forschung", "vergleich"]
 charts = ["talent_bearbeitungszeit.svg", "talent_erteilungen.svg", "talent_uk_verlauf.svg"]
 pillar = "talent-integration"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Erstveröffentlichung am 8. November 2026; Zahlen und Quellen entsprechen dem Stand bei Veröffentlichung."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Erstveröffentlichung."
 +++
 
 Singapur (ONE Pass), Hongkong (Top Talent Pass Scheme) und Grossbritannien (Global Talent) haben eigene Zulassungswege für Spitzenkräfte geschaffen. Gemeinsam ist ihnen: klare Kriterien statt Einzelfallprüfung des Arbeitsmarkts, ein Entscheid in rund vier bis acht Wochen und die Familie inklusive. Die Schweiz hat keinen solchen Weg; Forschende und Gründerinnen aus Drittstaaten laufen durch dasselbe Kontingentsverfahren wie alle qualifizierten Arbeitskräfte. Es geht hier um einen schmalen, schnellen Zugang für wenige Tausend Personen pro Jahr, nicht um mehr allgemeine Zuwanderung.

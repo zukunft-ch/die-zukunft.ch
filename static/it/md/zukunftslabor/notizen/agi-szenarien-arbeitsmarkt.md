@@ -45,8 +45,8 @@ Nel più ampio sondaggio condotto tra 2'778 ricercatrici e ricercatori di IA (au
 
 ## Cosa significa per la politica
 
-- **Per lo scenario A:** adeguare costantemente la formazione continua in azienda e le professioni di tirocinio, in modo mirato per le professioni d'ufficio e amministrative; pubblicare ogni anno esposizione e occupazione per professione: [Lavorare senza paura](https://il-futuro.ch/transizioni/).
-- **Per lo scenario B:** strumenti preparati, da potenziare rapidamente: assicurazione salariale in caso di cambio di professione, un modello di reddito di base sperimentato come fondamento e un dividendo dagli aumenti di produttività: [Reddito di base](https://il-futuro.ch/reddito-di-base/).
+- **Per lo scenario A:** adeguare costantemente la formazione continua in azienda e le professioni di tirocinio, in modo mirato per le professioni d'ufficio e amministrative; pubblicare ogni anno esposizione e occupazione per professione: [Lavorare senza paura](@/uebergaenge.it.md).
+- **Per lo scenario B:** strumenti preparati, da potenziare rapidamente: assicurazione salariale in caso di cambio di professione, un modello di reddito di base sperimentato come fondamento e un dividendo dagli aumenti di produttività: [Reddito di base](@/grundeinkommen.it.md).
 - **Per entrambi:** pianifichiamo per il caso anticipato, senza profetizzarlo. Indicatori precoci come i dati trimestrali della RIFOS per professione devono stabilire quando attivare gli strumenti dello scenario B.
 
 ---

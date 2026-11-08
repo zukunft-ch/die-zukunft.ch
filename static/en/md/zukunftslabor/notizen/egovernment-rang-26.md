@@ -51,7 +51,7 @@ Switzerland has a foundation too: since 1 January 2024 the EMBAG (Federal Act on
 
 ## What this means for policy
 
-- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](https://die-zukunft.ch/en/open-government/).
+- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](@/offener-staat.en.md).
 - **Enshrine once-only in law:** data that one authority already holds may not be requested again by another; exchange takes place via documented interfaces (API by default).
 - **E-ID with a timetable:** document the security work openly and publish a binding launch date with milestones.
 - **Meet the EMBAG deadline:** from 2027, publicly report which federal offices actually make their data openly available.

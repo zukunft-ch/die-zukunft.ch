@@ -16,7 +16,7 @@ Depuis aujourd'hui, le nouveau site de Le Futur est en ligne. Il a changé d'app
 
 L'ancien site était une suite de diapositives. On faisait défiler, une page s'enclenchait, puis venait la suivante. Cela paraissait calme, mais cachait deux choses : notre message et la profondeur qui se trouve derrière.
 
-La nouvelle page d'accueil fonctionne par niveaux. Tout en haut figure ce que nous voulons : « Le Futur. Nous le construisons. » et trois phrases qui résument notre posture : prospérité au lieu de la pensée de pénurie, sécurité au lieu de la peur, souveraineté au lieu de la dépendance. Suivent les dix thèses du [manifeste](@/manifest.md), puis les treize piliers du [programme](@/programm.md) d'un seul coup d'œil, puis les preuves issues du [Laboratoire du futur](@/zukunftslabor/_index.md). Si tu n'as qu'une minute, tu nous comprends. Si tu as une soirée, tu trouves les sources.
+La nouvelle page d'accueil fonctionne par niveaux. Tout en haut figure ce que nous voulons : « Le Futur. Nous le construisons. » et trois phrases qui résument notre posture : prospérité au lieu de la pensée de pénurie, sécurité au lieu de la peur, souveraineté au lieu de la dépendance. Suivent les dix thèses du [manifeste](@/manifest.fr.md), puis les treize piliers du [programme](@/programm.fr.md) d'un seul coup d'œil, puis les preuves issues du [Laboratoire du futur](@/zukunftslabor/_index.fr.md). Si tu n'as qu'une minute, tu nous comprends. Si tu as une soirée, tu trouves les sources.
 
 ![La nouvelle page d'accueil : logotype, phrase clé et la croix suisse en cubes en arrière-plan](/aktuelles/neues-gesicht/startseite.webp)
 
@@ -44,8 +44,8 @@ C'est la même méthode que nous proposons pour la politique : poser les variant
 
 ## Ce qui est nouveau
 
-- **La vision comme plan de construction.** La [vision](@/vision.md) présente « la pile de l'abondance » : de l'énergie à l'application dans tous les secteurs et à un dividende pour toutes et tous, en passant par la puissance de calcul, l'IA souveraine et les talents. Avec des chiffres, des sources et des objectifs datés.
-- **Un nouveau pilier.** [IA souveraine & puissance de calcul](@/souveraene-ki.md) figure désormais en tête du programme, parce que tout le reste repose dessus.
+- **La vision comme plan de construction.** La [vision](@/vision.fr.md) présente « la pile de l'abondance » : de l'énergie à l'application dans tous les secteurs et à un dividende pour toutes et tous, en passant par la puissance de calcul, l'IA souveraine et les talents. Avec des chiffres, des sources et des objectifs datés.
+- **Un nouveau pilier.** [IA souveraine & puissance de calcul](@/souveraene-ki.fr.md) figure désormais en tête du programme, parce que tout le reste repose dessus.
 - **Le manifeste, version 2.0.** Dix thèses, chacune avec une adresse permanente que l'on peut lier et citer.
 - **Épingler.** Tu peux épingler chaque section et la retrouver plus tard. Les épingles restent dans ton navigateur, sans compte et sans cookies, et peuvent être partagées sous forme de lien.
 - **Plus calme sur mobile.** Beaucoup se sont plaints de l'enclenchement « magnétique » lors du défilement, en particulier sur iPhone. Il a disparu. La page défile librement, et les formulaires ne zooment plus sans qu'on le demande.
@@ -60,4 +60,4 @@ Chaque section a une adresse dans le coin, par exemple 0x1002 pour la première 
 
 Si tu trouves une erreur, as une meilleure formulation ou veux améliorer une traduction, tu peux contribuer directement, avec une issue ou une pull request. Un parti qui réclame un État ouvert devrait lui-même travailler ouvertement.
 
-Le futur est un chantier. Ce site aussi. [Construis avec nous.](@/mitmachen.md)
+Le futur est un chantier. Ce site aussi. [Construis avec nous.](@/mitmachen.fr.md)

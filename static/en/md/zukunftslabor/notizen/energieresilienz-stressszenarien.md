@@ -8,7 +8,7 @@ Source: https://die-zukunft.ch/en/zukunftslabor/notizen/energieresilienz-stresss
 Four stress scenarios based on real SFOE data (2024) show that
 in the worst case (dry year + nuclear phase-out) Switzerland would
 have to import 39.1% of its electricity — at a cost of
-CHF 2.29 billion per year at current spot prices.
+around CHF 2.07 billion per year at EUR 90/MWh.
 
 <!-- more -->
 
@@ -24,39 +24,41 @@ modify the production figures of the base year:
 - **C — Nuclear phase-out**: nuclear power plants shut down (−22,983 GWh)
 - **D — Combined**: dry year + nuclear phase-out
 
-Import costs calculated at EUR 90/MWh (European average spot price).
+Import costs calculated at EUR 90/MWh (European average spot price 2023–2024) and
+an exchange rate of CHF 0.95 per EUR, i.e. around CHF 86/MWh.
 Final energy consumption by sector from the SFOE overall energy balance.
 
 ---
 
 ### Electricity mix
 
-Hydropower and nuclear energy dominate Swiss electricity production, together accounting for over 90%. This concentration on two sources is both a strength (low CO₂) and a vulnerability — both are sensitive to external shocks: drought for hydropower, political decisions for nuclear.
+Hydropower and nuclear energy dominate Swiss electricity production, together accounting for over 90%. This concentration on two sources is both a strength (dispatchable domestic production) and a vulnerability — both are sensitive to external shocks: drought for hydropower, political decisions for nuclear.
 
 ---
 
 ### Final energy consumption by sector
 
-Industry and transport are the largest electricity consumers. The sectoral distribution shows where efficiency gains and electrification (e.g. electric mobility) have the greatest leverage — and where additional electricity demand will arise.
+Transport and households are the largest final energy consumers (all energy carriers, not just electricity). The sectoral distribution shows where efficiency gains and electrification (e.g. electric mobility) have the greatest leverage — and where additional electricity demand will arise.
 
 ---
 
 ### Stress scenarios
 
-Four scenarios show the range of vulnerability: from the stable baseline to the worst case (dry year + nuclear phase-out). The combined scenario creates an import dependence that cannot easily be covered when European markets are tight.
+Four scenarios show the range of vulnerability: from the stable baseline to the worst case (dry year + nuclear phase-out). The combined scenario creates an import dependence that cannot easily be covered when European markets are tight. Scenario C is a stress test, not a forecast: the current Nuclear Energy Act prohibits new nuclear power plants, while the existing ones may run as long as they are safe. In August 2025 the Federal Council proposed lifting the ban on new plants as an indirect counter-proposal to the popular initiative "Blackout stoppen" (stop the blackout). How long today's plants will run and whether new ones will be built remains politically open.
 
 ---
 
 ### Import costs
 
-The financial consequences of import dependence are considerable: in the worst case, annual import costs amount to several billion francs — calculated at current European spot prices. At market peaks (as in 2022), the costs would be a multiple of that.
+The financial consequences of import dependence are considerable: in the worst case, annual import costs amount to around CHF 2.1 billion — calculated at EUR 90/MWh and CHF 0.95 per EUR. Any deviation in the exchange rate shifts the costs proportionally. At market peaks (as in 2022), the costs would be a multiple of that.
 
 ---
 
 ## Limitations
 
 - Static scenarios (no expansion of solar/wind, no reduction in demand)
-- Import prices fluctuate strongly (2022: up to EUR 400/MWh)
+- Import prices fluctuate strongly (2022: up to EUR 400/MWh); EUR/CHF exchange rate as a fixed assumption (0.95)
+- Data basis 2024; the SFOE electricity balance 2025 has not yet been incorporated
 - Seasonal effects not modelled (winter gap > annual average)
 - No storage effects (pumped storage, batteries)
 
@@ -64,6 +66,7 @@ The financial consequences of import dependence are considerable: in the worst c
 
 ## Data sources
 
-- SFOE: Schweizerische Elektrizitätsbilanz [Swiss electricity balance] (OGD, annual values)
-- SFOE: Schweizerische Gesamtenergiebilanz [Swiss overall energy balance] (final energy consumption by sector)
+- SFOE: Swiss electricity balance (OGD, annual figures)
+- SFOE: Swiss overall energy balance (final energy consumption by sector)
 - ENTSO-E: European electricity prices (day-ahead spot market)
+- Federal Council: press release of 13 August 2025 on the dispatch on the "Blackout stoppen" initiative and the indirect counter-proposal (lifting the ban on new nuclear power plants, in German), https://www.admin.ch/de/newnsb/GIECKzWVs6ZX6W1ba4i6X

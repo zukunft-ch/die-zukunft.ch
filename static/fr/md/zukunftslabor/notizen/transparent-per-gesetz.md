@@ -49,7 +49,7 @@ Les membres de l'Assemblée fédérale doivent déclarer leurs activités profes
 
 ## Ce que cela signifie pour la politique
 
-- **Justifier et limiter dans le temps les exceptions :** toute nouvelle exception à la LTrans doit être assortie d'une justification publique et d'une date d'échéance ; les 13 exceptions existantes sont réexaminées : [État ouvert](https://le-futur.ch/etat-ouvert/).
+- **Justifier et limiter dans le temps les exceptions :** toute nouvelle exception à la LTrans doit être assortie d'une justification publique et d'une date d'échéance ; les 13 exceptions existantes sont réexaminées : [État ouvert](@/offener-staat.fr.md).
 - **Proactif plutôt que sur demande :** des registres de documents sur le modèle estonien, afin que les documents n'aient plus à être demandés un par un.
 - **Respecter les délais :** doter le PFPDT des moyens nécessaires pour que le délai de 30 jours redevienne la règle ; le mesurer publiquement chaque année.
 - **Chiffrer les intérêts :** publier les revenus tirés des mandats par fourchettes ; examiner des limitations de la durée des mandats sur le modèle bâlois.

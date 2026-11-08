@@ -18,7 +18,7 @@
       },
       {
         "Kategorie": "Überschuss",
-        "Wert %": 1.9000000000000004
+        "Wert %": 1.9
       }
     ]
   },
@@ -56,6 +56,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "Verwaltungsüberschuss der Schweiz",
+  "title": "Verwaltungsanteil Schweiz vs. OECD-Schnitt (OECD-Abgrenzung)",
   "width": 720
 }

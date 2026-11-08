@@ -8,7 +8,7 @@ Source: https://die-zukunft.ch/zukunftslabor/notizen/grundeinkommen-finanzierung
 Drei Finanzierungsmodelle für ein bedingungsloses Grundeinkommen von CHF 2'500/Monat
 zeigen grundlegend verschiedene Verteilungswirkungen. Eine pauschale Einkommensteuer
 senkt den Gini am stärksten. Die Ablösung bestehender Transfers spart zwar Steuern,
-kann aber die ärmsten Haushalte schlechter stellen — ein nicht-trivialer Befund.
+bringt aber den ärmsten Haushalten am wenigsten — ein nicht-trivialer Befund.
 Eine Konsumsteuer wirkt progressiv, aber schwächer.
 
 <!-- more -->
@@ -17,31 +17,37 @@ Eine Konsumsteuer wirkt progressiv, aber schwächer.
 
 ## Methodik
 
-Grundlage sind die Einkommensanteile nach Dezilen aus der
-Haushaltsbudgeterhebung (HABE) 2018 des BFS. Daraus werden absolute
-Monatseinkommen pro Dezil geschätzt (Anteil × Mittelwert × 10).
+Grundlage sind die Anteile der Dezile am verfügbaren Äquivalenzeinkommen
+aus der BFS-Tabelle «Kennzahlen zur Verteilung der Einkommen»
+(Datengrundlage 2018, Haushaltsbudgeterhebung HABE). Daraus werden
+absolute verfügbare Äquivalenzeinkommen pro Dezil und Monat geschätzt
+(Anteil × Mittelwert × 10).
 
 Drei Finanzierungsszenarien werden simuliert:
 
-- **A — Pauschale Einkommensteuer**: Bruttokosten (CHF 222.0 Mrd./Jahr)
+- **A — Pauschale Einkommensteuer**: Bruttokosten (CHF 222 Mrd./Jahr)
   werden über einen linearen Einkommensteuerzuschlag finanziert.
 - **B — Transferablösung**: AHV, IV, EL, Sozialhilfe, ALV und Familienzulagen
-  (CHF 79.0 Mrd.) werden durch das UBI ersetzt.
+  (CHF 79 Mrd.) werden durch das UBI ersetzt.
   Der verbleibende Betrag wird über Einkommensteuer finanziert.
 - **C — Konsumsteuer**: Die Finanzierung erfolgt über einen MwSt.-Zuschlag.
   Konsumquoten variieren nach Dezil (D1: 95%, D10: 55%).
+
+Das Modell ist statisch: Es ignoriert Verhaltensreaktionen wie ein
+verändertes Arbeitsangebot, andere Konsummuster oder Ausweichverhalten bei
+Steuern. Die Resultate zeigen reine Erstrundeneffekte.
 
 ---
 
 ### Baseline: Einkommensverteilung 2018
 
-Die heutige Einkommensverteilung zeigt eine starke Konzentration: Das oberste Dezil verfügt über rund einen Viertel des Gesamteinkommens, das unterste über weniger als 3%. Diese Baseline ist der Ausgangspunkt für alle drei Szenarien — sie zeigt, von welcher Ausgangslage aus Umverteilung wirkt.
+Die heutige Einkommensverteilung zeigt eine starke Konzentration: Das oberste Dezil verfügt über gut einen Fünftel (22%) des gesamten verfügbaren Äquivalenzeinkommens, das unterste über weniger als 3%. Diese Baseline ist der Ausgangspunkt für alle drei Szenarien — sie zeigt, von welcher Ausgangslage aus Umverteilung wirkt.
 
 ---
 
 ### Nettowirkung der drei Szenarien
 
-Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkommensteuer) verteilt linear um — untere Dezile gewinnen, obere verlieren. Szenario B (Transferablösung) produziert ein Paradox: Die untersten Dezile können netto verlieren, weil bestehende Transfers höher waren als das UBI. Szenario C (Konsumsteuer) belastet untere Dezile stärker über ihre höhere Konsumquote.
+Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkommensteuer) verteilt linear um — untere Dezile gewinnen, obere verlieren. Szenario B (Transferablösung) produziert ein Paradox: Die untersten Dezile gewinnen netto am wenigsten (D1: +92 CHF/Monat), weil das Grundeinkommen ihre bisherigen Transfers weitgehend nur ersetzt. Szenario C (Konsumsteuer) belastet untere Dezile über ihre höhere Konsumquote relativ stärker; netto gewinnen sie dank Grundeinkommen dennoch deutlich.
 
 ---
 
@@ -60,15 +66,15 @@ Hier wird sichtbar, welche Dezile netto gewinnen oder verlieren. Der Wendepunkt 
 ## Einschränkungen
 
 - Aggregierte Dezildaten statt Mikrodaten (Individualdaten erfordern BFS-Antrag)
-- Keine Verhaltensanpassungen (Arbeitsangebot, Konsummuster)
+- Keine Verhaltensreaktionen modelliert (Arbeitsangebot, Konsummuster, Steuerausweichung): statische Erstrundeneffekte
 - Transferverteilung auf Dezile geschätzt (nicht direkt aus SILC-Mikrodaten)
 - Konsumquoten nach Dezil basieren auf Literaturwerten, nicht BFS-HABE-Detail
-- Daten nur bis 2018 verfügbar (neueste BFS-HABE-Publikation)
+- Datengrundlage 2018: Die verwendete BFS-Tabellenreihe endet 2018; neuere HABE- und SILC-Wellen sind noch nicht eingearbeitet
 
 ---
 
 ## Datenquellen
 
-- BFS HABE 2018: Einkommensanteile nach Dezilen (Verfügbares Äquivalenzeinkommen)
+- BFS: Kennzahlen zur Verteilung der Einkommen vor und nach staatlichen Transfers (HABE, Datengrundlage 2018), Anteile der Dezile am verfügbaren Äquivalenzeinkommen, https://www.bfs.admin.ch/bfsstatic/dam/assets/15344786/master
 - BSV Sozialversicherungsstatistik: Transfervolumen AHV, IV, EL, ALV
 - BFS SILC: publizierte Verteilungsanteile der Sozialtransfers

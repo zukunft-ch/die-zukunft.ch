@@ -47,9 +47,9 @@ Les différences entre l'Allemagne et les États-Unis le montrent : le marché d
 
 ## Ce que cela signifie pour la politique
 
-- **Un objectif mesurable :** doubler la densité de robots pour atteindre environ 600 d'ici 2035 et en rendre compte chaque année sur la base des données de l'IFR : [Réindustrialisation par la robotique](https://le-futur.ch/robotique/).
+- **Un objectif mesurable :** doubler la densité de robots pour atteindre environ 600 d'ici 2035 et en rendre compte chaque année sur la base des données de l'IFR : [Réindustrialisation par la robotique](@/robotik.fr.md).
 - **Soutenir les PME de manière ciblée :** les grandes entreprises exportatrices automatisent par elles-mêmes. Le levier se situe auprès des PME, par exemple avec des centres d'essai partagés, des modèles de leasing et du conseil.
-- **Organiser la transition au sein de l'entreprise :** le modèle allemand, la reconversion dans la même entreprise plutôt que le licenciement, devrait être soutenu par des bons de formation continue et des apprentissages dans la robotique et la maintenance : [Travailler sans peur](https://le-futur.ch/transitions/).
+- **Organiser la transition au sein de l'entreprise :** le modèle allemand, la reconversion dans la même entreprise plutôt que le licenciement, devrait être soutenu par des bons de formation continue et des apprentissages dans la robotique et la maintenance : [Travailler sans peur](@/uebergaenge.fr.md).
 
 ---
 

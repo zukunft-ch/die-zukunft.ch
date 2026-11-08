@@ -1,0 +1,159 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Jahr": 2025,
+        "Szenario": "Referenzszenario A-00-2025",
+        "Quotient": 33.0
+      },
+      {
+        "Jahr": 2025,
+        "Szenario": "«Hohes» Szenario B-00-2025",
+        "Quotient": 32.9
+      },
+      {
+        "Jahr": 2025,
+        "Szenario": "«Tiefes» Szenario C-00-2025",
+        "Quotient": 33.1
+      },
+      {
+        "Jahr": 2030,
+        "Szenario": "Referenzszenario A-00-2025",
+        "Quotient": 36.8
+      },
+      {
+        "Jahr": 2030,
+        "Szenario": "«Hohes» Szenario B-00-2025",
+        "Quotient": 36.6
+      },
+      {
+        "Jahr": 2030,
+        "Szenario": "«Tiefes» Szenario C-00-2025",
+        "Quotient": 37.0
+      },
+      {
+        "Jahr": 2035,
+        "Szenario": "Referenzszenario A-00-2025",
+        "Quotient": 39.6
+      },
+      {
+        "Jahr": 2035,
+        "Szenario": "«Hohes» Szenario B-00-2025",
+        "Quotient": 39.3
+      },
+      {
+        "Jahr": 2035,
+        "Szenario": "«Tiefes» Szenario C-00-2025",
+        "Quotient": 40.0
+      },
+      {
+        "Jahr": 2040,
+        "Szenario": "Referenzszenario A-00-2025",
+        "Quotient": 40.9
+      },
+      {
+        "Jahr": 2040,
+        "Szenario": "«Hohes» Szenario B-00-2025",
+        "Quotient": 40.6
+      },
+      {
+        "Jahr": 2040,
+        "Szenario": "«Tiefes» Szenario C-00-2025",
+        "Quotient": 41.2
+      },
+      {
+        "Jahr": 2045,
+        "Szenario": "Referenzszenario A-00-2025",
+        "Quotient": 41.9
+      },
+      {
+        "Jahr": 2045,
+        "Szenario": "«Hohes» Szenario B-00-2025",
+        "Quotient": 41.8
+      },
+      {
+        "Jahr": 2045,
+        "Szenario": "«Tiefes» Szenario C-00-2025",
+        "Quotient": 42.2
+      },
+      {
+        "Jahr": 2050,
+        "Szenario": "Referenzszenario A-00-2025",
+        "Quotient": 43.3
+      },
+      {
+        "Jahr": 2050,
+        "Szenario": "«Hohes» Szenario B-00-2025",
+        "Quotient": 43.1
+      },
+      {
+        "Jahr": 2050,
+        "Szenario": "«Tiefes» Szenario C-00-2025",
+        "Quotient": 43.6
+      }
+    ]
+  },
+  "title": "Altersquotient: Personen ab 65 Jahren je 100 Personen zwischen 20 und 64 (BFS-Szenarien)",
+  "width": 720,
+  "height": 360,
+  "mark": {
+    "type": "line",
+    "strokeWidth": 2,
+    "point": {
+      "size": 50
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "Jahr",
+      "type": "ordinal",
+      "title": null
+    },
+    "y": {
+      "field": "Quotient",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          0,
+          50
+        ]
+      },
+      "title": "ab 65-Jährige je 100 20- bis 64-Jährige"
+    },
+    "color": {
+      "field": "Szenario",
+      "type": "nominal",
+      "sort": [
+        "Referenzszenario A-00-2025",
+        "«Hohes» Szenario B-00-2025",
+        "«Tiefes» Szenario C-00-2025"
+      ],
+      "legend": {
+        "orient": "bottom",
+        "title": null
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Jahr",
+        "type": "ordinal"
+      },
+      {
+        "field": "Szenario",
+        "type": "nominal"
+      },
+      {
+        "field": "Quotient",
+        "type": "quantitative",
+        "format": ".1f"
+      }
+    ]
+  }
+}

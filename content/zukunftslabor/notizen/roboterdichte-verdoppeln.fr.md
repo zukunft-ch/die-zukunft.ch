@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["robotique", "industrie", "productivite", "emploi", "ifr"]
 charts = ["roboter_dichte_vergleich.svg", "roboter_industrie_beschaeftigung.svg", "roboter_industrie_anteil.svg"]
 pillar = "robotik"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Première publication le 8 novembre 2026 ; chiffres et sources à jour au moment de la publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Première publication."
 +++
 
 Avec 294 robots industriels pour 10 000 personnes employées, la Suisse figure de justesse parmi les dix premiers pays du monde en 2024, mais nettement derrière la Corée du Sud (1 220), Singapour (818), l'Allemagne (449) et le Japon (446). Un doublement à environ 600 placerait la Suisse devant l'Allemagne. Depuis 2010, l'industrie emploie de manière assez stable entre 630 000 et 650 000 personnes environ, mais sa part dans l'ensemble des personnes actives occupées diminue. Des études menées dans des pays comparables montrent des gains de productivité nets grâce aux robots ; l'effet sur l'emploi est mitigé et dépend de la manière dont la transformation est conduite.
@@ -63,9 +72,9 @@ Les différences entre l'Allemagne et les États-Unis le montrent : le marché d
 
 ## Ce que cela signifie pour la politique
 
-- **Un objectif mesurable :** doubler la densité de robots pour atteindre environ 600 d'ici 2035 et en rendre compte chaque année sur la base des données de l'IFR : [Réindustrialisation par la robotique](@/robotik.md).
+- **Un objectif mesurable :** doubler la densité de robots pour atteindre environ 600 d'ici 2035 et en rendre compte chaque année sur la base des données de l'IFR : [Réindustrialisation par la robotique](@/robotik.fr.md).
 - **Soutenir les PME de manière ciblée :** les grandes entreprises exportatrices automatisent par elles-mêmes. Le levier se situe auprès des PME, par exemple avec des centres d'essai partagés, des modèles de leasing et du conseil.
-- **Organiser la transition au sein de l'entreprise :** le modèle allemand, la reconversion dans la même entreprise plutôt que le licenciement, devrait être soutenu par des bons de formation continue et des apprentissages dans la robotique et la maintenance : [Travailler sans peur](@/uebergaenge.md).
+- **Organiser la transition au sein de l'entreprise :** le modèle allemand, la reconversion dans la même entreprise plutôt que le licenciement, devrait être soutenu par des bons de formation continue et des apprentissages dans la robotique et la maintenance : [Travailler sans peur](@/uebergaenge.fr.md).
 
 ---
 

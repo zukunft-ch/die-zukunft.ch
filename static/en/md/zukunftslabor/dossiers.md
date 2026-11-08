@@ -5,4 +5,4 @@
 
 Source: https://die-zukunft.ch/en/zukunftslabor/dossiers/ · Publisher: The Future (Swiss political party, Basel)
 
-Missing an analysis? [Suggest a question](https://github.com/zukunft-ch/zukunftslabor/issues/new) or [write to us](https://die-zukunft.ch/en/contact/).
+Missing an analysis? [Suggest a question](https://github.com/zukunft-ch/zukunftslabor/issues/new) or [write to us](@/kontakt.en.md).

@@ -12,12 +12,21 @@ category = "datenbriefing"
 evidence = "mittel"
 tags = ["basic income", "financing", "income", "inequality", "simulation"]
 charts = ["grundeinkommen_baseline_dezile.svg", "grundeinkommen_szenarien_vergleich.svg", "grundeinkommen_gini_szenarien.svg", "grundeinkommen_gewinner_verlierer.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "teilweise-veraltet"
+note = "Model and income concept checked; the data basis is 2018, more recent HBS and SILC waves have not yet been incorporated."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Statements on income distribution and the scenarios aligned with the simulation data, the income concept (disposable equivalised income) labelled consistently and missing behavioural responses added as a limitation of the model."
 +++
 
 Three financing models for an unconditional basic income of CHF 2,500/month
 show fundamentally different distributional effects. A flat income tax
 reduces the Gini coefficient the most. Replacing existing transfers saves taxes,
-but can leave the poorest households worse off — a non-trivial finding.
+but does the least for the poorest households — a non-trivial finding.
 A consumption tax has a progressive effect, but a weaker one.
 
 
@@ -27,26 +36,32 @@ A consumption tax has a progressive effect, but a weaker one.
 
 ## Methodology
 
-The basis is the income shares by decile from the FSO
-Household Budget Survey (HBS) 2018. From these, absolute
-monthly incomes per decile are estimated (share × mean × 10).
+The basis is the decile shares of disposable equivalised income from
+the FSO table "Kennzahlen zur Verteilung der Einkommen" [key figures on
+income distribution] (data basis 2018, Household Budget Survey HBS). From
+these, absolute disposable equivalised incomes per decile and month are
+estimated (share × mean × 10).
 
 Three financing scenarios are simulated:
 
-- **A — Flat income tax**: gross costs (CHF 222.0 billion/year)
+- **A — Flat income tax**: gross costs (CHF 222 billion/year)
   are financed through a linear income tax surcharge.
 - **B — Replacement of transfers**: AHV/AVS (old-age and survivors' insurance), IV/AI (disability insurance), EL/PC (supplementary benefits), social assistance, ALV/AC (unemployment insurance) and family allowances
-  (CHF 79.0 billion) are replaced by the UBI.
+  (CHF 79 billion) are replaced by the UBI.
   The remaining amount is financed through income tax.
 - **C — Consumption tax**: financing is through a VAT surcharge.
   Consumption ratios vary by decile (D1: 95%, D10: 55%).
+
+The model is static: it ignores behavioural responses such as changes in
+labour supply, consumption patterns or tax avoidance. The results show
+first-round effects only.
 
 ---
 
 ### Baseline: income distribution 2018
 
 {% chart(spec="grundeinkommen_baseline_dezile", alt="Income shares by decile") %}
-Today's income distribution shows strong concentration: the top decile has around a quarter of total income, the bottom decile less than 3%. This baseline is the starting point for all three scenarios — it shows the initial situation from which redistribution takes effect.
+Today's income distribution shows strong concentration: the top decile has just over a fifth (22%) of total disposable equivalised income, the bottom decile less than 3%. This baseline is the starting point for all three scenarios — it shows the initial situation from which redistribution takes effect.
 {% end %}
 
 ---
@@ -54,7 +69,7 @@ Today's income distribution shows strong concentration: the top decile has aroun
 ### Net effect of the three scenarios
 
 {% chart(spec="grundeinkommen_szenarien_vergleich", alt="Net effect of the three UBI scenarios on the deciles") %}
-The three financing models have fundamentally different effects. Scenario A (income tax) redistributes linearly — lower deciles gain, upper deciles lose. Scenario B (replacement of transfers) produces a paradox: the lowest deciles can lose out in net terms because their existing transfers were higher than the UBI. Scenario C (consumption tax) weighs more heavily on lower deciles through their higher consumption ratio.
+The three financing models have fundamentally different effects. Scenario A (income tax) redistributes linearly — lower deciles gain, upper deciles lose. Scenario B (replacement of transfers) produces a paradox: the lowest deciles gain the least in net terms (D1: +CHF 92/month) because the basic income largely just replaces their existing transfers. Scenario C (consumption tax) weighs relatively more heavily on lower deciles through their higher consumption ratio; thanks to the basic income, they still gain clearly in net terms.
 {% end %}
 
 ---
@@ -64,6 +79,9 @@ The three financing models have fundamentally different effects. Scenario A (inc
 {% chart(spec="grundeinkommen_gini_szenarien", alt="Gini coefficient: baseline vs. three scenarios") %}
 The Gini coefficient measures income concentration (0 = perfect equality, 1 = total inequality). Scenario A reduces the Gini the most, because progressive financing redistributes directly. Scenario B barely changes it, because it merely replaces existing transfers. Scenario C also lowers it markedly (from 0.28 to 0.18), but less than A: the consumption tax itself weighs relatively more on low incomes, and the basic income more than offsets this.
 {% end %}
+
+{{ ubi_rechner() }}
+
 
 ---
 
@@ -78,15 +96,15 @@ This shows which deciles gain or lose in net terms. The turning point varies dep
 ## Limitations
 
 - Aggregated decile data instead of microdata (individual data require an application to the FSO)
-- No behavioural adjustments (labour supply, consumption patterns)
+- No behavioural responses modelled (labour supply, consumption patterns, tax avoidance): static first-round effects
 - Distribution of transfers across deciles estimated (not taken directly from SILC microdata)
 - Consumption ratios by decile based on values from the literature, not HBS detail
-- Data available only up to 2018 (latest FSO HBS publication)
+- Data basis 2018: the FSO table series used ends in 2018; more recent HBS and SILC waves have not yet been incorporated
 
 ---
 
 ## Data sources
 
-- FSO HBS 2018: income shares by decile (disposable equivalised income)
+- FSO: Kennzahlen zur Verteilung der Einkommen vor und nach staatlichen Transfers [key figures on income distribution before and after state transfers] (HBS, data basis 2018), decile shares of disposable equivalised income, https://www.bfs.admin.ch/bfsstatic/dam/assets/15344786/master
 - FSIO social insurance statistics: transfer volumes AHV, IV, EL, ALV
 - FSO SILC: published distribution shares of social transfers

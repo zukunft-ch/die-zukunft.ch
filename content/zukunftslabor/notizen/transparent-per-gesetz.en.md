@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["transparency", "freedom of information", "bgoe", "interests", "open government"]
 charts = ["transparenz_gesuche_verlauf.svg", "transparenz_ergebnisse.svg", "transparenz_schlichtung_frist.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "First published on 8 November 2026; figures and sources reflect the state at publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "First publication."
 +++
 
 Since 1 July 2006, documents of the federal administration have in principle been public, and since 1 November 2023 access has in principle been free of charge. Demand has risen sharply: in 2025 the federal authorities reported 2,145 processed access requests, almost four times as many as in 2015. At the same time, the share of requests with full access fell to 39%, and the Federal Council and Parliament have exempted 13 areas from the Act entirely. Sweden and Estonia show what openness as the norm looks like.
@@ -65,7 +74,7 @@ Members of the Federal Assembly must disclose their professional activities, man
 
 ## What this means for policy
 
-- **Justify exemptions and give them a time limit:** every new exemption from the FoIA with a public justification and an expiry date; the existing 13 are reviewed: [Open Government](@/offener-staat.md).
+- **Justify exemptions and give them a time limit:** every new exemption from the FoIA with a public justification and an expiry date; the existing 13 are reviewed: [Open Government](@/offener-staat.en.md).
 - **Proactive rather than on request:** document registers on the Estonian model, so that documents do not have to be requested individually in the first place.
 - **Meet deadlines:** resource the FDPIC so that the 30-day deadline is the rule again; measure it publicly every year.
 - **Put a figure on interests:** disclose income from mandates in bands; examine term limits on the Basel model.

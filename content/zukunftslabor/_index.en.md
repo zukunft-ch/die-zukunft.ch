@@ -37,4 +37,12 @@ title = "Future Monitor"
 text = "Where Switzerland stands on AI, robotics, open government and talent: indicators, targets, milestones."
 link = "@/zukunftslabor/monitor.md"
 active = true
+
+[[extra.areas]]
+key = "agenda"
+icon = "📡"
+title = "Agenda & corrections"
+text = "What we are working on, your questions for the lab and everything we have corrected."
+link = "@/zukunftslabor/agenda.md"
+active = true
 +++

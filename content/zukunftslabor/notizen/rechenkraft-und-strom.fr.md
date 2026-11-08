@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["puissance-de-calcul", "ia", "electricite", "centres-de-donnees", "cscs", "ofen"]
 charts = ["rechenkraft_rechenzentren_strom.svg", "rechenkraft_landeserzeugung.svg", "rechenkraft_verzehnfachung.svg"]
 pillar = "souveraene-ki"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Première publication le 8 novembre 2026 ; chiffres et sources à jour au moment de la publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Première publication."
 +++
 
 En 2024, les centres de données suisses ont consommé environ 2,1 térawattheures d'électricité, soit 3,6 % de la consommation nationale. D'ici 2030, l'Office fédéral de l'énergie (OFEN) table sur 2,5 à 3,2 TWh, et sur 3,5 TWh dans le scénario maximal. Le plus grand calculateur public d'IA du pays, Alps, au CSCS à Lugano, a absorbé environ 7,1 mégawatts lors de la mesure officielle de performance. Selon notre estimation, une puissance de calcul publique dix fois supérieure avec la technique actuelle nécessiterait 0,6 à 0,8 TWh par an, soit un peu plus de 1 % de la consommation finale actuelle.
@@ -55,9 +64,9 @@ Calcul (estimation) : 7,124 MW × 8 760 h donnent environ 62 GWh par an pour Alp
 
 ## Ce que cela signifie pour la politique
 
-- **Planifier ensemble l'énergie et la puissance de calcul.** Un programme public d'IA de l'ordre de 70 à 90 MW est réalisable pour le réseau suisse, mais il exige des sites fixes avec raccordement au réseau, refroidissement et valorisation des rejets de chaleur. Cela relève de la même planification que le développement de la production hivernale : [Énergie & résilience des infrastructures](@/energy-resilience.md).
+- **Planifier ensemble l'énergie et la puissance de calcul.** Un programme public d'IA de l'ordre de 70 à 90 MW est réalisable pour le réseau suisse, mais il exige des sites fixes avec raccordement au réseau, refroidissement et valorisation des rejets de chaleur. Cela relève de la même planification que le développement de la production hivernale : [Énergie & résilience des infrastructures](@/energy-resilience.fr.md).
 - **Exploiter d'abord l'efficacité.** Le potentiel d'efficacité chiffré d'environ 0,8 TWh dans les centres de données existants correspond à peu près au besoin estimé d'une multiplication par dix de la puissance de calcul publique. Des indicateurs d'efficacité contraignants pour les grands centres de données libèrent de la place sur le réseau.
-- **Développer la puissance de calcul publique de manière mesurable.** Publier l'objectif et les progrès en mégawatts et en puissance de calcul, avec un accès ouvert pour les hautes écoles, les PME et l'administration : [IA souveraine & puissance de calcul](@/souveraene-ki.md).
+- **Développer la puissance de calcul publique de manière mesurable.** Publier l'objectif et les progrès en mégawatts et en puissance de calcul, avec un accès ouvert pour les hautes écoles, les PME et l'administration : [IA souveraine & puissance de calcul](@/souveraene-ki.fr.md).
 
 ---
 

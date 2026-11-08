@@ -51,7 +51,7 @@ La Suisse dispose elle aussi d'une base : depuis le 1er janvier 2024, la LMETA s
 
 ## Ce que cela signifie pour la politique
 
-- **Rendre l'objectif mesurable :** revenir dans le top 15 d'ici l'enquête de l'ONU de 2028, mesuré à l'aune de l'Online Service Index et non des documents stratégiques : [État ouvert](https://le-futur.ch/etat-ouvert/).
+- **Rendre l'objectif mesurable :** revenir dans le top 15 d'ici l'enquête de l'ONU de 2028, mesuré à l'aune de l'Online Service Index et non des documents stratégiques : [État ouvert](@/offener-staat.fr.md).
 - **Ancrer le principe «once-only» dans la loi :** aucune autorité ne peut redemander des données qu'une autre détient déjà ; l'échange passe par des interfaces documentées (API par défaut).
 - **Une e-ID avec un calendrier :** documenter ouvertement les travaux de sécurité et publier une date de lancement contraignante assortie de jalons.
 - **Respecter le délai de la LMETA :** dès 2027, indiquer publiquement quels services fédéraux mettent réellement leurs données à disposition en accès libre.

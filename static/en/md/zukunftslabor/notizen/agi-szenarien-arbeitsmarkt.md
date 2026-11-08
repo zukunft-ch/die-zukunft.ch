@@ -45,8 +45,8 @@ In the largest survey of 2,778 AI researchers (autumn 2023), the aggregate proba
 
 ## What this means for policy
 
-- **For scenario A:** continuously adapt in-company training and apprenticeship occupations, with a focus on clerical and administrative occupations; publish exposure and employment by occupation annually: [Work Without Fear](https://die-zukunft.ch/en/transitions/).
-- **For scenario B:** prepared instruments that can be scaled up quickly: wage insurance for career changes, a tested basic income model as a foundation and a dividend from productivity gains: [Basic Income](https://die-zukunft.ch/en/basic-income/).
+- **For scenario A:** continuously adapt in-company training and apprenticeship occupations, with a focus on clerical and administrative occupations; publish exposure and employment by occupation annually: [Work Without Fear](@/uebergaenge.en.md).
+- **For scenario B:** prepared instruments that can be scaled up quickly: wage insurance for career changes, a tested basic income model as a foundation and a dividend from productivity gains: [Basic Income](@/grundeinkommen.en.md).
 - **For both:** we plan for the early case without prophesying it. Leading indicators such as the quarterly SLFS data by occupation should determine when the scenario B instruments are triggered.
 
 ---

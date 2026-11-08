@@ -382,7 +382,35 @@ def render_monitor(p: "Page") -> str:
     return "\n".join(out) + "\n"
 
 
+def write_lab_issues() -> None:
+    """Public questions and corrections from the zukunftslabor repo (GitHub issues labelled
+    "frage" / "korrektur") → data/lab_issues.json for the agenda page. Network failures keep
+    the last committed file, so the build never depends on GitHub."""
+    import json
+    import urllib.request
+    out = ROOT / "data" / "lab_issues.json"
+    items = []
+    try:
+        for label in ("frage", "korrektur"):
+            url = f"https://api.github.com/repos/zukunft-ch/zukunftslabor/issues?state=all&per_page=50&labels={label}"
+            req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "die-zukunft-build"})
+            with urllib.request.urlopen(req, timeout=10) as r:
+                for i in json.load(r):
+                    if "pull_request" in i:
+                        continue
+                    items.append({"number": i["number"], "title": i["title"], "state": i["state"], "label": label,
+                                  "created": i["created_at"][:10], "closed": (i.get("closed_at") or "")[:10], "url": i["html_url"]})
+    except Exception as e:  # offline or rate-limited: keep what we have
+        print(f"lab issues: kept existing file ({e.__class__.__name__})")
+        if out.exists():
+            return
+        items = []
+    items.sort(key=lambda x: x["created"], reverse=True)
+    out.write_text(json.dumps({"updated": dt.date.today().isoformat(), "issues": items}, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 if __name__ == "__main__":
+    write_lab_issues()
     write_monitor_json()
     n = write_twins()
     (STATIC / "llms.txt").write_text(llms_txt(), encoding="utf-8")

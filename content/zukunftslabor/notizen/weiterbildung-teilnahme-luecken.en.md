@@ -1,6 +1,6 @@
 +++
 title = "Continuing Education: Who Takes Part — and Who Does Not?"
-description = "The gap in continuing education is huge: highly qualified people take part 2.6× more often than those with low qualifications. The most exposed industries in particular invest too little."
+description = "The gap in continuing education is huge: highly qualified people take part 2.6× more often than those with low qualifications. Industries with a lot of manual work train the least — not the office occupations with the highest AI risk."
 slug = "weiterbildung-teilnahme-luecken"
 date = 2026-02-12
 template = "notiz.html"
@@ -12,11 +12,20 @@ category = "datenbriefing"
 evidence = "mittel"
 tags = ["continuing education", "education", "automation", "labour market"]
 charts = ["weiterbildung_bildungsniveau.svg", "weiterbildung_altersgruppe.svg", "weiterbildung_zeitreihe.svg", "weiterbildung_automatisierung_kreuz.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "teilweise-veraltet"
+note = "Continuing education data from the FSO Microcensus 2021 and SLFS 2024 checked; automation risk by industry is modelled, not measured."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Statements on age groups and on the link with automation risk aligned with the data, source of the risk measure clarified and chart labels corrected."
 +++
 
 Participation in continuing education is stagnating at 60% — and the gap between
-highly and low-qualified people (79% vs. 30%) is enormous. Industries with
-a high automation risk often have below-average participation in continuing education.
+highly and low-qualified people (79% vs. 30%) is enormous. The lowest rates are found in
+hospitality, transport and construction — not in the industries with the highest AI risk.
 
 
 <!-- more -->
@@ -28,7 +37,9 @@ a high automation risk often have below-average participation in continuing educ
 Continuing education data from the FSO Microcensus on Education and Training
 (2011, 2016, 2021). Participation in non-formal education (courses,
 seminars, in-company training). Employment data from the FSO SLFS
-(2024). Automation risk: IMF AI Preparedness Index 2024.
+(2024). Automation risk: modelled post-LLM industry values from the note
+on automation risk by industry (our own assumptions based on the IMF,
+Cazzaniga et al. 2024, not measured values).
 
 ---
 
@@ -43,7 +54,7 @@ Highly qualified people take part in continuing education 2.6 times more often t
 ### By age group
 
 {% chart(spec="weiterbildung_altersgruppe", alt="Participation in continuing education by age group") %}
-Participation drops markedly from the age of 45. Yet continuing education is crucial precisely for the 45–64 age group: they still have to hold their own for 15–20 years in a changing labour market. The decline is less an individual problem than a failure of the in-company and institutional provision.
+Participation declines with age and drops markedly from 55 (55–64: 51%). Yet continuing education is crucial precisely for the 45–64 age group: they still have to hold their own for 15–20 years in a changing labour market. The decline is less an individual problem than a failure of the in-company and institutional provision.
 {% end %}
 
 ---
@@ -59,7 +70,7 @@ A decade of near standstill: the overall rate has hovered around 60% since 2011.
 ### Cross-analysis with automation risk
 
 {% chart(spec="weiterbildung_automatisierung_kreuz", alt="Continuing education rate vs. automation risk by industry") %}
-The most critical finding: industries with the highest automation risk often have the lowest continuing education rate. The most exposed sectors invest the least in the adaptability of their employees — a structural risk that calls for political intervention.
+The relationship is weakly positive (r = 0.28): the industries with the highest post-LLM risk — finance, professional services, ICT — train above average (75–78%). The lowest rates are in hospitality (35%), other business services (38%) and transport (40%), whose risk lies in the middle range. That is where adaptability for the next structural change is missing — a structural risk that calls for targeted provision.
 {% end %}
 
 ---
@@ -68,6 +79,7 @@ The most critical finding: industries with the highest automation risk often hav
 
 - The FSO Microcensus is conducted only every 5 years
 - Industry-specific continuing education rates partly estimated
+- Automation risk by industry is modelled, not measured
 - Quality of continuing education not recorded (participation only)
 - Correlation ≠ causation
 

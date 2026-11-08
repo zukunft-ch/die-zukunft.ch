@@ -29,4 +29,4 @@ method_title = "Metodo"
 
 ## Metodo
 
-Usiamo fonti ufficiali (UST, UFE, SEM, ONU, IFR, TOP500, CSCS) e segnaliamo i valori che provengono solo da media o da grafici. I ranghi sono relativi: un rango peggiore può anche significare che altri sono migliorati più in fretta. I dati sono disponibili con licenza CC BY 4.0 in [monitor.json](/zukunftslabor/monitor.json). Hai trovato un errore? [Scrivici](@/kontakt.md), correggiamo pubblicamente come descritto nel [metodo](@/zukunftslabor/methodik.md).
+Usiamo fonti ufficiali (UST, UFE, SEM, ONU, IFR, TOP500, CSCS) e segnaliamo i valori che provengono solo da media o da grafici. I ranghi sono relativi: un rango peggiore può anche significare che altri sono migliorati più in fretta. I dati sono disponibili con licenza CC BY 4.0 in [monitor.json](/zukunftslabor/monitor.json). Hai trovato un errore? [Scrivici](@/kontakt.it.md), correggiamo pubblicamente come descritto nel [metodo](@/zukunftslabor/methodik.it.md).

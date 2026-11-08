@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["robotics", "industry", "productivity", "employment", "ifr"]
 charts = ["roboter_dichte_vergleich.svg", "roboter_industrie_beschaeftigung.svg", "roboter_industrie_anteil.svg"]
 pillar = "robotik"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "First published on 8 November 2026; figures and sources reflect the state at publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "First publication."
 +++
 
 With 294 industrial robots per 10,000 employees, Switzerland was narrowly in the global top 10 in 2024, but well behind South Korea (1,220), Singapore (818), Germany (449) and Japan (446). Doubling to around 600 would put Switzerland ahead of Germany. Industry has employed a fairly stable 630,000 to 650,000 people since 2010, but its share of all employed persons is falling. Studies from comparable countries show clear productivity gains from robots; the effect on employment is mixed and depends on how the restructuring is handled.
@@ -63,9 +72,9 @@ The differences between Germany and the USA show that the labour market adapts b
 
 ## What this means for policy
 
-- **A measurable target:** double robot density to around 600 by 2035 and report it annually on the basis of IFR data: [Reindustrialization with Robotics](@/robotik.md).
+- **A measurable target:** double robot density to around 600 by 2035 and report it annually on the basis of IFR data: [Reindustrialization with Robotics](@/robotik.en.md).
 - **Targeted support for SMEs:** large exporters automate on their own. The leverage lies with SMEs, for example through shared test centres, leasing models and advisory services.
-- **Organise the transition within firms:** the German pattern — retraining within the same firm instead of dismissal — should be supported with training vouchers and apprenticeship occupations in robotics and maintenance: [Work Without Fear](@/uebergaenge.md).
+- **Organise the transition within firms:** the German pattern — retraining within the same firm instead of dismissal — should be supported with training vouchers and apprenticeship occupations in robotics and maintenance: [Work Without Fear](@/uebergaenge.en.md).
 
 ---
 

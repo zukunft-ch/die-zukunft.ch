@@ -9,31 +9,31 @@
   "data": {
     "values": [
       {
-        "BIP-Anteil %": 3.304,
+        "BIP-Anteil %": 3.117,
         "Land": "USA"
       },
       {
-        "BIP-Anteil %": 2.008,
+        "BIP-Anteil %": 2.571,
         "Land": "Finnland"
       },
       {
-        "BIP-Anteil %": 1.951,
-        "Land": "Frankreich"
-      },
-      {
-        "BIP-Anteil %": 1.501,
+        "BIP-Anteil %": 2.471,
         "Land": "Schweden"
       },
       {
-        "BIP-Anteil %": 1.488,
+        "BIP-Anteil %": 2.269,
         "Land": "Deutschland"
       },
       {
-        "BIP-Anteil %": 0.871,
+        "BIP-Anteil %": 2.027,
+        "Land": "Frankreich"
+      },
+      {
+        "BIP-Anteil %": 1.101,
         "Land": "Österreich"
       },
       {
-        "BIP-Anteil %": 0.706,
+        "BIP-Anteil %": 0.757,
         "Land": "Schweiz"
       }
     ]
@@ -83,6 +83,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "Verteidigungsausgaben im internationalen Vergleich (2023, % BIP)",
+  "title": "Verteidigungsausgaben im internationalen Vergleich (2025, % BIP, SIPRI)",
   "width": 720
 }

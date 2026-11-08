@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["transparenz", "oeffentlichkeitsprinzip", "bgoe", "interessenbindungen", "offener-staat"]
 charts = ["transparenz_gesuche_verlauf.svg", "transparenz_ergebnisse.svg", "transparenz_schlichtung_frist.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Erstveröffentlichung am 8. November 2026; Zahlen und Quellen entsprechen dem Stand bei Veröffentlichung."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Erstveröffentlichung."
 +++
 
 Seit dem 1. Juli 2006 sind Dokumente der Bundesverwaltung grundsätzlich öffentlich, seit dem 1. November 2023 ist der Zugang grundsätzlich gebührenfrei. Die Nachfrage ist stark gestiegen: 2025 meldeten die Bundesbehörden 2'145 bearbeitete Zugangsgesuche, fast viermal so viele wie 2015. Gleichzeitig sank der Anteil der Gesuche mit vollem Zugang auf 39 Prozent, und Bundesrat und Parlament haben 13 Bereiche ganz vom Gesetz ausgenommen. Schweden und Estland zeigen, wie Offenheit als Normalfall aussieht.

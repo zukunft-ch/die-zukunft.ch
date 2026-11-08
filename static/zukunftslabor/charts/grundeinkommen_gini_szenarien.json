@@ -75,6 +75,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "Gini-Koeffizient nach Finanzierungsszenario",
+  "title": "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens nach Finanzierungsszenario (statisches Modell)",
   "width": 720
 }

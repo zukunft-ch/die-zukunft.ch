@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["ai", "agi", "labour market", "occupations", "scenarios", "transitions"]
 charts = ["agi_berufe_2025.svg", "agi_berufe_veraenderung.svg", "agi_zeithorizonte.svg"]
 pillar = "uebergaenge"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "First published on 8 November 2026; figures and sources reflect the state at publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "First publication."
 +++
 
 According to the ILO, around a third of workers in high-income countries are employed in occupations exposed to generative AI; the IMF puts the figure for advanced economies at around 60%, of which roughly half is more likely to be complemented than replaced. In 2025 Switzerland had around 4.89 million employed persons; the most exposed group, clerical support workers, has already been shrinking for years. Nobody knows how fast this will accelerate: AI researchers put a 50% probability on machines performing every task better than humans by 2047. We therefore describe two scenarios and what each requires of policy.
@@ -61,8 +70,8 @@ In the largest survey of 2,778 AI researchers (autumn 2023), the aggregate proba
 
 ## What this means for policy
 
-- **For scenario A:** continuously adapt in-company training and apprenticeship occupations, with a focus on clerical and administrative occupations; publish exposure and employment by occupation annually: [Work Without Fear](@/uebergaenge.md).
-- **For scenario B:** prepared instruments that can be scaled up quickly: wage insurance for career changes, a tested basic income model as a foundation and a dividend from productivity gains: [Basic Income](@/grundeinkommen.md).
+- **For scenario A:** continuously adapt in-company training and apprenticeship occupations, with a focus on clerical and administrative occupations; publish exposure and employment by occupation annually: [Work Without Fear](@/uebergaenge.en.md).
+- **For scenario B:** prepared instruments that can be scaled up quickly: wage insurance for career changes, a tested basic income model as a foundation and a dividend from productivity gains: [Basic Income](@/grundeinkommen.en.md).
 - **For both:** we plan for the early case without prophesying it. Leading indicators such as the quarterly SLFS data by occupation should determine when the scenario B instruments are triggered.
 
 ---

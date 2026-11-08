@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["robotik", "industrie", "produktivitaet", "beschaeftigung", "ifr"]
 charts = ["roboter_dichte_vergleich.svg", "roboter_industrie_beschaeftigung.svg", "roboter_industrie_anteil.svg"]
 pillar = "robotik"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Erstveröffentlichung am 8. November 2026; Zahlen und Quellen entsprechen dem Stand bei Veröffentlichung."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Erstveröffentlichung."
 +++
 
 Mit 294 Industrierobotern pro 10'000 Beschäftigten liegt die Schweiz 2024 knapp in den weltweiten Top 10, aber deutlich hinter Südkorea (1'220), Singapur (818), Deutschland (449) und Japan (446). Eine Verdoppelung auf rund 600 würde die Schweiz vor Deutschland bringen. Die Industrie beschäftigt seit 2010 recht stabil rund 630'000 bis 650'000 Personen, ihr Anteil an allen Erwerbstätigen sinkt aber. Studien aus vergleichbaren Ländern zeigen klare Produktivitätsgewinne durch Roboter; die Wirkung auf die Beschäftigung ist gemischt und hängt vom Umbau ab.

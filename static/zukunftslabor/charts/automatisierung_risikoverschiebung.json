@@ -110,6 +110,6 @@
     "cornerRadiusEnd": 3,
     "type": "bar"
   },
-  "title": "Risikoverschiebung durch LLM: Veränderung des Automatisierungsrisikos (PP)",
+  "title": "Risikoverschiebung durch LLM: Veränderung des Automatisierungsrisikos (PP) (modellierte Werte)",
   "width": 720
 }

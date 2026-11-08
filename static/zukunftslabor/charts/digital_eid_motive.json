@@ -9,54 +9,61 @@
   "data": {
     "values": [
       {
-        "Argument": "Privatwirtschaftliche Lösung",
-        "Typ": "Contra",
-        "Zustimmung": 72
+        "Kategorie": "Datenschutz",
+        "Motiv": "Datensicherheit nicht gewährleistet",
+        "Nennungen %": 26
       },
       {
-        "Argument": "Datenschutzbedenken",
-        "Typ": "Contra",
-        "Zustimmung": 68
+        "Kategorie": "Rolle des Staates",
+        "Motiv": "E-ID soll staatlich sein",
+        "Nennungen %": 25
       },
       {
-        "Argument": "Staat soll E-ID herausgeben",
-        "Typ": "Contra",
-        "Zustimmung": 65
+        "Kategorie": "Datenschutz",
+        "Motiv": "Daten in den Händen privater Unternehmen",
+        "Nennungen %": 24
       },
       {
-        "Argument": "Digitalisierung notwendig",
-        "Typ": "Pro",
-        "Zustimmung": 58
+        "Kategorie": "Rolle des Staates",
+        "Motiv": "Kein «digitaler Pass» von Privaten",
+        "Nennungen %": 22
       },
       {
-        "Argument": "Internationaler Anschluss",
-        "Typ": "Pro",
-        "Zustimmung": 42
+        "Kategorie": "Datenschutz",
+        "Motiv": "Skepsis gegenüber Digitalisierung allgemein",
+        "Nennungen %": 8
+      },
+      {
+        "Kategorie": "Wirtschaftsskepsis",
+        "Motiv": "Kein Vertrauen in die Privatwirtschaft",
+        "Nennungen %": 7
       }
     ]
   },
   "encoding": {
     "color": {
-      "field": "Typ",
+      "field": "Kategorie",
       "scale": {
         "domain": [
-          "Contra",
-          "Pro"
+          "Datenschutz",
+          "Rolle des Staates",
+          "Wirtschaftsskepsis"
         ],
         "range": [
           "#e11d48",
-          "#c026d3"
+          "#6d28d9",
+          "#d97706"
         ]
       },
       "type": "nominal"
     },
     "x": {
-      "field": "Zustimmung",
-      "title": "Zustimmung zum Argument (%)",
+      "field": "Nennungen %",
+      "title": "Nennungen in % der Nein-Stimmenden (Mehrfachnennungen)",
       "type": "quantitative"
     },
     "y": {
-      "field": "Argument",
+      "field": "Motiv",
       "sort": "-x",
       "title": null,
       "type": "nominal"
@@ -67,6 +74,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "E-ID-Referendum 2021: Abstimmungsmotive (VOX/Sotomo)",
+  "title": "E-ID-Gesetz 2021: Motive der Nein-Stimmenden (VOX-Analyse, gfs.bern)",
   "width": 720
 }

@@ -13,6 +13,15 @@ evidence = "stark"
 tags = ["e-government", "offener-staat", "e-id", "egdi", "vergleich"]
 charts = ["egov_rang_verlauf.svg", "egov_teilindizes_2024.svg", "egov_osi_komponenten_2024.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Erstveröffentlichung am 8. November 2026; Zahlen und Quellen entsprechen dem Stand bei Veröffentlichung."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Erstveröffentlichung."
 +++
 
 Im E-Government Development Index (EGDI) der Vereinten Nationen ist die Schweiz von Rang 16 (2020) über Rang 23 (2022) auf Rang 26 (2024) von 193 Staaten zurückgefallen, obwohl ihr Indexwert leicht stieg (0,89 auf 0,90). Andere Länder werden schlicht schneller besser. Bei Infrastruktur und Bildung liegt die Schweiz nahe an der Spitze; die Lücke liegt fast vollständig beim Online-Angebot des Staates. Die staatliche E-ID, im September 2025 knapp angenommen, hat seit Juni 2026 kein Startdatum mehr.

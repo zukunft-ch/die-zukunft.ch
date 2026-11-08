@@ -1,6 +1,6 @@
 +++
-title = "Rent Burden: When Does It Become Critical in Which Canton?"
-description = "The bottom quintile spends 40% on rent. On current trends, more cantons will cross the 30% threshold."
+title = "Rent Burden: How Hard Do Rents Hit the Bottom Quintile in Each Canton?"
+description = "The bottom quintile spends 40% on rent — and, measured against cantonal rents, is already above the 30% threshold in every canton."
 slug = "mietbelastung-kantonale-prognose"
 date = 2026-02-12
 template = "notiz.html"
@@ -9,13 +9,22 @@ template = "notiz.html"
 notebook = "04_wohnen_ungleichheit"
 pillar = "stadte-wohnen"
 category = "datenbriefing"
-evidence = "stark"
-tags = ["housing", "rents", "cantons", "inequality", "forecast"]
-charts = ["wohnen_mietbelastung_quintile.svg", "wohnen_mieten_kantone.svg", "wohnen_mietpreiswachstum_kantone.svg", "wohnen_schwelle_prognose.svg"]
+evidence = "mittel"
+tags = ["housing", "rents", "cantons", "inequality"]
+charts = ["wohnen_mietbelastung_quintile.svg", "wohnen_mieten_kantone.svg", "wohnen_mietpreiswachstum_kantone.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "teilweise-veraltet"
+note = "Rent burden by quintile and cantonal rents up to 2023 checked; SILC 2024 and the structural survey 2024 are available and have not yet been incorporated."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Statements on quintiles and cantons aligned with the data, and the uninformative threshold projection removed because the bottom quintile is already above 30% in every canton."
 +++
 
-The bottom quintile spends 40% on rent. With current rent growth and
-1% income growth, several cantons will cross the 30% threshold by 2035.
+The bottom quintile spends 40% on rent. Measured against cantonal rents,
+it was already above the 30% threshold in all 26 cantons in 2023 — from 33% in Jura to 65% in Zug.
 
 
 <!-- more -->
@@ -26,14 +35,13 @@ The bottom quintile spends 40% on rent. With current rent growth and
 
 FSO rent statistics (2010–2023, 3-room flats by canton) and
 FSO SILC rent burden ratios. CAGR from the 2010/2023 ratio.
-Threshold projection: rent×(1+CAGR)^t / income×(1+1%)^t = 30%.
 
 ---
 
 ### Rent burden by income quintile
 
 {% chart(spec="wohnen_mietbelastung_quintile", alt="Rent burden ratio by income quintile") %}
-The bottom quintile spends around 40% of disposable income on rent — far above the 30% threshold that is considered critical. The upper quintiles are at 15–20%. The rent burden acts like a regressive tax: those who earn less pay proportionally more.
+The bottom quintile spends around 40% of disposable income on rent — far above the 30% threshold that is considered critical. The upper quintiles are at 12–18%. The rent burden acts like a regressive tax: those who earn less pay proportionally more.
 {% end %}
 
 ---
@@ -41,7 +49,7 @@ The bottom quintile spends around 40% of disposable income on rent — far above
 ### Rents by canton
 
 {% chart(spec="wohnen_mieten_kantone", alt="Rents by canton for 3-room flats") %}
-The differences between cantons are considerable: Zurich, Geneva and Zug are at the top, rural cantons well below. The chart shows the price range of an average 3-room flat — the most common type of dwelling in Switzerland.
+The differences between cantons are considerable: Zug, Zurich and Schwyz are at the top, rural cantons well below. The chart shows the price range of an average 3-room flat — the most common type of dwelling in Switzerland.
 {% end %}
 
 ---
@@ -49,22 +57,14 @@ The differences between cantons are considerable: Zurich, Geneva and Zug are at 
 ### Rent growth (CAGR)
 
 {% chart(spec="wohnen_mietpreiswachstum_kantone", alt="Annual rent growth by canton") %}
-Annual rent growth (CAGR) varies widely between cantons. Some cantons are growing twice as fast as others — and with real wages stagnating at the same time, a widening gap emerges. The pace of growth determines when the burden threshold is crossed.
-{% end %}
-
----
-
-### Threshold projection
-
-{% chart(spec="wohnen_schwelle_prognose", alt="Projection: when cantons cross the 30% rent burden threshold") %}
-Extrapolating current trends and assuming income growth of 1% per year, several cantons will cross the 30% threshold by 2035. The projection is conservative — rents for new tenancies are often well above existing rents.
+Annual rent growth (CAGR) varies widely between cantons. Some cantons are growing twice as fast as others — and with real wages stagnating at the same time, a widening gap emerges. The pace of growth determines how quickly the burden keeps rising if incomes do not keep up.
 {% end %}
 
 ---
 
 ## Limitations
 
-- CAGR extrapolates the past trend
+- CAGR describes the 2010–2023 trend, not a forecast
 - Q1 income not differentiated by canton
 - Existing rents (rents for new tenancies are often higher)
 

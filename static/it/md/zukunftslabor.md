@@ -5,6 +5,7 @@
 
 Source: https://il-futuro.ch/zukunftslabor/ · Publisher: Il Futuro (Swiss political party, Basel)
 
+- [Agenda e correzioni](https://il-futuro.ch/zukunftslabor/agenda/): Su cosa lavora il laboratorio, quali domande pone il pubblico e cosa abbiamo corretto, e quando.
 - [Dossier](https://il-futuro.ch/zukunftslabor/dossier/): Le evidenze dietro ciascuno dei nostri tredici pilastri: analisi del Laboratorio del futuro e indicatori del Monitor del futuro.
 - [Metodologia](https://il-futuro.ch/zukunftslabor/methodik/): Le nostre linee guida editoriali: livelli di evidenza, politica di correzione, trasparenza delle fonti.
 - [Monitor del futuro](https://il-futuro.ch/zukunftslabor/monitor/): A che punto è la Svizzera in IA, robotica, Stato aperto e talenti? Gli indicatori dietro la nostra visione, con fonti, obiettivi e prossimo aggiornamento.

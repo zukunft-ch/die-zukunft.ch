@@ -5,6 +5,7 @@
 
 Source: https://le-futur.ch/zukunftslabor/ · Publisher: Le Futur (Swiss political party, Basel)
 
+- [Agenda & corrections](https://le-futur.ch/zukunftslabor/agenda/): Ce sur quoi le laboratoire travaille ensuite, les questions du public et ce que nous avons corrigé, et quand.
 - [Dossiers](https://le-futur.ch/zukunftslabor/dossiers/): Les preuves derrière chacun de nos treize piliers : analyses du Laboratoire du futur et indicateurs du Moniteur du futur.
 - [Méthodologie](https://le-futur.ch/zukunftslabor/methodik/): Nos garde-fous éditoriaux : niveaux de preuve, politique de correction, transparence des sources.
 - [Moniteur du futur](https://le-futur.ch/zukunftslabor/moniteur/): Où en est la Suisse en matière d'IA, de robotique, d'État ouvert et de talents ? Les indicateurs derrière notre vision, avec sources, objectifs et prochaine mise à jour.

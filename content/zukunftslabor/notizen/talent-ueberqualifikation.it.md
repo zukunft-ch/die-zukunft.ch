@@ -1,5 +1,5 @@
 +++
-title = "Talento & migrazione: le qualifiche vengono valorizzate o sprecate?"
+title = "Talento & migrazione: le qualifiche vengono valorizzate o restano inutilizzate?"
 description = "Il 36% delle persone cittadine di Stati terzi lavora al di sotto del proprio livello di qualifica. Non è un fallimento dell'integrazione: è una perdita di valore aggiunto."
 slug = "talent-ueberqualifikation"
 date = 2026-02-12
@@ -12,13 +12,22 @@ category = "datenbriefing"
 evidence = "mittel"
 tags = ["migrazione", "talento", "sovraqualificazione", "mercato del lavoro", "integrazione"]
 charts = ["migration_herkunft_trend.svg", "migration_nettowanderung.svg", "migration_ueberqualifikation.svg", "migration_ueberqualifikation_sektoren.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "teilweise-veraltet"
+note = "Dati su popolazione e migrazione fino al 2024 verificati; i valori di sovraqualificazione per settore e la stima della perdita si basano su ipotesi e non sono aggiornati con dati RIFOS recenti."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Affermazioni sulla popolazione straniera allineate ai dati, la formulazione «sprecate» sostituita con «inutilizzate» e la stima della perdita di 3,6 miliardi di franchi indicata come nostra stima approssimativa, con il metodo."
 +++
 
 Nel 2024 la Svizzera registra un saldo migratorio di +82'792 persone.
-Tuttavia le qualifiche vengono sistematicamente sprecate: il 36% delle persone
+Tuttavia molte qualifiche restano inutilizzate: il 36% delle persone
 cittadine di Stati terzi lavora al di sotto del proprio livello (contro il 13%
-delle svizzere e degli svizzeri). La perdita di valore aggiunto stimata è di
-circa 3,6 miliardi di CHF all'anno.
+delle svizzere e degli svizzeri). Secondo una nostra stima approssimativa,
+ciò comporta circa 3,6 miliardi di CHF di salari mancati all'anno.
 
 
 <!-- more -->
@@ -32,12 +41,18 @@ Dati migratori: UST, statistica delle migrazioni (1991–2024).
 Sovraqualificazione: UST, Rilevazione strutturale / RIFOS (autovalutazione + qualifica formale),
 integrati dagli OECD Indicators of Talent Attractiveness 2023.
 
+La stima della perdita è una nostra stima approssimativa: circa 200'000
+persone immigrate occupate in condizione di sovraqualificazione × una
+differenza salariale ipotizzata di circa 18'000 franchi all'anno ≈ 3,6
+miliardi di franchi. Entrambi i valori sono ipotesi, non statistiche
+pubblicate; la cifra indica un ordine di grandezza.
+
 ---
 
 ### Popolazione straniera per tipo di permesso
 
 {% chart(spec="migration_herkunft_trend", alt="Popolazione straniera per tipo di permesso nel tempo") %}
-La composizione della popolazione straniera è cambiata: predominano i permessi di domicilio UE/AELS, mentre i soggiorni di breve durata oscillano con la congiuntura. Il grafico mostra l'evoluzione degli effettivi: una crescita stabile che rispecchia la domanda di manodopera dell'economia svizzera.
+La composizione della popolazione straniera è cambiata: i domiciliati (permesso C) restano la maggioranza, ma dal 2021 cresce soprattutto il numero dei dimoranti (permesso B), da 759'769 a 915'566 (2024). Il grafico mostra l'evoluzione degli effettivi: una crescita stabile che rispecchia la domanda di manodopera dell'economia svizzera.
 {% end %}
 
 ---
@@ -61,7 +76,7 @@ Il 36% delle persone cittadine di Stati terzi lavora al di sotto del proprio liv
 ### Settori con un'alta quota di sovraqualificazione
 
 {% chart(spec="migration_ueberqualifikation_sektoren", alt="Settori con la quota più alta di persone occupate sovraqualificate") %}
-Alcuni settori «sprecano» sistematicamente talento: ristorazione e alloggio, pulizie e commercio al dettaglio impiegano un numero particolarmente elevato di persone sovraqualificate. È una perdita di valore aggiunto in un duplice senso: per le persone interessate (minore salario) e per l'economia nel suo insieme (competenze inutilizzate).
+In alcuni settori molti talenti restano inutilizzati: ristorazione e alloggio, pulizie e commercio al dettaglio impiegano un numero particolarmente elevato di persone sovraqualificate. È una perdita di valore aggiunto in un duplice senso: per le persone interessate (minore salario) e per l'economia nel suo insieme (competenze inutilizzate).
 {% end %}
 
 ---
@@ -70,7 +85,7 @@ Alcuni settori «sprecano» sistematicamente talento: ristorazione e alloggio, p
 
 - La sovraqualificazione si basa sull'autovalutazione e sul riconoscimento formale dei diplomi
 - Non tutti i diplomi esteri sono automaticamente equivalenti (barriere linguistiche, protezione professionale)
-- La stima della perdita economica indica un ordine di grandezza (la differenza salariale varia molto a seconda del settore)
+- La stima della perdita economica è una nostra stima approssimativa basata su valori ipotizzati (numero di persone interessate; la differenza salariale varia molto a seconda del settore)
 - I dati RIFOS sono dati campionari con intervalli di confidenza
 
 ---

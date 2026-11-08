@@ -39,9 +39,9 @@ Calculation (estimate): 7.124 MW × 8,760 h gives around 62 GWh per year for Alp
 
 ## What this means for policy
 
-- **Plan energy and compute together.** A public AI programme of the order of 70 to 90 MW is feasible for the Swiss grid, but it needs fixed sites with grid connection, cooling and waste-heat recovery. This belongs in the same planning as the expansion of winter production: [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/).
+- **Plan energy and compute together.** A public AI programme of the order of 70 to 90 MW is feasible for the Swiss grid, but it needs fixed sites with grid connection, cooling and waste-heat recovery. This belongs in the same planning as the expansion of winter production: [Energy & Infrastructure Resilience](@/energy-resilience.en.md).
 - **Realise efficiency first.** The identified efficiency potential of around 0.8 TWh in existing data centres corresponds roughly to the estimated demand of a tenfold increase in public compute. Binding efficiency metrics for large data centres free up room on the grid.
-- **Expand public compute measurably.** Report targets and progress in megawatts and computing power, with open access for universities, SMEs and the administration: [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/).
+- **Expand public compute measurably.** Report targets and progress in megawatts and computing power, with open access for universities, SMEs and the administration: [Sovereign AI & Compute](@/souveraene-ki.en.md).
 
 ---
 

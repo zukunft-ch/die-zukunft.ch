@@ -29,4 +29,4 @@ As of 2026-11-08. Data: https://die-zukunft.ch/zukunftslabor/monitor.json (CC BY
 
 ## Metodo
 
-Usiamo fonti ufficiali (UST, UFE, SEM, ONU, IFR, TOP500, CSCS) e segnaliamo i valori che provengono solo da media o da grafici. I ranghi sono relativi: un rango peggiore può anche significare che altri sono migliorati più in fretta. I dati sono disponibili con licenza CC BY 4.0 in [monitor.json](https://die-zukunft.ch/zukunftslabor/monitor.json). Hai trovato un errore? [Scrivici](https://il-futuro.ch/contatto/), correggiamo pubblicamente come descritto nel [metodo](https://il-futuro.ch/zukunftslabor/methodik/).
+Usiamo fonti ufficiali (UST, UFE, SEM, ONU, IFR, TOP500, CSCS) e segnaliamo i valori che provengono solo da media o da grafici. I ranghi sono relativi: un rango peggiore può anche significare che altri sono migliorati più in fretta. I dati sono disponibili con licenza CC BY 4.0 in [monitor.json](https://die-zukunft.ch/zukunftslabor/monitor.json). Hai trovato un errore? [Scrivici](@/kontakt.it.md), correggiamo pubblicamente come descritto nel [metodo](@/zukunftslabor/methodik.it.md).

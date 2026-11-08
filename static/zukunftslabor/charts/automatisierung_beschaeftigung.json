@@ -111,7 +111,7 @@
     },
     "x": {
       "field": "Erwerbstätige",
-      "title": "Erwerbstätige (Tsd.)",
+      "title": "Erwerbstätige (Personen)",
       "type": "quantitative"
     },
     "y": {
@@ -126,6 +126,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "Erwerbstätige nach Wirtschaftsabschnitt — Schweiz (2024, in Tsd.)",
+  "title": "Erwerbstätige nach Wirtschaftsabschnitt — Schweiz (2024, Personen)",
   "width": 720
 }

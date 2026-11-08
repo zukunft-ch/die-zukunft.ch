@@ -13,6 +13,15 @@ evidence = "stark"
 tags = ["e-government", "open government", "e-id", "egdi", "comparison"]
 charts = ["egov_rang_verlauf.svg", "egov_teilindizes_2024.svg", "egov_osi_komponenten_2024.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "First published on 8 November 2026; figures and sources reflect the state at publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "First publication."
 +++
 
 In the United Nations E-Government Development Index (EGDI), Switzerland fell from 16th place (2020) via 23rd (2022) to 26th (2024) out of 193 countries, even though its index score rose slightly (0.89 to 0.90). Other countries are simply improving faster. In infrastructure and education Switzerland is close to the top; the gap lies almost entirely in the state's online services. The state e-ID, narrowly approved in September 2025, has had no launch date since June 2026.
@@ -67,7 +76,7 @@ Switzerland has a foundation too: since 1 January 2024 the EMBAG (Federal Act on
 
 ## What this means for policy
 
-- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](@/offener-staat.md).
+- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](@/offener-staat.en.md).
 - **Enshrine once-only in law:** data that one authority already holds may not be requested again by another; exchange takes place via documented interfaces (API by default).
 - **E-ID with a timetable:** document the security work openly and publish a binding launch date with milestones.
 - **Meet the EMBAG deadline:** from 2027, publicly report which federal offices actually make their data openly available.

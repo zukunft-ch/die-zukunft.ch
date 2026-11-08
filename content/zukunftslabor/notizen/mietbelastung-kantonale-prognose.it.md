@@ -1,6 +1,6 @@
 +++
-title = "Onere dell'affitto: quando diventa critico, e in quale Cantone?"
-description = "Il quintile più basso spende il 40% per l'affitto. Con le tendenze attuali, altri Cantoni superano la soglia del 30%."
+title = "Onere dell'affitto: quanto pesa sul quintile più basso, Cantone per Cantone?"
+description = "Il quintile più basso spende il 40% per l'affitto. Rapportato agli affitti cantonali, supera già la soglia del 30% in tutti i Cantoni."
 slug = "mietbelastung-kantonale-prognose"
 date = 2026-02-12
 template = "notiz.html"
@@ -9,13 +9,22 @@ template = "notiz.html"
 notebook = "04_wohnen_ungleichheit"
 pillar = "stadte-wohnen"
 category = "datenbriefing"
-evidence = "stark"
-tags = ["abitare", "affitti", "cantoni", "disuguaglianza", "previsione"]
-charts = ["wohnen_mietbelastung_quintile.svg", "wohnen_mieten_kantone.svg", "wohnen_mietpreiswachstum_kantone.svg", "wohnen_schwelle_prognose.svg"]
+evidence = "mittel"
+tags = ["abitare", "affitti", "cantoni", "disuguaglianza"]
+charts = ["wohnen_mietbelastung_quintile.svg", "wohnen_mieten_kantone.svg", "wohnen_mietpreiswachstum_kantone.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "teilweise-veraltet"
+note = "Onere dell'affitto per quintile e affitti cantonali fino al 2023 verificati; SILC 2024 e la rilevazione strutturale 2024 sono disponibili e non ancora integrate."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Affermazioni su quintili e Cantoni allineate ai dati e rimossa la previsione della soglia, poco significativa perché il quintile più basso supera già il 30% in tutti i Cantoni."
 +++
 
-Il quintile più basso spende il 40% per l'affitto. Con l'attuale crescita degli
-affitti e un aumento dei redditi dell'1%, diversi Cantoni superano la soglia del 30% entro il 2035.
+Il quintile più basso spende il 40% per l'affitto. Rapportato agli affitti
+cantonali, nel 2023 superava già la soglia del 30% in tutti i 26 Cantoni: dal 33% nel Giura al 65% a Zugo.
 
 
 <!-- more -->
@@ -26,14 +35,13 @@ affitti e un aumento dei redditi dell'1%, diversi Cantoni superano la soglia del
 
 Statistica degli affitti dell'UST (2010–2023, appartamenti di 3 locali per Cantone) e
 quote dell'onere dell'affitto secondo SILC (UST). CAGR calcolato dal rapporto 2010/2023.
-Previsione della soglia: affitto×(1+CAGR)^t / reddito×(1+1%)^t = 30%.
 
 ---
 
 ### Onere dell'affitto per quintile di reddito
 
 {% chart(spec="wohnen_mietbelastung_quintile", alt="Quota dell'onere dell'affitto per quintile di reddito") %}
-Il quintile più basso spende circa il 40% del reddito disponibile per l'affitto, ben oltre la soglia del 30% considerata critica. I quintili superiori si situano tra il 15 e il 20%. L'onere dell'affitto agisce come un'imposta regressiva: chi guadagna meno paga in proporzione di più.
+Il quintile più basso spende circa il 40% del reddito disponibile per l'affitto, ben oltre la soglia del 30% considerata critica. I quintili superiori si situano tra il 12 e il 18%. L'onere dell'affitto agisce come un'imposta regressiva: chi guadagna meno paga in proporzione di più.
 {% end %}
 
 ---
@@ -41,7 +49,7 @@ Il quintile più basso spende circa il 40% del reddito disponibile per l'affitto
 ### Affitti per Cantone
 
 {% chart(spec="wohnen_mieten_kantone", alt="Affitti per Cantone per appartamenti di 3 locali") %}
-Le differenze cantonali sono considerevoli: Zurigo, Ginevra e Zugo sono in testa, i Cantoni rurali nettamente al di sotto. Il grafico mostra la fascia di prezzo di un appartamento medio di 3 locali, la tipologia di abitazione più diffusa in Svizzera.
+Le differenze cantonali sono considerevoli: Zugo, Zurigo e Svitto sono in testa, i Cantoni rurali nettamente al di sotto. Il grafico mostra la fascia di prezzo di un appartamento medio di 3 locali, la tipologia di abitazione più diffusa in Svizzera.
 {% end %}
 
 ---
@@ -49,22 +57,14 @@ Le differenze cantonali sono considerevoli: Zurigo, Ginevra e Zugo sono in testa
 ### Crescita degli affitti (CAGR)
 
 {% chart(spec="wohnen_mietpreiswachstum_kantone", alt="Crescita annua degli affitti per Cantone") %}
-La crescita annua degli affitti (CAGR) varia fortemente da un Cantone all'altro. In alcuni Cantoni cresce il doppio che in altri; con salari reali stagnanti, la forbice si allarga. Il ritmo di crescita determina quando la soglia di onere viene superata.
-{% end %}
-
----
-
-### Previsione della soglia
-
-{% chart(spec="wohnen_schwelle_prognose", alt="Previsione: quando i Cantoni superano la soglia del 30% di onere dell'affitto") %}
-Proiettando le tendenze attuali e ipotizzando una crescita dei redditi dell'1% all'anno, diversi Cantoni superano la soglia del 30% entro il 2035. La previsione è prudente: gli affitti dei nuovi contratti sono spesso nettamente superiori a quelli dei contratti in corso.
+La crescita annua degli affitti (CAGR) varia fortemente da un Cantone all'altro. In alcuni Cantoni cresce il doppio che in altri; con salari reali stagnanti, la forbice si allarga. Il ritmo di crescita determina quanto rapidamente l'onere continua ad aumentare se i redditi non tengono il passo.
 {% end %}
 
 ---
 
 ## Limiti
 
-- Il CAGR estrapola la tendenza passata
+- Il CAGR descrive la tendenza 2010–2023, non è una previsione
 - Il reddito del primo quintile non è differenziato per Cantone
 - Affitti dei contratti in corso (quelli dei nuovi contratti sono spesso più alti)
 

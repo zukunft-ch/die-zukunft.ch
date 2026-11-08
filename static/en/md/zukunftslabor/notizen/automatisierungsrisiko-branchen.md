@@ -16,20 +16,24 @@ less so. Around 1.27 million jobs are at post-LLM risk.
 ## Methodology
 
 FSO SLFS employment data (2024) and two risk models:
-OECD/Frey-Osborne (2018, routine tasks) and the IMF AI Preparedness
-Index (2024, LLM capabilities). Exposed jobs = employed persons × risk share.
+pre-LLM based on the OECD study by Nedelkoska & Quintini (2018, routine
+tasks, building on Frey & Osborne 2013) and post-LLM based on the IMF
+(Cazzaniga et al. 2024, AI exposure). The industry values are our own
+rounded model assumptions derived from these studies; the studies themselves
+do not report values by Swiss economic sector. Exposed jobs = employed
+persons × risk share.
 
 ---
 
 ### Employment by industry
 
-The industry structure provides the context: health, retail and construction employ the most people. The distribution shows which sectors would feel the largest absolute effects of an automation surge.
+The industry structure provides the context: health and social work, manufacturing and retail employ the most people. The distribution shows which sectors would feel the largest absolute effects of an automation surge.
 
 ---
 
 ### Pre- vs. post-LLM
 
-LLM-capable AI fundamentally shifts the risk map: industries such as finance and insurance, public administration and information/communication are considerably more exposed post-LLM than in the classic routine model. Manual occupations (construction, agriculture) remain largely unchanged.
+LLM-capable AI fundamentally shifts the risk map: industries such as finance and insurance, public administration and information/communication are considerably more exposed post-LLM than in the classic routine model. Manual occupations (construction, transport, hospitality), by contrast, are less exposed post-LLM.
 
 ---
 
@@ -41,12 +45,13 @@ The shift shows the direction and extent of the change. Positive values mean inc
 
 ### Exposed jobs
 
-Absolute numbers show the social scale: industries with many employees and high post-LLM risk add up to tens of thousands of potentially exposed jobs. This does not necessarily mean job losses — but it does mean transitions need to be managed systematically.
+Absolute numbers show the social scale: industries with many employees and high post-LLM risk each account for tens of thousands to almost 190,000 potentially exposed jobs. This does not necessarily mean job losses — but it does mean transitions need to be managed systematically.
 
 ---
 
 ## Limitations
 
+- Risk values by industry are modelled (our own assumptions based on the OECD and IMF), not measured values
 - Risk estimates are industry averages, not occupation-specific
 - Post-LLM estimates are provisional (LLM capabilities are evolving quickly)
 - Actual job losses depend on regulation and complementarity
@@ -57,4 +62,5 @@ Absolute numbers show the social scale: industries with many employees and high 
 
 - FSO SLFS 2024: Erwerbstätige nach Wirtschaftsabschnitt [employed persons by economic section]
 - OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
+- Frey & Osborne (2013): The Future of Employment (basis of the OECD approach)
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)

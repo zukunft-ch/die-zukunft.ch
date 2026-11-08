@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["robotica", "industria", "produttività", "occupazione", "ifr"]
 charts = ["roboter_dichte_vergleich.svg", "roboter_industrie_beschaeftigung.svg", "roboter_industrie_anteil.svg"]
 pillar = "robotik"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Prima pubblicazione l'8 novembre 2026; cifre e fonti aggiornate al momento della pubblicazione."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Prima pubblicazione."
 +++
 
 Con 294 robot industriali ogni 10'000 addetti, nel 2024 la Svizzera rientra di poco nei primi 10 al mondo, ma resta nettamente dietro a Corea del Sud (1'220), Singapore (818), Germania (449) e Giappone (446). Un raddoppio a circa 600 porterebbe la Svizzera davanti alla Germania. Dal 2010 l'industria occupa in modo piuttosto stabile tra 630'000 e 650'000 persone, ma la sua quota sul totale degli occupati diminuisce. Studi su Paesi comparabili mostrano chiari guadagni di produttività grazie ai robot; l'effetto sull'occupazione è eterogeneo e dipende da come avviene la trasformazione.
@@ -63,9 +72,9 @@ Le differenze tra Germania e Stati Uniti mostrano che il mercato del lavoro si a
 
 ## Che cosa significa per la politica
 
-- **Un obiettivo misurabile:** raddoppiare la densità di robot a circa 600 entro il 2035 e renderne conto ogni anno sulla base dei dati IFR: [Reindustrializzazione con la robotica](@/robotik.md).
+- **Un obiettivo misurabile:** raddoppiare la densità di robot a circa 600 entro il 2035 e renderne conto ogni anno sulla base dei dati IFR: [Reindustrializzazione con la robotica](@/robotik.it.md).
 - **Sostenere in modo mirato le PMI:** le grandi aziende esportatrici automatizzano da sole. La leva sta nelle PMI, ad esempio con centri di prova condivisi, modelli di leasing e consulenza.
-- **Organizzare la transizione in azienda:** il modello tedesco, riqualificazione nella stessa azienda invece del licenziamento, andrebbe sostenuto con buoni di formazione continua e professioni di tirocinio per robotica e manutenzione: [Lavorare senza paura](@/uebergaenge.md).
+- **Organizzare la transizione in azienda:** il modello tedesco, riqualificazione nella stessa azienda invece del licenziamento, andrebbe sostenuto con buoni di formazione continua e professioni di tirocinio per robotica e manutenzione: [Lavorare senza paura](@/uebergaenge.it.md).
 
 ---
 

@@ -1,0 +1,435 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Jahr": 2010,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 67.2
+      },
+      {
+        "Jahr": 2010,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 32.4
+      },
+      {
+        "Jahr": 2010,
+        "Sprache": "Französisch",
+        "Anteil": 29.2
+      },
+      {
+        "Jahr": 2010,
+        "Sprache": "Englisch",
+        "Anteil": 16.5
+      },
+      {
+        "Jahr": 2010,
+        "Sprache": "Italienisch",
+        "Anteil": 8.7
+      },
+      {
+        "Jahr": 2011,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 67.2
+      },
+      {
+        "Jahr": 2011,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 32.8
+      },
+      {
+        "Jahr": 2011,
+        "Sprache": "Französisch",
+        "Anteil": 29.2
+      },
+      {
+        "Jahr": 2011,
+        "Sprache": "Englisch",
+        "Anteil": 17.4
+      },
+      {
+        "Jahr": 2011,
+        "Sprache": "Italienisch",
+        "Anteil": 8.8
+      },
+      {
+        "Jahr": 2012,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 66.4
+      },
+      {
+        "Jahr": 2012,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 32.9
+      },
+      {
+        "Jahr": 2012,
+        "Sprache": "Französisch",
+        "Anteil": 29.3
+      },
+      {
+        "Jahr": 2012,
+        "Sprache": "Englisch",
+        "Anteil": 17.8
+      },
+      {
+        "Jahr": 2012,
+        "Sprache": "Italienisch",
+        "Anteil": 8.7
+      },
+      {
+        "Jahr": 2013,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 66.0
+      },
+      {
+        "Jahr": 2013,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 33.4
+      },
+      {
+        "Jahr": 2013,
+        "Sprache": "Französisch",
+        "Anteil": 29.1
+      },
+      {
+        "Jahr": 2013,
+        "Sprache": "Englisch",
+        "Anteil": 18.2
+      },
+      {
+        "Jahr": 2013,
+        "Sprache": "Italienisch",
+        "Anteil": 8.7
+      },
+      {
+        "Jahr": 2014,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 65.9
+      },
+      {
+        "Jahr": 2014,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 34.1
+      },
+      {
+        "Jahr": 2014,
+        "Sprache": "Französisch",
+        "Anteil": 29.3
+      },
+      {
+        "Jahr": 2014,
+        "Sprache": "Englisch",
+        "Anteil": 18.8
+      },
+      {
+        "Jahr": 2014,
+        "Sprache": "Italienisch",
+        "Anteil": 8.7
+      },
+      {
+        "Jahr": 2015,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 65.6
+      },
+      {
+        "Jahr": 2015,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 34.4
+      },
+      {
+        "Jahr": 2015,
+        "Sprache": "Französisch",
+        "Anteil": 29.2
+      },
+      {
+        "Jahr": 2015,
+        "Sprache": "Englisch",
+        "Anteil": 19.1
+      },
+      {
+        "Jahr": 2015,
+        "Sprache": "Italienisch",
+        "Anteil": 8.7
+      },
+      {
+        "Jahr": 2016,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 64.9
+      },
+      {
+        "Jahr": 2016,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 35.1
+      },
+      {
+        "Jahr": 2016,
+        "Sprache": "Französisch",
+        "Anteil": 29.3
+      },
+      {
+        "Jahr": 2016,
+        "Sprache": "Englisch",
+        "Anteil": 19.9
+      },
+      {
+        "Jahr": 2016,
+        "Sprache": "Italienisch",
+        "Anteil": 8.7
+      },
+      {
+        "Jahr": 2017,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 64.7
+      },
+      {
+        "Jahr": 2017,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 35.3
+      },
+      {
+        "Jahr": 2017,
+        "Sprache": "Französisch",
+        "Anteil": 29.1
+      },
+      {
+        "Jahr": 2017,
+        "Sprache": "Englisch",
+        "Anteil": 20.4
+      },
+      {
+        "Jahr": 2017,
+        "Sprache": "Italienisch",
+        "Anteil": 8.7
+      },
+      {
+        "Jahr": 2018,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 63.5
+      },
+      {
+        "Jahr": 2018,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 33.5
+      },
+      {
+        "Jahr": 2018,
+        "Sprache": "Französisch",
+        "Anteil": 28.8
+      },
+      {
+        "Jahr": 2018,
+        "Sprache": "Englisch",
+        "Anteil": 20.2
+      },
+      {
+        "Jahr": 2018,
+        "Sprache": "Italienisch",
+        "Anteil": 8.3
+      },
+      {
+        "Jahr": 2019,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 63.2
+      },
+      {
+        "Jahr": 2019,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 33.6
+      },
+      {
+        "Jahr": 2019,
+        "Sprache": "Französisch",
+        "Anteil": 28.2
+      },
+      {
+        "Jahr": 2019,
+        "Sprache": "Englisch",
+        "Anteil": 20.7
+      },
+      {
+        "Jahr": 2019,
+        "Sprache": "Italienisch",
+        "Anteil": 8.2
+      },
+      {
+        "Jahr": 2020,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 62.6
+      },
+      {
+        "Jahr": 2020,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 33.6
+      },
+      {
+        "Jahr": 2020,
+        "Sprache": "Französisch",
+        "Anteil": 27.7
+      },
+      {
+        "Jahr": 2020,
+        "Sprache": "Englisch",
+        "Anteil": 20.5
+      },
+      {
+        "Jahr": 2020,
+        "Sprache": "Italienisch",
+        "Anteil": 8.0
+      },
+      {
+        "Jahr": 2021,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 62.0
+      },
+      {
+        "Jahr": 2021,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 33.6
+      },
+      {
+        "Jahr": 2021,
+        "Sprache": "Französisch",
+        "Anteil": 27.8
+      },
+      {
+        "Jahr": 2021,
+        "Sprache": "Englisch",
+        "Anteil": 21.3
+      },
+      {
+        "Jahr": 2021,
+        "Sprache": "Italienisch",
+        "Anteil": 7.9
+      },
+      {
+        "Jahr": 2022,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 61.4
+      },
+      {
+        "Jahr": 2022,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 34.4
+      },
+      {
+        "Jahr": 2022,
+        "Sprache": "Französisch",
+        "Anteil": 27.9
+      },
+      {
+        "Jahr": 2022,
+        "Sprache": "Englisch",
+        "Anteil": 22.6
+      },
+      {
+        "Jahr": 2022,
+        "Sprache": "Italienisch",
+        "Anteil": 7.9
+      },
+      {
+        "Jahr": 2023,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 60.9
+      },
+      {
+        "Jahr": 2023,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 35.1
+      },
+      {
+        "Jahr": 2023,
+        "Sprache": "Französisch",
+        "Anteil": 27.7
+      },
+      {
+        "Jahr": 2023,
+        "Sprache": "Englisch",
+        "Anteil": 23.3
+      },
+      {
+        "Jahr": 2023,
+        "Sprache": "Italienisch",
+        "Anteil": 7.9
+      },
+      {
+        "Jahr": 2024,
+        "Sprache": "Schweizerdeutsch",
+        "Anteil": 60.8
+      },
+      {
+        "Jahr": 2024,
+        "Sprache": "Hochdeutsch",
+        "Anteil": 35.6
+      },
+      {
+        "Jahr": 2024,
+        "Sprache": "Französisch",
+        "Anteil": 27.6
+      },
+      {
+        "Jahr": 2024,
+        "Sprache": "Englisch",
+        "Anteil": 23.6
+      },
+      {
+        "Jahr": 2024,
+        "Sprache": "Italienisch",
+        "Anteil": 8.0
+      }
+    ]
+  },
+  "title": "Üblicherweise bei der Arbeit gesprochene Sprachen (2010–2024)",
+  "width": 720,
+  "height": 380,
+  "mark": {
+    "type": "line",
+    "point": true,
+    "strokeWidth": 2
+  },
+  "encoding": {
+    "x": {
+      "field": "Jahr",
+      "type": "ordinal",
+      "title": "Jahr"
+    },
+    "y": {
+      "field": "Anteil",
+      "type": "quantitative",
+      "title": "Anteil der Erwerbstätigen (%)"
+    },
+    "color": {
+      "field": "Sprache",
+      "type": "nominal",
+      "sort": [
+        "Schweizerdeutsch",
+        "Hochdeutsch",
+        "Französisch",
+        "Englisch",
+        "Italienisch"
+      ],
+      "title": null
+    },
+    "tooltip": [
+      {
+        "field": "Jahr",
+        "type": "ordinal"
+      },
+      {
+        "field": "Sprache",
+        "type": "nominal"
+      },
+      {
+        "field": "Anteil",
+        "type": "quantitative",
+        "format": ".1f"
+      }
+    ]
+  }
+}

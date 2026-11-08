@@ -9,4 +9,4 @@ kicker = "Evidence per pillar"
 items_label = "items"
 +++
 
-Missing an analysis? [Suggest a question](https://github.com/zukunft-ch/zukunftslabor/issues/new) or [write to us](@/kontakt.md).
+Missing an analysis? [Suggest a question](https://github.com/zukunft-ch/zukunftslabor/issues/new) or [write to us](@/kontakt.en.md).

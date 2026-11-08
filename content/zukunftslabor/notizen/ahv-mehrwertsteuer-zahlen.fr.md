@@ -1,0 +1,98 @@
++++
+title = "AVS et TVA : ce que disent les chiffres sur l'objet du 29 novembre"
+description = "Dès 2026, la 13e rente AVS coûte environ 4,1 milliards de francs par an. Avec la contribution de la Confédération, la hausse de la TVA de 0,4 point en couvre environ la moitié. Les chiffres officiels sur les déficits, la charge des ménages et le vieillissement, sans recommandation de vote."
+slug = "ahv-mehrwertsteuer-zahlen"
+date = 2026-11-08
+template = "notiz.html"
+
+[extra]
+data = "ahv-mehrwertsteuer-zahlen.csv"
+category = "datenbriefing"
+evidence = "mittel"
+tags = ["avs", "tva", "prevoyance-vieillesse", "demographie", "votation"]
+charts = ["ahv_umlageergebnis_szenarien.svg", "ahv_mwst_haushalte.svg", "ahv_altersquotient.svg"]
+pillar = "grundeinkommen"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Données : perspectives financières de l'OFAS de juillet 2026, scénarios de l'OFS 2025–2055."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Première publication."
++++
+
+Avec la 13e rente, le résultat de répartition de l'AVS devient négatif en 2026. Selon les perspectives financières de l'Office fédéral des assurances sociales (OFAS) de juillet 2026, il manque environ 1,3 milliard de francs en 2026 et, sans financement additionnel, environ 4,9 milliards en 2035. Avec la hausse de la TVA soumise au vote le 29 novembre, ce serait environ 3,3 milliards en 2035. Selon l'Administration fédérale des contributions (AFC), un ménage moyen paierait environ 180 francs de plus par an. En arrière-plan se dessine une tendance démographique qu'aucun des trois scénarios de l'OFS n'inverse : en 2025, on compte 33 personnes de 65 ans ou plus pour 100 personnes en âge de travailler ; en 2050, ce seront 43. Nous ne donnons ici aucune recommandation de vote.
+
+<!-- more -->
+
+---
+
+## Méthodologie
+
+Tous les chiffres de l'AVS proviennent des perspectives financières de l'OFAS du 2 juillet 2026, en millions de francs aux prix constants de 2025. Nous présentons le **résultat de répartition** : recettes courantes moins dépenses, sans le rendement des placements du Fonds AVS. L'OFAS calcule deux variantes : le régime actuel (13e rente dès 2026, sans financement additionnel) et le financement de la 13e rente selon l'objet soumis au vote (TVA +0,4 point de pourcentage dès 2028, taux réduit inchangé). L'OFAS ne publie plus de variante **sans 13e rente** ; nous la déduisons en ajoutant au régime actuel les coûts de la 13e rente indiqués par l'OFAS, moins la contribution fédérale correspondante (20,2 %). Cette ligne est un calcul propre et signalée comme telle. La charge des ménages provient des explications du Conseil fédéral (estimation de l'AFC fondée sur l'enquête sur le budget des ménages EBM 2018–2019). La démographie provient des scénarios de l'Office fédéral de la statistique (OFS) 2025–2055.
+
+---
+
+### Les déficits avec et sans l'objet
+
+{% chart(spec="ahv_umlageergebnis_szenarien", alt="Résultat de répartition de l'AVS 2025 à 2040 : régime actuel, avec hausse de la TVA et sans 13e rente") %}
+En 2025, l'AVS a bouclé avec un excédent de répartition de 1,84 milliard de francs. Dès 2026, la 13e rente coûte selon l'OFAS 4,1 milliards par an, et 5,1 milliards en 2035 ; la Confédération en prend en charge 20,2 %. Selon le régime actuel, le résultat de répartition tombe à –2,6 milliards (2030) et –4,9 milliards (2035). Avec l'objet, 1,1 milliard supplémentaire afflue à l'AVS dès 2028, puis environ 1,4 à 1,5 milliard par an dès 2029 ; le déficit serait alors de –1,2 milliard (2030) et –3,3 milliards (2035). Dès 2029, la TVA et la contribution fédérale couvrent ensemble 50 à 52 % des coûts de la 13e rente (calcul propre à partir des tableaux de l'OFAS). La ligne en pointillé montre que, sans 13e rente, le résultat de répartition se situerait jusqu'en 2040 entre environ –0,8 et +2,0 milliards. Les dents de scie s'expliquent par l'adaptation des rentes tous les deux ans.
+{% end %}
+
+**Le Fonds AVS.** La loi exige que le fonds de compensation atteigne en règle générale au moins le montant d'une année de dépenses (100 %). Selon le régime actuel, il tombe selon l'OFAS à 99 % en 2027, à 51 % en 2035 et à 23 % en 2040. Avec l'objet, il serait de 68 % en 2035 et de 53 % en 2040. La réserve minimale n'est donc pas atteinte dans les deux variantes.
+
+**La fourchette.** Outre le scénario de référence, l'OFAS calcule un scénario favorable et un scénario défavorable. Selon le régime actuel, le résultat de répartition 2035 va de –8,3 milliards (bas) à –1,3 milliard (haut). L'OFAS exprime aussi le déficit de référence 2035 en points de TVA : sans l'objet, il correspond à 1,2 point, avec l'objet encore à 0,8 point.
+
+---
+
+### Ce que la hausse coûte à un ménage
+
+{% chart(spec="ahv_mwst_haushalte", alt="Charge supplémentaire due à la hausse de la TVA en francs par ménage et par an selon la classe de revenu") %}
+Selon l'AFC, la hausse coûte en moyenne environ 180 francs par an à un ménage (15 francs par mois). Les ménages dont le revenu brut atteint 4 599 francs par mois au maximum paient environ 7 francs de plus par mois, ceux qui gagnent de 6 700 à 9 399 francs environ 13 francs, et ceux dès 13 400 francs environ 28 francs. Les explications ne donnent pas de valeurs pour les deux classes intermédiaires ; les barres claires sont un modèle : les valeurs de l'AFC figurant dans le message pour +0,7 point, multipliées par 4/7. Pour les trois classes officielles, cette conversion simple dépasse de 5 à 10 % la valeur officielle, car le taux réduit n'augmente pas cette fois. Les valeurs du modèle sont donc plutôt trop élevées.
+{% end %}
+
+En francs, les ménages à revenu élevé paient donc davantage, mais moins en proportion de leur revenu. Pour une hausse de 0,7 point, l'AFC avait calculé dans le message 0,41 % du revenu brut pour le cinquième le plus modeste et 0,26 % pour le cinquième le plus aisé. Aucun calcul en pourcentage n'a été publié pour les 0,4 point désormais décidés. Dans le même temps, les personnes retraitées reçoivent la 13e rente : jusqu'à 2 520 francs par an pour une personne seule, jusqu'à 3 780 francs pour un couple marié.
+
+---
+
+### Démographie : la tendance sous les chiffres
+
+{% chart(spec="ahv_altersquotient", alt="Rapport de dépendance des personnes âgées 2025 à 2050 selon les trois scénarios de base de l'OFS") %}
+Dans le scénario de référence de l'OFS, le rapport de dépendance des personnes âgées passe de 33,0 (2025) à 36,8 (2030), 40,9 (2040) et 43,3 (2050). Autrement dit : en 2025, on compte environ trois personnes de 20 à 64 ans pour une personne de 65 ans ou plus ; en 2050, encore environ 2,3. Les scénarios haut et bas ne s'en écartent que de 0,2 à 0,3 point en 2050 ; ils diffèrent surtout par la taille de la population, à peine par sa structure par âge. Seules les variantes extrêmes ouvrent une fourchette plus large : entre 38,6 et 52,8 en 2055. Dans le scénario de référence, le nombre de personnes de 65 ans ou plus passe de 1,81 million (2025) à 2,67 millions (2055), celui des personnes de 80 ans ou plus de 0,54 à 1,03 million.
+{% end %}
+
+Pour son scénario de référence, l'OFAS utilise précisément ce scénario A-00-2025 de l'OFS. Le vieillissement est donc déjà intégré dans tous les chiffres de l'AVS présentés ci-dessus.
+
+---
+
+## Ce que les chiffres ne disent pas
+
+- **Aucune certitude au-delà de 2035.** L'OFAS écrit lui-même que les projections au-delà de dix ans sont entachées d'une grande incertitude. La fourchette pour 2035 va de –1,3 à –8,3 milliards de francs.
+- **Pas de rendement des placements.** Le résultat de répartition ne tient pas compte du rendement du Fonds AVS ; pour l'état du fonds, l'OFAS table sur un rendement réel d'environ 2 %. De bonnes ou de mauvaises années boursières modifient sensiblement l'état du fonds.
+- **Des données de consommation anciennes.** Les chiffres des ménages reposent sur les prix et la consommation de 2018–2019. Selon les explications, la charge effective devrait être un peu plus élevée. La répercussion sur les prix est elle aussi une hypothèse : les entreprises ne répercutent pas toujours entièrement une hausse.
+- **Pas de bilan net par ménage.** Les chiffres montrent la charge de l'impôt, pas le solde avec la 13e rente. Qu'un ménage y gagne au final dépend du fait qu'il perçoive ou non une rente AVS, et de son montant.
+- **Des paramètres ouverts.** Lors de la clôture de la rédaction des explications, on ne savait pas encore si le taux spécial pour l'hébergement serait prolongé au-delà de 2027. Le Conseil fédéral entend présenter la réforme AVS2030 probablement au printemps 2027 ; elle modifiera les perspectives.
+- **Pas de verdict sur le bon financement.** Les chiffres montrent l'ampleur du trou et qui en supporte quelle part. Savoir si la TVA, les cotisations salariales, les moyens de la Confédération ou des adaptations des prestations constituent la bonne voie est une question politique, pas statistique.
+
+---
+
+## Mise en perspective
+
+Notre lecture des quatre objets du 29 novembre, également sans recommandation de vote, figure dans l'article [Votation du 29 novembre 2026](@/aktuelles/abstimmung-29-november-2026.fr.md). Pourquoi nous nous intéressons à un financement des assurances sociales par la consommation plutôt que par les seuls salaires, le pilier [Revenu de base](@/grundeinkommen.fr.md) l'explique ; la note [Revenu de base : trois modèles de financement comparés](@/zukunftslabor/notizen/grundeinkommen-finanzierungsmodelle.fr.md) montre comment différentes assiettes fiscales agissent sur la répartition des revenus.
+
+---
+
+## Sources
+
+1. Office fédéral des assurances sociales (OFAS) : Situation financière et perspectives de l'AVS, perspectives financières du 2 juillet 2026. https://www.bsv.admin.ch/finanzen-ahv
+2. OFAS : Perspectives financières de l'AVS selon le régime actuel (scénario de référence, scénarios bas et haut), 2 juillet 2026. https://www.bsv.admin.ch/dam/de/sd-web/op2mTMWV0HCj/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20geltender%20Ordnung.xlsx
+3. OFAS : Perspectives financières de l'AVS selon le financement de la 13e rente de vieillesse (y c. feuille « Massnahmen »), 2 juillet 2026. https://www.bsv.admin.ch/dam/de/sd-web/jnnnev0Cvqna/Finanzperspektiven%20der%20AHV%20gem%C3%A4ss%20Finanzierung%20der%2013.%20Altersrente.xlsx
+4. OFAS : L'essentiel en bref : perspectives financières de l'AVS, de l'AI et des APG avec scénarios, 2 juillet 2026. https://www.bsv.admin.ch/dam/de/sd-web/layXpeKUCS4Y/Faktenblatt%20Szenarien_2026_DE.pdf
+5. Chancellerie fédérale : Explications du Conseil fédéral pour la votation populaire du 29 novembre 2026, p. 13–19 (édition allemande). https://www.admin.ch/dam/de/sd-web/HXhFMFWOaa6u/BAR_Erlaeuterungen_Nov26_DE_v10.pdf
+6. OFAS : 13e rente AVS : votation sur le financement additionnel de l'AVS. https://www.bsv.admin.ch/de/abstimmung-13-ahv-rente
+7. Conseil fédéral : Message du 16 octobre 2024 concernant la mise en œuvre et le financement de l'initiative pour une 13e rente AVS, FF 2024 2747, ch. 6.5, tableaux 6-4 et 6-5. https://www.fedlex.admin.ch/eli/fga/2024/2747/de
+8. Office fédéral de la statistique (OFS) : Scénarios de l'évolution de la population de la Suisse et des cantons 2025–2055, tableaux TA7–TA9. https://www.bfs.admin.ch/asset/de/34687099
+9. OFS : Projections – reference scenario 2025–2055 (fiche d'information). https://dam-api.bfs.admin.ch/hub/api/dam/assets/34687124/master
+10. Parlement : Questions et réponses sur le financement de la 13e rente AVS, 19 juin 2026. https://www.parlament.ch/de/services/news/Seiten/2026/20260619104626831194158159026_bsd070.aspx

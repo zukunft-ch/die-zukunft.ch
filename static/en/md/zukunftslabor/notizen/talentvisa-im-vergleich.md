@@ -46,7 +46,7 @@ The number of Global Talent visas (in 2019 and partly 2020 still its predecessor
 
 ## What this means for policy
 
-- **A dedicated talent visa outside the quotas:** narrow, verifiable criteria (salary threshold or endorsement by the ETH Domain, universities, SNSF, Innosuisse), a decision within ten working days, family included: [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/).
+- **A dedicated talent visa outside the quotas:** narrow, verifiable criteria (salary threshold or endorsement by the ETH Domain, universities, SNSF, Innosuisse), a decision within ten working days, family included: [Talent, Integration & Rule of Law](@/talent-integration.en.md).
 - **Start small and measurable:** an order of magnitude like the United Kingdom or Singapore (a few thousand per year), not like Hong Kong; an annual report on permits granted, retention and company formations.
 - **Measure retention, not volume:** the Hong Kong example shows that extension rates are more meaningful than application numbers.
 

@@ -47,9 +47,9 @@ Le differenze tra Germania e Stati Uniti mostrano che il mercato del lavoro si a
 
 ## Che cosa significa per la politica
 
-- **Un obiettivo misurabile:** raddoppiare la densità di robot a circa 600 entro il 2035 e renderne conto ogni anno sulla base dei dati IFR: [Reindustrializzazione con la robotica](https://il-futuro.ch/robotica/).
+- **Un obiettivo misurabile:** raddoppiare la densità di robot a circa 600 entro il 2035 e renderne conto ogni anno sulla base dei dati IFR: [Reindustrializzazione con la robotica](@/robotik.it.md).
 - **Sostenere in modo mirato le PMI:** le grandi aziende esportatrici automatizzano da sole. La leva sta nelle PMI, ad esempio con centri di prova condivisi, modelli di leasing e consulenza.
-- **Organizzare la transizione in azienda:** il modello tedesco, riqualificazione nella stessa azienda invece del licenziamento, andrebbe sostenuto con buoni di formazione continua e professioni di tirocinio per robotica e manutenzione: [Lavorare senza paura](https://il-futuro.ch/transizioni/).
+- **Organizzare la transizione in azienda:** il modello tedesco, riqualificazione nella stessa azienda invece del licenziamento, andrebbe sostenuto con buoni di formazione continua e professioni di tirocinio per robotica e manutenzione: [Lavorare senza paura](@/uebergaenge.it.md).
 
 ---
 

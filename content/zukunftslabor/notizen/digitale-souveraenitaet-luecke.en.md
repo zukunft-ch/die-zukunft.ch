@@ -9,17 +9,27 @@ template = "notiz.html"
 notebook = "02_digitale_souveraenitaet"
 pillar = "digitale-souveraenitaet"
 category = "datenbriefing"
-evidence = "stark"
+evidence = "mittel"
 tags = ["digital sovereignty", "e-government", "open data", "e-id", "comparison"]
 charts = ["digital_internetnutzung_alter.svg", "digital_egov_trend.svg", "digital_luecke_alter.svg", "digital_eid_motive.svg", "digital_opendata_vergleich.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "FSO Omnibus ICT data up to 2025 checked and updated with the e-ID result of 28 September 2025 and the Open Data Maturity Report 2025."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Figures on internet and e-government use aligned with the 2025 FSO data, the 2025 e-ID vote and 2025 open-data maturity added, and the motives chart replaced with documented VOX values."
 +++
 
 90% of the Swiss population use the internet regularly — but
 e-government use, online availability and open-data maturity lag
 behind the EU average. The readiness gap between the digital
-population and the digital state amounts to 12.1 percentage points.
-The 2021 e-ID referendum shows that the solution must be state-run
-and privacy-friendly.
+population and the digital state was 13.2 percentage points in 2025.
+In 2021 a private-sector e-ID model was rejected at the ballot box
+(64.4% no); the state-run e-ID was accepted only narrowly on
+28 September 2025 (50.4% yes).
 
 
 <!-- more -->
@@ -32,15 +42,16 @@ The analysis combines two FSO Omnibus ICT datasets (2014–2025):
 internet use by age group (e-mail as a proxy) and
 e-government use by type of service. The "readiness gap" is the
 difference between general internet use and e-government use across
-the whole population. Supplemented by the EU Open Data Maturity ranking and
-VOX/Sotomo data on the 2021 e-ID referendum.
+the whole population. Supplemented by the EU Open Data Maturity Report 2025, the VOX
+post-vote survey (gfs.bern) on the 2021 e-ID referendum and the official
+results of the 2021 and 2025 e-ID votes.
 
 ---
 
 ### Internet use by age group
 
 {% chart(spec="digital_internetnutzung_alter", alt="Internet use by age group in Switzerland") %}
-Almost all age groups under 65 exceed 90% internet use. Even a majority of 65- to 74-year-olds are now online. The problem is not the population's digital skills — it is the missing digital infrastructure on the state's side.
+The 15–29 and 30–59 age groups are at around 95% internet use. Even among those over 60, almost 80% are now online. The problem is not the population's digital skills — it is the missing digital infrastructure on the state's side.
 {% end %}
 
 ---
@@ -48,7 +59,7 @@ Almost all age groups under 65 exceed 90% internet use. Even a majority of 65- t
 ### E-government use
 
 {% chart(spec="digital_egov_trend", alt="E-government use over time") %}
-E-government use has stagnated for years. Despite rising internet penetration, the share of the population using public online services has barely grown. This points to a supply problem: what is missing is not demand but usable digital services.
+E-government use rose from 67% (2014) to 82% (2023) but fell back to 77% in 2025 — even though internet use kept rising. This points to a supply problem: what is missing is not demand but usable digital services.
 {% end %}
 
 ---
@@ -56,23 +67,23 @@ E-government use has stagnated for years. Despite rising internet penetration, t
 ### Readiness gap
 
 {% chart(spec="digital_luecke_alter", alt="Digital readiness gap between the population and the state") %}
-The gap between general internet use and e-government use is around 12 percentage points. This readiness gap is not a technological but an institutional problem: the population is ready — the state is not.
+The gap between general internet use and e-government use stood at around 13 percentage points in 2025, after narrowing to 8 points by 2021. This readiness gap is not a technological but an institutional problem: the population is ready — the state is not.
 {% end %}
 
 ---
 
 ### E-ID referendum: a question of trust
 
-{% chart(spec="digital_eid_motive", alt="Reasons for rejection in the 2021 e-ID referendum") %}
-The 2021 no to the e-ID was not a rejection of digital identities but of the private-sector model. Data protection concerns and a lack of trust in private providers were the main motives. A state-run, privacy-friendly solution continues to enjoy broad support.
+{% chart(spec="digital_eid_motive", alt="Reasons given by no voters in the 2021 e-ID referendum (VOX analysis)") %}
+The 2021 no to the e-ID (64.4%) was aimed above all at the private-sector model: in the VOX post-vote survey, no voters most often cited data protection and data security (60% of all mentions) and the role of the state (49%), for example "the e-ID should be issued by the state" (25%). The redesigned, state-run e-ID was accepted with 50.4% yes on 28 September 2025. The narrow result shows that trust in data protection and state responsibility is a precondition for digital identity, not a given.
 {% end %}
 
 ---
 
 ### Open-data maturity
 
-{% chart(spec="digital_opendata_vergleich", alt="Open-data maturity: Switzerland vs. EU average") %}
-In the EU Open Data Maturity ranking, Switzerland is below average — both in the availability and in the usability of open government data. This hampers innovation, transparency and evidence-based policymaking.
+{% chart(spec="digital_opendata_vergleich", alt="Open-data maturity 2025: Switzerland compared with the EU average and selected countries") %}
+In the Open Data Maturity Report 2025, Switzerland scores 82% (2 points more than in 2024) and belongs to the "followers" cluster (73–84%). The EU-27 average is 86%, and France leads with 100%. There is progress, such as the "open by default" principle in the EMBAG act and the OGD master plan 2024–2027, but the distance to the leading countries remains. This hampers innovation, transparency and evidence-based policymaking.
 {% end %}
 
 ---
@@ -81,13 +92,16 @@ In the EU Open Data Maturity ranking, Switzerland is below average — both in t
 
 - E-mail use as a proxy for internet use (FSO definition)
 - E-government data not available by age group — gap can only be calculated at total level
-- Open-data score based on EU methodology (Switzerland as an observer state)
-- E-ID motives: VOX post-vote survey with a limited sample
+- Open-data score based on EU methodology (Switzerland as a participating EFTA country)
+- E-ID motives: VOX post-vote survey with a limited sample, open question with multiple answers
 
 ---
 
 ## Data sources
 
 - FSO Omnibus ICT 2014–2025: internet use, e-government use
-- EU Open Data Maturity Report 2023 (data.europa.eu)
-- VOX/Sotomo: Nachbefragung E-ID-Referendum [post-vote survey on the e-ID referendum], 7 March 2021
+- data.europa.eu: Open Data Maturity Report 2025, https://data.europa.eu/sites/default/files/2025-12/2025_odm_report_7.pdf
+- data.europa.eu: Open Data Maturity 2025, country factsheet Switzerland, https://data.europa.eu/sites/default/files/2025-12/2025_odm_factsheet_switzerland.pdf
+- gfs.bern: VOX analysis March 2021 (e-ID act, in German), https://swissvotes.ch/vote/639.00/nachbefragung-de.pdf
+- Swissvotes: e-ID act of 7 March 2021, rejected with 64.4% no, https://swissvotes.ch/vote/639.00
+- SRF: vote of 28 September 2025, e-ID act accepted with 50.4% yes, https://www.srf.ch/news/schweiz/abstimmungen-28-september-so-hat-die-schweiz-abgestimmt

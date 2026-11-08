@@ -39,9 +39,9 @@ Calcul (estimation) : 7,124 MW × 8 760 h donnent environ 62 GWh par an pour Alp
 
 ## Ce que cela signifie pour la politique
 
-- **Planifier ensemble l'énergie et la puissance de calcul.** Un programme public d'IA de l'ordre de 70 à 90 MW est réalisable pour le réseau suisse, mais il exige des sites fixes avec raccordement au réseau, refroidissement et valorisation des rejets de chaleur. Cela relève de la même planification que le développement de la production hivernale : [Énergie & résilience des infrastructures](https://le-futur.ch/energie-resilience/).
+- **Planifier ensemble l'énergie et la puissance de calcul.** Un programme public d'IA de l'ordre de 70 à 90 MW est réalisable pour le réseau suisse, mais il exige des sites fixes avec raccordement au réseau, refroidissement et valorisation des rejets de chaleur. Cela relève de la même planification que le développement de la production hivernale : [Énergie & résilience des infrastructures](@/energy-resilience.fr.md).
 - **Exploiter d'abord l'efficacité.** Le potentiel d'efficacité chiffré d'environ 0,8 TWh dans les centres de données existants correspond à peu près au besoin estimé d'une multiplication par dix de la puissance de calcul publique. Des indicateurs d'efficacité contraignants pour les grands centres de données libèrent de la place sur le réseau.
-- **Développer la puissance de calcul publique de manière mesurable.** Publier l'objectif et les progrès en mégawatts et en puissance de calcul, avec un accès ouvert pour les hautes écoles, les PME et l'administration : [IA souveraine & puissance de calcul](https://le-futur.ch/ia-souveraine/).
+- **Développer la puissance de calcul publique de manière mesurable.** Publier l'objectif et les progrès en mégawatts et en puissance de calcul, avec un accès ouvert pour les hautes écoles, les PME et l'administration : [IA souveraine & puissance de calcul](@/souveraene-ki.fr.md).
 
 ---
 

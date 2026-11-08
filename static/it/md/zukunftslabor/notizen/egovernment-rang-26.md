@@ -51,7 +51,7 @@ Anche la Svizzera dispone di una base: dal 1° gennaio 2024 è in vigore la LMeC
 
 ## Che cosa significa per la politica
 
-- **Rendere misurabile l'obiettivo:** entro la rilevazione ONU 2028 tornare tra i primi 15, misurati sull'Online Service Index e non sui documenti strategici: [Stato aperto](https://il-futuro.ch/stato-aperto/).
+- **Rendere misurabile l'obiettivo:** entro la rilevazione ONU 2028 tornare tra i primi 15, misurati sull'Online Service Index e non sui documenti strategici: [Stato aperto](@/offener-staat.it.md).
 - **Ancorare il principio once-only nella legge:** i dati che un'autorità possiede già non possono essere richiesti di nuovo da un'altra; lo scambio avviene tramite interfacce documentate (API per default).
 - **Id-e con un calendario:** documentare apertamente i lavori sulla sicurezza e pubblicare una data di avvio vincolante con tappe intermedie.
 - **Rispettare il termine della LMeCA:** dal 2027 indicare pubblicamente quali servizi federali mettono effettivamente a disposizione i loro dati in forma aperta.

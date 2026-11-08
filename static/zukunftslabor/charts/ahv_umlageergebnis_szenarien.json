@@ -1,0 +1,325 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Jahr": 2025,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": 1.84
+      },
+      {
+        "Jahr": 2025,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": 1.84
+      },
+      {
+        "Jahr": 2025,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 1.84
+      },
+      {
+        "Jahr": 2026,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -1.3
+      },
+      {
+        "Jahr": 2026,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -1.3
+      },
+      {
+        "Jahr": 2026,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 1.99
+      },
+      {
+        "Jahr": 2027,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -1.98
+      },
+      {
+        "Jahr": 2027,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -1.98
+      },
+      {
+        "Jahr": 2027,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 1.4
+      },
+      {
+        "Jahr": 2028,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -1.72
+      },
+      {
+        "Jahr": 2028,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -0.65
+      },
+      {
+        "Jahr": 2028,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 1.7
+      },
+      {
+        "Jahr": 2029,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -2.69
+      },
+      {
+        "Jahr": 2029,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -1.3
+      },
+      {
+        "Jahr": 2029,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 0.86
+      },
+      {
+        "Jahr": 2030,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -2.65
+      },
+      {
+        "Jahr": 2030,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -1.23
+      },
+      {
+        "Jahr": 2030,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 0.96
+      },
+      {
+        "Jahr": 2031,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -3.88
+      },
+      {
+        "Jahr": 2031,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -2.44
+      },
+      {
+        "Jahr": 2031,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": -0.12
+      },
+      {
+        "Jahr": 2032,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -3.62
+      },
+      {
+        "Jahr": 2032,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -2.15
+      },
+      {
+        "Jahr": 2032,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 0.18
+      },
+      {
+        "Jahr": 2033,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -4.56
+      },
+      {
+        "Jahr": 2033,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -3.07
+      },
+      {
+        "Jahr": 2033,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": -0.63
+      },
+      {
+        "Jahr": 2034,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -3.9
+      },
+      {
+        "Jahr": 2034,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -2.39
+      },
+      {
+        "Jahr": 2034,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 0.03
+      },
+      {
+        "Jahr": 2035,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -4.87
+      },
+      {
+        "Jahr": 2035,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -3.33
+      },
+      {
+        "Jahr": 2035,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": -0.81
+      },
+      {
+        "Jahr": 2036,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -4.1
+      },
+      {
+        "Jahr": 2036,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -2.6
+      },
+      {
+        "Jahr": 2036,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": -0.03
+      },
+      {
+        "Jahr": 2037,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -4.9
+      },
+      {
+        "Jahr": 2037,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -3.3
+      },
+      {
+        "Jahr": 2037,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": -0.72
+      },
+      {
+        "Jahr": 2038,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -3.9
+      },
+      {
+        "Jahr": 2038,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -2.3
+      },
+      {
+        "Jahr": 2038,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 0.27
+      },
+      {
+        "Jahr": 2039,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -4.3
+      },
+      {
+        "Jahr": 2039,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -2.7
+      },
+      {
+        "Jahr": 2039,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": -0.04
+      },
+      {
+        "Jahr": 2040,
+        "Szenario": "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mrd": -3.2
+      },
+      {
+        "Jahr": 2040,
+        "Szenario": "Mit MWST-Erhöhung (Vorlage)",
+        "Mrd": -1.6
+      },
+      {
+        "Jahr": 2040,
+        "Szenario": "Ohne 13. Rente (abgeleitet)",
+        "Mrd": 1.04
+      }
+    ]
+  },
+  "title": "AHV-Umlageergebnis 2025–2040 in Mrd. Franken (Referenzszenario BSV, Preise 2025)",
+  "width": 720,
+  "height": 400,
+  "mark": {
+    "type": "line",
+    "strokeWidth": 2,
+    "point": {
+      "size": 40
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "Jahr",
+      "type": "ordinal",
+      "title": null
+    },
+    "y": {
+      "field": "Mrd",
+      "type": "quantitative",
+      "title": "Umlageergebnis (Mrd. Fr.)"
+    },
+    "color": {
+      "field": "Szenario",
+      "type": "nominal",
+      "sort": [
+        "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+        "Mit MWST-Erhöhung (Vorlage)",
+        "Ohne 13. Rente (abgeleitet)"
+      ],
+      "legend": {
+        "orient": "bottom",
+        "title": null,
+        "columns": 1
+      }
+    },
+    "strokeDash": {
+      "field": "Szenario",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Geltende Ordnung (mit 13. Rente, ohne Zusatzfinanzierung)",
+          "Mit MWST-Erhöhung (Vorlage)",
+          "Ohne 13. Rente (abgeleitet)"
+        ],
+        "range": [
+          [],
+          [],
+          [
+            5,
+            4
+          ]
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Jahr",
+        "type": "ordinal"
+      },
+      {
+        "field": "Szenario",
+        "type": "nominal"
+      },
+      {
+        "field": "Mrd",
+        "type": "quantitative",
+        "format": ",.2f",
+        "title": "Mrd. Fr."
+      }
+    ]
+  }
+}

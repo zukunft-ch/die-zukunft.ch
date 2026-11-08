@@ -1,0 +1,103 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "font": "Switzer, system-ui, sans-serif",
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "Einkommen": "bis 4'599 Fr.",
+        "Franken": 84,
+        "Herkunft": "ESTV (amtlich)",
+        "order": 0
+      },
+      {
+        "Einkommen": "4'600–6'699 Fr.",
+        "Franken": 126,
+        "Herkunft": "Modell (eher zu hoch)",
+        "order": 1
+      },
+      {
+        "Einkommen": "6'700–9'399 Fr.",
+        "Franken": 156,
+        "Herkunft": "ESTV (amtlich)",
+        "order": 2
+      },
+      {
+        "Einkommen": "9'400–13'399 Fr.",
+        "Franken": 224,
+        "Herkunft": "Modell (eher zu hoch)",
+        "order": 3
+      },
+      {
+        "Einkommen": "ab 13'400 Fr.",
+        "Franken": 336,
+        "Herkunft": "ESTV (amtlich)",
+        "order": 4
+      },
+      {
+        "Einkommen": "Durchschnitt aller Haushalte",
+        "Franken": 180,
+        "Herkunft": "ESTV (amtlich)",
+        "order": 5
+      }
+    ]
+  },
+  "title": "Mehrbelastung durch +0,4 MWST-Punkte in Franken pro Haushalt und Jahr, nach Bruttoeinkommen pro Monat",
+  "width": 720,
+  "height": 320,
+  "mark": {
+    "type": "bar",
+    "cornerRadiusEnd": 4
+  },
+  "encoding": {
+    "y": {
+      "field": "Einkommen",
+      "type": "nominal",
+      "sort": {
+        "field": "order"
+      },
+      "title": null
+    },
+    "x": {
+      "field": "Franken",
+      "type": "quantitative",
+      "title": "Franken pro Jahr"
+    },
+    "opacity": {
+      "field": "Herkunft",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "ESTV (amtlich)",
+          "Modell (eher zu hoch)"
+        ],
+        "range": [
+          1,
+          0.45
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "title": null
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Einkommen",
+        "type": "nominal"
+      },
+      {
+        "field": "Franken",
+        "type": "quantitative"
+      },
+      {
+        "field": "Herkunft",
+        "type": "nominal"
+      }
+    ]
+  }
+}

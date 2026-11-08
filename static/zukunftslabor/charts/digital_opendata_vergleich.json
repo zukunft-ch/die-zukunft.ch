@@ -10,35 +10,31 @@
     "values": [
       {
         "Land": "Frankreich",
-        "Score": 95
+        "Score": 100
       },
       {
-        "Land": "Irland",
-        "Score": 93
+        "Land": "Litauen",
+        "Score": 98
       },
       {
-        "Land": "Spanien",
-        "Score": 91
+        "Land": "Polen",
+        "Score": 97.8
       },
       {
-        "Land": "Estland",
-        "Score": 88
+        "Land": "Norwegen",
+        "Score": 92
       },
       {
-        "Land": "Österreich",
-        "Score": 82
-      },
-      {
-        "Land": "EU-Durchschnitt",
-        "Score": 79
-      },
-      {
-        "Land": "Deutschland",
-        "Score": 78
+        "Land": "EU-27-Durchschnitt",
+        "Score": 86
       },
       {
         "Land": "Schweiz",
-        "Score": 65
+        "Score": 82
+      },
+      {
+        "Land": "Alle Teilnehmerländer",
+        "Score": 81
       }
     ]
   },
@@ -49,30 +45,28 @@
       "scale": {
         "domain": [
           "Schweiz",
-          "EU-Durchschnitt",
+          "EU-27-Durchschnitt",
+          "Alle Teilnehmerländer",
           "Frankreich",
-          "Irland",
-          "Spanien",
-          "Estland",
-          "Deutschland",
-          "Österreich"
+          "Litauen",
+          "Polen",
+          "Norwegen"
         ],
         "range": [
           "#6d28d9",
           "#64748b",
+          "#94a3b8",
           "#c026d3",
           "#4338ca",
           "#d97706",
-          "#0d9488",
-          "#e11d48",
-          "#7c3aed"
+          "#0d9488"
         ]
       },
       "type": "nominal"
     },
     "x": {
       "field": "Score",
-      "title": "Reifegrad-Score (%)",
+      "title": "Gesamtscore Open-Data-Reife (%)",
       "type": "quantitative"
     },
     "y": {
@@ -87,6 +81,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "Open-Data-Reife im Vergleich (EU Open Data Maturity 2023)",
+  "title": "Open-Data-Reife im Vergleich (EU Open Data Maturity Report 2025)",
   "width": 720
 }

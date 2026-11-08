@@ -5,4 +5,4 @@
 
 Source: https://le-futur.ch/zukunftslabor/dossiers/ · Publisher: Le Futur (Swiss political party, Basel)
 
-Une analyse te manque ? [Propose une question](https://github.com/zukunft-ch/zukunftslabor/issues/new) ou [écris-nous](https://le-futur.ch/contact/).
+Une analyse te manque ? [Propose une question](https://github.com/zukunft-ch/zukunftslabor/issues/new) ou [écris-nous](@/kontakt.fr.md).

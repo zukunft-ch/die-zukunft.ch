@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["compute", "ai", "electricity", "data centres", "cscs", "sfoe"]
 charts = ["rechenkraft_rechenzentren_strom.svg", "rechenkraft_landeserzeugung.svg", "rechenkraft_verzehnfachung.svg"]
 pillar = "souveraene-ki"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "First published on 8 November 2026; figures and sources reflect the state at publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "First publication."
 +++
 
 Switzerland's data centres consumed around 2.1 terawatt hours of electricity in 2024, 3.6% of national consumption. By 2030 the Swiss Federal Office of Energy (SFOE) expects 2.5 to 3.2 TWh, and 3.5 TWh in its maximum scenario. The country's largest public AI computer, Alps at CSCS in Lugano, drew around 7.1 megawatts during its official performance measurement. By our estimate, ten times as much public compute with today's technology would require 0.6 to 0.8 TWh per year, i.e. just over 1% of today's final consumption.
@@ -55,9 +64,9 @@ Calculation (estimate): 7.124 MW × 8,760 h gives around 62 GWh per year for Alp
 
 ## What this means for policy
 
-- **Plan energy and compute together.** A public AI programme of the order of 70 to 90 MW is feasible for the Swiss grid, but it needs fixed sites with grid connection, cooling and waste-heat recovery. This belongs in the same planning as the expansion of winter production: [Energy & Infrastructure Resilience](@/energy-resilience.md).
+- **Plan energy and compute together.** A public AI programme of the order of 70 to 90 MW is feasible for the Swiss grid, but it needs fixed sites with grid connection, cooling and waste-heat recovery. This belongs in the same planning as the expansion of winter production: [Energy & Infrastructure Resilience](@/energy-resilience.en.md).
 - **Realise efficiency first.** The identified efficiency potential of around 0.8 TWh in existing data centres corresponds roughly to the estimated demand of a tenfold increase in public compute. Binding efficiency metrics for large data centres free up room on the grid.
-- **Expand public compute measurably.** Report targets and progress in megawatts and computing power, with open access for universities, SMEs and the administration: [Sovereign AI & Compute](@/souveraene-ki.md).
+- **Expand public compute measurably.** Report targets and progress in megawatts and computing power, with open access for universities, SMEs and the administration: [Sovereign AI & Compute](@/souveraene-ki.en.md).
 
 ---
 

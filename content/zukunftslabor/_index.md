@@ -37,4 +37,12 @@ title = "Zukunftsmonitor"
 text = "Wo die Schweiz bei KI, Robotik, offenem Staat und Talent steht: Indikatoren, Ziele, Meilensteine."
 link = "@/zukunftslabor/monitor.md"
 active = true
+
+[[extra.areas]]
+key = "agenda"
+icon = "📡"
+title = "Agenda & Korrekturen"
+text = "Woran wir arbeiten, eure Fragen ans Labor und alles, was wir korrigiert haben."
+link = "@/zukunftslabor/agenda.md"
+active = true
 +++

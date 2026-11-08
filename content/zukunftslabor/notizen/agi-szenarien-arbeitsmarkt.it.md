@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["ia", "agi", "mercato del lavoro", "professioni", "scenari", "transizioni"]
 charts = ["agi_berufe_2025.svg", "agi_berufe_veraenderung.svg", "agi_zeithorizonte.svg"]
 pillar = "uebergaenge"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Prima pubblicazione l'8 novembre 2026; cifre e fonti aggiornate al momento della pubblicazione."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Prima pubblicazione."
 +++
 
 Secondo l'OIL, nei Paesi ad alto reddito circa un terzo delle persone occupate lavora in professioni esposte all'IA generativa; per le economie avanzate il FMI arriva a circa il 60 per cento, di cui all'incirca la metà sarebbe piuttosto integrata che sostituita. Nel 2025 la Svizzera conta circa 4,89 milioni di persone occupate; il gruppo più esposto, il personale d'ufficio, si sta già riducendo da anni. Nessuno sa con quale rapidità il processo accelererà: le ricercatrici e i ricercatori di IA indicano una probabilità del 50 per cento che entro il 2047 le macchine svolgano qualsiasi compito meglio degli esseri umani. Descriviamo quindi due scenari e ciò che ciascuno richiede alla politica.
@@ -61,8 +70,8 @@ Nel più ampio sondaggio condotto tra 2'778 ricercatrici e ricercatori di IA (au
 
 ## Cosa significa per la politica
 
-- **Per lo scenario A:** adeguare costantemente la formazione continua in azienda e le professioni di tirocinio, in modo mirato per le professioni d'ufficio e amministrative; pubblicare ogni anno esposizione e occupazione per professione: [Lavorare senza paura](@/uebergaenge.md).
-- **Per lo scenario B:** strumenti preparati, da potenziare rapidamente: assicurazione salariale in caso di cambio di professione, un modello di reddito di base sperimentato come fondamento e un dividendo dagli aumenti di produttività: [Reddito di base](@/grundeinkommen.md).
+- **Per lo scenario A:** adeguare costantemente la formazione continua in azienda e le professioni di tirocinio, in modo mirato per le professioni d'ufficio e amministrative; pubblicare ogni anno esposizione e occupazione per professione: [Lavorare senza paura](@/uebergaenge.it.md).
+- **Per lo scenario B:** strumenti preparati, da potenziare rapidamente: assicurazione salariale in caso di cambio di professione, un modello di reddito di base sperimentato come fondamento e un dividendo dagli aumenti di produttività: [Reddito di base](@/grundeinkommen.it.md).
 - **Per entrambi:** pianifichiamo per il caso anticipato, senza profetizzarlo. Indicatori precoci come i dati trimestrali della RIFOS per professione devono stabilire quando attivare gli strumenti dello scenario B.
 
 ---

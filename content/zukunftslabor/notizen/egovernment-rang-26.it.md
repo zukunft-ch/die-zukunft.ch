@@ -13,6 +13,15 @@ evidence = "stark"
 tags = ["e-government", "stato aperto", "id-e", "egdi", "confronto"]
 charts = ["egov_rang_verlauf.svg", "egov_teilindizes_2024.svg", "egov_osi_komponenten_2024.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Prima pubblicazione l'8 novembre 2026; cifre e fonti aggiornate al momento della pubblicazione."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Prima pubblicazione."
 +++
 
 Nell'E-Government Development Index (EGDI) delle Nazioni Unite la Svizzera è scesa dal 16° posto (2020) al 23° (2022) e al 26° (2024) su 193 Stati, sebbene il suo valore d'indice sia leggermente aumentato (da 0,89 a 0,90). Semplicemente, altri Paesi migliorano più in fretta. In infrastruttura e formazione la Svizzera è vicina ai primi posti; la lacuna riguarda quasi interamente l'offerta online dello Stato. L'Id-e statale, approvata di stretta misura nel settembre 2025, da giugno 2026 non ha più una data di avvio.
@@ -67,7 +76,7 @@ Anche la Svizzera dispone di una base: dal 1° gennaio 2024 è in vigore la LMeC
 
 ## Che cosa significa per la politica
 
-- **Rendere misurabile l'obiettivo:** entro la rilevazione ONU 2028 tornare tra i primi 15, misurati sull'Online Service Index e non sui documenti strategici: [Stato aperto](@/offener-staat.md).
+- **Rendere misurabile l'obiettivo:** entro la rilevazione ONU 2028 tornare tra i primi 15, misurati sull'Online Service Index e non sui documenti strategici: [Stato aperto](@/offener-staat.it.md).
 - **Ancorare il principio once-only nella legge:** i dati che un'autorità possiede già non possono essere richiesti di nuovo da un'altra; lo scambio avviene tramite interfacce documentate (API per default).
 - **Id-e con un calendario:** documentare apertamente i lavori sulla sicurezza e pubblicare una data di avvio vincolante con tappe intermedie.
 - **Rispettare il termine della LMeCA:** dal 2027 indicare pubblicamente quali servizi federali mettono effettivamente a disposizione i loro dati in forma aperta.

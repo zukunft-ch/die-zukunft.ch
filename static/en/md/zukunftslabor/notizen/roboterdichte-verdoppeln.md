@@ -47,9 +47,9 @@ The differences between Germany and the USA show that the labour market adapts b
 
 ## What this means for policy
 
-- **A measurable target:** double robot density to around 600 by 2035 and report it annually on the basis of IFR data: [Reindustrialization with Robotics](https://die-zukunft.ch/en/robotics/).
+- **A measurable target:** double robot density to around 600 by 2035 and report it annually on the basis of IFR data: [Reindustrialization with Robotics](@/robotik.en.md).
 - **Targeted support for SMEs:** large exporters automate on their own. The leverage lies with SMEs, for example through shared test centres, leasing models and advisory services.
-- **Organise the transition within firms:** the German pattern — retraining within the same firm instead of dismissal — should be supported with training vouchers and apprenticeship occupations in robotics and maintenance: [Work Without Fear](https://die-zukunft.ch/en/transitions/).
+- **Organise the transition within firms:** the German pattern — retraining within the same firm instead of dismissal — should be supported with training vouchers and apprenticeship occupations in robotics and maintenance: [Work Without Fear](@/uebergaenge.en.md).
 
 ---
 

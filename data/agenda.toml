@@ -1,0 +1,52 @@
+# Zukunftslabor research agenda: what the lab is working on next. Rendered by agenda.html,
+# public questions/corrections come from GitHub issues (data/lab_issues.json, scripts/build_llms.py).
+# status: "geplant" | "in Arbeit" | "erledigt"
+updated = "2026-11-08"
+
+[[item]]
+id = "ahv-mwst"
+status = "in Arbeit"
+pillar = "uebergaenge"
+due = "2026-11"
+text = { de = "AHV-Zusatzfinanzierung über die Mehrwertsteuer: die Zahlen zur Abstimmung vom 29. November 2026 (Finanzierungslücke, Belastung pro Haushalt, Demografie).", fr = "Financement additionnel de l'AVS par la TVA : les chiffres de la votation du 29 novembre 2026 (déficit de financement, charge par ménage, démographie).", it = "Finanziamento aggiuntivo dell'AVS tramite l'IVA: i numeri della votazione del 29 novembre 2026 (lacuna di finanziamento, onere per economia domestica, demografia).", en = "Additional AHV financing through VAT: the numbers behind the vote of 29 November 2026 (financing gap, burden per household, demography)." }
+
+[[item]]
+id = "sprachen"
+status = "in Arbeit"
+pillar = "sprache-verstaendigung"
+due = "2026-11"
+text = { de = "Verstehen wir uns noch? Landessprachen, Englisch und Sprachkenntnisse in Zahlen.", fr = "Nous comprenons-nous encore ? Langues nationales, anglais et compétences linguistiques en chiffres.", it = "Ci capiamo ancora? Lingue nazionali, inglese e competenze linguistiche in cifre.", en = "Do we still understand each other? National languages, English and language skills in numbers." }
+
+[[item]]
+id = "miete-neu"
+status = "geplant"
+pillar = "stadte-wohnen"
+due = "2027-Q1"
+text = { de = "Mietbelastung neu modellieren mit SILC 2024 und Strukturerhebung 2024, inklusive einer belastbaren Prognose pro Kanton.", fr = "Remodéliser la charge locative avec SILC 2024 et le relevé structurel 2024, y compris une projection solide par canton.", it = "Rimodellare l'onere locativo con SILC 2024 e la rilevazione strutturale 2024, compresa una previsione solida per cantone.", en = "Re-model the rent burden with SILC 2024 and the 2024 structural survey, including a robust projection per canton." }
+
+[[item]]
+id = "ubi-habe"
+status = "geplant"
+pillar = "grundeinkommen"
+due = "2027-Q1"
+text = { de = "Grundeinkommens-Modell auf die HABE-Jahre 2022–2024 aktualisieren und Verhaltensreaktionen als Szenario ergänzen.", fr = "Mettre à jour le modèle de revenu de base avec les années EBM 2022–2024 et ajouter les réactions comportementales comme scénario.", it = "Aggiornare il modello di reddito di base agli anni IBED 2022–2024 e aggiungere le reazioni comportamentali come scenario.", en = "Update the basic income model to the HBS years 2022–2024 and add behavioural responses as a scenario." }
+
+[[item]]
+id = "life-science"
+status = "geplant"
+pillar = "life-science"
+due = "2027-Q1"
+text = { de = "Life Science als Standortfaktor: Pharmaexporte, klinische Studien und Zulassungszeiten im Vergleich.", fr = "Les sciences de la vie comme atout : exportations pharmaceutiques, essais cliniques et délais d'autorisation en comparaison.", it = "Le scienze della vita come fattore di localizzazione: esportazioni farmaceutiche, studi clinici e tempi di autorizzazione a confronto.", en = "Life sciences as a location factor: pharma exports, clinical trials and approval times compared." }
+
+[[item]]
+id = "gute-dienste"
+status = "geplant"
+pillar = "neutralitaet-frieden"
+due = "2027-Q2"
+text = { de = "Gute Dienste in Zahlen: Mandate, Verhandlungen und Kosten der Schweizer Vermittlung seit 2000.", fr = "Les bons offices en chiffres : mandats, négociations et coûts de la médiation suisse depuis 2000.", it = "I buoni uffici in cifre: mandati, negoziati e costi della mediazione svizzera dal 2000.", en = "Good Offices in numbers: mandates, negotiations and costs of Swiss mediation since 2000." }
+
+[[item]]
+id = "doi"
+status = "geplant"
+due = "2027-Q1"
+text = { de = "Zitierbare Datenstände: jede Veröffentlichung der Labordaten mit eigener DOI (Zenodo).", fr = "Données citables : chaque publication des données du laboratoire avec son propre DOI (Zenodo).", it = "Dati citabili: ogni pubblicazione dei dati del laboratorio con un proprio DOI (Zenodo).", en = "Citable data releases: every release of the lab's data with its own DOI (Zenodo)." }

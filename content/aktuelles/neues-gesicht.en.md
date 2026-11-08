@@ -16,7 +16,7 @@ As of today, the new website of The Future is online. It looks different, but ab
 
 The old website was a sequence of slides. You scrolled, a page snapped into place, the next one followed. It felt calm, but it hid two things: our message and the depth behind it.
 
-The new homepage works in layers. At the very top is what we want: "The Future. We build it." and three phrases that sum up our stance: prosperity over scarcity thinking, security over fear, sovereignty over dependence. Below come the ten theses of the [manifesto](@/manifest.md), then all thirteen pillars of the [programme](@/programm.md) at a glance, then the evidence from the [Future Lab](@/zukunftslabor/_index.md). If you only have a minute, you will understand us. If you have an evening, you will find the sources.
+The new homepage works in layers. At the very top is what we want: "The Future. We build it." and three phrases that sum up our stance: prosperity over scarcity thinking, security over fear, sovereignty over dependence. Below come the ten theses of the [manifesto](@/manifest.en.md), then all thirteen pillars of the [programme](@/programm.en.md) at a glance, then the evidence from the [Future Lab](@/zukunftslabor/_index.en.md). If you only have a minute, you will understand us. If you have an evening, you will find the sources.
 
 ![The new homepage: wordmark, core statement and the Swiss cross made of cubes in the background](/aktuelles/neues-gesicht/startseite.webp)
 
@@ -44,8 +44,8 @@ It is the same method we propose for politics: lay the options side by side, tes
 
 ## What is new
 
-- **The vision as a blueprint.** The [vision](@/vision.md) shows "the abundance stack": from energy through compute, sovereign AI and talent to application in every sector and a dividend for everyone. With figures, sources and targets with dates attached.
-- **A new pillar.** [Sovereign AI & Compute](@/souveraene-ki.md) now comes first in the programme, because everything else builds on it.
+- **The vision as a blueprint.** The [vision](@/vision.en.md) shows "the abundance stack": from energy through compute, sovereign AI and talent to application in every sector and a dividend for everyone. With figures, sources and targets with dates attached.
+- **A new pillar.** [Sovereign AI & Compute](@/souveraene-ki.en.md) now comes first in the programme, because everything else builds on it.
 - **The manifesto, version 2.0.** Ten theses, each with a permanent address you can link to and quote.
 - **Pinning.** You can pin any section and find it again later. The pins stay in your browser, with no account and no cookies, and can be shared as a link.
 - **Calmer on your phone.** Many of you complained about the "magnetic" snapping while scrolling, especially on the iPhone. It is gone. The page scrolls freely, and forms no longer zoom in uninvited.
@@ -60,4 +60,4 @@ Every section has an address in the corner, for example 0x1002 for the first the
 
 If you find a mistake, have a better wording or want to improve a translation, you can contribute directly, with an issue or a pull request. A party that calls for open government should work openly itself.
 
-The future is a construction project. So is this website. [Build it with us.](@/mitmachen.md)
+The future is a construction project. So is this website. [Build it with us.](@/mitmachen.en.md)

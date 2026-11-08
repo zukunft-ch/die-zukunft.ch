@@ -18,21 +18,21 @@
       {
         "Importabhängigkeit %": 1.9,
         "Importlücke GWh": 1174,
-        "Kosten Mrd. CHF": 0.11,
+        "Kosten Mrd. CHF": 0.1,
         "Szenario": "B: Trockenjahr (-30% Hydro)",
         "order": 1
       },
       {
         "Importabhängigkeit %": 15.6,
         "Importlücke GWh": 9656,
-        "Kosten Mrd. CHF": 0.91,
+        "Kosten Mrd. CHF": 0.83,
         "Szenario": "C: Atomausstieg",
         "order": 2
       },
       {
         "Importabhängigkeit %": 39.1,
         "Importlücke GWh": 24157,
-        "Kosten Mrd. CHF": 2.29,
+        "Kosten Mrd. CHF": 2.07,
         "Szenario": "D: Trockenjahr + Atomausstieg",
         "order": 3
       }
@@ -80,6 +80,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "Geschätzte Importkosten pro Szenario (bei 90 EUR/MWh)",
+  "title": "Geschätzte Importkosten pro Szenario (90 EUR/MWh, 0,95 CHF/EUR)",
   "width": 720
 }

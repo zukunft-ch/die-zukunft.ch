@@ -103,6 +103,14 @@
       {
         "BIP-Anteil %": 0.706,
         "Jahr": 2023
+      },
+      {
+        "BIP-Anteil %": 0.698,
+        "Jahr": 2024
+      },
+      {
+        "BIP-Anteil %": 0.757,
+        "Jahr": 2025
       }
     ]
   },
@@ -132,6 +140,6 @@
     "strokeWidth": 2.5,
     "type": "line"
   },
-  "title": "Schweizer Verteidigungsausgaben (% BIP) — 2000–2023",
+  "title": "Schweizer Verteidigungsausgaben (% BIP) — 2000–2025 (SIPRI)",
   "width": 720
 }

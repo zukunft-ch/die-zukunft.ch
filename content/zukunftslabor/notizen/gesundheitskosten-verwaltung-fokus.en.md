@@ -1,6 +1,6 @@
 +++
 title = "Health Costs: Where Does the Money Go — and Where Does It Drain Away?"
-description = "Switzerland spends 5.2% of health expenditure on administration — well above the OECD average. The excess costs ~CHF 10 per person per month."
+description = "In 2024 the Swiss health system cost CHF 97.2 billion, 4.4% of which went to administration (FSO). By the OECD definition the share is 5.2%, above the OECD average of 3.3%."
 slug = "gesundheitskosten-verwaltung-fokus"
 date = 2026-02-12
 template = "notiz.html"
@@ -12,12 +12,22 @@ category = "datenbriefing"
 evidence = "stark"
 tags = ["health", "costs", "administration", "oecd", "efficiency"]
 charts = ["gesundheit_ausgaben_kategorien.svg", "gesundheit_verwaltungsanteil_trend.svg", "gesundheit_verwaltung_international.svg", "gesundheit_verwaltungsueberschuss.svg"]
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Updated with FSO health costs for 2023 and 2024 (2025 revision) and the number of health insurers according to the FOPH; the OECD comparison is still based on Health at a Glance 2023."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Updated with 2023/2024 FSO data, OECD and FSO definitions shown separately, amount per person recalculated (around CHF 17 instead of 10 per month) and number of health insurers corrected."
 +++
 
-Switzerland spends CHF 82,472 million on health
-(2019), of which 4.03% goes to administration.
-In the OECD comparison, Switzerland's 5.2% is well above the average
-(3.3%) — the excess costs ~CHF 10 per person per month.
+The Swiss health system cost CHF 97.2 billion in 2024
+(2023: CHF 93.4 billion), of which CHF 4.24 billion or 4.4% went to
+administration (FSO). By the OECD definition, Switzerland's 5.2% is above
+the OECD average (3.3%). The difference corresponds to around CHF 17 per
+person per month.
 
 
 <!-- more -->
@@ -26,25 +36,28 @@ In the OECD comparison, Switzerland's 5.2% is well above the average
 
 ## Methodology
 
-FSO health expenditure statistics (1995–2019) according to the
-System of Health Accounts (SHA). Categories: outpatient/inpatient curative care,
-long-term care, medical goods, administration, prevention. International comparison
-based on OECD Health at a Glance 2023.
+FSO statistics on the costs and financing of the health system according to
+the System of Health Accounts (SHA). The long series 1995–2019 is based on
+the methodology before the FSO revision of April 2025; revised figures are
+available for 2019, 2023 and 2024 and are shown separately (2024 provisional).
+Categories: outpatient/inpatient curative care, long-term care, medical goods,
+administration, prevention. International comparison based on OECD Health at
+a Glance 2023 (OECD definition, not identical to the FSO figures).
 
 ---
 
 ### Expenditure by category over time
 
 {% chart(spec="gesundheit_ausgaben_kategorien", alt="Health expenditure by category over time") %}
-Health expenditure is rising continuously — but not evenly. While outpatient and inpatient care account for the lion's share, the administrative share is growing disproportionately. This raises the question of how much of the rise in premiums goes into treatment and how much into bureaucracy.
+Health expenditure is rising continuously — but not evenly. Outpatient and inpatient care account for the lion's share. Administrative costs almost doubled between 1995 and 2019 (CHF 1.7 → 3.3 billion, old FSO methodology), but grew more slowly than total spending. Under the revised methodology they stood at CHF 4.24 billion in 2024; in 2023 they rose by 9.6%, much faster than total costs. The open question is how much of the rise in premiums goes into treatment and how much into bureaucracy.
 {% end %}
 
 ---
 
 ### Administrative share over time
 
-{% chart(spec="gesundheit_verwaltungsanteil_trend", alt="Administrative share of health expenditure over time") %}
-The administrative share is rising slowly but steadily. This is no coincidence: the fragmented insurance landscape with over 50 health insurers generates structural extra costs — accounting, marketing, risk selection — that would not arise in a single-payer system.
+{% chart(spec="gesundheit_verwaltungsanteil_trend", alt="Administrative share of health costs over time") %}
+By the old FSO definition, the administrative share fell from around 5% (1995) to 4% (2019). Under the revised methodology it is somewhat higher: 4.1% (2019), 4.5% (2023) and 4.4% (2024). In the OECD comparison it remains high: the insurance landscape with 42 health insurers (2025, FOPH) generates structural extra costs — accounting, marketing, risk selection — part of which would not arise in a simpler system.
 {% end %}
 
 ---
@@ -52,15 +65,15 @@ The administrative share is rising slowly but steadily. This is no coincidence: 
 ### International comparison
 
 {% chart(spec="gesundheit_verwaltung_international", alt="Administrative share in international comparison") %}
-Switzerland's administrative costs are well above the OECD average. Countries with more centralised systems (e.g. the Scandinavian states) achieve lower administrative shares with comparable or better quality of care. The comparison shows that efficiency gains are possible.
+By the OECD definition (5.2%), Switzerland's administrative costs are well above the OECD average (3.3%); by the FSO definition the share is 4.4%. Countries with more centralised systems (e.g. Sweden) achieve lower administrative shares with comparable or better quality of care. The comparison shows that efficiency gains are possible.
 {% end %}
 
 ---
 
 ### Administrative excess
 
-{% chart(spec="gesundheit_verwaltungsueberschuss", alt="Administrative excess over the OECD average in CHF per person") %}
-The excess over the OECD average can be expressed in francs per person per month. This money does not go into treatment, medicines or care — it finances administrative structures whose simplification would directly lower premiums.
+{% chart(spec="gesundheit_verwaltungsueberschuss", alt="Switzerland's administrative share compared with the OECD average") %}
+The 1.9 percentage-point gap to the OECD average corresponds to around CHF 17 per person per month when applied to the FSO's 2024 health costs of CHF 899 per capita per month. Using the FSO administrative share (4.4%), it is around CHF 10. This money does not go into treatment, medicines or care — it finances administrative structures whose simplification would lower premiums.
 {% end %}
 
 ---
@@ -68,6 +81,8 @@ The excess over the OECD average can be expressed in francs per person per month
 ## Limitations
 
 - SHA harmonisation facilitates comparisons, but differences between systems remain
+- FSO revision 2025: figures before and after the revision are not directly comparable; 2024 figures provisional
+- OECD and FSO definitions of administrative costs differ (5.2% vs. 4.4%); the franc amounts combine OECD shares with FSO total costs
 - Administrative costs also include quality assurance and regulatory effort
 - Single-payer vs. competitive model produce structurally different administrative costs
 - OECD data partly from different years (2021–2023)
@@ -76,6 +91,11 @@ The excess over the OECD average can be expressed in francs per person per month
 
 ## Data sources
 
-- FSO: Kosten und Finanzierung des Gesundheitswesens [costs and financing of the health system] (1995–2019)
+- FSO: Kosten und Finanzierung des Gesundheitswesens 2023 [costs and financing of the health system 2023], press release of 28 April 2025, https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788155/master
+- FSO: Kosten des Gesundheitswesens nach Leistung [health costs by service] (2019, 2023, 2024), https://www.bfs.admin.ch/asset/de/36519541
+- FSO: Kosten des Gesundheitswesens seit 1960 [health costs since 1960], https://www.bfs.admin.ch/asset/de/36519640
+- FSO: health costs and financing 2024 (CHF 97.2 billion, CHF 899 per capita per month), https://www.bfs.admin.ch/asset/de/36515499
+- FSO: Kosten und Finanzierung des Gesundheitswesens [costs and financing of the health system] (series 1995–2019, methodology before 2025)
+- FOPH: Tätigkeitsbericht 2025 soziale Kranken- und Unfallversicherung [2025 activity report, number of insurers], https://www.bag.admin.ch/dam/en/sd-web/TiFIhRVtPuIx/BAG_Ta%CC%88tigkeitsbericht_2025_soziale-Kranken-und-Unfallversicherung.pdf
 - OECD: Health at a Glance 2023 — Health Expenditure and Financing
 - WHO: Global Health Expenditure Database

@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["transparence", "principe-de-transparence", "ltrans", "liens-d-interets", "etat-ouvert"]
 charts = ["transparenz_gesuche_verlauf.svg", "transparenz_ergebnisse.svg", "transparenz_schlichtung_frist.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Première publication le 8 novembre 2026 ; chiffres et sources à jour au moment de la publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Première publication."
 +++
 
 Depuis le 1er juillet 2006, les documents de l'administration fédérale sont en principe publics ; depuis le 1er novembre 2023, l'accès est en principe gratuit. La demande a fortement augmenté : en 2025, les autorités fédérales ont annoncé 2 145 demandes d'accès traitées, près de quatre fois plus qu'en 2015. Dans le même temps, la part des demandes ayant abouti à un accès complet est tombée à 39 %, et le Conseil fédéral et le Parlement ont soustrait 13 domaines entièrement à la loi. La Suède et l'Estonie montrent à quoi ressemble l'ouverture lorsqu'elle est la norme.
@@ -65,7 +74,7 @@ Les membres de l'Assemblée fédérale doivent déclarer leurs activités profes
 
 ## Ce que cela signifie pour la politique
 
-- **Justifier et limiter dans le temps les exceptions :** toute nouvelle exception à la LTrans doit être assortie d'une justification publique et d'une date d'échéance ; les 13 exceptions existantes sont réexaminées : [État ouvert](@/offener-staat.md).
+- **Justifier et limiter dans le temps les exceptions :** toute nouvelle exception à la LTrans doit être assortie d'une justification publique et d'une date d'échéance ; les 13 exceptions existantes sont réexaminées : [État ouvert](@/offener-staat.fr.md).
 - **Proactif plutôt que sur demande :** des registres de documents sur le modèle estonien, afin que les documents n'aient plus à être demandés un par un.
 - **Respecter les délais :** doter le PFPDT des moyens nécessaires pour que le délai de 30 jours redevienne la règle ; le mesurer publiquement chaque année.
 - **Chiffrer les intérêts :** publier les revenus tirés des mandats par fourchettes ; examiner des limitations de la durée des mandats sur le modèle bâlois.

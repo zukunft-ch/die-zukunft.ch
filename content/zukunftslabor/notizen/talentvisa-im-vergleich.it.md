@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["talento", "visto per talenti", "migrazione", "ricerca", "confronto"]
 charts = ["talent_bearbeitungszeit.svg", "talent_erteilungen.svg", "talent_uk_verlauf.svg"]
 pillar = "talent-integration"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Prima pubblicazione l'8 novembre 2026; cifre e fonti aggiornate al momento della pubblicazione."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Prima pubblicazione."
 +++
 
 Singapore (ONE Pass), Hong Kong (Top Talent Pass Scheme) e il Regno Unito (Global Talent) hanno creato percorsi di ammissione propri per le persone di punta. Hanno in comune criteri chiari invece di un esame caso per caso del mercato del lavoro, una decisione in circa quattro-otto settimane e la famiglia inclusa. La Svizzera non dispone di un percorso simile: ricercatrici, ricercatori, fondatrici e fondatori provenienti da Stati terzi passano attraverso la stessa procedura dei contingenti di tutta la manodopera qualificata. Si tratta di un accesso stretto e rapido per alcune migliaia di persone all'anno, non di una maggiore immigrazione in generale.
@@ -62,7 +71,7 @@ Il numero di visti Global Talent (nel 2019 e in parte nel 2020 ancora il predece
 
 ## Cosa significa per la politica
 
-- **Un visto per talenti proprio, al di fuori dei contingenti:** criteri stretti e verificabili (soglia salariale o endorsement da parte del settore dei PF, delle università, del FNS o di Innosuisse), decisione in dieci giorni lavorativi, famiglia inclusa: [Talento, integrazione & Stato di diritto](@/talent-integration.md).
+- **Un visto per talenti proprio, al di fuori dei contingenti:** criteri stretti e verificabili (soglia salariale o endorsement da parte del settore dei PF, delle università, del FNS o di Innosuisse), decisione in dieci giorni lavorativi, famiglia inclusa: [Talento, integrazione & Stato di diritto](@/talent-integration.it.md).
 - **Partire in piccolo e in modo misurabile:** un ordine di grandezza come quello del Regno Unito o di Singapore (alcune migliaia all'anno), non come quello di Hong Kong; rapporto annuale su rilasci, permanenza e fondazioni di aziende.
 - **Misurare la permanenza invece del volume:** l'esempio di Hong Kong mostra che i tassi di proroga sono più significativi del numero di domande.
 

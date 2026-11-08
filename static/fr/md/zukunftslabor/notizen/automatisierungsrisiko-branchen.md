@@ -16,20 +16,24 @@ moins. Environ 1,27 million d'emplois sont soumis au risque post-LLM.
 ## Méthodologie
 
 Données d'emploi ESPA de l'OFS (2024) et deux modèles de risque :
-OCDE/Frey-Osborne (2018, tâches routinières) et AI Preparedness Index
-du FMI (2024, capacités LLM). Emplois exposés = personnes occupées × part de risque.
+avant les LLM, d'après l'étude de l'OCDE de Nedelkoska et Quintini (2018,
+tâches routinières, fondée sur Frey et Osborne 2013) ; après les LLM, d'après
+le FMI (Cazzaniga et al. 2024, exposition à l'IA). Les valeurs par branche sont
+des hypothèses de modélisation propres et arrondies, dérivées de ces études ;
+les études elles-mêmes ne publient pas de valeurs par section économique
+suisse. Emplois exposés = personnes occupées × part de risque.
 
 ---
 
 ### Emploi par branche
 
-La structure des branches fournit le contexte : la santé, le commerce et la construction occupent le plus de personnes. La répartition montre quels secteurs ressentiraient les plus grands effets absolus en cas de poussée d'automatisation.
+La structure des branches fournit le contexte : la santé et l'action sociale, l'industrie et le commerce occupent le plus de personnes. La répartition montre quels secteurs ressentiraient les plus grands effets absolus en cas de poussée d'automatisation.
 
 ---
 
 ### Avant et après les LLM
 
-L'IA dotée de capacités LLM modifie fondamentalement la carte des risques : des branches comme la finance et l'assurance, l'administration publique et l'information et la communication sont, après l'arrivée des LLM, nettement plus exposées que dans le modèle classique des tâches routinières. Les professions manuelles (construction, agriculture) restent largement inchangées.
+L'IA dotée de capacités LLM modifie fondamentalement la carte des risques : des branches comme la finance et l'assurance, l'administration publique et l'information et la communication sont, après l'arrivée des LLM, nettement plus exposées que dans le modèle classique des tâches routinières. Les professions manuelles (construction, transports, hôtellerie-restauration) sont en revanche moins exposées après l'arrivée des LLM.
 
 ---
 
@@ -41,12 +45,13 @@ Le déplacement montre la direction et l'ampleur du changement. Des valeurs posi
 
 ### Emplois exposés
 
-En chiffres absolus, la portée sociale apparaît : les branches comptant beaucoup de personnes occupées et un risque post-LLM élevé représentent des dizaines de milliers d'emplois potentiellement exposés. Cela ne signifie pas nécessairement des pertes d'emplois, mais la nécessité d'organiser systématiquement les transitions.
+En chiffres absolus, la portée sociale apparaît : les branches comptant beaucoup de personnes occupées et un risque post-LLM élevé représentent chacune de quelques dizaines de milliers à près de 190 000 emplois potentiellement exposés. Cela ne signifie pas nécessairement des pertes d'emplois, mais la nécessité d'organiser systématiquement les transitions.
 
 ---
 
 ## Limites
 
+- Les valeurs de risque par branche sont modélisées (hypothèses propres d'après l'OCDE et le FMI), il ne s'agit pas de valeurs mesurées
 - Les estimations de risque sont des moyennes par branche, non spécifiques aux professions
 - Estimations post-LLM provisoires (les capacités des LLM évoluent rapidement)
 - Les pertes d'emplois effectives dépendent de la régulation et de la complémentarité
@@ -56,5 +61,6 @@ En chiffres absolus, la portée sociale apparaît : les branches comptant beauco
 ## Sources des données
 
 - BFS SAKE 2024 / OFS, Enquête suisse sur la population active (ESPA) 2024 : personnes actives occupées par section économique
-- OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
-- IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
+- OCDE : Automation Risk by Occupation (Nedelkoska/Quintini 2018)
+- Frey et Osborne (2013) : The Future of Employment (base de l'approche de l'OCDE)
+- FMI : AI Preparedness Index 2024 (Cazzaniga et al.)

@@ -13,6 +13,15 @@ evidence = "stark"
 tags = ["cyberadministration", "etat-ouvert", "e-id", "egdi", "comparaison"]
 charts = ["egov_rang_verlauf.svg", "egov_teilindizes_2024.svg", "egov_osi_komponenten_2024.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Première publication le 8 novembre 2026 ; chiffres et sources à jour au moment de la publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Première publication."
 +++
 
 Dans l'E-Government Development Index (EGDI) des Nations unies, la Suisse est passée du 16e rang (2020) au 23e (2022), puis au 26e rang (2024) sur 193 États, alors même que sa valeur d'indice a légèrement progressé (de 0,89 à 0,90). D'autres pays s'améliorent tout simplement plus vite. En matière d'infrastructures et de formation, la Suisse est proche du sommet ; le retard se situe presque entièrement dans l'offre en ligne de l'État. L'e-ID étatique, acceptée de justesse en septembre 2025, n'a plus de date de lancement depuis juin 2026.
@@ -67,7 +76,7 @@ La Suisse dispose elle aussi d'une base : depuis le 1er janvier 2024, la LMETA s
 
 ## Ce que cela signifie pour la politique
 
-- **Rendre l'objectif mesurable :** revenir dans le top 15 d'ici l'enquête de l'ONU de 2028, mesuré à l'aune de l'Online Service Index et non des documents stratégiques : [État ouvert](@/offener-staat.md).
+- **Rendre l'objectif mesurable :** revenir dans le top 15 d'ici l'enquête de l'ONU de 2028, mesuré à l'aune de l'Online Service Index et non des documents stratégiques : [État ouvert](@/offener-staat.fr.md).
 - **Ancrer le principe «once-only» dans la loi :** aucune autorité ne peut redemander des données qu'une autre détient déjà ; l'échange passe par des interfaces documentées (API par défaut).
 - **Une e-ID avec un calendrier :** documenter ouvertement les travaux de sécurité et publier une date de lancement contraignante assortie de jalons.
 - **Respecter le délai de la LMETA :** dès 2027, indiquer publiquement quels services fédéraux mettent réellement leurs données à disposition en accès libre.

@@ -61,7 +61,7 @@
     },
     "y": {
       "field": "Anteil",
-      "title": "Anteil am Gesamteinkommen (%)",
+      "title": "Anteil am verfügbaren Äquivalenzeinkommen (%)",
       "type": "quantitative"
     }
   },
@@ -70,6 +70,6 @@
     "cornerRadiusEnd": 4,
     "type": "bar"
   },
-  "title": "Einkommensanteile nach Dezil — Verfügbares Äquivalenzeinkommen (2018)",
+  "title": "Anteile der Dezile am verfügbaren Äquivalenzeinkommen (BFS, Datengrundlage HABE 2018)",
   "width": 720
 }

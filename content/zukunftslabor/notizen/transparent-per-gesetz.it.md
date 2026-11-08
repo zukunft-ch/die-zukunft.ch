@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["trasparenza", "principio di trasparenza", "ltras", "relazioni d'interesse", "stato aperto"]
 charts = ["transparenz_gesuche_verlauf.svg", "transparenz_ergebnisse.svg", "transparenz_schlichtung_frist.svg"]
 pillar = "offener-staat"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Prima pubblicazione l'8 novembre 2026; cifre e fonti aggiornate al momento della pubblicazione."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Prima pubblicazione."
 +++
 
 Dal 1° luglio 2006 i documenti dell'Amministrazione federale sono in linea di principio pubblici, e dal 1° novembre 2023 l'accesso è in linea di principio gratuito. La domanda è fortemente cresciuta: nel 2025 le autorità federali hanno segnalato 2'145 domande di accesso trattate, quasi quattro volte quelle del 2015. Allo stesso tempo la quota di domande con accesso integrale è scesa al 39 per cento, e Consiglio federale e Parlamento hanno escluso completamente 13 ambiti dalla legge. Svezia ed Estonia mostrano come si presenta l'apertura quale caso normale.
@@ -65,7 +74,7 @@ I membri dell'Assemblea federale devono rendere note le loro attività professio
 
 ## Cosa significa per la politica
 
-- **Motivare e limitare nel tempo le eccezioni:** ogni nuova eccezione alla LTras con una motivazione pubblica e una data di scadenza; le 13 esistenti vengono riesaminate: [Stato aperto](@/offener-staat.md).
+- **Motivare e limitare nel tempo le eccezioni:** ogni nuova eccezione alla LTras con una motivazione pubblica e una data di scadenza; le 13 esistenti vengono riesaminate: [Stato aperto](@/offener-staat.it.md).
 - **Proattività invece che su domanda:** registri dei documenti sul modello estone, affinché i documenti non debbano nemmeno essere richiesti singolarmente.
 - **Rispettare i termini:** dotare l'IFPDT dei mezzi necessari affinché il termine di 30 giorni torni a essere la regola; misurarlo pubblicamente ogni anno.
 - **Quantificare gli interessi:** rendere noti i redditi da mandati per fasce; esaminare limiti alla durata del mandato sul modello basilese.

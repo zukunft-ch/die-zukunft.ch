@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["potenza di calcolo", "ia", "elettricità", "centri di calcolo", "cscs", "ufe"]
 charts = ["rechenkraft_rechenzentren_strom.svg", "rechenkraft_landeserzeugung.svg", "rechenkraft_verzehnfachung.svg"]
 pillar = "souveraene-ki"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Prima pubblicazione l'8 novembre 2026; cifre e fonti aggiornate al momento della pubblicazione."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Prima pubblicazione."
 +++
 
 Nel 2024 i centri di calcolo della Svizzera hanno consumato circa 2,1 terawattora di elettricità, il 3,6% del consumo nazionale. Entro il 2030 l'Ufficio federale dell'energia prevede da 2,5 a 3,2 TWh, nello scenario massimo 3,5 TWh. Il più grande calcolatore pubblico di IA del Paese, Alps al CSCS di Lugano, ha assorbito circa 7,1 megawatt durante la misurazione ufficiale delle prestazioni. Secondo la nostra stima, una potenza di calcolo pubblica dieci volte maggiore con la tecnologia odierna richiederebbe da 0,6 a 0,8 TWh all'anno, ossia poco più dell'1% dell'attuale consumo finale.
@@ -55,9 +64,9 @@ Calcolo (stima): 7,124 MW × 8'760 h danno circa 62 GWh all'anno per Alps. Dieci
 
 ## Cosa significa per la politica
 
-- **Pianificare insieme energia e potenza di calcolo.** Un programma pubblico di IA dell'ordine di 70–90 MW è fattibile per la rete svizzera, ma richiede siti fissi con allacciamento alla rete, raffreddamento e recupero del calore residuo. Rientra nella stessa pianificazione dell'ampliamento della produzione invernale: [Energia & resilienza delle infrastrutture](@/energy-resilience.md).
+- **Pianificare insieme energia e potenza di calcolo.** Un programma pubblico di IA dell'ordine di 70–90 MW è fattibile per la rete svizzera, ma richiede siti fissi con allacciamento alla rete, raffreddamento e recupero del calore residuo. Rientra nella stessa pianificazione dell'ampliamento della produzione invernale: [Energia & resilienza delle infrastrutture](@/energy-resilience.it.md).
 - **Sfruttare prima l'efficienza.** Il potenziale di efficienza indicato di circa 0,8 TWh nei centri di calcolo esistenti corrisponde all'incirca al fabbisogno stimato per decuplicare la potenza di calcolo pubblica. Indicatori di efficienza vincolanti per i grandi centri di calcolo liberano spazio nella rete.
-- **Ampliare la potenza di calcolo pubblica in modo misurabile.** Indicare obiettivi e progressi in megawatt e potenza di calcolo, con accesso aperto per scuole universitarie, PMI e amministrazione: [IA sovrana & potenza di calcolo](@/souveraene-ki.md).
+- **Ampliare la potenza di calcolo pubblica in modo misurabile.** Indicare obiettivi e progressi in megawatt e potenza di calcolo, con accesso aperto per scuole universitarie, PMI e amministrazione: [IA sovrana & potenza di calcolo](@/souveraene-ki.it.md).
 
 ---
 

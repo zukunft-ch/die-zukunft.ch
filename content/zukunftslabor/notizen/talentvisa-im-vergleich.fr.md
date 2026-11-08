@@ -13,6 +13,15 @@ evidence = "mittel"
 tags = ["talent", "visa-talent", "migration", "recherche", "comparaison"]
 charts = ["talent_bearbeitungszeit.svg", "talent_erteilungen.svg", "talent_uk_verlauf.svg"]
 pillar = "talent-integration"
+
+[extra.review]
+checked = 2026-11-08
+status = "aktuell"
+note = "Première publication le 8 novembre 2026 ; chiffres et sources à jour au moment de la publication."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Première publication."
 +++
 
 Singapour (ONE Pass), Hong Kong (Top Talent Pass Scheme) et le Royaume-Uni (Global Talent) ont créé des voies d'admission propres pour les profils de pointe. Leur point commun : des critères clairs au lieu d'un examen du marché du travail au cas par cas, une décision en quatre à huit semaines environ et la famille comprise. La Suisse n'a pas de voie de ce type ; les chercheuses et chercheurs ainsi que les fondatrices et fondateurs d'États tiers passent par la même procédure de contingents que l'ensemble de la main-d'œuvre qualifiée. Il s'agit ici d'un accès étroit et rapide pour quelques milliers de personnes par an, non d'une immigration générale accrue.
@@ -62,7 +71,7 @@ Le nombre de visas Global Talent (en 2019 et en partie en 2020 encore sous le pr
 
 ## Ce que cela signifie pour la politique
 
-- **Un visa pour talents propre, hors contingents :** critères étroits et vérifiables (seuil salarial ou endorsement par le domaine des EPF, les universités, le FNS, Innosuisse), décision en dix jours ouvrables, famille comprise : [Talent, intégration & État de droit](@/talent-integration.md).
+- **Un visa pour talents propre, hors contingents :** critères étroits et vérifiables (seuil salarial ou endorsement par le domaine des EPF, les universités, le FNS, Innosuisse), décision en dix jours ouvrables, famille comprise : [Talent, intégration & État de droit](@/talent-integration.fr.md).
 - **Commencer petit et mesurable :** un ordre de grandeur comparable au Royaume-Uni ou à Singapour (quelques milliers par an), pas à Hong Kong ; rapport annuel sur les octrois, le maintien sur place et les créations d'entreprises.
 - **Mesurer le maintien plutôt que le volume :** l'exemple de Hong Kong montre que les taux de prolongation sont plus parlants que le nombre de demandes.
 

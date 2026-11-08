@@ -37,4 +37,12 @@ title = "Monitor del futuro"
 text = "A che punto è la Svizzera in IA, robotica, Stato aperto e talenti: indicatori, obiettivi, tappe."
 link = "@/zukunftslabor/monitor.md"
 active = true
+
+[[extra.areas]]
+key = "agenda"
+icon = "📡"
+title = "Agenda e correzioni"
+text = "Su cosa lavoriamo, le vostre domande al laboratorio e tutto ciò che abbiamo corretto."
+link = "@/zukunftslabor/agenda.md"
+active = true
 +++
