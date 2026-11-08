@@ -30,7 +30,7 @@ No. Basic income replaces a large part of today's social insurance bureaucracy w
 Not through a special robot tax — automation is not punished. It is financed through the normal taxation of growing value creation (income, consumption, wealth), through simplification gains in the social system, and by reallocating existing transfers — exactly the levers our UBI Calculator models. Concrete models are developed with economists and social scientists.
 
 **Will people stop working?**  
-Research shows: no. Pilot projects worldwide demonstrate that people with basic security start businesses more often, pursue further education and work more productively — not less.
+No, but somewhat less. The largest randomised study so far (OpenResearch, USA 2020–2023) found 1 to 2 fewer hours of paid work per week and labour-force participation 3.9 percentage points lower; the time gained went mostly into leisure. In Finland (2017–2018) employment barely changed and well-being rose. What matters for Switzerland is therefore the amount, the financing and the design. Our Future Lab calculates this openly.
 
 **Why now?**  
 Automation is accelerating. Without a stabilising foundation, social disruption threatens. Basic income is a preventive measure, not a reactive one.

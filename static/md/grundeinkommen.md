@@ -30,7 +30,7 @@ Nein. Das Grundeinkommen ersetzt einen grossen Teil der heutigen Sozialversicher
 Nicht über eine spezielle Robotersteuer — wer automatisiert, wird nicht bestraft. Finanziert wird es aus der normalen Besteuerung wachsender Wertschöpfung (Einkommen, Konsum, Vermögen), aus Vereinfachungsgewinnen im Sozialwesen und aus der Umschichtung bestehender Transfers — genau die Hebel, die unser UBI-Rechner abbildet. Konkrete Modelle werden mit Ökonomen und Sozialwissenschaftlern erarbeitet.
 
 **Hören die Leute dann auf zu arbeiten?**  
-Die Forschung zeigt: Nein. Pilotprojekte weltweit belegen, dass Menschen mit Grundsicherung häufiger gründen, sich weiterbilden und produktiver arbeiten — nicht weniger.
+Nein, aber etwas weniger. Die bisher grösste randomisierte Studie (OpenResearch, USA 2020–2023) fand 1 bis 2 Stunden weniger Erwerbsarbeit pro Woche und eine um 3,9 Prozentpunkte tiefere Erwerbsbeteiligung; die gewonnene Zeit ging vor allem in Freizeit. In Finnland (2017–2018) blieb die Beschäftigung praktisch unverändert, das Wohlbefinden stieg. Für die Schweiz entscheidend sind deshalb Höhe, Finanzierung und Ausgestaltung. Unser Zukunftslabor rechnet das offen nach.
 
 **Warum gerade jetzt?**  
 Die Automatisierung beschleunigt sich. Ohne ein stabilisierendes Fundament drohen soziale Verwerfungen. Das Grundeinkommen ist eine präventive, keine reaktive Massnahme.

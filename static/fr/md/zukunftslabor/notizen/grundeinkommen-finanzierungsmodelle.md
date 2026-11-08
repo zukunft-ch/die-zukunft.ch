@@ -64,10 +64,22 @@ On voit ici quels déciles gagnent ou perdent en termes nets. Le point de bascul
 
 ---
 
+## Ce que montrent les expériences
+
+Notre modèle est statique. Les expériences montrent dans quelle mesure les personnes ajustent leur temps de travail :
+
+- **OpenResearch, États-Unis (2020–2023) :** 1000 personnes à bas revenu (21–40 ans, Texas et Illinois) ont reçu 1000 dollars par mois pendant trois ans ; 2000 personnes du groupe de contrôle ont reçu 50 dollars. Résultat : la participation au marché du travail a baissé de 3,9 points de pourcentage et le temps de travail de 1 à 2 heures par semaine ; les partenaires ont réduit le leur dans une mesure similaire. Pour chaque dollar reçu, les autres revenus de la personne ont baissé d'environ 16 cents (ceux du ménage d'environ 29 cents). Le temps gagné est allé surtout aux loisirs ; la qualité des emplois et les diplômes n'ont pas changé de manière mesurable, et le bien-être a augmenté la première année avant de revenir au niveau du groupe de contrôle.
+- **Finlande (2017–2018) :** 2000 personnes au chômage ont reçu 560 euros par mois sans condition. Aucun effet mesurable sur l'emploi la première année, environ six jours de travail de plus la deuxième ; les bénéficiaires ont fait état d'un meilleur bien-être et d'une plus grande sécurité financière.
+- **Suisse (2016) :** L'initiative populaire pour un revenu de base inconditionnel a échoué avec 76,9 % de non (Bâle-Ville : 36 % de oui). Selon l'enquête après le vote, l'absence de plan de financement a été déterminante. C'est précisément pourquoi ce laboratoire calcule d'abord le financement.
+
+Ces résultats ne sont transposables qu'en partie : les deux expériences étaient limitées dans le temps, non universelles et sans volet de financement. Dans le calculateur ci-dessus, la réaction mesurée par OpenResearch (16 centimes de revenu en moins par franc de revenu de base) peut être activée comme scénario.
+
+---
+
 ## Limites
 
 - Données agrégées par décile plutôt que microdonnées (les données individuelles nécessitent une demande à l'OFS)
-- Aucune réaction de comportement modélisée (offre de travail, habitudes de consommation, évitement fiscal) : effets statiques de premier tour
+- Aucune réaction de comportement modélisée (offre de travail, habitudes de consommation, évitement fiscal) : effets statiques de premier tour Le calculateur permet d'ajouter comme scénario la réaction de l'offre de travail mesurée par l'expérience OpenResearch (estimation américaine, transposable seulement en partie).
 - Répartition des transferts par décile estimée (et non tirée directement des microdonnées SILC)
 - Taux de consommation par décile fondés sur des valeurs de la littérature, et non sur le détail de l'EBM de l'OFS
 - Données de base 2018 : la série de tableaux de l'OFS utilisée s'arrête en 2018 ; les vagues plus récentes de l'EBM et de SILC ne sont pas encore intégrées
@@ -79,3 +91,6 @@ On voit ici quels déciles gagnent ou perdent en termes nets. Le point de bascul
 - OFS : Kennzahlen zur Verteilung der Einkommen vor und nach staatlichen Transfers (indicateurs de la répartition des revenus avant et après transferts ; EBM, données 2018), parts des déciles dans le revenu disponible équivalent, https://www.bfs.admin.ch/bfsstatic/dam/assets/15344786/master
 - OFAS, statistique des assurances sociales (BSV Sozialversicherungsstatistik) : volume des transferts AVS, AI, PC, AC
 - OFS, SILC : parts de répartition publiées des transferts sociaux
+- Vivalt, Rhodes, Bartik, Broockman, Krause, Miller : The Employment Effects of a Guaranteed Income, NBER Working Paper 32719 (juillet 2024, révisé septembre 2025), https://www.nber.org/papers/w32719
+- Université d'Helsinki / Kela : résultats de l'expérience finlandaise de revenu de base 2017–2018, https://www.helsinki.fi/en/news/fair-society/basic-income-experiment-finland-yields-surprising-results
+- Swissvotes : initiative populaire « Pour un revenu de base inconditionnel », 5 juin 2016 (version allemande), https://swissvotes.ch/vote/601.00/kurzbeschreibung-de.pdf

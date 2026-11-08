@@ -7,11 +7,15 @@ Source: https://il-futuro.ch/persone/ · Publisher: Il Futuro (Swiss political p
 
 ## Raffael Schneider
 
+**Fondatore e presidente**, Basel
+
 Raffael Schneider vive a Basilea e lavora nel settore tecnologico. Si impegna affinché il progresso non crei insicurezza, ma migliori concretamente la vita – con più prosperità, comfort e vera libertà per tutti.
 
 ### Perché adesso?
 
 Perché la trasformazione è già in corso. Le nuove tecnologie cambiano il lavoro e la vita quotidiana più velocemente di quanto la politica reagisca. Il Futuro vuole che la Svizzera sia preparata – affinché le persone possano adattarsi senza paura della caduta, e il progresso arrivi a tutti.
+
+[raskell.io](https://raskell.io) · [LinkedIn](https://www.linkedin.com/in/raffael-e-schneider) · [GitHub](https://github.com/raffaelschneider)
 
 ## Comitato
 

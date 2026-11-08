@@ -21,6 +21,10 @@ note = "Model and income concept checked; the data basis is 2018, more recent HB
 [[extra.changelog]]
 date = 2026-11-08
 text = "Statements on income distribution and the scenarios aligned with the simulation data, the income concept (disposable equivalised income) labelled consistently and missing behavioural responses added as a limitation of the model."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Added the section “What experiments show” (OpenResearch 2025, Finland, 2016 vote) and a behavioural scenario in the calculator."
 +++
 
 Three financing models for an unconditional basic income of CHF 2,500/month
@@ -93,10 +97,22 @@ This shows which deciles gain or lose in net terms. The turning point varies dep
 
 ---
 
+## What experiments show
+
+Our model is static. Experiments show how much people adjust how much they work:
+
+- **OpenResearch, USA (2020–2023):** 1,000 low-income people (aged 21–40, Texas and Illinois) received $1,000 a month for three years; 2,000 people in the control group received $50. Result: labour-force participation fell by 3.9 percentage points and working time by 1 to 2 hours a week; partners reduced theirs by a similar amount. For every dollar received, the person's other income fell by about 16 cents (the household's by about 29 cents). The time gained went mostly into leisure; job quality and degrees did not change measurably, and well-being rose in the first year, then returned to control-group levels.
+- **Finland (2017–2018):** 2,000 unemployed people received €560 a month without conditions. No measurable employment effect in the first year, about six more working days in the second; recipients reported better well-being and more financial security.
+- **Switzerland (2016):** The popular initiative for an unconditional basic income failed with 76.9% No (Basel-Stadt: 36% Yes). According to the post-vote survey, the missing financing plan was a decisive factor. That is exactly why this lab calculates the financing first.
+
+These results transfer only in part: both experiments were temporary, not universal and had no financing side. In the calculator above, the OpenResearch response (16 cents less other income per franc of basic income) can be switched on as a scenario.
+
+---
+
 ## Limitations
 
 - Aggregated decile data instead of microdata (individual data require an application to the FSO)
-- No behavioural responses modelled (labour supply, consumption patterns, tax avoidance): static first-round effects
+- No behavioural responses modelled (labour supply, consumption patterns, tax avoidance): static first-round effects The calculator can add the labour-supply response measured by the OpenResearch experiment as a scenario (a US estimate, transferable only in part).
 - Distribution of transfers across deciles estimated (not taken directly from SILC microdata)
 - Consumption ratios by decile based on values from the literature, not HBS detail
 - Data basis 2018: the FSO table series used ends in 2018; more recent HBS and SILC waves have not yet been incorporated
@@ -108,3 +124,6 @@ This shows which deciles gain or lose in net terms. The turning point varies dep
 - FSO: Kennzahlen zur Verteilung der Einkommen vor und nach staatlichen Transfers [key figures on income distribution before and after state transfers] (HBS, data basis 2018), decile shares of disposable equivalised income, https://www.bfs.admin.ch/bfsstatic/dam/assets/15344786/master
 - FSIO social insurance statistics: transfer volumes AHV, IV, EL, ALV
 - FSO SILC: published distribution shares of social transfers
+- Vivalt, Rhodes, Bartik, Broockman, Krause, Miller: The Employment Effects of a Guaranteed Income, NBER Working Paper 32719 (July 2024, revised September 2025), https://www.nber.org/papers/w32719
+- University of Helsinki / Kela: results of the Finnish basic income experiment 2017–2018, https://www.helsinki.fi/en/news/fair-society/basic-income-experiment-finland-yields-surprising-results
+- Swissvotes: popular initiative for an unconditional basic income, 5 June 2016, https://swissvotes.ch/vote/601.00/kurzbeschreibung-de.pdf

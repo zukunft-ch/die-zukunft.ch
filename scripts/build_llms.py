@@ -261,6 +261,11 @@ def render(p: Page) -> str:
         body = render_home(p)
     elif t == "monitor.html":
         body = render_monitor(p) + "\n" + clean(p.body, p.lang)
+    elif t == "menschen.html":
+        f = p.extra.get("founder", {})
+        links = " · ".join(f"[{l['label']}]({l['url']})" for l in f.get("links", []))
+        body = (f"## {f.get('name', '')}\n\n**{f.get('role', '')}**, {f.get('place', '')}\n\n{clean(f.get('text', ''), p.lang)}\n\n"
+                f"### {f.get('why_title', '')}\n\n{clean(f.get('why_text', ''), p.lang)}\n\n{links}\n\n" + render_sections(p))
     else:
         body = "\n".join(filter(None, [render_sections(p), render_chapters(p), clean(p.body, p.lang), render_faq(p)]))
         if p.is_section and p.dir:

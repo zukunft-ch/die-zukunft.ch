@@ -2,17 +2,27 @@
 title = "People"
 slug = "people"
 description = "The people behind The Future."
-template = "page.html"
+template = "menschen.html"
 
 [extra]
+team_title = "The team"
 show_cta = true
 cta_text = "Would you like to help shape the party? Join us."
 
-[[extra.sections]]
-title = "Raffael Schneider"
+[extra.founder]
+name = "Raffael Schneider"
+role = "Founder and President"
+place = "Basel"
+photo = "/people/raffael-schneider"
+alt = "Portrait of Raffael Schneider"
 text = "Raffael Schneider lives in Basel and works in the tech industry. He is committed to ensuring that progress doesn't create anxiety, but tangibly improves life — with more prosperity, comfort and real freedom for all."
-subsections = [
-  { title = "Why now?", text = "Because the transformation is already under way. New technologies are changing work and daily life faster than politics can respond. The Future wants Switzerland to be prepared — so people can adapt without fear of collapse, and so progress reaches everyone." },
+why_title = "Why now?"
+why_text = "Because the transformation is already under way. New technologies are changing work and daily life faster than politics can respond. The Future wants Switzerland to be prepared — so people can adapt without fear of collapse, and so progress reaches everyone."
+contact_label = "Contact"
+links = [
+  { label = "raskell.io", url = "https://raskell.io" },
+  { label = "LinkedIn", url = "https://www.linkedin.com/in/raffael-e-schneider" },
+  { label = "GitHub", url = "https://github.com/raffaelschneider" },
 ]
 
 [[extra.sections]]

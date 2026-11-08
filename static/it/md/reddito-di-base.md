@@ -30,7 +30,7 @@ No. Il reddito di base sostituisce gran parte dell'attuale burocrazia delle assi
 Non con una tassa speciale sui robot — chi automatizza non viene punito. Il finanziamento avviene tramite la normale tassazione di una creazione di valore crescente (reddito, consumi, patrimonio), i risparmi dalla semplificazione del sistema sociale e la riallocazione di trasferimenti esistenti — esattamente le leve modellate dal nostro calcolatore RBI. Modelli concreti vengono elaborati con economisti e scienziati sociali.
 
 **Le persone smetteranno di lavorare?**  
-La ricerca dimostra di no. Progetti pilota in tutto il mondo mostrano che le persone con una garanzia di base avviano più spesso imprese, si formano di più e lavorano più produttivamente — non meno.
+No, ma un po' meno. Il più grande studio randomizzato finora (OpenResearch, Stati Uniti 2020–2023) ha rilevato 1-2 ore di lavoro retribuito in meno alla settimana e una partecipazione al mercato del lavoro inferiore di 3,9 punti percentuali; il tempo guadagnato è andato soprattutto al tempo libero. In Finlandia (2017–2018) l'occupazione è rimasta quasi invariata e il benessere è aumentato. Per la Svizzera contano quindi importo, finanziamento e struttura. Il nostro Laboratorio del futuro lo calcola in modo trasparente.
 
 **Perché proprio ora?**  
 L'automazione sta accelerando. Senza un fondamento stabilizzante, si rischiano tensioni sociali. Il reddito di base è una misura preventiva, non reattiva.

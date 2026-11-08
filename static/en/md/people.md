@@ -7,11 +7,15 @@ Source: https://die-zukunft.ch/en/people/ · Publisher: The Future (Swiss politi
 
 ## Raffael Schneider
 
+**Founder and President**, Basel
+
 Raffael Schneider lives in Basel and works in the tech industry. He is committed to ensuring that progress doesn't create anxiety, but tangibly improves life — with more prosperity, comfort and real freedom for all.
 
 ### Why now?
 
 Because the transformation is already under way. New technologies are changing work and daily life faster than politics can respond. The Future wants Switzerland to be prepared — so people can adapt without fear of collapse, and so progress reaches everyone.
+
+[raskell.io](https://raskell.io) · [LinkedIn](https://www.linkedin.com/in/raffael-e-schneider) · [GitHub](https://github.com/raffaelschneider)
 
 ## Board
 

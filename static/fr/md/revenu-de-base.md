@@ -30,7 +30,7 @@ Non. Le revenu de base remplace une grande partie de la bureaucratie actuelle de
 Pas par une taxe spéciale sur les robots — automatiser n'est pas puni. Le financement passe par l'imposition normale d'une création de valeur croissante (revenu, consommation, fortune), par les gains de simplification du système social et par la réaffectation de transferts existants — précisément les leviers que modélise notre calculateur RBI. Des modèles concrets sont élaborés avec des économistes et des spécialistes des sciences sociales.
 
 **Les gens arrêteront-ils de travailler ?**  
-La recherche montre que non. Les projets pilotes dans le monde entier démontrent que les personnes bénéficiant d'une garantie de base créent plus souvent des entreprises, se forment davantage et travaillent plus productivement — pas moins.
+Non, mais un peu moins. La plus grande étude randomisée à ce jour (OpenResearch, États-Unis 2020–2023) a mesuré 1 à 2 heures de travail rémunéré en moins par semaine et une participation au marché du travail inférieure de 3,9 points ; le temps gagné est allé surtout aux loisirs. En Finlande (2017–2018), l'emploi a à peine changé et le bien-être a augmenté. Pour la Suisse, ce qui compte, ce sont donc le montant, le financement et la conception. Notre Laboratoire du futur le calcule de manière transparente.
 
 **Pourquoi maintenant ?**  
 L'automatisation s'accélère. Sans un socle stabilisateur, des tensions sociales sont à craindre. Le revenu de base est une mesure préventive, pas réactive.

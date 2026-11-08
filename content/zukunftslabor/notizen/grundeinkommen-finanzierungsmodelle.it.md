@@ -21,6 +21,10 @@ note = "Modello e nozione di reddito verificati; i dati di base risalgono al 201
 [[extra.changelog]]
 date = 2026-11-08
 text = "Affermazioni sulla distribuzione dei redditi e sugli scenari allineate ai dati della simulazione, nozione di reddito (reddito disponibile equivalente) indicata in modo uniforme e aggiunta l'assenza di reazioni comportamentali come limite del modello."
+
+[[extra.changelog]]
+date = 2026-11-08
+text = "Aggiunta la sezione «Cosa mostrano gli esperimenti» (OpenResearch 2025, Finlandia, votazione 2016) e uno scenario comportamentale nel calcolatore."
 +++
 
 Tre modelli di finanziamento per un reddito di base incondizionato di CHF 2'500 al mese
@@ -94,10 +98,22 @@ Qui emerge quali decili guadagnano o perdono al netto. Il punto di svolta varia 
 
 ---
 
+## Cosa mostrano gli esperimenti
+
+Il nostro modello è statico. Gli esperimenti mostrano quanto le persone adeguano il proprio lavoro:
+
+- **OpenResearch, Stati Uniti (2020–2023):** 1'000 persone a basso reddito (21–40 anni, Texas e Illinois) hanno ricevuto 1'000 dollari al mese per tre anni; 2'000 persone del gruppo di controllo ne hanno ricevuti 50. Risultato: la partecipazione al mercato del lavoro è scesa di 3,9 punti percentuali e il tempo di lavoro di 1-2 ore alla settimana; partner e partner hanno ridotto il loro in misura simile. Per ogni dollaro ricevuto, gli altri redditi della persona sono scesi di circa 16 centesimi (quelli dell'economia domestica di circa 29 centesimi). Il tempo guadagnato è andato soprattutto al tempo libero; qualità del lavoro e titoli di studio non sono cambiati in modo misurabile, il benessere è aumentato nel primo anno per poi tornare al livello del gruppo di controllo.
+- **Finlandia (2017–2018):** 2'000 persone disoccupate hanno ricevuto 560 euro al mese senza condizioni. Nessun effetto misurabile sull'occupazione nel primo anno, circa sei giorni di lavoro in più nel secondo; chi ha ricevuto il reddito ha riferito un maggiore benessere e più sicurezza finanziaria.
+- **Svizzera (2016):** L'iniziativa popolare per un reddito di base incondizionato è stata respinta con il 76,9% di no (Basilea Città: 36% di sì). Secondo l'indagine post-voto, la mancanza di un piano di finanziamento è stata determinante. Proprio per questo il laboratorio calcola prima il finanziamento.
+
+Questi risultati sono trasferibili solo in parte: entrambi gli esperimenti erano limitati nel tempo, non universali e senza il lato del finanziamento. Nel calcolatore qui sopra si può attivare come scenario la reazione misurata da OpenResearch (16 centesimi di reddito in meno per franco di reddito di base).
+
+---
+
 ## Limiti
 
 - Dati aggregati per decile invece di microdati (i dati individuali richiedono una domanda all'UST)
-- Nessuna reazione comportamentale modellizzata (offerta di lavoro, modelli di consumo, elusione fiscale): effetti statici di primo impatto
+- Nessuna reazione comportamentale modellizzata (offerta di lavoro, modelli di consumo, elusione fiscale): effetti statici di primo impatto Nel calcolatore si può aggiungere come scenario la reazione dell'offerta di lavoro misurata dall'esperimento OpenResearch (stima statunitense, trasferibile solo in parte).
 - Ripartizione dei trasferimenti sui decili stimata (non direttamente dai microdati SILC)
 - Le quote di consumo per decile si basano su valori di letteratura, non sul dettaglio IBED dell'UST
 - Dati di base 2018: la serie di tabelle UST utilizzata termina nel 2018; le rilevazioni IBED e SILC più recenti non sono ancora integrate
@@ -109,3 +125,6 @@ Qui emerge quali decili guadagnano o perdono al netto. Il punto di svolta varia 
 - UST: Kennzahlen zur Verteilung der Einkommen vor und nach staatlichen Transfers (indicatori della distribuzione dei redditi prima e dopo i trasferimenti; IBED, dati 2018), quote dei decili sul reddito disponibile equivalente, https://www.bfs.admin.ch/bfsstatic/dam/assets/15344786/master
 - UFAS, statistica delle assicurazioni sociali: volume dei trasferimenti AVS, AI, PC, AD
 - UST SILC: quote di ripartizione pubblicate dei trasferimenti sociali
+- Vivalt, Rhodes, Bartik, Broockman, Krause, Miller: The Employment Effects of a Guaranteed Income, NBER Working Paper 32719 (luglio 2024, rivisto settembre 2025), https://www.nber.org/papers/w32719
+- Università di Helsinki / Kela: risultati dell'esperimento finlandese sul reddito di base 2017–2018, https://www.helsinki.fi/en/news/fair-society/basic-income-experiment-finland-yields-surprising-results
+- Swissvotes: iniziativa popolare «Per un reddito di base incondizionato», 5 giugno 2016 (versione tedesca), https://swissvotes.ch/vote/601.00/kurzbeschreibung-de.pdf

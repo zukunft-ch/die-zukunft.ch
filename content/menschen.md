@@ -1,17 +1,27 @@
 +++
 title = "Menschen"
 description = "Die Köpfe hinter Die Zukunft."
-template = "page.html"
+template = "menschen.html"
 
 [extra]
+team_title = "Das Team"
 show_cta = true
 cta_text = "Du möchtest die Partei mitgestalten? Melde dich bei uns."
 
-[[extra.sections]]
-title = "Raffael Schneider"
+[extra.founder]
+name = "Raffael Schneider"
+role = "Gründer und Präsident"
+place = "Basel"
+photo = "/people/raffael-schneider"
+alt = "Porträt von Raffael Schneider"
 text = "Raffael Schneider lebt in Basel und arbeitet in der Tech-Branche. Er setzt sich dafür ein, dass Fortschritt nicht verunsichert, sondern das Leben spürbar besser macht – mit mehr Wohlstand, Komfort und echter Freiheit für alle."
-subsections = [
-  { title = "Warum jetzt?", text = "Weil der Umbruch bereits läuft. Neue Technologien verändern Arbeit und Alltag schneller als Politik reagiert. Die Zukunft will, dass die Schweiz vorbereitet ist – damit Menschen sich anpassen können, ohne Angst vor Absturz, und damit Fortschritt bei allen ankommt." },
+why_title = "Warum jetzt?"
+why_text = "Weil der Umbruch bereits läuft. Neue Technologien verändern Arbeit und Alltag schneller als Politik reagiert. Die Zukunft will, dass die Schweiz vorbereitet ist – damit Menschen sich anpassen können, ohne Angst vor Absturz, und damit Fortschritt bei allen ankommt."
+contact_label = "Kontakt"
+links = [
+  { label = "raskell.io", url = "https://raskell.io" },
+  { label = "LinkedIn", url = "https://www.linkedin.com/in/raffael-e-schneider" },
+  { label = "GitHub", url = "https://github.com/raffaelschneider" },
 ]
 
 [[extra.sections]]
