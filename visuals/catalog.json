@@ -83,6 +83,182 @@
         "it": "Visualizzazione di uno spazio di ricerca tranquillo con grafici su un tavolo in legno e vista sul lago e sulle montagne al tramonto.",
         "en": "Visualisation of a quiet research room with charts on a timber table and a broad view of a lake and mountains at dusk."
       }
+    },
+    {
+      "slot": "pillar-digitale-souveraenitaet",
+      "page": "@/digitale-souveraenitaet.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Ein ruhiger Serverraum mit Holzdecke, einem Techniker und Blick in ein verschneites Alpental.",
+        "fr": "Une salle de serveurs calme, avec plafond en bois, un technicien et une vue sur une vallée alpine enneigée.",
+        "it": "Una sala server tranquilla con soffitto in legno, un tecnico e vista su una valle alpina innevata.",
+        "en": "A quiet server room with a timber ceiling, a technician and a view over a snowy Alpine valley."
+      }
+    },
+    {
+      "slot": "pillar-uebergaenge",
+      "page": "@/uebergaenge.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Erwachsene lernen in einer hellen Werkstatt am Fluss gemeinsam die Wartung eines Roboterarms.",
+        "fr": "Des adultes apprennent ensemble à entretenir un bras robotisé dans un atelier lumineux au bord d’une rivière.",
+        "it": "Adulti imparano insieme a mantenere un braccio robotico in un laboratorio luminoso sul fiume.",
+        "en": "Adults learn to service a robot arm together in a bright riverside workshop."
+      }
+    },
+    {
+      "slot": "pillar-life-science",
+      "page": "@/life-science.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Ein kleines Gesundheitszentrum mit Garten, in dem eine Pflegeperson einen älteren Menschen begleitet.",
+        "fr": "Un petit centre de santé avec un jardin où un soignant accompagne une personne âgée.",
+        "it": "Un piccolo centro sanitario con un giardino dove un assistente accompagna una persona anziana.",
+        "en": "A small health centre with a garden where a care worker accompanies an older person."
+      }
+    },
+    {
+      "slot": "pillar-research-innovation",
+      "page": "@/research-innovation.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Zwei Forschende arbeiten mit einem Messgerät in einer Wiese neben einem Laborpavillon über einem See.",
+        "fr": "Deux scientifiques utilisent un instrument de mesure dans une prairie près d’un pavillon de laboratoire surplombant un lac.",
+        "it": "Due ricercatori utilizzano uno strumento di misura in un prato accanto a un padiglione di laboratorio sopra un lago.",
+        "en": "Two researchers use a field instrument in a meadow beside a laboratory pavilion overlooking a lake."
+      }
+    },
+    {
+      "slot": "pillar-offener-staat",
+      "page": "@/offener-staat.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Ein offener Gemeindesaal mit Beratungsschalter, kleinen Gesprächsgruppen und Bergblick durch hohe Fenster.",
+        "fr": "Un hall communal ouvert avec un guichet de conseil, de petits groupes en discussion et une vue sur les montagnes.",
+        "it": "Un municipio aperto con sportello di consulenza, piccoli gruppi in conversazione e vista sulle montagne.",
+        "en": "An open town hall with an advice counter, small groups in conversation and mountain views through tall windows."
+      }
+    },
+    {
+      "slot": "pillar-neutralitaet-frieden",
+      "page": "@/neutralitaet-frieden.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Ein ruhiges Konferenzhaus am See mit einem vorbereiteten Besprechungstisch hinter hohen Glasfenstern.",
+        "fr": "Une maison de conférence paisible au bord d’un lac, avec une table de réunion préparée derrière de grandes baies vitrées.",
+        "it": "Una tranquilla sede per incontri sul lago con un tavolo riunioni preparato dietro grandi vetrate.",
+        "en": "A quiet lakeside conference house with a meeting table set behind tall glass windows."
+      }
+    },
+    {
+      "slot": "pillar-talent-integration",
+      "page": "@/talent-integration.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Eine kleine Gruppe mit Gepäck wird an einem regionalen Bahnhof vor einem See und Bergen begrüsst.",
+        "fr": "Un petit groupe avec des bagages est accueilli dans une gare régionale devant un lac et des montagnes.",
+        "it": "Un piccolo gruppo con bagagli viene accolto in una stazione regionale davanti a un lago e alle montagne.",
+        "en": "A small group with luggage is welcomed at a regional station with a lake and mountains beyond."
+      }
+    },
+    {
+      "slot": "pillar-sprache-verstaendigung",
+      "page": "@/sprache-verstaendigung.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Menschen unterhalten sich auf einer Caféterrasse an einem Dorfplatz mit Marktstand und Jurahügeln.",
+        "fr": "Des personnes discutent à la terrasse d’un café sur une place de village, avec un étal de marché et les collines du Jura.",
+        "it": "Persone conversano sulla terrazza di un caffè in una piazza di paese con una bancarella e colline del Giura.",
+        "en": "People talk on a café terrace on a village square with a market stall and Jura hills beyond."
+      }
+    },
+    {
+      "slot": "vision-06-zeit",
+      "page": "@/vision.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Menschen lesen, gehen spazieren und fahren Velo in einem ruhigen Park an einem Fluss vor bewaldeten Hügeln.",
+        "fr": "Des personnes lisent, se promènent et font du vélo dans un parc paisible au bord d’une rivière devant des collines boisées.",
+        "it": "Persone leggono, passeggiano e vanno in bicicletta in un tranquillo parco sul fiume davanti a colline boscose.",
+        "en": "People read, walk and cycle in a quiet riverside park with wooded hills beyond."
+      }
+    },
+    {
+      "slot": "vision-01-behoerden",
+      "page": "@/vision.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Eine Frau verlässt ein kleines Gemeindehaus an einem Dorfplatz mit Kirschbaum und Bergblick.",
+        "fr": "Une femme quitte une petite mairie sur une place avec un cerisier et une vue sur les montagnes.",
+        "it": "Una donna esce da un piccolo municipio su una piazza con un ciliegio e vista sulle montagne.",
+        "en": "A woman leaves a small town hall on a village square with a cherry tree and mountain views."
+      }
+    },
+    {
+      "slot": "vision-02-assistenz",
+      "page": "@/vision.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Ein älterer Mann sitzt mit einem kleinen Ohrhörer, Kaffee und Notizbuch auf einem Balkon über einem See.",
+        "fr": "Un homme âgé est assis sur un balcon au-dessus d’un lac, avec une petite oreillette, un café et un carnet.",
+        "it": "Un uomo anziano siede su un balcone sopra un lago con un piccolo auricolare, un caffè e un taccuino.",
+        "en": "An older man sits on a balcony above a lake with a small earpiece, coffee and a notebook."
+      }
+    },
+    {
+      "slot": "vision-03-fabrik",
+      "page": "@/vision.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Roboterarme und zwei Fachkräfte arbeiten in einer verglasten Präzisionswerkstatt am Rand einer Bergwiese.",
+        "fr": "Des bras robotisés et deux techniciens travaillent dans un atelier de précision vitré au bord d’une prairie alpine.",
+        "it": "Bracci robotici e due tecnici lavorano in un’officina di precisione vetrata ai margini di un prato alpino.",
+        "en": "Robot arms and two technicians work in a glazed precision workshop beside an Alpine meadow."
+      }
+    },
+    {
+      "slot": "vision-04-bauen",
+      "page": "@/vision.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Ein Kran hebt ein vorgefertigtes Holzmodul auf einer Baustelle neben einem Bahnhof am See.",
+        "fr": "Une grue soulève un module préfabriqué en bois sur un chantier près d’une gare au bord d’un lac.",
+        "it": "Una gru solleva un modulo prefabbricato in legno in un cantiere accanto a una stazione sul lago.",
+        "en": "A crane lifts a prefabricated timber module on a construction site beside a lakeside station."
+      }
+    },
+    {
+      "slot": "vision-05-hof",
+      "page": "@/vision.md",
+      "width": 1536,
+      "height": 1024,
+      "alt": {
+        "de": "Ein kleiner Feldroboter fährt durch Gemüsereihen, während ein Landwirt und ein Kind vom Feldrand zusehen.",
+        "fr": "Un petit robot agricole parcourt des rangées de légumes tandis qu’un agriculteur et un enfant observent depuis le bord du champ.",
+        "it": "Un piccolo robot agricolo percorre file di ortaggi mentre un agricoltore e un bambino osservano dal bordo del campo.",
+        "en": "A small field robot moves through vegetable rows as a farmer and child watch from the edge of the field."
+      }
     }
+  ],
+  "vision_outcomes": [
+    "vision-01-behoerden",
+    "vision-02-assistenz",
+    "vision-03-fabrik",
+    "vision-04-bauen",
+    "vision-05-hof",
+    "vision-06-zeit"
   ]
 }
