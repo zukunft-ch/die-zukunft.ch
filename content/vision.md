@@ -39,7 +39,7 @@ stack = [
   { layer = "01", title = "Energie", text = "Ohne Strom keine Rechenkraft und keine Roboter. Wir sichern bezahlbaren, verlässlichen Strom, auch im Winter, und planen den zusätzlichen Bedarf von Rechenzentren und Automatisierung von Anfang an mit.", link = "@/energy-resilience.md", link_text = "Energie" },
   { layer = "02", title = "Rechenkraft", text = "Rechenzentren und KI-Kapazität im Land, zugänglich für Hochschulen, KMU und Verwaltung. Wer Rechenkraft nur mietet, mietet seine Zukunft.", link = "@/souveraene-ki.md", link_text = "Souveräne KI" },
   { layer = "03", title = "Souveräne KI", text = "Offene Schweizer Modelle wie Apertus weiterentwickeln, in allen Landessprachen und mit transparenten Daten. Für kritische Anwendungen gilt: Modelle, die wir prüfen, betreiben und ersetzen können.", link = "@/souveraene-ki.md", link_text = "Souveräne KI" },
-  { layer = "04", title = "Talent", text = "Die besten Leute ausbilden, halten und anziehen: ETH, EPFL und Fachhochschulen stärken, mehr Bewilligungen für Fachkräfte aus Drittstaaten, Weiterbildung als Normalfall.", link = "@/talent-integration.md", link_text = "Talent" },
+  { layer = "04", title = "Talent", text = "Die besten Köpfe ausbilden, halten und anziehen: ETH, EPFL und Fachhochschulen stärken und ein Talent-Visum für Spitzenkräfte aus aller Welt schaffen, die hier Forschung, Firmen und ganze Branchen aufbauen. Weiterbildung als Normalfall.", link = "@/talent-integration.md", link_text = "Talent" },
   { layer = "05", title = "Anwendung in allen Sektoren", text = "Roboter auf Feldern, Baustellen und in Fabriken. KI in jeder Dienstleistung und in der Verwaltung. Dort, wo es Menschen entlastet und Wertschöpfung ins Land holt.", link = "@/robotik.md", link_text = "Robotik" },
   { layer = "06", title = "Dividende", text = "Die Produktivitätsgewinne erreichen alle: über ein Grundeinkommen als Fundament, sichere Übergänge zwischen Berufen und tiefere Kosten im Alltag.", link = "@/grundeinkommen.md", link_text = "Grundeinkommen" },
 ]
@@ -88,7 +88,7 @@ targets_title = "Woran man uns messen kann"
 targets_intro = "Ziele mit Jahreszahl. Wir berichten öffentlich, wie weit die Schweiz ist."
 targets = [
   { year = "2027", goal = "Nationale KI-Infrastrukturstrategie mit gesicherter Finanzierung", how = "Wie vom Wissenschaftsrat 2026 empfohlen: Rechenkraft als dauerhafte Infrastruktur, nicht als befristetes Projektgeld." },
-  { year = "2027", goal = "Doppelt so viele Bewilligungen für Fachkräfte aus Drittstaaten", how = "Von 8'500 auf 17'000 pro Jahr, gezielt für Forschung, KI, Robotik und Gesundheit." },
+  { year = "2027", goal = "Ein Schweizer Talent-Visum für Spitzenkräfte", how = "Für Forschende, Gründer:innen und Spezialist:innen in KI, Robotik und Life Science: Entscheid in zehn Arbeitstagen, Familie inklusive, Zuzug ohne Hürden. Es geht nicht um mehr allgemeine Arbeitsmigration, sondern um die Menschen, um die sich die Bay Area, Singapur und Hongkong bemühen." },
   { year = "2028", goal = "Ein offenes Schweizer KI-Modell im Einsatz in der Bundesverwaltung", how = "Auf Basis von Apertus, betrieben auf Schweizer Infrastruktur, in allen Landessprachen." },
   { year = "2028", goal = "Bundesweiter Grundeinkommens-Pilot läuft", how = "Mit unabhängiger Evaluation von Bürokratiekosten, Gründungen und Wohlbefinden." },
   { year = "2030", goal = "Zehnmal mehr öffentlich zugängliche KI-Rechenkapazität", how = "Für Hochschulen, KMU und Verwaltung, mit dem Strombedarf von Anfang an mitgeplant." },
@@ -107,7 +107,9 @@ sources = [
   { label = "CSCS: Alps hardware", url = "https://docs.cscs.ch/alps/hardware/" },
   { label = "Schweizerischer Wissenschaftsrat empfiehlt nationale KI-Infrastrukturstrategie (Mai 2026)", url = "https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie" },
   { label = "BFS: Landwirtschaftliche Beschäftigte 2024", url = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master" },
-  { label = "SBFI/SEM: Kontingente für Drittstaatsangehörige 2026", url = "https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA" },
+  { label = "Singapur: Overseas Networks & Expertise (ONE) Pass", url = "https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass" },
+  { label = "Hongkong: Top Talent Pass Scheme", url = "https://www.immd.gov.hk/eng/services/visas/TTPS.html" },
+  { label = "Grossbritannien: Global Talent Visa", url = "https://www.gov.uk/global-talent" },
   { label = "Bundesamt für Justiz: Regulierung künstlicher Intelligenz", url = "https://www.bj.admin.ch/de/kuenstliche-intelligenz" },
 ]
 +++

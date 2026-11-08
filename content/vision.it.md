@@ -40,7 +40,7 @@ stack = [
   { layer = "01", title = "Energia", text = "Senza elettricità niente potenza di calcolo e niente robot. Garantiamo elettricità accessibile e affidabile, anche d'inverno, e pianifichiamo fin dall'inizio il fabbisogno aggiuntivo dei centri di calcolo e dell'automazione.", link = "@/energy-resilience.md", link_text = "Energia" },
   { layer = "02", title = "Potenza di calcolo", text = "Centri di calcolo e capacità di IA nel Paese, accessibili a università, PMI e amministrazione. Chi la potenza di calcolo la prende solo in affitto, prende in affitto il proprio futuro.", link = "@/souveraene-ki.md", link_text = "IA sovrana" },
   { layer = "03", title = "IA sovrana", text = "Sviluppare modelli svizzeri aperti come Apertus, in tutte le lingue nazionali e con dati trasparenti. Per le applicazioni critiche vale: modelli che possiamo verificare, gestire e sostituire.", link = "@/souveraene-ki.md", link_text = "IA sovrana" },
-  { layer = "04", title = "Talento", text = "Formare, trattenere e attirare le persone migliori: rafforzare ETH, EPFL e scuole universitarie professionali, più permessi per specialisti di Stati terzi, la formazione continua come normalità.", link = "@/talent-integration.md", link_text = "Talento" },
+  { layer = "04", title = "Talento", text = "Formare, trattenere e attirare le menti migliori: rafforzare ETH, EPFL e scuole universitarie professionali e creare un visto per talenti di punta da tutto il mondo che qui costruiscono ricerca, imprese e interi settori. La formazione continua come norma.", link = "@/talent-integration.md", link_text = "Talento" },
   { layer = "05", title = "Applicazione in tutti i settori", text = "Robot nei campi, nei cantieri e nelle fabbriche. IA in ogni servizio e nell'amministrazione. Là dove alleggerisce le persone e porta valore aggiunto nel Paese.", link = "@/robotik.md", link_text = "Robotica" },
   { layer = "06", title = "Dividendo", text = "I guadagni di produttività raggiungono tutti: con un reddito di base come fondamento, transizioni sicure tra professioni e costi più bassi nella vita quotidiana.", link = "@/grundeinkommen.md", link_text = "Reddito di base" },
 ]
@@ -89,7 +89,7 @@ targets_title = "Su cosa ci si può misurare"
 targets_intro = "Obiettivi con una data. Riferiamo pubblicamente a che punto è la Svizzera."
 targets = [
   { year = "2027", goal = "Strategia nazionale per l'infrastruttura di IA con finanziamento garantito", how = "Come raccomandato dal Consiglio della scienza nel 2026: la potenza di calcolo come infrastruttura permanente, non come fondi di progetto a termine." },
-  { year = "2027", goal = "Il doppio dei permessi per specialisti di Stati terzi", how = "Da 8'500 a 17'000 all'anno, in modo mirato per ricerca, IA, robotica e salute." },
+  { year = "2027", goal = "Un visto svizzero per talenti di punta", how = "Per ricercatrici e ricercatori, fondatrici e fondatori e specialisti in IA, robotica e scienze della vita: decisione in dieci giorni lavorativi, famiglia inclusa, trasferimento senza ostacoli. Non si tratta di più migrazione di lavoro in generale, ma delle persone che la Bay Area, Singapore e Hong Kong cercano di attirare." },
   { year = "2028", goal = "Un modello di IA svizzero aperto in uso nell'Amministrazione federale", how = "Sulla base di Apertus, gestito su infrastruttura svizzera, in tutte le lingue nazionali." },
   { year = "2028", goal = "Progetto pilota nazionale di reddito di base in corso", how = "Con valutazione indipendente dei costi burocratici, delle nuove imprese e del benessere." },
   { year = "2030", goal = "Dieci volte più capacità di calcolo per l'IA accessibile al pubblico", how = "Per università, PMI e amministrazione, con il fabbisogno di elettricità pianificato fin dall'inizio." },
@@ -108,7 +108,9 @@ sources = [
   { label = "CSCS: Alps hardware", url = "https://docs.cscs.ch/alps/hardware/" },
   { label = "Il Consiglio svizzero della scienza raccomanda una strategia nazionale per l'infrastruttura di IA (maggio 2026)", url = "https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie" },
   { label = "UST: Addetti nell'agricoltura 2024", url = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master" },
-  { label = "SEFRI/SEM: Contingenti per cittadini di Stati terzi 2026", url = "https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA" },
+  { label = "Singapore: Overseas Networks & Expertise (ONE) Pass", url = "https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass" },
+  { label = "Hong Kong: Top Talent Pass Scheme", url = "https://www.immd.gov.hk/eng/services/visas/TTPS.html" },
+  { label = "Regno Unito: Global Talent Visa", url = "https://www.gov.uk/global-talent" },
   { label = "Ufficio federale di giustizia: Regolamentazione dell'intelligenza artificiale", url = "https://www.bj.admin.ch/de/kuenstliche-intelligenz" },
 ]
 +++

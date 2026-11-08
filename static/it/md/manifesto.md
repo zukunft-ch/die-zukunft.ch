@@ -55,7 +55,7 @@ Se le macchine svolgono una parte crescente del lavoro, una parte dei guadagni d
 
 ## 08. Il talento è la materia prima più scarsa. (0x1009)
 
-La Svizzera non ha risorse del sottosuolo, ma alcune delle migliori università del mondo. Formiamo le persone che costruiscono l'IA e la robotica, le tratteniamo nel Paese e attiriamo chi vuole costruire qualcosa.
+La Svizzera non ha risorse del sottosuolo, ma alcune delle migliori università del mondo. Formiamo le persone che costruiscono l'IA e la robotica, le tratteniamo nel Paese e attiriamo le menti migliori del mondo che vogliono fare ricerca e fondare imprese qui: con un visto per talenti rapido e accogliente come a Singapore o a Hong Kong.
 
 → [Pilastro: Talento, integrazione & stato di diritto](https://il-futuro.ch/talento-integrazione/)
 

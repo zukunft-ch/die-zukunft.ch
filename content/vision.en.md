@@ -40,7 +40,7 @@ stack = [
   { layer = "01", title = "Energy", text = "No electricity, no compute and no robots. We secure affordable, reliable electricity, including in winter, and plan for the additional demand from data centres and automation from the start.", link = "@/energy-resilience.md", link_text = "Energy" },
   { layer = "02", title = "Compute", text = "Data centres and AI capacity in the country, accessible to universities, SMEs and public administration. If you only rent compute, you rent your future.", link = "@/souveraene-ki.md", link_text = "Sovereign AI" },
   { layer = "03", title = "Sovereign AI", text = "Develop open Swiss models like Apertus further, in all national languages and with transparent data. For critical applications the rule is: models we can audit, operate and replace.", link = "@/souveraene-ki.md", link_text = "Sovereign AI" },
-  { layer = "04", title = "Talent", text = "Train, retain and attract the best people: strengthen ETH, EPFL and the universities of applied sciences, more permits for skilled workers from third countries, retraining as the norm.", link = "@/talent-integration.md", link_text = "Talent" },
+  { layer = "04", title = "Talent", text = "Train, keep and attract the best minds: strengthen ETH, EPFL and the universities of applied sciences, and create a talent visa for top people from around the world who come here to build research, companies and whole industries. Continuing education as the norm.", link = "@/talent-integration.md", link_text = "Talent" },
   { layer = "05", title = "Application in every sector", text = "Robots in fields, on building sites and in factories. AI in every service and in public administration. Wherever it takes load off people and brings value creation into the country.", link = "@/robotik.md", link_text = "Robotics" },
   { layer = "06", title = "Dividend", text = "The productivity gains reach everyone: through a basic income as a foundation, safe transitions between occupations and lower everyday costs.", link = "@/grundeinkommen.md", link_text = "Basic Income" },
 ]
@@ -89,7 +89,7 @@ targets_title = "What you can measure us by"
 targets_intro = "Goals with a year attached. We report publicly on how far Switzerland has come."
 targets = [
   { year = "2027", goal = "National AI infrastructure strategy with secured funding", how = "As recommended by the Science Council in 2026: compute as permanent infrastructure, not as time-limited project money." },
-  { year = "2027", goal = "Twice as many permits for skilled workers from third countries", how = "From 8,500 to 17,000 per year, targeted at research, AI, robotics and health." },
+  { year = "2027", goal = "A Swiss talent visa for top talent", how = "For researchers, founders and specialists in AI, robotics and life sciences: a decision within ten working days, family included, relocation without friction. This is not about more general labour migration, but about the people the Bay Area, Singapore and Hong Kong compete for." },
   { year = "2028", goal = "An open Swiss AI model in use in the federal administration", how = "Based on Apertus, operated on Swiss infrastructure, in all national languages." },
   { year = "2028", goal = "Nationwide basic income pilot under way", how = "With independent evaluation of bureaucracy costs, business start-ups and well-being." },
   { year = "2030", goal = "Ten times more publicly accessible AI computing capacity", how = "For universities, SMEs and public administration, with the electricity demand planned in from the start." },
@@ -108,7 +108,9 @@ sources = [
   { label = "CSCS: Alps hardware", url = "https://docs.cscs.ch/alps/hardware/" },
   { label = "Swiss Science Council recommends a national AI infrastructure strategy (May 2026, in German)", url = "https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie" },
   { label = "FSO: Agricultural workforce 2024 (in German)", url = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master" },
-  { label = "SERI/SEM: Quotas for third-country nationals 2026", url = "https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA" },
+  { label = "Singapore: Overseas Networks & Expertise (ONE) Pass", url = "https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass" },
+  { label = "Hong Kong: Top Talent Pass Scheme", url = "https://www.immd.gov.hk/eng/services/visas/TTPS.html" },
+  { label = "United Kingdom: Global Talent visa", url = "https://www.gov.uk/global-talent" },
   { label = "Federal Office of Justice: Regulation of artificial intelligence (in German)", url = "https://www.bj.admin.ch/de/kuenstliche-intelligenz" },
 ]
 +++

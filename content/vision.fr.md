@@ -40,7 +40,7 @@ stack = [
   { layer = "01", title = "Énergie", text = "Sans électricité, ni puissance de calcul ni robots. Nous assurons une électricité abordable et fiable, aussi en hiver, et intégrons dès le départ les besoins supplémentaires des centres de données et de l'automatisation.", link = "@/energy-resilience.md", link_text = "Énergie" },
   { layer = "02", title = "Puissance de calcul", text = "Des centres de données et des capacités d'IA dans le pays, accessibles aux hautes écoles, aux PME et à l'administration. Qui ne fait que louer sa puissance de calcul loue son avenir.", link = "@/souveraene-ki.md", link_text = "IA souveraine" },
   { layer = "03", title = "IA souveraine", text = "Développer des modèles suisses ouverts comme Apertus, dans toutes les langues nationales et avec des données transparentes. Pour les applications critiques, la règle est : des modèles que nous pouvons vérifier, exploiter et remplacer.", link = "@/souveraene-ki.md", link_text = "IA souveraine" },
-  { layer = "04", title = "Talent", text = "Former, retenir et attirer les meilleurs : renforcer l'ETH, l'EPFL et les hautes écoles spécialisées, plus d'autorisations pour les spécialistes d'États tiers, la formation continue comme règle.", link = "@/talent-integration.md", link_text = "Talent" },
+  { layer = "04", title = "Talent", text = "Former, retenir et attirer les meilleurs esprits : renforcer l'ETH, l'EPFL et les hautes écoles spécialisées, et créer un visa talents pour les profils de pointe du monde entier qui viennent bâtir ici la recherche, des entreprises et des secteurs entiers. La formation continue comme norme.", link = "@/talent-integration.md", link_text = "Talent" },
   { layer = "05", title = "Application dans tous les secteurs", text = "Des robots dans les champs, sur les chantiers et dans les usines. L'IA dans chaque service et dans l'administration. Là où elle soulage les gens et ramène de la valeur ajoutée dans le pays.", link = "@/robotik.md", link_text = "Robotique" },
   { layer = "06", title = "Dividende", text = "Les gains de productivité atteignent tout le monde : par un revenu de base comme socle, des transitions sûres entre les métiers et des coûts plus bas au quotidien.", link = "@/grundeinkommen.md", link_text = "Revenu de base" },
 ]
@@ -89,7 +89,7 @@ targets_title = "Ce sur quoi on peut nous juger"
 targets_intro = "Des objectifs datés. Nous rendons compte publiquement de l'état d'avancement de la Suisse."
 targets = [
   { year = "2027", goal = "Stratégie nationale d'infrastructure IA avec un financement garanti", how = "Comme l'a recommandé le Conseil suisse de la science en 2026 : la puissance de calcul comme infrastructure durable, pas comme financement de projet temporaire." },
-  { year = "2027", goal = "Deux fois plus d'autorisations pour les spécialistes d'États tiers", how = "De 8'500 à 17'000 par an, de manière ciblée pour la recherche, l'IA, la robotique et la santé." },
+  { year = "2027", goal = "Un visa talents suisse pour les profils de pointe", how = "Pour les chercheuses et chercheurs, les fondatrices et fondateurs et les spécialistes en IA, robotique et sciences de la vie : décision en dix jours ouvrables, famille incluse, installation sans obstacles. Il ne s'agit pas de davantage de migration de travail en général, mais des personnes que la Bay Area, Singapour et Hong Kong s'efforcent d'attirer." },
   { year = "2028", goal = "Un modèle d'IA suisse ouvert en service dans l'administration fédérale", how = "Basé sur Apertus, exploité sur une infrastructure suisse, dans toutes les langues nationales." },
   { year = "2028", goal = "Un projet pilote national de revenu de base est en cours", how = "Avec une évaluation indépendante des coûts bureaucratiques, des créations d'entreprises et du bien-être." },
   { year = "2030", goal = "Dix fois plus de puissance de calcul IA accessible au public", how = "Pour les hautes écoles, les PME et l'administration, avec les besoins en électricité planifiés dès le départ." },
@@ -108,7 +108,9 @@ sources = [
   { label = "CSCS: Alps hardware", url = "https://docs.cscs.ch/alps/hardware/" },
   { label = "Le Conseil suisse de la science recommande une stratégie nationale d'infrastructure IA (mai 2026)", url = "https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie" },
   { label = "OFS : personnes actives dans l'agriculture 2024", url = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master" },
-  { label = "SEFRI/SEM : contingents pour les ressortissants d'États tiers 2026", url = "https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA" },
+  { label = "Singapour : Overseas Networks & Expertise (ONE) Pass", url = "https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass" },
+  { label = "Hong Kong : Top Talent Pass Scheme", url = "https://www.immd.gov.hk/eng/services/visas/TTPS.html" },
+  { label = "Royaume-Uni : Global Talent Visa", url = "https://www.gov.uk/global-talent" },
   { label = "Office fédéral de la justice : réglementation de l'intelligence artificielle", url = "https://www.bj.admin.ch/de/kuenstliche-intelligenz" },
 ]
 +++

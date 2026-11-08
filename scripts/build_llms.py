@@ -336,6 +336,7 @@ def llms_txt() -> str:
     L.append("- **Automation dividend**: a share of the gains from automation returned to everyone, starting with a nationwide basic-income pilot with independent evaluation.")
     L.append("- **No black-box decisions about people**: no automated decision on benefits, treatment or rights without a comprehensible reason, human responsibility and a right of appeal.")
     L.append("- **Open government**: open data, open procedures, auditable code, API by default.")
+    L.append("- **Talent visa**: a fast, welcoming permit for top researchers, founders and specialists in AI, robotics and life sciences (decision within ten working days, family included), modelled on Singapore's ONE Pass, Hong Kong's Top Talent Pass and the UK Global Talent visa. Explicitly not a call for more general labour migration.")
     L.append("- **Good Offices**: the Swiss tradition of mediation; the party wants Switzerland strictly neutral and again a place where peace is negotiated.")
     L.append("- **Hex addresses (0xPPSS)**: every section of the site has a permanent address, shown in its corner, so it can be linked and cited.\n")
     L.append("## Latest\n")

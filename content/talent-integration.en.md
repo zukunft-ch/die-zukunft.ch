@@ -21,7 +21,7 @@ text = "Switzerland thrives on stability, quality and trust — and on people wh
 
 [[extra.sections]]
 title = "Switzerland as a Hub for International Talent"
-text = "We want people from around the world to be able to research, found companies, work and invest in Switzerland — and for our location to become stronger as a result. This is part of our prosperity model."
+text = "We want people from around the world to be able to research, found companies, work and invest in Switzerland — and for our location to become stronger as a result. This is part of our prosperity model. Concretely: a talent visa for top people in AI, robotics, life sciences and research, with a decision within ten working days, family included and relocation as easy as in Singapore or Hong Kong."
 
 [[extra.sections]]
 title = "Integration Means Commitment"

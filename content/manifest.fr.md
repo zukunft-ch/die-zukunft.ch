@@ -93,7 +93,7 @@ link_text = "Pilier : Revenu de base"
 [[extra.theses]]
 hex = "0x1009"
 title = "Le talent est la ressource la plus rare."
-text = "La Suisse n'a pas de ressources naturelles, mais certaines des meilleures hautes écoles du monde. Nous formons les personnes qui construisent l'IA et la robotique, nous les gardons dans le pays et nous attirons celles et ceux qui veulent bâtir quelque chose."
+text = "La Suisse n'a pas de ressources naturelles, mais certaines des meilleures hautes écoles du monde. Nous formons les personnes qui construisent l'IA et la robotique, nous les gardons dans le pays et nous attirons les meilleurs esprits du monde qui veulent faire de la recherche et créer des entreprises ici : avec un visa talents aussi rapide et accueillant qu'à Singapour ou à Hong Kong."
 link = "@/talent-integration.md"
 link_text = "Pilier : Talent, intégration & État de droit"
 

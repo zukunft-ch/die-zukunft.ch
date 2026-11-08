@@ -55,7 +55,7 @@ When machines do a growing share of the work, part of the gains must flow back t
 
 ## 08. Talent is the scarcest resource. (0x1009)
 
-Switzerland has no natural resources, but some of the best universities in the world. We train the people who build AI and robotics, keep them in the country and bring in those who want to build something.
+Switzerland has no natural resources, but some of the best universities in the world. We train the people who build AI and robotics, keep them in the country and attract the world's best minds who want to do research and found companies here: with a talent visa as fast and welcoming as Singapore's or Hong Kong's.
 
 → [Pillar: Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/)
 

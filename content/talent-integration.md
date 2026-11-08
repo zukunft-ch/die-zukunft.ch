@@ -20,7 +20,7 @@ text = "Die Schweiz lebt von Stabilität, Qualität und Vertrauen – und von Me
 
 [[extra.sections]]
 title = "Schweiz als Hub für internationales Talent"
-text = "Wir wollen, dass Menschen aus aller Welt in der Schweiz forschen, gründen, arbeiten und investieren können – und dass unser Standort dadurch stärker wird. Das ist Teil unseres Wohlstandsmodells."
+text = "Wir wollen, dass Menschen aus aller Welt in der Schweiz forschen, gründen, arbeiten und investieren können – und dass unser Standort dadurch stärker wird. Das ist Teil unseres Wohlstandsmodells. Konkret: ein Talent-Visum für Spitzenkräfte in KI, Robotik, Life Science und Forschung, mit Entscheid in zehn Arbeitstagen, Familie inklusive und einem Zuzug so einfach wie in Singapur oder Hongkong."
 
 [[extra.sections]]
 title = "Integration heisst Commitment"

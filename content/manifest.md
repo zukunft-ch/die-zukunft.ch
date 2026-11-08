@@ -92,7 +92,7 @@ link_text = "Pfeiler: Grundeinkommen"
 [[extra.theses]]
 hex = "0x1009"
 title = "Talent ist der knappste Rohstoff."
-text = "Die Schweiz hat keine Bodenschätze, aber einige der besten Hochschulen der Welt. Wir bilden die Menschen aus, die KI und Robotik bauen, halten sie im Land und holen jene, die etwas aufbauen wollen."
+text = "Die Schweiz hat keine Bodenschätze, aber einige der besten Hochschulen der Welt. Wir bilden die Menschen aus, die KI und Robotik bauen, halten sie im Land und holen die weltweit besten Köpfe, die hier forschen und gründen wollen: mit einem Talent-Visum, so schnell und einladend wie in Singapur oder Hongkong."
 link = "@/talent-integration.md"
 link_text = "Pfeiler: Talent, Integration & Rechtsstaat"
 

@@ -36,7 +36,7 @@ Wohlstand aus KI entsteht nicht in einer App. Er entsteht in Schichten, die aufe
 01. **Energie**: Ohne Strom keine Rechenkraft und keine Roboter. Wir sichern bezahlbaren, verlässlichen Strom, auch im Winter, und planen den zusätzlichen Bedarf von Rechenzentren und Automatisierung von Anfang an mit. → https://die-zukunft.ch/energy-resilience/
 02. **Rechenkraft**: Rechenzentren und KI-Kapazität im Land, zugänglich für Hochschulen, KMU und Verwaltung. Wer Rechenkraft nur mietet, mietet seine Zukunft. → https://die-zukunft.ch/souveraene-ki/
 03. **Souveräne KI**: Offene Schweizer Modelle wie Apertus weiterentwickeln, in allen Landessprachen und mit transparenten Daten. Für kritische Anwendungen gilt: Modelle, die wir prüfen, betreiben und ersetzen können. → https://die-zukunft.ch/souveraene-ki/
-04. **Talent**: Die besten Leute ausbilden, halten und anziehen: ETH, EPFL und Fachhochschulen stärken, mehr Bewilligungen für Fachkräfte aus Drittstaaten, Weiterbildung als Normalfall. → https://die-zukunft.ch/talent-integration/
+04. **Talent**: Die besten Köpfe ausbilden, halten und anziehen: ETH, EPFL und Fachhochschulen stärken und ein Talent-Visum für Spitzenkräfte aus aller Welt schaffen, die hier Forschung, Firmen und ganze Branchen aufbauen. Weiterbildung als Normalfall. → https://die-zukunft.ch/talent-integration/
 05. **Anwendung in allen Sektoren**: Roboter auf Feldern, Baustellen und in Fabriken. KI in jeder Dienstleistung und in der Verwaltung. Dort, wo es Menschen entlastet und Wertschöpfung ins Land holt. → https://die-zukunft.ch/robotik/
 06. **Dividende**: Die Produktivitätsgewinne erreichen alle: über ein Grundeinkommen als Fundament, sichere Übergänge zwischen Berufen und tiefere Kosten im Alltag. → https://die-zukunft.ch/grundeinkommen/
 
@@ -103,7 +103,7 @@ Nicht links, nicht rechts. Nach vorne.
 Ziele mit Jahreszahl. Wir berichten öffentlich, wie weit die Schweiz ist.
 
 - **2027**: Nationale KI-Infrastrukturstrategie mit gesicherter Finanzierung. Wie vom Wissenschaftsrat 2026 empfohlen: Rechenkraft als dauerhafte Infrastruktur, nicht als befristetes Projektgeld.
-- **2027**: Doppelt so viele Bewilligungen für Fachkräfte aus Drittstaaten. Von 8'500 auf 17'000 pro Jahr, gezielt für Forschung, KI, Robotik und Gesundheit.
+- **2027**: Ein Schweizer Talent-Visum für Spitzenkräfte. Für Forschende, Gründer:innen und Spezialist:innen in KI, Robotik und Life Science: Entscheid in zehn Arbeitstagen, Familie inklusive, Zuzug ohne Hürden. Es geht nicht um mehr allgemeine Arbeitsmigration, sondern um die Menschen, um die sich die Bay Area, Singapur und Hongkong bemühen.
 - **2028**: Ein offenes Schweizer KI-Modell im Einsatz in der Bundesverwaltung. Auf Basis von Apertus, betrieben auf Schweizer Infrastruktur, in allen Landessprachen.
 - **2028**: Bundesweiter Grundeinkommens-Pilot läuft. Mit unabhängiger Evaluation von Bürokratiekosten, Gründungen und Wohlbefinden.
 - **2030**: Zehnmal mehr öffentlich zugängliche KI-Rechenkapazität. Für Hochschulen, KMU und Verwaltung, mit dem Strombedarf von Anfang an mitgeplant.
@@ -121,5 +121,7 @@ Ziele mit Jahreszahl. Wir berichten öffentlich, wie weit die Schweiz ist.
 - [CSCS: Alps hardware](https://docs.cscs.ch/alps/hardware/)
 - [Schweizerischer Wissenschaftsrat empfiehlt nationale KI-Infrastrukturstrategie (Mai 2026)](https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie)
 - [BFS: Landwirtschaftliche Beschäftigte 2024](https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master)
-- [SBFI/SEM: Kontingente für Drittstaatsangehörige 2026](https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA)
+- [Singapur: Overseas Networks & Expertise (ONE) Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)
+- [Hongkong: Top Talent Pass Scheme](https://www.immd.gov.hk/eng/services/visas/TTPS.html)
+- [Grossbritannien: Global Talent Visa](https://www.gov.uk/global-talent)
 - [Bundesamt für Justiz: Regulierung künstlicher Intelligenz](https://www.bj.admin.ch/de/kuenstliche-intelligenz)

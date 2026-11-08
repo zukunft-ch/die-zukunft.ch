@@ -55,7 +55,7 @@ Quand les machines accomplissent une part croissante du travail, une partie des 
 
 ## 08. Le talent est la ressource la plus rare. (0x1009)
 
-La Suisse n'a pas de ressources naturelles, mais certaines des meilleures hautes écoles du monde. Nous formons les personnes qui construisent l'IA et la robotique, nous les gardons dans le pays et nous attirons celles et ceux qui veulent bâtir quelque chose.
+La Suisse n'a pas de ressources naturelles, mais certaines des meilleures hautes écoles du monde. Nous formons les personnes qui construisent l'IA et la robotique, nous les gardons dans le pays et nous attirons les meilleurs esprits du monde qui veulent faire de la recherche et créer des entreprises ici : avec un visa talents aussi rapide et accueillant qu'à Singapour ou à Hong Kong.
 
 → [Pilier : Talent, intégration & État de droit](https://le-futur.ch/talent-integration/)
 

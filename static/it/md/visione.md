@@ -36,7 +36,7 @@ La prosperità che nasce dall'IA non sta in un'app. Nasce in strati che si reggo
 01. **Energia**: Senza elettricità niente potenza di calcolo e niente robot. Garantiamo elettricità accessibile e affidabile, anche d'inverno, e pianifichiamo fin dall'inizio il fabbisogno aggiuntivo dei centri di calcolo e dell'automazione. → https://il-futuro.ch/energia-resilienza/
 02. **Potenza di calcolo**: Centri di calcolo e capacità di IA nel Paese, accessibili a università, PMI e amministrazione. Chi la potenza di calcolo la prende solo in affitto, prende in affitto il proprio futuro. → https://il-futuro.ch/ia-sovrana/
 03. **IA sovrana**: Sviluppare modelli svizzeri aperti come Apertus, in tutte le lingue nazionali e con dati trasparenti. Per le applicazioni critiche vale: modelli che possiamo verificare, gestire e sostituire. → https://il-futuro.ch/ia-sovrana/
-04. **Talento**: Formare, trattenere e attirare le persone migliori: rafforzare ETH, EPFL e scuole universitarie professionali, più permessi per specialisti di Stati terzi, la formazione continua come normalità. → https://il-futuro.ch/talento-integrazione/
+04. **Talento**: Formare, trattenere e attirare le menti migliori: rafforzare ETH, EPFL e scuole universitarie professionali e creare un visto per talenti di punta da tutto il mondo che qui costruiscono ricerca, imprese e interi settori. La formazione continua come norma. → https://il-futuro.ch/talento-integrazione/
 05. **Applicazione in tutti i settori**: Robot nei campi, nei cantieri e nelle fabbriche. IA in ogni servizio e nell'amministrazione. Là dove alleggerisce le persone e porta valore aggiunto nel Paese. → https://il-futuro.ch/robotica/
 06. **Dividendo**: I guadagni di produttività raggiungono tutti: con un reddito di base come fondamento, transizioni sicure tra professioni e costi più bassi nella vita quotidiana. → https://il-futuro.ch/reddito-di-base/
 
@@ -103,7 +103,7 @@ Né sinistra, né destra. Avanti.
 Obiettivi con una data. Riferiamo pubblicamente a che punto è la Svizzera.
 
 - **2027**: Strategia nazionale per l'infrastruttura di IA con finanziamento garantito. Come raccomandato dal Consiglio della scienza nel 2026: la potenza di calcolo come infrastruttura permanente, non come fondi di progetto a termine.
-- **2027**: Il doppio dei permessi per specialisti di Stati terzi. Da 8'500 a 17'000 all'anno, in modo mirato per ricerca, IA, robotica e salute.
+- **2027**: Un visto svizzero per talenti di punta. Per ricercatrici e ricercatori, fondatrici e fondatori e specialisti in IA, robotica e scienze della vita: decisione in dieci giorni lavorativi, famiglia inclusa, trasferimento senza ostacoli. Non si tratta di più migrazione di lavoro in generale, ma delle persone che la Bay Area, Singapore e Hong Kong cercano di attirare.
 - **2028**: Un modello di IA svizzero aperto in uso nell'Amministrazione federale. Sulla base di Apertus, gestito su infrastruttura svizzera, in tutte le lingue nazionali.
 - **2028**: Progetto pilota nazionale di reddito di base in corso. Con valutazione indipendente dei costi burocratici, delle nuove imprese e del benessere.
 - **2030**: Dieci volte più capacità di calcolo per l'IA accessibile al pubblico. Per università, PMI e amministrazione, con il fabbisogno di elettricità pianificato fin dall'inizio.
@@ -121,5 +121,7 @@ Obiettivi con una data. Riferiamo pubblicamente a che punto è la Svizzera.
 - [CSCS: Alps hardware](https://docs.cscs.ch/alps/hardware/)
 - [Il Consiglio svizzero della scienza raccomanda una strategia nazionale per l'infrastruttura di IA (maggio 2026)](https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie)
 - [UST: Addetti nell'agricoltura 2024](https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master)
-- [SEFRI/SEM: Contingenti per cittadini di Stati terzi 2026](https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA)
+- [Singapore: Overseas Networks & Expertise (ONE) Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)
+- [Hong Kong: Top Talent Pass Scheme](https://www.immd.gov.hk/eng/services/visas/TTPS.html)
+- [Regno Unito: Global Talent Visa](https://www.gov.uk/global-talent)
 - [Ufficio federale di giustizia: Regolamentazione dell'intelligenza artificiale](https://www.bj.admin.ch/de/kuenstliche-intelligenz)

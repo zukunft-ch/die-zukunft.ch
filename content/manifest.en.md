@@ -93,7 +93,7 @@ link_text = "Pillar: Basic Income"
 [[extra.theses]]
 hex = "0x1009"
 title = "Talent is the scarcest resource."
-text = "Switzerland has no natural resources, but some of the best universities in the world. We train the people who build AI and robotics, keep them in the country and bring in those who want to build something."
+text = "Switzerland has no natural resources, but some of the best universities in the world. We train the people who build AI and robotics, keep them in the country and attract the world's best minds who want to do research and found companies here: with a talent visa as fast and welcoming as Singapore's or Hong Kong's."
 link = "@/talent-integration.md"
 link_text = "Pillar: Talent, Integration & Rule of Law"
 

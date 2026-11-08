@@ -36,7 +36,7 @@ La prospérité issue de l'IA ne naît pas dans une application. Elle naît en c
 01. **Énergie**: Sans électricité, ni puissance de calcul ni robots. Nous assurons une électricité abordable et fiable, aussi en hiver, et intégrons dès le départ les besoins supplémentaires des centres de données et de l'automatisation. → https://le-futur.ch/energie-resilience/
 02. **Puissance de calcul**: Des centres de données et des capacités d'IA dans le pays, accessibles aux hautes écoles, aux PME et à l'administration. Qui ne fait que louer sa puissance de calcul loue son avenir. → https://le-futur.ch/ia-souveraine/
 03. **IA souveraine**: Développer des modèles suisses ouverts comme Apertus, dans toutes les langues nationales et avec des données transparentes. Pour les applications critiques, la règle est : des modèles que nous pouvons vérifier, exploiter et remplacer. → https://le-futur.ch/ia-souveraine/
-04. **Talent**: Former, retenir et attirer les meilleurs : renforcer l'ETH, l'EPFL et les hautes écoles spécialisées, plus d'autorisations pour les spécialistes d'États tiers, la formation continue comme règle. → https://le-futur.ch/talent-integration/
+04. **Talent**: Former, retenir et attirer les meilleurs esprits : renforcer l'ETH, l'EPFL et les hautes écoles spécialisées, et créer un visa talents pour les profils de pointe du monde entier qui viennent bâtir ici la recherche, des entreprises et des secteurs entiers. La formation continue comme norme. → https://le-futur.ch/talent-integration/
 05. **Application dans tous les secteurs**: Des robots dans les champs, sur les chantiers et dans les usines. L'IA dans chaque service et dans l'administration. Là où elle soulage les gens et ramène de la valeur ajoutée dans le pays. → https://le-futur.ch/robotique/
 06. **Dividende**: Les gains de productivité atteignent tout le monde : par un revenu de base comme socle, des transitions sûres entre les métiers et des coûts plus bas au quotidien. → https://le-futur.ch/revenu-de-base/
 
@@ -103,7 +103,7 @@ Ni à gauche, ni à droite. En avant.
 Des objectifs datés. Nous rendons compte publiquement de l'état d'avancement de la Suisse.
 
 - **2027**: Stratégie nationale d'infrastructure IA avec un financement garanti. Comme l'a recommandé le Conseil suisse de la science en 2026 : la puissance de calcul comme infrastructure durable, pas comme financement de projet temporaire.
-- **2027**: Deux fois plus d'autorisations pour les spécialistes d'États tiers. De 8'500 à 17'000 par an, de manière ciblée pour la recherche, l'IA, la robotique et la santé.
+- **2027**: Un visa talents suisse pour les profils de pointe. Pour les chercheuses et chercheurs, les fondatrices et fondateurs et les spécialistes en IA, robotique et sciences de la vie : décision en dix jours ouvrables, famille incluse, installation sans obstacles. Il ne s'agit pas de davantage de migration de travail en général, mais des personnes que la Bay Area, Singapour et Hong Kong s'efforcent d'attirer.
 - **2028**: Un modèle d'IA suisse ouvert en service dans l'administration fédérale. Basé sur Apertus, exploité sur une infrastructure suisse, dans toutes les langues nationales.
 - **2028**: Un projet pilote national de revenu de base est en cours. Avec une évaluation indépendante des coûts bureaucratiques, des créations d'entreprises et du bien-être.
 - **2030**: Dix fois plus de puissance de calcul IA accessible au public. Pour les hautes écoles, les PME et l'administration, avec les besoins en électricité planifiés dès le départ.
@@ -121,5 +121,7 @@ Des objectifs datés. Nous rendons compte publiquement de l'état d'avancement d
 - [CSCS: Alps hardware](https://docs.cscs.ch/alps/hardware/)
 - [Le Conseil suisse de la science recommande une stratégie nationale d'infrastructure IA (mai 2026)](https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie)
 - [OFS : personnes actives dans l'agriculture 2024](https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master)
-- [SEFRI/SEM : contingents pour les ressortissants d'États tiers 2026](https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA)
+- [Singapour : Overseas Networks & Expertise (ONE) Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)
+- [Hong Kong : Top Talent Pass Scheme](https://www.immd.gov.hk/eng/services/visas/TTPS.html)
+- [Royaume-Uni : Global Talent Visa](https://www.gov.uk/global-talent)
 - [Office fédéral de la justice : réglementation de l'intelligence artificielle](https://www.bj.admin.ch/de/kuenstliche-intelligenz)

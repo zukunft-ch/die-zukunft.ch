@@ -2,7 +2,7 @@
 
 > The complete programme, manifesto, vision and articles of The Future (Die Zukunft), a new Swiss political party based in Basel. German is the original language; see /llms-full-de.txt. Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Please cite as: The Future (Die Zukunft), <page title>, <URL>.
 
-Generated 2026-11-07 from the site's content.
+Generated 2026-11-08 from the site's content.
 
 ---
 
@@ -118,7 +118,7 @@ When machines do a growing share of the work, part of the gains must flow back t
 
 ## 08. Talent is the scarcest resource. (0x1009)
 
-Switzerland has no natural resources, but some of the best universities in the world. We train the people who build AI and robotics, keep them in the country and bring in those who want to build something.
+Switzerland has no natural resources, but some of the best universities in the world. We train the people who build AI and robotics, keep them in the country and attract the world's best minds who want to do research and found companies here: with a talent visa as fast and welcoming as Singapore's or Hong Kong's.
 
 → [Pillar: Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/)
 
@@ -196,7 +196,7 @@ Prosperity from AI does not come from an app. It comes from layers that build on
 01. **Energy**: No electricity, no compute and no robots. We secure affordable, reliable electricity, including in winter, and plan for the additional demand from data centres and automation from the start. → https://die-zukunft.ch/en/energy-resilience/
 02. **Compute**: Data centres and AI capacity in the country, accessible to universities, SMEs and public administration. If you only rent compute, you rent your future. → https://die-zukunft.ch/en/sovereign-ai/
 03. **Sovereign AI**: Develop open Swiss models like Apertus further, in all national languages and with transparent data. For critical applications the rule is: models we can audit, operate and replace. → https://die-zukunft.ch/en/sovereign-ai/
-04. **Talent**: Train, retain and attract the best people: strengthen ETH, EPFL and the universities of applied sciences, more permits for skilled workers from third countries, retraining as the norm. → https://die-zukunft.ch/en/talent-integration/
+04. **Talent**: Train, keep and attract the best minds: strengthen ETH, EPFL and the universities of applied sciences, and create a talent visa for top people from around the world who come here to build research, companies and whole industries. Continuing education as the norm. → https://die-zukunft.ch/en/talent-integration/
 05. **Application in every sector**: Robots in fields, on building sites and in factories. AI in every service and in public administration. Wherever it takes load off people and brings value creation into the country. → https://die-zukunft.ch/en/robotics/
 06. **Dividend**: The productivity gains reach everyone: through a basic income as a foundation, safe transitions between occupations and lower everyday costs. → https://die-zukunft.ch/en/basic-income/
 
@@ -263,7 +263,7 @@ Not left, not right. Forward.
 Goals with a year attached. We report publicly on how far Switzerland has come.
 
 - **2027**: National AI infrastructure strategy with secured funding. As recommended by the Science Council in 2026: compute as permanent infrastructure, not as time-limited project money.
-- **2027**: Twice as many permits for skilled workers from third countries. From 8,500 to 17,000 per year, targeted at research, AI, robotics and health.
+- **2027**: A Swiss talent visa for top talent. For researchers, founders and specialists in AI, robotics and life sciences: a decision within ten working days, family included, relocation without friction. This is not about more general labour migration, but about the people the Bay Area, Singapore and Hong Kong compete for.
 - **2028**: An open Swiss AI model in use in the federal administration. Based on Apertus, operated on Swiss infrastructure, in all national languages.
 - **2028**: Nationwide basic income pilot under way. With independent evaluation of bureaucracy costs, business start-ups and well-being.
 - **2030**: Ten times more publicly accessible AI computing capacity. For universities, SMEs and public administration, with the electricity demand planned in from the start.
@@ -281,7 +281,9 @@ Goals with a year attached. We report publicly on how far Switzerland has come.
 - [CSCS: Alps hardware](https://docs.cscs.ch/alps/hardware/)
 - [Swiss Science Council recommends a national AI infrastructure strategy (May 2026, in German)](https://www.pctipp.ch/themen/news/schweizerischer-wissenschaftsrat-empfiehlt-nationale-ki-infrastrukturstrategie)
 - [FSO: Agricultural workforce 2024 (in German)](https://dam-api.bfs.admin.ch/hub/api/dam/assets/36632459/master)
-- [SERI/SEM: Quotas for third-country nationals 2026](https://www.sbfi.admin.ch/en/newnsb/7HwBjdg5HpBA)
+- [Singapore: Overseas Networks & Expertise (ONE) Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)
+- [Hong Kong: Top Talent Pass Scheme](https://www.immd.gov.hk/eng/services/visas/TTPS.html)
+- [United Kingdom: Global Talent visa](https://www.gov.uk/global-talent)
 - [Federal Office of Justice: Regulation of artificial intelligence (in German)](https://www.bj.admin.ch/de/kuenstliche-intelligenz)
 
 ---
@@ -1055,7 +1057,7 @@ Switzerland thrives on stability, quality and trust — and on people who contri
 
 ## Switzerland as a Hub for International Talent
 
-We want people from around the world to be able to research, found companies, work and invest in Switzerland — and for our location to become stronger as a result. This is part of our prosperity model.
+We want people from around the world to be able to research, found companies, work and invest in Switzerland — and for our location to become stronger as a result. This is part of our prosperity model. Concretely: a talent visa for top people in AI, robotics, life sciences and research, with a decision within ten working days, family included and relocation as easy as in Singapore or Hong Kong.
 
 ## Integration Means Commitment
 

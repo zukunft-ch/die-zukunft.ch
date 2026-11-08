@@ -55,7 +55,7 @@ Wenn Maschinen einen wachsenden Teil der Arbeit leisten, muss ein Teil der Gewin
 
 ## 08. Talent ist der knappste Rohstoff. (0x1009)
 
-Die Schweiz hat keine Bodenschätze, aber einige der besten Hochschulen der Welt. Wir bilden die Menschen aus, die KI und Robotik bauen, halten sie im Land und holen jene, die etwas aufbauen wollen.
+Die Schweiz hat keine Bodenschätze, aber einige der besten Hochschulen der Welt. Wir bilden die Menschen aus, die KI und Robotik bauen, halten sie im Land und holen die weltweit besten Köpfe, die hier forschen und gründen wollen: mit einem Talent-Visum, so schnell und einladend wie in Singapur oder Hongkong.
 
 → [Pfeiler: Talent, Integration & Rechtsstaat](https://die-zukunft.ch/talent-integration/)
 

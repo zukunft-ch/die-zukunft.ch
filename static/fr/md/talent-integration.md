@@ -11,7 +11,7 @@ La Suisse vit de la stabilité, de la qualité et de la confiance – et des per
 
 ## La Suisse comme hub pour les talents internationaux
 
-Nous voulons que des personnes du monde entier puissent chercher, fonder, travailler et investir en Suisse – et que notre pays en devienne plus fort. Cela fait partie de notre modèle de prospérité.
+Nous voulons que des personnes du monde entier puissent chercher, fonder, travailler et investir en Suisse – et que notre pays en devienne plus fort. Cela fait partie de notre modèle de prospérité. Concrètement : un visa talents pour les profils de pointe en IA, robotique, sciences de la vie et recherche, avec une décision en dix jours ouvrables, la famille incluse et une installation aussi simple qu'à Singapour ou à Hong Kong.
 
 ## Intégration signifie engagement
 
