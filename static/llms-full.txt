@@ -1819,6 +1819,16 @@ Sources: [WIPO GII 2025](https://www.wipo.int/web-publications/global-innovation
 
 ---
 
+# Dossiers
+
+> The evidence behind each of our thirteen pillars: analyses from the Future Lab and indicators from the Future Monitor.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/dossiers/ · Publisher: The Future (Swiss political party, Basel)
+
+Missing an analysis? [Suggest a question](https://github.com/zukunft-ch/zukunftslabor/issues/new) or [write to us](https://die-zukunft.ch/en/contact/).
+
+---
+
 # Methodology
 
 > Our editorial guardrails: evidence levels, correction policy, source transparency.
@@ -1847,670 +1857,1099 @@ Notes are never deleted. When data becomes outdated, a notice is added. Major re
 
 ---
 
-# Automatisierung: Wie KI die Risikolandkarte verschiebt
+# Future Monitor
 
-> LLM-fähige KI verändert das Automatisierungsrisiko: Bürojobs stärker exponiert, manuelle Arbeit weniger.
+> Where does Switzerland stand on AI, robotics, open government and talent? The indicators behind our vision, with sources, targets and next update.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/automatisierungsrisiko-branchen/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+Source: https://die-zukunft.ch/en/zukunftslabor/monitor/ · Publisher: The Future (Swiss political party, Basel)
 
-LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
-Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
-weniger. ~1271965'000 Stellen unter Post-LLM-Risiko.
+As of 2026-11-08. Data: https://die-zukunft.ch/zukunftslabor/monitor.json (CC BY 4.0).
+
+- **Industrial robot density** (robots per 10,000 employees): 2016: 128, 2020: 181 (unconfirmed), 2022: 296 (unconfirmed), 2024: 294. Target: about 600 by 2035. In 2024 the IFR switched to new Chinese employment data, so comparisons with earlier years are limited. Source: IFR World Robotics.
+- **E-Government rank (UN)** (rank of 193 countries): 2003: 8, 2008: 12, 2010: 18, 2012: 15, 2014: 30, 2016: 28, 2018: 15, 2020: 16, 2022: 23, 2024: 26. Target: top 10 by 2030. The rank is relative: Switzerland's score rose in 2024, others improved faster. Source: UN DESA, E-Government Survey.
+- **Publicly accessible AI compute** (GPUs in the Alps supercomputer (CSCS)): 2024: 10752. Target: ten times more by 2030. Alps is a research system of the ETH Domain, not freely accessible to business or government. A target in GPUs is an approximation. Source: CSCS.
+- **Alps in the TOP500 list** (world rank): 2024: 6, 2024.5: 7, 2025: 8, 2025.5: 8, 2026: 10. Performance unchanged since November 2024 (434.9 PFlop/s); the drop comes from new systems elsewhere. Source: TOP500.
+- **Data-centre electricity use** (% of Swiss electricity use): 2013: 2.8 (unconfirmed), 2019: 3.1, 2024: 3.6. 2024: 2.1 TWh. The SFOE expects 4.3 to 6 percent by 2030. Efficiency potential about 0.8 TWh. Source: BFE / EnergieSchweiz, Grundlagenbericht 2026.
+- **Use of third-country permit quotas** (% of the 8,500 permits): 2020: 64, 2021: 77, 2022: 86 (unconfirmed), 2023: 78, 2024: 74. The quotas are not used up: the bottleneck is not the number of permits but attractiveness to top talent. Hence our talent visa. Source: SEM / Bundesrat.
+- **Use of generative AI in the population** (% of the population (15–88)): 2025: 43. Source: BFS, Internetnutzung in den Haushalten 2025.
+- **People working in agriculture** (people): 2000: 203793, 2005: 181092, 2010: 167462, 2015: 155304, 2020: 149521, 2024: 147876, 2025: 145628. Source: BFS, Landwirtschaftliche Strukturerhebung.
+- **Manufacturing share of the economy** (% of GDP): 2015: 17.9, 2017: 18.4, 2019: 19.2, 2021: 20.7, 2023: 19.4, 2024: 19.1. Source: Weltbank (nationale Gesamtrechnung).
+
+## Milestones
+
+- [offen] National AI infrastructure strategy: recommended by the Science Council, Federal Council decision pending. (2026-05-12, https://www.admin.ch/de/newnsb/TuWsKZqat-kRc99SWg_nB)
+- [in Arbeit] Motion for sovereign AI infrastructure passed by both chambers; the Federal Council must draft legislation. (2026-03-23, https://www.netzwoche.ch/news/2026-03-23/staenderat-sagt-ja-zu-souveraener-ki-infrastruktur)
+- [in Arbeit] Open Swiss model: Apertus 1.0 (2025) and 1.5 (2026) released; use in the federal administration not yet decided. (2026-07-24, https://www.cscs.ch/science/computer-science-hpc/2026/apertus-15-building-the-next-generation-of-open-ai-infrastructure)
+- [offen] Talent visa: does not exist. The Foreign Nationals Act revision (Parliament 2027) only eases job search after postdoc and higher vocational education. (2026-05-27, https://www.admin.ch/de/newnsb/CoWK1pRQ0MgU)
+- [offen] Basic-income pilot: none running. Rejected at the ballot box in Zurich (2022) and Lucerne (2023); Bern has dropped it for now. (2026-10-19, https://www.plattformj.ch/artikel/247726/)
+- [in Arbeit] e-ID: approved at the ballot box in 2025, launch postponed; trust infrastructure planned for the first half of 2027. (2026-06-30, https://www.admin.ch/de/newnsb/S-HhoNJa-wbO)
+- [in Arbeit] AI regulation: consultation draft on the Council of Europe convention announced for end of 2026, not yet opened. (2025-02-12, https://www.bj.admin.ch/de/kuenstliche-intelligenz)
+
+## Method
+
+We use official sources (FSO, SFOE, SEM, UN, IFR, TOP500, CSCS) and flag values that come only from media reports or charts. Ranks are relative: a worse rank can also mean others improved faster. The data is available under CC BY 4.0 as [monitor.json](https://die-zukunft.ch/zukunftslabor/monitor.json). Found an error? [Tell us](https://die-zukunft.ch/en/contact/); we correct publicly, as described in the [method](https://die-zukunft.ch/en/zukunftslabor/methodik/).
+
+---
+
+# Artificial General Intelligence and the Labour Market: Two Scenarios for Switzerland
+
+> How exposed Swiss occupations are to generative AI, how quickly the effects could arrive, and what transition policy a slow or a fast trajectory would require. Scenarios, not forecasts.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/agi-szenarien-arbeitsmarkt/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
+
+According to the ILO, around a third of workers in high-income countries are employed in occupations exposed to generative AI; the IMF puts the figure for advanced economies at around 60%, of which roughly half is more likely to be complemented than replaced. In 2025 Switzerland had around 4.89 million employed persons; the most exposed group, clerical support workers, has already been shrinking for years. Nobody knows how fast this will accelerate: AI researchers put a 50% probability on machines performing every task better than humans by 2047. We therefore describe two scenarios and what each requires of policy.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-BFS-SAKE-Beschäftigungsdaten (2024) und zwei Risikomodelle:
-OECD/Frey-Osborne (2018, Routinetätigkeiten) und IMF AI Preparedness
-Index (2024, LLM-Fähigkeiten). Exponierte Stellen = Beschäftigte × Risikoanteil.
+Employment by major occupational group (CH-ISCO-19) comes from the Swiss Labour Force Survey (SLFS) of the Federal Statistical Office (FSO), annual averages for 2010 and 2025. For exposure we rely on two studies: the ILO's refined index (Working Paper 140, 2025), which scores around 30,000 tasks, and the IMF Staff Discussion Note (2024), which additionally distinguishes whether AI is more likely to complement or to replace an activity. Neither study provides Swiss figures. Applying their averages to Switzerland is a **rough estimate**; Switzerland has an above-average share of professional and technical occupations. Exposure does not mean job loss: it measures which share of tasks could be automated or supported with today's technology. The two scenarios are planning assumptions, not forecasts.
 
 ---
 
-### Beschäftigung nach Branche
+### Where Switzerland works
 
-Die Branchenstruktur bildet den Kontext: Gesundheit, Handel und Bau beschäftigen die meisten Personen. Die Verteilung zeigt, welche Sektoren bei einem Automatisierungsschub die grössten absoluten Effekte spüren würden.
-
----
-
-### Pre vs. Post LLM
-
-LLM-fähige KI verschiebt die Risikolandkarte grundlegend: Branchen wie Finanz- und Versicherungswesen, öffentliche Verwaltung und Information/Kommunikation sind Post-LLM deutlich stärker exponiert als im klassischen Routinemodell. Manuelle Berufe (Bau, Landwirtschaft) bleiben weitgehend unverändert.
+The largest group is professionals, with around 1.3 million employed persons, followed by technicians and associate professionals (844,000). Clerical support workers number 571,000. According to the ILO, clerical occupations have the highest exposure: 8 of the 13 occupations in the highest tier (gradient 4) are clerical tasks such as accounting, payroll and data entry, alongside financial analysis, credit processing, call-centre sales, and web and multimedia development, among others. Roughly transferred, the high-income-country average (34% exposed, 17.3% in the two highest tiers) would mean around 1.7 million exposed jobs in Switzerland, of which around 850,000 are highly exposed (estimate).
 
 ---
 
-### Risikoverschiebung
+### The shift is already under way
 
-Die Verschiebung zeigt Richtung und Ausmass der Veränderung. Positive Werte bedeuten erhöhtes Risiko durch LLM. Bürojobs steigen am stärksten — ein Signal, dass klassische Weiterbildungsprogramme für manuelle Berufe allein nicht ausreichen und auch Wissensarbeit in den Fokus rücken muss.
-
----
-
-### Exponierte Stellen
-
-In absoluten Zahlen zeigt sich die gesellschaftliche Tragweite: Branchen mit vielen Beschäftigten und hohem Post-LLM-Risiko führen zu zehntausenden potenziell exponierten Stellen. Das bedeutet nicht zwingend Jobverlust — aber die Notwendigkeit systematischer Übergangsgestaltung.
+Between 2010 and 2025 the number of employed persons grew by 678,000. Over the same period clerical support workers lost 54,000 jobs and craft and related trades 118,000, while professionals gained 340,000 and technicians and associate professionals 245,000. So far the Swiss labour market has absorbed such shifts over 15 years. The decisive question is whether the next restructuring will allow as much time.
 
 ---
 
-## Einschränkungen
+### How fast? The experts disagree
 
-- Risikoschätzungen sind Branchendurchschnitte, nicht berufsspezifisch
-- Post-LLM-Schätzungen vorläufig (LLM-Fähigkeiten entwickeln sich schnell)
-- Tatsächliche Jobverluste hängen von Regulierung und Komplementarität ab
+In the largest survey of 2,778 AI researchers (autumn 2023), the aggregate probability that machines will perform every task better than humans without human help is 10% by 2027 and 50% by 2047, 13 years earlier than in the 2022 survey. The same researchers expect full automation of all occupations much later: 50% only by 2116. The range is enormous. At the same time, the ILO urges caution: after two years of practice it lowered its automation scores for clerical tasks, because many activities require more human work than initially assumed.
 
 ---
 
-## Datenquellen
+### Two scenarios
 
-- BFS SAKE 2024: Erwerbstätige nach Wirtschaftsabschnitt
+**Scenario A: gradual diffusion.** AI capabilities keep improving, but adoption in firms takes years. The restructuring proceeds much as in 2010–2025: exposed groups shrink slowly, as clerical support workers have since 2010 at a little over half a percent per year, and new activities emerge alongside. Following the IMF's logic, just under half of exposed jobs (27% of all jobs in advanced economies) are more likely to be complemented than replaced by AI.
+
+**Scenario B: rapid breakthrough.** Systems reach broad cognitive capability within about ten years, i.e. the early edge of the expert survey. The restructuring then hits the group with high exposure and low complementarity (33% of jobs in advanced economies according to the IMF, roughly 1.6 million in Switzerland when transferred, estimate) within a few years rather than decades. The problem is then less the number than the pace.
+
+---
+
+## What this means for policy
+
+- **For scenario A:** continuously adapt in-company training and apprenticeship occupations, with a focus on clerical and administrative occupations; publish exposure and employment by occupation annually: [Work Without Fear](https://die-zukunft.ch/en/transitions/).
+- **For scenario B:** prepared instruments that can be scaled up quickly: wage insurance for career changes, a tested basic income model as a foundation and a dividend from productivity gains: [Basic Income](https://die-zukunft.ch/en/basic-income/).
+- **For both:** we plan for the early case without prophesying it. Leading indicators such as the quarterly SLFS data by occupation should determine when the scenario B instruments are triggered.
+
+---
+
+## Sources
+
+1. Federal Statistical Office (FSO), SLFS: Berufshauptgruppen CH-ISCO-19 der Erwerbstätigen nach Nationalität [major occupational groups of employed persons by nationality] (T 03.02.01.21), 2010–2025. https://www.bfs.admin.ch/asset/de/36710074
+2. Gmyrek, P. et al. (2025): Generative AI and Jobs: A Refined Global Index of Occupational Exposure. ILO Working Paper 140. https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf
+3. Cazzaniga, M. et al. (2024): Gen-AI: Artificial Intelligence and the Future of Work. IMF Staff Discussion Note SDN/2024/001. https://www.imf.org/en/Publications/staff-discussion-notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379
+4. Grace, K. et al. (2025): Thousands of AI Authors on the Future of AI. Journal of Artificial Intelligence Research 84. https://jair.org/index.php/jair/article/view/19087
+
+---
+
+# Automation: How AI Is Shifting the Risk Map
+
+> LLM-capable AI changes automation risk: office jobs are more exposed, manual work less so.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/automatisierungsrisiko-branchen/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
+
+LLM-capable AI shifts automation risk: office jobs (finance, law,
+administration) are more exposed than before 2018, manual occupations
+less so. Around 1.27 million jobs are at post-LLM risk.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+FSO SLFS employment data (2024) and two risk models:
+OECD/Frey-Osborne (2018, routine tasks) and the IMF AI Preparedness
+Index (2024, LLM capabilities). Exposed jobs = employed persons × risk share.
+
+---
+
+### Employment by industry
+
+The industry structure provides the context: health, retail and construction employ the most people. The distribution shows which sectors would feel the largest absolute effects of an automation surge.
+
+---
+
+### Pre- vs. post-LLM
+
+LLM-capable AI fundamentally shifts the risk map: industries such as finance and insurance, public administration and information/communication are considerably more exposed post-LLM than in the classic routine model. Manual occupations (construction, agriculture) remain largely unchanged.
+
+---
+
+### Risk shift
+
+The shift shows the direction and extent of the change. Positive values mean increased risk due to LLMs. Office jobs rise the most — a signal that classic retraining programmes for manual occupations alone are not enough and that knowledge work must also come into focus.
+
+---
+
+### Exposed jobs
+
+Absolute numbers show the social scale: industries with many employees and high post-LLM risk add up to tens of thousands of potentially exposed jobs. This does not necessarily mean job losses — but it does mean transitions need to be managed systematically.
+
+---
+
+## Limitations
+
+- Risk estimates are industry averages, not occupation-specific
+- Post-LLM estimates are provisional (LLM capabilities are evolving quickly)
+- Actual job losses depend on regulation and complementarity
+
+---
+
+## Data sources
+
+- FSO SLFS 2024: Erwerbstätige nach Wirtschaftsabschnitt [employed persons by economic section]
 - OECD: Automation Risk by Occupation (Nedelkoska/Quintini 2018)
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)
 
 ---
 
-# Digitale Bereitschaftslücke: Die Bevölkerung ist online — der Staat nicht
+# The Digital Readiness Gap: The Population Is Online — the State Is Not
 
-> 90% der Schweizer nutzen das Internet, aber E-Government und Open Data liegen unter dem EU-Durchschnitt. Das Problem ist nicht technologisch — es ist institutionell.
+> 90% of Swiss residents use the internet, but e-government and open data lag behind the EU average. The problem is not technological — it is institutional.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/digitale-souveraenitaet-luecke/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/digitale-souveraenitaet-luecke/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
-90% der Schweizer Bevölkerung nutzen das Internet regelmässig — aber
-E-Government-Nutzung, Online-Verfügbarkeit und Open-Data-Reife liegen
-unter dem EU-Durchschnitt. Die Bereitschaftslücke zwischen digitaler
-Bevölkerung und digitalem Staat beträgt 12.1 Prozentpunkte.
-Das E-ID-Referendum 2021 zeigt: Die Lösung muss staatlich und
-datenschutzfreundlich sein.
+90% of the Swiss population use the internet regularly — but
+e-government use, online availability and open-data maturity lag
+behind the EU average. The readiness gap between the digital
+population and the digital state amounts to 12.1 percentage points.
+The 2021 e-ID referendum shows that the solution must be state-run
+and privacy-friendly.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-Die Analyse kombiniert zwei BFS-Omnibus-ICT-Datensätze (2014–2025):
-Internetnutzung nach Altersgruppe (E-Mail als Proxy) und
-E-Government-Nutzung nach Dienstart. Die «Bereitschaftslücke» ist die
-Differenz zwischen allgemeiner Internetnutzung und E-Gov-Nutzung der
-Gesamtbevölkerung. Ergänzt durch das EU Open Data Maturity Ranking und
-VOX/Sotomo-Daten zum E-ID-Referendum 2021.
-
----
-
-### Internetnutzung nach Altersgruppe
-
-Nahezu alle Altersgruppen unter 65 liegen über 90% Internetnutzung. Selbst die 65–74-Jährigen sind inzwischen mehrheitlich online. Das Problem ist nicht die digitale Kompetenz der Bevölkerung — es ist die fehlende digitale Infrastruktur auf Staatsseite.
+The analysis combines two FSO Omnibus ICT datasets (2014–2025):
+internet use by age group (e-mail as a proxy) and
+e-government use by type of service. The "readiness gap" is the
+difference between general internet use and e-government use across
+the whole population. Supplemented by the EU Open Data Maturity ranking and
+VOX/Sotomo data on the 2021 e-ID referendum.
 
 ---
 
-### E-Government-Nutzung
+### Internet use by age group
 
-Die E-Government-Nutzung stagniert seit Jahren. Trotz zunehmender Internetdurchdringung ist der Anteil der Bevölkerung, der staatliche Online-Dienste nutzt, kaum gewachsen. Das deutet auf ein Angebotsproblem hin: Nicht die Nachfrage fehlt, sondern brauchbare digitale Services.
-
----
-
-### Bereitschaftslücke
-
-Die Lücke zwischen allgemeiner Internetnutzung und E-Gov-Nutzung beträgt rund 12 Prozentpunkte. Diese Bereitschaftslücke ist kein technologisches, sondern ein institutionelles Problem: Die Bevölkerung ist bereit — der Staat nicht.
+Almost all age groups under 65 exceed 90% internet use. Even a majority of 65- to 74-year-olds are now online. The problem is not the population's digital skills — it is the missing digital infrastructure on the state's side.
 
 ---
 
-### E-ID-Referendum: Vertrauensfrage
+### E-government use
 
-Das Nein zur E-ID 2021 war keine Ablehnung digitaler Identitäten, sondern des privatwirtschaftlichen Modells. Datenschutzbedenken und fehlendes Vertrauen in private Anbieter waren die Hauptmotive. Eine staatliche, datenschutzfreundliche Lösung hat weiterhin breite Unterstützung.
-
----
-
-### Open-Data-Reife
-
-Im EU Open Data Maturity Ranking liegt die Schweiz unter dem Durchschnitt — sowohl bei der Verfügbarkeit als auch bei der Nutzbarkeit offener Verwaltungsdaten. Das erschwert Innovation, Transparenz und datenbasierte Politikgestaltung.
+E-government use has stagnated for years. Despite rising internet penetration, the share of the population using public online services has barely grown. This points to a supply problem: what is missing is not demand but usable digital services.
 
 ---
 
-## Einschränkungen
+### Readiness gap
 
-- E-Mail-Nutzung als Proxy für Internetnutzung (BFS-Definition)
-- E-Gov-Daten nicht nach Altersgruppe verfügbar — Lücke nur auf Totalebene berechenbar
-- Open-Data-Score basiert auf EU-Methodik (Schweiz als Beobachterstaat)
-- E-ID-Motive: VOX-Nachbefragung mit begrenzter Stichprobe
+The gap between general internet use and e-government use is around 12 percentage points. This readiness gap is not a technological but an institutional problem: the population is ready — the state is not.
 
 ---
 
-## Datenquellen
+### E-ID referendum: a question of trust
 
-- BFS Omnibus ICT 2014–2025: Internetnutzung, E-Government-Nutzung
+The 2021 no to the e-ID was not a rejection of digital identities but of the private-sector model. Data protection concerns and a lack of trust in private providers were the main motives. A state-run, privacy-friendly solution continues to enjoy broad support.
+
+---
+
+### Open-data maturity
+
+In the EU Open Data Maturity ranking, Switzerland is below average — both in the availability and in the usability of open government data. This hampers innovation, transparency and evidence-based policymaking.
+
+---
+
+## Limitations
+
+- E-mail use as a proxy for internet use (FSO definition)
+- E-government data not available by age group — gap can only be calculated at total level
+- Open-data score based on EU methodology (Switzerland as an observer state)
+- E-ID motives: VOX post-vote survey with a limited sample
+
+---
+
+## Data sources
+
+- FSO Omnibus ICT 2014–2025: internet use, e-government use
 - EU Open Data Maturity Report 2023 (data.europa.eu)
-- VOX/Sotomo: Nachbefragung E-ID-Referendum 7. März 2021
+- VOX/Sotomo: Nachbefragung E-ID-Referendum [post-vote survey on the e-ID referendum], 7 March 2021
 
 ---
 
-# Stresstest Strom: Was passiert bei Trockenheit plus Atomausstieg?
+# From 16th to 26th: Why Switzerland Is Falling Behind in E-Government
 
-> Vier Szenarien zeigen, wie verwundbar die Schweizer Stromversorgung ist — von der Baseline bis zum Worst Case aus Trockenheit und Kernkraft-Abschaltung.
+> In the UN E-Government Development Index, Switzerland fell from 16th (2020) to 23rd (2022) and 26th (2024). Infrastructure and education are strong; the gap lies in the state's online services.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/energieresilienz-stressszenarien/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/egovernment-rang-26/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
 
-Vier Stressszenarien auf Basis realer BFE-Daten (2024) zeigen:
-Im Worst Case (Trockenjahr + Atomausstieg) müsste die Schweiz
-39.1% ihres Stroms importieren — Kosten
-2.29 Mrd. CHF/Jahr bei aktuellen Spotpreisen.
+In the United Nations E-Government Development Index (EGDI), Switzerland fell from 16th place (2020) via 23rd (2022) to 26th (2024) out of 193 countries, even though its index score rose slightly (0.89 to 0.90). Other countries are simply improving faster. In infrastructure and education Switzerland is close to the top; the gap lies almost entirely in the state's online services. The state e-ID, narrowly approved in September 2025, has had no launch date since June 2026.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-Grundlage ist die BFE-Elektrizitätsbilanz (OGD, 2024). Vier Szenarien
-modifizieren die Produktionszahlen des Basisjahres:
-
-- **A — Baseline**: Reale Produktion 2024
-- **B — Trockenjahr**: -30% Wasserkraftproduktion (historisch plausibel, z.B. 2022)
-- **C — Atomausstieg**: Kernkraftwerke abgeschaltet (-22983 GWh)
-- **D — Kombiniert**: Trockenjahr + Atomausstieg
-
-Importkosten berechnet bei 90 EUR/MWh (europ. Spotpreis-Durchschnitt).
-Endenergieverbrauch nach Sektor aus der BFE-Gesamtenergiebilanz.
+The EGDI is the average of three equally weighted sub-indices between 0 and 1: the Online Service Index (OSI, supply and quality of public online services), the Telecommunication Infrastructure Index (TII) and the Human Capital Index (HCI). All values come from the country profiles of the UN E-Government Knowledge Base (surveys 2018–2024). We compare Switzerland, Denmark, Estonia, South Korea, Singapore, Germany and Austria. Important: in 2024 the UN adjusted the methodology (TII with affordability instead of fixed broadband, HCI with an additional e-government literacy component). Absolute values are therefore only partly comparable across years; ranks within a given survey year are comparable.
 
 ---
 
-### Strommix
+### A decline at a high level
 
-Wasserkraft und Kernenergie dominieren die Schweizer Stromproduktion mit zusammen über 90%. Diese Konzentration auf zwei Quellen ist zugleich Stärke (CO₂-arm) und Verwundbarkeit — beide reagieren empfindlich auf externe Schocks: Trockenheit bei Wasser, politische Entscheide bei Atom.
-
----
-
-### Endenergieverbrauch nach Sektor
-
-Industrie und Verkehr sind die grössten Stromverbraucher. Die Sektorverteilung zeigt, wo Effizienzgewinne und Elektrifizierung (z.B. E-Mobilität) den grössten Hebel haben — und wo zusätzlicher Strombedarf entstehen wird.
+Switzerland ranked 15th in 2018, 16th in 2020, 23rd in 2022 and 26th in 2024. Its EGDI score remained almost stable (2020: 0.8907; 2022: 0.8752; 2024: 0.9004). The decline is therefore relative: Switzerland is stagnating, while countries such as Singapore (2022: 12th, 2024: 3rd), Estonia (8th to 2nd) and Germany (22nd to 12th) are making clear gains. Austria fell from 20th to 22nd over the same period.
 
 ---
 
-### Stressszenarien
+### The gap lies with the state, not the population
 
-Vier Szenarien zeigen die Bandbreite der Verwundbarkeit: Von der stabilen Baseline bis zum Worst Case (Trockenjahr + Atomausstieg). Im kombinierten Szenario entsteht eine Importabhängigkeit, die bei angespannten europäischen Märkten nicht ohne weiteres gedeckt werden kann.
-
----
-
-### Importkosten
-
-Die finanziellen Folgen der Importabhängigkeit sind erheblich: Im Worst Case liegen die jährlichen Importkosten bei mehreren Milliarden Franken — berechnet zu aktuellen europäischen Spotpreisen. Bei Marktspitzen (wie 2022) wären die Kosten ein Vielfaches davon.
+In telecommunications infrastructure (0.958) and human capital (0.903), Switzerland is among the leading countries. On the Online Service Index, by contrast, it scores only 0.841, compared with 0.999 (Denmark), 0.995 (Estonia), 1.000 (South Korea) and 0.983 (Singapore). Germany (0.924) is also clearly ahead; only Austria (0.838) is similarly weak. Switzerland's OSI was 0.829 in 2020 and 0.768 in 2022. This shows that the networks and education are in place; what is missing is the administration's digital offering.
 
 ---
 
-## Einschränkungen
+### Where exactly the Online Service Index loses points
 
-- Statische Szenarien (kein Ausbau Solar/Wind, keine Nachfragereduktion)
-- Importpreise schwanken stark (2022: bis 400 EUR/MWh)
-- Saisonale Effekte nicht modelliert (Winterlücke > Jahresdurchschnitt)
-- Keine Speichereffekte (Pumpspeicher, Batterien)
+On the institutional framework (strategies, laws), Switzerland, like all comparison countries, achieves the maximum score. The gaps arise in implementation: service provision 0.81 (Estonia 1.00, Denmark 0.99), content 0.89 (Estonia and Denmark 1.00), e-participation 0.82 and above all technology 0.63 (all three comparison countries 0.88). Switzerland, in other words, has the papers but too few end-to-end digital procedures.
 
 ---
 
-## Datenquellen
+### E-ID: approved, but without a launch date
 
-- BFE: Schweizerische Elektrizitätsbilanz (OGD, Jahreswerte)
-- BFE: Schweizerische Gesamtenergiebilanz (Endenergieverbrauch nach Sektor)
-- ENTSO-E: Europäische Strompreise (Day-Ahead-Spotmarkt)
+Voters approved the e-ID Act on 28 September 2025 with 50.4% in favour. In February 2026 the Confederation named 1 December 2026 as the launch date. On 30 June 2026 it withdrew this date: because of new AI risks (deepfakes, malware on end devices), online issuance is to be additionally secured. There is no new date; the trust infrastructure is to go into operation in the first half of 2027. The reasons are understandable, but the consequence for the index is clear: without a widely used digital identity, end-to-end online procedures remain the exception.
+
+### What the leading countries do differently
+
+- **A shared data exchange layer:** in Estonia, X-Road connects public and private registers; according to e-Estonia, around 2.2 billion transactions run through it each year. Authorities query data from one another instead of asking the population for it again (once-only).
+- **Digital identity in everyday life:** Singpass has 5 million users and over 41 million transactions per month; with Myinfo, forms are pre-filled automatically.
+- **Digital channel as the default:** in Denmark, residents and businesses are legally required to be able to receive Digital Post; those who cannot communicate digitally continue to receive paper.
+
+Switzerland has a foundation too: since 1 January 2024 the EMBAG (Federal Act on the Use of Electronic Means for the Performance of Official Tasks) has applied, with the principle of "open by default" for government data; the transition period for this ends at the end of 2026.
 
 ---
 
-# Forschung: Wer forscht, wer zahlt — und was kommt zurück?
+## What this means for policy
 
-> Die Schweiz ist Weltspitze bei F&E pro Kopf und Patenteffizienz. Aber die Privatwirtschaft dominiert — und die Frage nach dem öffentlichen Ertrag öffentlicher Forschung bleibt offen.
+- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](https://die-zukunft.ch/en/open-government/).
+- **Enshrine once-only in law:** data that one authority already holds may not be requested again by another; exchange takes place via documented interfaces (API by default).
+- **E-ID with a timetable:** document the security work openly and publish a binding launch date with milestones.
+- **Meet the EMBAG deadline:** from 2027, publicly report which federal offices actually make their data openly available.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/forschung-wer-forscht-wer-zahlt/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+---
 
-Die Schweiz investiert 25.6 Mrd. CHF in F&E
-(2023) und erzielt mit 182 EPO-Patenten pro Milliarde weltweit die
-höchste Patenteffizienz. Aber die Privatwirtschaft überwiegt die öffentliche
-Forschung um das 2.37-Fache — und die Top 2 Sektoren
-vereinen 45.4% der Ausgaben.
+## Sources
+
+1. UN DESA, E-Government Knowledge Base: country profile Switzerland (surveys 2020, 2022, 2024). https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland
+2. UN DESA, country profiles Denmark, Estonia, South Korea, Singapore, Germany, Austria (2024 survey). https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/48-Denmark (likewise id/57, 138, 154, 65, 10)
+3. UN DESA: E-Government Survey 2024 (methodology, Technical Appendix). https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024
+4. Federal Council: e-ID Act, popular vote of 28 September 2025. https://www.admin.ch/en/e-id-act
+5. FDJP: Akzeptanz der E-ID mit zusätzlichen Massnahmen stärken [strengthening acceptance of the e-ID with additional measures], 25 February 2026. https://www.ejpd.admin.ch/de/newnsb/L6Nbf7gStnDm
+6. Federal Office of Justice: Neuer Zeitplan für die Einführung der E-ID und der Vertrauensinfrastruktur [new timetable for the introduction of the e-ID and the trust infrastructure], 30 June 2026. https://www.admin.ch/de/newnsb/4ZNYpSk3J1-U
+7. e-Estonia: X-Road. https://e-estonia.com/solutions/interoperability-services/x-road/
+8. GovTech Singapore: Singpass. https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/
+9. Agency for Digital Government (Denmark): Digital Post. https://en.digst.dk/systems/digital-post/
+10. FSO: Open Government Data, EMBAG Art. 10 and Masterplan 2024–2027. https://www.bfs.admin.ch/de/strategie-og-de
+
+---
+
+# Electricity Stress Test: What Happens with Drought plus a Nuclear Phase-Out?
+
+> Four scenarios show how vulnerable Switzerland's electricity supply is — from the baseline to the worst case of drought combined with a nuclear shutdown.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/energieresilienz-stressszenarien/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
+
+Four stress scenarios based on real SFOE data (2024) show that
+in the worst case (dry year + nuclear phase-out) Switzerland would
+have to import 39.1% of its electricity — at a cost of
+CHF 2.29 billion per year at current spot prices.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-Grundlage sind die BFS-Forschungsstatistik (intramuros F&E-Aufwendungen nach Sektor,
-2000–2023) und EPO-Patentdaten (Annual Report 2023). Die
-Privatwirtschaft umfasst Pharma, Metallurgie, ICT, Instrumente und andere
-Industriesektoren. Öffentlich: Hochschulen, ETH-Bereich, Bundesämter.
+The basis is the SFOE electricity balance (OGD, 2024). Four scenarios
+modify the production figures of the base year:
 
----
+- **A — Baseline**: actual production in 2024
+- **B — Dry year**: −30% hydropower production (historically plausible, e.g. 2022)
+- **C — Nuclear phase-out**: nuclear power plants shut down (−22,983 GWh)
+- **D — Combined**: dry year + nuclear phase-out
 
-### F&E-Ausgaben im Zeitverlauf
-
-Die Privatwirtschaft dominiert die F&E-Ausgaben und ihr Anteil wächst. Das zeigt Innovationskraft — aber auch eine Abhängigkeit: Wenn wenige Grosskonzerne den Grossteil der Forschung finanzieren, entstehen blinde Flecken bei Themen ohne direkten Marktanreiz.
-
----
-
-### Privat vs. Öffentlich
-
-Das Verhältnis zwischen privaten und öffentlichen F&E-Ausgaben ist in der Schweiz eines der höchsten weltweit. Das ist einerseits ein Zeichen für eine forschungsstarke Privatwirtschaft — andererseits stellt sich die Frage, ob öffentliche Forschung genug Eigengewicht hat, um Grundlagen und Gemeinwohlthemen abzudecken.
+Import costs calculated at EUR 90/MWh (European average spot price).
+Final energy consumption by sector from the SFOE overall energy balance.
 
 ---
 
-### Patenteffizienz im internationalen Vergleich
+### Electricity mix
 
-Die Schweiz erzielt weltweit die höchste Patenteffizienz: Mehr EPO-Patente pro investierte Milliarde als jedes andere Land. Das spricht für eine effektive Umsetzungskette von Forschung zu verwertbarem Wissen — ein Standortvorteil, der gepflegt werden muss.
-
----
-
-### Sektorkonzentration
-
-Zwei Sektoren — Pharma und ICT — vereinen den Grossteil der privaten F&E. Das macht die Forschungslandschaft verletzlich: Ein Standortwechsel eines einzigen Unternehmens könnte die Gesamtstatistik markant verschieben. Diversifikation der Forschungsbasis ist eine strategische Frage.
+Hydropower and nuclear energy dominate Swiss electricity production, together accounting for over 90%. This concentration on two sources is both a strength (low CO₂) and a vulnerability — both are sensitive to external shocks: drought for hydropower, political decisions for nuclear.
 
 ---
 
-## Einschränkungen
+### Final energy consumption by sector
 
-- BFS-Daten alle 2 Jahre erhoben (keine Jahreswerte)
-- Patenteffizienz: EPO-Patente als Proxy (nicht alle Innovationen münden in Patente)
-- Private F&E-Ausgaben teilweise geschätzt (Unternehmensgeheimnisse)
-- Sektorklassifikation folgt BFS-Logik (Frascati-Manual)
+Industry and transport are the largest electricity consumers. The sectoral distribution shows where efficiency gains and electrification (e.g. electric mobility) have the greatest leverage — and where additional electricity demand will arise.
 
 ---
 
-## Datenquellen
+### Stress scenarios
 
-- BFS: Forschung und Entwicklung — Intramuros-Aufwendungen (2000–2023)
-- EPO: Annual Report 2023 — Patentanmeldungen nach Herkunftsland
+Four scenarios show the range of vulnerability: from the stable baseline to the worst case (dry year + nuclear phase-out). The combined scenario creates an import dependence that cannot easily be covered when European markets are tight.
+
+---
+
+### Import costs
+
+The financial consequences of import dependence are considerable: in the worst case, annual import costs amount to several billion francs — calculated at current European spot prices. At market peaks (as in 2022), the costs would be a multiple of that.
+
+---
+
+## Limitations
+
+- Static scenarios (no expansion of solar/wind, no reduction in demand)
+- Import prices fluctuate strongly (2022: up to EUR 400/MWh)
+- Seasonal effects not modelled (winter gap > annual average)
+- No storage effects (pumped storage, batteries)
+
+---
+
+## Data sources
+
+- SFOE: Schweizerische Elektrizitätsbilanz [Swiss electricity balance] (OGD, annual values)
+- SFOE: Schweizerische Gesamtenergiebilanz [Swiss overall energy balance] (final energy consumption by sector)
+- ENTSO-E: European electricity prices (day-ahead spot market)
+
+---
+
+# Research: Who Does It, Who Pays — and What Comes Back?
+
+> Switzerland leads the world in R&D per capita and patent efficiency. But the private sector dominates — and the question of the public return on public research remains open.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/forschung-wer-forscht-wer-zahlt/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
+
+Switzerland invests CHF 25.6 billion in R&D
+(2023) and, with 182 EPO patents per billion, achieves the
+highest patent efficiency in the world. But private-sector research outweighs public
+research by a factor of 2.37 — and the top 2 sectors
+account for 45.4% of spending.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+The basis is the FSO research statistics (intramural R&D expenditure by sector,
+2000–2023) and EPO patent data (Annual Report 2023). The
+private sector comprises pharma, metallurgy, ICT, instruments and other
+industrial sectors. Public: universities, the ETH Domain, federal offices.
+
+---
+
+### R&D expenditure over time
+
+The private sector dominates R&D expenditure, and its share is growing. This demonstrates innovative strength — but also a dependence: when a few large corporations finance most of the research, blind spots emerge on topics without a direct market incentive.
+
+---
+
+### Private vs. public
+
+The ratio of private to public R&D expenditure in Switzerland is one of the highest in the world. On the one hand, this is a sign of a research-intensive private sector — on the other, it raises the question of whether public research carries enough weight of its own to cover basic research and public-interest topics.
+
+---
+
+### Patent efficiency in international comparison
+
+Switzerland achieves the highest patent efficiency in the world: more EPO patents per billion invested than any other country. This points to an effective chain from research to usable knowledge — a locational advantage that needs to be maintained.
+
+---
+
+### Sector concentration
+
+Two sectors — pharma and ICT — account for the bulk of private R&D. This makes the research landscape vulnerable: the relocation of a single company could shift the overall statistics markedly. Diversifying the research base is a strategic question.
+
+---
+
+## Limitations
+
+- FSO data collected every 2 years (no annual values)
+- Patent efficiency: EPO patents as a proxy (not all innovations result in patents)
+- Private R&D expenditure partly estimated (trade secrets)
+- Sector classification follows FSO logic (Frascati Manual)
+
+---
+
+## Data sources
+
+- FSO: Forschung und Entwicklung — Intramuros-Aufwendungen [research and development — intramural expenditure] (2000–2023)
+- EPO: Annual Report 2023 — patent applications by country of origin
 - OECD: Main Science and Technology Indicators (GERD)
 
 ---
 
-# Gesundheitskosten: Wo fliesst das Geld — und wo versickert es?
+# Health Costs: Where Does the Money Go — and Where Does It Drain Away?
 
-> Die Schweiz gibt 5.2% der Gesundheitsausgaben für Verwaltung aus — deutlich über dem OECD-Schnitt. Der Überschuss kostet ~10 CHF pro Person und Monat.
+> Switzerland spends 5.2% of health expenditure on administration — well above the OECD average. The excess costs ~CHF 10 per person per month.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/gesundheitskosten-verwaltung-fokus/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/gesundheitskosten-verwaltung-fokus/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
-Die Schweiz gibt 82472 Mio. CHF für Gesundheit aus
-(2019), davon 4.03% für Verwaltung.
-Im OECD-Vergleich liegt die Schweiz mit 5.2% weit über dem Schnitt
-(3.3%) — der Überschuss kostet ~10 CHF/Person/Monat.
+Switzerland spends CHF 82,472 million on health
+(2019), of which 4.03% goes to administration.
+In the OECD comparison, Switzerland's 5.2% is well above the average
+(3.3%) — the excess costs ~CHF 10 per person per month.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-BFS-Gesundheitsausgabenstatistik (1995–2019) nach dem
-System of Health Accounts (SHA). Kategorien: Ambulante/stationäre Kurativbehandlung,
-Langzeitpflege, Gesundheitsgüter, Verwaltung, Prävention. Internationaler Vergleich
-auf Basis OECD Health at a Glance 2023.
-
----
-
-### Ausgaben nach Kategorie im Zeitverlauf
-
-Die Gesundheitsausgaben steigen kontinuierlich — aber nicht gleichmässig. Während ambulante und stationäre Versorgung den Löwenanteil ausmachen, wächst der Verwaltungsanteil überproportional. Das wirft die Frage auf, wie viel vom Prämienanstieg in Behandlung fliesst und wie viel in Bürokratie.
+FSO health expenditure statistics (1995–2019) according to the
+System of Health Accounts (SHA). Categories: outpatient/inpatient curative care,
+long-term care, medical goods, administration, prevention. International comparison
+based on OECD Health at a Glance 2023.
 
 ---
 
-### Verwaltungsanteil im Zeitverlauf
+### Expenditure by category over time
 
-Der Verwaltungsanteil steigt langsam, aber stetig. Das ist kein Zufall: Die fragmentierte Versicherungslandschaft mit über 50 Krankenkassen erzeugt strukturelle Mehrkosten — Rechnungswesen, Marketing, Risikoselektion — die in einem Einheitssystem nicht anfallen würden.
-
----
-
-### Internationaler Vergleich
-
-Die Schweiz liegt bei den Verwaltungskosten deutlich über dem OECD-Durchschnitt. Länder mit zentralisierteren Systemen (z.B. skandinavische Staaten) erzielen tiefere Admin-Anteile bei vergleichbarer oder besserer Versorgungsqualität. Der Vergleich zeigt: Effizienzgewinne sind möglich.
+Health expenditure is rising continuously — but not evenly. While outpatient and inpatient care account for the lion's share, the administrative share is growing disproportionately. This raises the question of how much of the rise in premiums goes into treatment and how much into bureaucracy.
 
 ---
 
-### Verwaltungsüberschuss
+### Administrative share over time
 
-Der Überschuss gegenüber dem OECD-Schnitt lässt sich in Franken pro Person und Monat ausdrücken. Dieses Geld geht nicht in Behandlungen, Medikamente oder Pflege — es finanziert administrative Strukturen, deren Vereinfachung direkt Prämien senken würde.
-
----
-
-## Einschränkungen
-
-- SHA-Harmonisierung erleichtert Vergleiche, aber Systemunterschiede bleiben
-- Verwaltungskosten enthalten auch Qualitätssicherung und Regulierungsaufwand
-- Einheitskasse vs. Wettbewerbsmodell erzeugt strukturell verschiedene Admin-Kosten
-- OECD-Daten teilweise zeitlich versetzt (2021–2023)
+The administrative share is rising slowly but steadily. This is no coincidence: the fragmented insurance landscape with over 50 health insurers generates structural extra costs — accounting, marketing, risk selection — that would not arise in a single-payer system.
 
 ---
 
-## Datenquellen
+### International comparison
 
-- BFS: Kosten und Finanzierung des Gesundheitswesens (1995–2019)
+Switzerland's administrative costs are well above the OECD average. Countries with more centralised systems (e.g. the Scandinavian states) achieve lower administrative shares with comparable or better quality of care. The comparison shows that efficiency gains are possible.
+
+---
+
+### Administrative excess
+
+The excess over the OECD average can be expressed in francs per person per month. This money does not go into treatment, medicines or care — it finances administrative structures whose simplification would directly lower premiums.
+
+---
+
+## Limitations
+
+- SHA harmonisation facilitates comparisons, but differences between systems remain
+- Administrative costs also include quality assurance and regulatory effort
+- Single-payer vs. competitive model produce structurally different administrative costs
+- OECD data partly from different years (2021–2023)
+
+---
+
+## Data sources
+
+- FSO: Kosten und Finanzierung des Gesundheitswesens [costs and financing of the health system] (1995–2019)
 - OECD: Health at a Glance 2023 — Health Expenditure and Financing
 - WHO: Global Health Expenditure Database
 
 ---
 
-# Grundeinkommen: Drei Finanzierungsmodelle im Vergleich
+# Basic Income: Three Financing Models Compared
 
-> Was passiert mit der Einkommensverteilung, wenn ein UBI über Einkommensteuer, Transferablösung oder Konsumsteuer finanziert wird? Dezil-Simulation mit BFS-Daten.
+> What happens to the income distribution if a UBI is financed through income tax, replacement of transfers or a consumption tax? A decile simulation with FSO data.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/grundeinkommen-finanzierungsmodelle/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/grundeinkommen-finanzierungsmodelle/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
-Drei Finanzierungsmodelle für ein bedingungsloses Grundeinkommen von CHF 2'500/Monat
-zeigen grundlegend verschiedene Verteilungswirkungen. Eine pauschale Einkommensteuer
-senkt den Gini am stärksten. Die Ablösung bestehender Transfers spart zwar Steuern,
-kann aber die ärmsten Haushalte schlechter stellen — ein nicht-trivialer Befund.
-Eine Konsumsteuer wirkt progressiv, aber schwächer.
-
-<!-- more -->
-
----
-
-## Methodik
-
-Grundlage sind die Einkommensanteile nach Dezilen aus der
-Haushaltsbudgeterhebung (HABE) 2018 des BFS. Daraus werden absolute
-Monatseinkommen pro Dezil geschätzt (Anteil × Mittelwert × 10).
-
-Drei Finanzierungsszenarien werden simuliert:
-
-- **A — Pauschale Einkommensteuer**: Bruttokosten (CHF 222.0 Mrd./Jahr)
-  werden über einen linearen Einkommensteuerzuschlag finanziert.
-- **B — Transferablösung**: AHV, IV, EL, Sozialhilfe, ALV und Familienzulagen
-  (CHF 79.0 Mrd.) werden durch das UBI ersetzt.
-  Der verbleibende Betrag wird über Einkommensteuer finanziert.
-- **C — Konsumsteuer**: Die Finanzierung erfolgt über einen MwSt.-Zuschlag.
-  Konsumquoten variieren nach Dezil (D1: 95%, D10: 55%).
-
----
-
-### Baseline: Einkommensverteilung 2018
-
-Die heutige Einkommensverteilung zeigt eine starke Konzentration: Das oberste Dezil verfügt über rund einen Viertel des Gesamteinkommens, das unterste über weniger als 3%. Diese Baseline ist der Ausgangspunkt für alle drei Szenarien — sie zeigt, von welcher Ausgangslage aus Umverteilung wirkt.
-
----
-
-### Nettowirkung der drei Szenarien
-
-Die drei Finanzierungsmodelle wirken grundlegend verschieden. Szenario A (Einkommensteuer) verteilt linear um — untere Dezile gewinnen, obere verlieren. Szenario B (Transferablösung) produziert ein Paradox: Die untersten Dezile können netto verlieren, weil bestehende Transfers höher waren als das UBI. Szenario C (Konsumsteuer) belastet untere Dezile stärker über ihre höhere Konsumquote.
-
----
-
-### Gini-Koeffizient nach Szenario
-
-Der Gini-Koeffizient misst die Einkommenskonzentration (0 = perfekte Gleichheit, 1 = totale Ungleichheit). Szenario A senkt den Gini am stärksten, weil die progressive Finanzierung direkt umverteilt. Szenario B verändert ihn kaum, weil es bestehende Transfers nur ersetzt. Szenario C wirkt sogar leicht regressiv.
-
----
-
-### Relative Gewinner und Verlierer
-
-Hier wird sichtbar, welche Dezile netto gewinnen oder verlieren. Der Wendepunkt variiert je nach Finanzierungsmodell. In Szenario B zeigt sich das Transferparadox am deutlichsten: Dezile 1–2, die stark von bestehenden Sozialleistungen abhängen, profitieren weniger als die Mittelschicht — ein kontraintuitives Ergebnis, das bei der politischen Umsetzung entscheidend ist.
-
----
-
-## Einschränkungen
-
-- Aggregierte Dezildaten statt Mikrodaten (Individualdaten erfordern BFS-Antrag)
-- Keine Verhaltensanpassungen (Arbeitsangebot, Konsummuster)
-- Transferverteilung auf Dezile geschätzt (nicht direkt aus SILC-Mikrodaten)
-- Konsumquoten nach Dezil basieren auf Literaturwerten, nicht BFS-HABE-Detail
-- Daten nur bis 2018 verfügbar (neueste BFS-HABE-Publikation)
-
----
-
-## Datenquellen
-
-- BFS HABE 2018: Einkommensanteile nach Dezilen (Verfügbares Äquivalenzeinkommen)
-- BSV Sozialversicherungsstatistik: Transfervolumen AHV, IV, EL, ALV
-- BFS SILC: publizierte Verteilungsanteile der Sozialtransfers
-
----
-
-# Mietbelastung: Wann wird es in welchem Kanton kritisch?
-
-> Das unterste Quintil zahlt 40% für Miete. Bei aktuellen Trends überschreiten weitere Kantone die 30%-Schwelle.
-
-Source: https://die-zukunft.ch/zukunftslabor/notizen/mietbelastung-kantonale-prognose/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
-
-Das unterste Quintil zahlt 40% für Miete. Bei aktuellem Mietpreiswachstum und
-1% Einkommenszuwachs überschreiten mehrere Kantone die 30%-Schwelle bis 2035.
+Three financing models for an unconditional basic income of CHF 2,500/month
+show fundamentally different distributional effects. A flat income tax
+reduces the Gini coefficient the most. Replacing existing transfers saves taxes,
+but can leave the poorest households worse off — a non-trivial finding.
+A consumption tax has a progressive effect, but a weaker one.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-BFS-Mietpreisstatistik (2010–2023, 3-Zimmer nach Kanton) und
-BFS-SILC-Mietbelastungsquoten. CAGR aus 2010/2023-Verhältnis.
-Schwellenprognose: Miete×(1+CAGR)^t / Einkommen×(1+1%)^t = 30%.
+The basis is the income shares by decile from the FSO
+Household Budget Survey (HBS) 2018. From these, absolute
+monthly incomes per decile are estimated (share × mean × 10).
 
----
+Three financing scenarios are simulated:
 
-### Mietbelastung nach Einkommensquintil
-
-Das unterste Quintil gibt rund 40% des verfügbaren Einkommens für Miete aus — weit über der 30%-Schwelle, die als kritisch gilt. Die oberen Quintile liegen bei 15–20%. Die Mietbelastung wirkt wie eine regressive Steuer: Wer weniger verdient, zahlt prozentual mehr.
-
----
-
-### Mietpreise nach Kanton
-
-Die kantonalen Unterschiede sind erheblich: Zürich, Genf und Zug liegen an der Spitze, ländliche Kantone deutlich darunter. Die Grafik zeigt die Preisspanne einer durchschnittlichen 3-Zimmer-Wohnung — der meistverbreitete Wohnungstyp in der Schweiz.
+- **A — Flat income tax**: gross costs (CHF 222.0 billion/year)
+  are financed through a linear income tax surcharge.
+- **B — Replacement of transfers**: AHV/AVS (old-age and survivors' insurance), IV/AI (disability insurance), EL/PC (supplementary benefits), social assistance, ALV/AC (unemployment insurance) and family allowances
+  (CHF 79.0 billion) are replaced by the UBI.
+  The remaining amount is financed through income tax.
+- **C — Consumption tax**: financing is through a VAT surcharge.
+  Consumption ratios vary by decile (D1: 95%, D10: 55%).
 
 ---
 
-### Mietpreiswachstum (CAGR)
+### Baseline: income distribution 2018
 
-Das jährliche Mietpreiswachstum (CAGR) variiert stark zwischen den Kantonen. Einige Kantone wachsen doppelt so schnell wie andere — bei gleichzeitig stagnierenden Reallöhnen entsteht eine zunehmende Schere. Das Wachstumstempo bestimmt, wann die Belastungsschwelle überschritten wird.
-
----
-
-### Schwellenprognose
-
-Bei Fortschreibung der aktuellen Trends und einem angenommenen Einkommenswachstum von 1% pro Jahr überschreiten mehrere Kantone die 30%-Schwelle bis 2035. Die Prognose ist konservativ — Neuvertragsmieten liegen oft deutlich über Bestandsmieten.
+Today's income distribution shows strong concentration: the top decile has around a quarter of total income, the bottom decile less than 3%. This baseline is the starting point for all three scenarios — it shows the initial situation from which redistribution takes effect.
 
 ---
 
-## Einschränkungen
+### Net effect of the three scenarios
 
-- CAGR extrapoliert Vergangenheitstrend
-- Q1-Einkommen nicht kantonal differenziert
-- Bestandsmieten (Neuvertragsmieten oft höher)
+The three financing models have fundamentally different effects. Scenario A (income tax) redistributes linearly — lower deciles gain, upper deciles lose. Scenario B (replacement of transfers) produces a paradox: the lowest deciles can lose out in net terms because their existing transfers were higher than the UBI. Scenario C (consumption tax) weighs more heavily on lower deciles through their higher consumption ratio.
 
 ---
 
-## Datenquellen
+### Gini coefficient by scenario
 
-- BFS Strukturerhebung: Mietpreise nach Kanton und Zimmerzahl
-- BFS SILC 2022: Mietbelastungsquote nach Quintil
+The Gini coefficient measures income concentration (0 = perfect equality, 1 = total inequality). Scenario A reduces the Gini the most, because progressive financing redistributes directly. Scenario B barely changes it, because it merely replaces existing transfers. Scenario C even has a slightly regressive effect.
 
 ---
 
-# Talent & Migration: Werden Qualifikationen genutzt — oder verschwendet?
+### Relative winners and losers
 
-> 36% der Drittstaatsangehörigen arbeiten unter ihrem Qualifikationsniveau. Das ist kein Integrationsversagen — es ist Wertschöpfungsverlust.
+This shows which deciles gain or lose in net terms. The turning point varies depending on the financing model. The transfer paradox is most evident in scenario B: deciles 1–2, which depend heavily on existing social benefits, benefit less than the middle class — a counter-intuitive result that is decisive for political implementation.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/talent-ueberqualifikation/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+---
 
-Die Schweiz hat 2024 eine Nettowanderung von +82792 Personen.
-Doch Qualifikationen werden systematisch verschwendet: 36% der Drittstaatsangehörigen
-arbeiten unter Niveau (vs. 13% der Schweizer/innen). Der geschätzte Wertschöpfungsverlust
-beträgt ~3.6 Mrd. CHF jährlich.
+## Limitations
+
+- Aggregated decile data instead of microdata (individual data require an application to the FSO)
+- No behavioural adjustments (labour supply, consumption patterns)
+- Distribution of transfers across deciles estimated (not taken directly from SILC microdata)
+- Consumption ratios by decile based on values from the literature, not HBS detail
+- Data available only up to 2018 (latest FSO HBS publication)
+
+---
+
+## Data sources
+
+- FSO HBS 2018: income shares by decile (disposable equivalised income)
+- FSIO social insurance statistics: transfer volumes AHV, IV, EL, ALV
+- FSO SILC: published distribution shares of social transfers
+
+---
+
+# Rent Burden: When Does It Become Critical in Which Canton?
+
+> The bottom quintile spends 40% on rent. On current trends, more cantons will cross the 30% threshold.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/mietbelastung-kantonale-prognose/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
+
+The bottom quintile spends 40% on rent. With current rent growth and
+1% income growth, several cantons will cross the 30% threshold by 2035.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-Bevölkerungsdaten: BFS Statistik der Bevölkerung und der Haushalte (2010–2024).
-Wanderungsdaten: BFS Wanderungsstatistik (1991–2024).
-Überqualifikation: BFS Strukturerhebung / SAKE (Selbsteinschätzung + formale Qualifikation),
-ergänzt durch OECD Indicators of Talent Attractiveness 2023.
-
----
-
-### Ausländische Bevölkerung nach Bewilligungstyp
-
-Die Zusammensetzung der ausländischen Bevölkerung hat sich verschoben: EU/EFTA-Niederlassungen dominieren, Kurzaufenthalte schwanken konjunkturell. Die Grafik zeigt die Bestandsentwicklung — ein stabiles Wachstum, das die Arbeitskräftenachfrage der Schweizer Wirtschaft widerspiegelt.
+FSO rent statistics (2010–2023, 3-room flats by canton) and
+FSO SILC rent burden ratios. CAGR from the 2010/2023 ratio.
+Threshold projection: rent×(1+CAGR)^t / income×(1+1%)^t = 30%.
 
 ---
 
-### Nettowanderung nach Herkunft
+### Rent burden by income quintile
 
-Die Nettowanderung zeigt, wer kommt und wer geht. EU/EFTA-Bürger stellen den Grossteil des Zuzugs — getrieben durch die Personenfreizügigkeit. Drittstaatsangehörige kommen in geringerer Zahl, haben aber die grössten Integrationshürden bei der Berufsanerkennung.
-
----
-
-### Überqualifikationsrate nach Herkunftsgruppe
-
-36% der Drittstaatsangehörigen arbeiten unter ihrem Qualifikationsniveau — fast dreimal so viel wie bei Schweizer/innen (13%). Das ist kein Integrationsversagen der Betroffenen, sondern ein strukturelles Problem: Diplomanerkennung, Sprachbarrieren und berufliche Schutzregelungen verhindern den qualifikationsgerechten Einsatz.
+The bottom quintile spends around 40% of disposable income on rent — far above the 30% threshold that is considered critical. The upper quintiles are at 15–20%. The rent burden acts like a regressive tax: those who earn less pay proportionally more.
 
 ---
 
-### Sektoren mit hohem Überqualifikationsanteil
+### Rents by canton
 
-Bestimmte Sektoren «verschwenden» systematisch Talent: Gastgewerbe, Reinigung und Detailhandel beschäftigen besonders viele Überqualifizierte. Das ist Wertschöpfungsverlust in doppeltem Sinn — für die Betroffenen (Lohneinbusse) und für die Volkswirtschaft (ungenutzte Kompetenz).
-
----
-
-## Einschränkungen
-
-- Überqualifikation basiert auf Selbsteinschätzung und formaler Diplomanerkennung
-- Nicht alle ausländischen Diplome sind automatisch gleichwertig (Sprachbarrieren, Berufsschutz)
-- Ökonomische Verlustschätzung ist Grössenordnung (Lohndifferenz variiert stark nach Sektor)
-- SAKE-Daten sind Stichprobendaten mit Konfidenzintervallen
+The differences between cantons are considerable: Zurich, Geneva and Zug are at the top, rural cantons well below. The chart shows the price range of an average 3-room flat — the most common type of dwelling in Switzerland.
 
 ---
 
-## Datenquellen
+### Rent growth (CAGR)
 
-- BFS: Statistik der Bevölkerung und der Haushalte (STATPOP)
-- BFS: Wanderungsstatistik (internationale Wanderungen)
-- BFS: Strukturerhebung — Erwerbstätigkeit nach Qualifikation und Nationalität
+Annual rent growth (CAGR) varies widely between cantons. Some cantons are growing twice as fast as others — and with real wages stagnating at the same time, a widening gap emerges. The pace of growth determines when the burden threshold is crossed.
+
+---
+
+### Threshold projection
+
+Extrapolating current trends and assuming income growth of 1% per year, several cantons will cross the 30% threshold by 2035. The projection is conservative — rents for new tenancies are often well above existing rents.
+
+---
+
+## Limitations
+
+- CAGR extrapolates the past trend
+- Q1 income not differentiated by canton
+- Existing rents (rents for new tenancies are often higher)
+
+---
+
+## Data sources
+
+- FSO Structural Survey: rents by canton and number of rooms
+- FSO SILC 2022: rent burden ratio by quintile
+
+---
+
+# Compute and Electricity: What Ten Times More Public AI Capacity Would Require
+
+> In 2024 data centres used around 2.1 TWh, or 3.6% of Swiss electricity. By our estimate, a tenfold increase in public compute based on Alps would require 0.6 to 0.8 TWh per year: manageable with planning, but not as an afterthought.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/rechenkraft-und-strom/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
+
+Switzerland's data centres consumed around 2.1 terawatt hours of electricity in 2024, 3.6% of national consumption. By 2030 the Swiss Federal Office of Energy (SFOE) expects 2.5 to 3.2 TWh, and 3.5 TWh in its maximum scenario. The country's largest public AI computer, Alps at CSCS in Lugano, drew around 7.1 megawatts during its official performance measurement. By our estimate, ten times as much public compute with today's technology would require 0.6 to 0.8 TWh per year, i.e. just over 1% of today's final consumption.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+We combine three official or primary sources: the SwissEnergy/SFOE study on the electricity consumption of data centres (May 2026), the SFOE's 2025 electricity balance and the measured power draw of Alps in the TOP500 list (7,124 kW, Level 3 measurement). Alps comprises 10,752 NVIDIA GH200 superchips in 2,688 nodes (CSCS).
+
+The projection for a tenfold increase is **our own estimate** with deliberately simple assumptions: continuous operation for 8,760 hours per year at the measured Linpack power, scaled linearly. For cooling and building services we assume a 30% surcharge (PUE 1.3); this is an assumption, not a measured value for Alps. Newer chips deliver more computing power per watt, so the estimate is more of an upper bound for "ten times Alps".
+
+---
+
+### Data centres are growing, but predictably
+
+Between 2019 and 2024, data centre consumption rose from 1.77 to 2.1 TWh, by an average of 3.4% per year. The growth comes from the large commercial data centres (44% of consumption), whose demand could more than double by 2030. In-house corporate data centres (56%) are stagnating or declining as workloads move to the cloud. The SFOE puts the remaining efficiency potential at around 0.8 TWh, almost 38% of today's consumption.
+
+---
+
+### The starting point on the grid
+
+In 2025 Switzerland generated 67.5 TWh of electricity, with final consumption of 58.0 TWh (up 0.8% on 2024). 55.5% came from hydropower, of which 31.3 percentage points from storage power plants, 27.2% from nuclear energy and 11.8% from photovoltaics. The annual balance, however, says little about winter: data centres run all year round at an almost constant load, including when domestic production is scarce.
+
+---
+
+### What a tenfold increase would cost, in electricity
+
+Calculation (estimate): 7.124 MW × 8,760 h gives around 62 GWh per year for Alps. Ten times that is 71 MW and 0.62 TWh; with a 30% cooling surcharge, 93 MW and 0.81 TWh. This corresponds to 1.1 to 1.4% of final consumption in 2025, less than the increase the SFOE already expects for all data centres by 2030 in its high scenario (+1.1 TWh), and roughly as much as the efficiency potential of existing data centres identified by the SFOE. For comparison: according to the International Energy Agency, a typical AI data centre consumes as much electricity as 100,000 households, and the largest ones under construction twenty times as much.
+
+---
+
+## What this means for policy
+
+- **Plan energy and compute together.** A public AI programme of the order of 70 to 90 MW is feasible for the Swiss grid, but it needs fixed sites with grid connection, cooling and waste-heat recovery. This belongs in the same planning as the expansion of winter production: [Energy & Infrastructure Resilience](https://die-zukunft.ch/en/energy-resilience/).
+- **Realise efficiency first.** The identified efficiency potential of around 0.8 TWh in existing data centres corresponds roughly to the estimated demand of a tenfold increase in public compute. Binding efficiency metrics for large data centres free up room on the grid.
+- **Expand public compute measurably.** Report targets and progress in megawatts and computing power, with open access for universities, SMEs and the administration: [Sovereign AI & Compute](https://die-zukunft.ch/en/sovereign-ai/).
+
+---
+
+## Sources
+
+1. Swiss Federal Office of Energy / SwissEnergy: Stromverbrauch der Rechenzentren in der Schweiz [electricity consumption of data centres in Switzerland], press release of 7 May 2026. https://www.admin.ch/de/newnsb/GV-_d7OgIlqjfQDGZqbkN
+2. Swiss Federal Office of Energy: Elektrizitätsbilanz 2025 [electricity balance 2025], press release of 18 June 2026. https://www.admin.ch/de/newnsb/YQtEZcK-D9fQ
+3. TOP500: Alps, HPE Cray EX254n, CSCS (power draw 7,124 kW, lists November 2024 to June 2026). https://www.top500.org/system/180259/
+4. CSCS: Alps hardware (2,688 nodes, 10,752 GH200). https://docs.cscs.ch/alps/hardware/
+5. International Energy Agency (IEA): Energy and AI, Executive Summary, 2025. https://www.iea.org/reports/energy-and-ai/executive-summary
+
+---
+
+# Doubling Robot Density: What 600 Instead of 294 Robots Would Mean
+
+> Switzerland has 294 industrial robots per 10,000 employees, fewer than Germany or Japan. Research shows that more robots raise productivity. Whether jobs are lost depends heavily on how the transition is organised.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/roboterdichte-verdoppeln/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
+
+With 294 industrial robots per 10,000 employees, Switzerland was narrowly in the global top 10 in 2024, but well behind South Korea (1,220), Singapore (818), Germany (449) and Japan (446). Doubling to around 600 would put Switzerland ahead of Germany. Industry has employed a fairly stable 630,000 to 650,000 people since 2010, but its share of all employed persons is falling. Studies from comparable countries show clear productivity gains from robots; the effect on employment is mixed and depends on how the restructuring is handled.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+Robot density comes from the World Robotics Report 2025 of the International Federation of Robotics (IFR): installed industrial robots per 10,000 employees in manufacturing, as of 2024. According to the IFR, the figures for China are based on revised labour market data and are not comparable with earlier editions; for this reason we show no time series of robot density. Employment comes from the Swiss Labour Force Survey (SLFS) of the FSO, sections B–E (industry, mining, energy and water supply). Up to 2009 the figures are second-quarter values, from 2010 annual averages; the break is visible in the chart. We take the effects of robots from peer-reviewed studies on other countries; there is no comparable study for Switzerland.
+
+---
+
+### Switzerland in comparison
+
+At 294, Switzerland is above the EU average (231) and the world average (132), but below countries with similarly high wage levels and strong export industries such as Germany, Japan, Sweden and Denmark. A target of around 600 (double the 2024 value) is ambitious but clearly below South Korea and Singapore. A high-wage country with a skills shortage, in particular, has a strong reason to automate production rather than relocate it.
+
+---
+
+### Industrial employment: stable in absolute terms
+
+Between 1991 and 2004, the number of employed persons in sections B–E fell from around 798,000 to 634,000. Since then it has fluctuated within a narrow band; in 2025 it was 633,600. Industry has therefore not disappeared; for two decades it has held its employment steady in absolute terms.
+
+---
+
+### Industrial share: slowly declining
+
+Because total employment grew (2025: 4.89 million employed persons), industry's share fell from 21.2% (1991) to 13.0% (2025). More automation need not accelerate this trend: where production stays in the country or returns thanks to robots, jobs in planning, maintenance, quality assurance and supply also stay.
+
+---
+
+### What research shows about robots, productivity and work
+
+- **Productivity:** in 17 countries from 1993 to 2007, increased robot use contributed around 0.37 percentage points to annual labour productivity growth, raised total factor productivity and lowered product prices. Total employment did not fall significantly, but the share of low-skilled labour did (Graetz and Michaels, 2018).
+- **Germany:** job losses in industry due to robots were fully offset by new jobs in the service sector. Existing employees more often stayed with the same firm and took on new tasks; those mainly affected were young labour-market entrants who never entered industry in the first place (Dauth et al., 2021).
+- **USA:** one additional robot per 1,000 workers reduced the employment-to-population ratio by 0.2 percentage points and wages by 0.42% in heavily affected regions (Acemoglu and Restrepo, 2020).
+
+The differences between Germany and the USA show that the labour market adapts better where firms retrain their people and redeploy them internally. These findings cannot be transferred one-to-one to Switzerland, but they show what matters.
+
+---
+
+## What this means for policy
+
+- **A measurable target:** double robot density to around 600 by 2035 and report it annually on the basis of IFR data: [Reindustrialization with Robotics](https://die-zukunft.ch/en/robotics/).
+- **Targeted support for SMEs:** large exporters automate on their own. The leverage lies with SMEs, for example through shared test centres, leasing models and advisory services.
+- **Organise the transition within firms:** the German pattern — retraining within the same firm instead of dismissal — should be supported with training vouchers and apprenticeship occupations in robotics and maintenance: [Work Without Fear](https://die-zukunft.ch/en/transitions/).
+
+---
+
+## Sources
+
+1. International Federation of Robotics (IFR): Robot density surges in Europe, Asia and Americas (World Robotics 2025), 8 April 2026. https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas
+2. Federal Statistical Office (FSO), SLFS: Erwerbstätige nach Wirtschaftsabschnitten [employed persons by economic section] (T 03.02.01.20), 1991–2025. https://www.bfs.admin.ch/asset/de/36494612
+3. Graetz, G. and Michaels, G. (2018): Robots at Work. Review of Economics and Statistics 100(5), 753–768. https://doi.org/10.1162/rest_a_00754
+4. Dauth, W., Findeisen, S., Suedekum, J. and Woessner, N. (2021): The Adjustment of Labor Markets to Robots. Journal of the European Economic Association 19(6), 3104–3153. https://doi.org/10.1093/jeea/jvab012
+5. Acemoglu, D. and Restrepo, P. (2020): Robots and Jobs: Evidence from US Labor Markets. Journal of Political Economy 128(6), 2188–2244. https://doi.org/10.1086/705716
+
+---
+
+# Talent & Migration: Are Qualifications Being Used — or Wasted?
+
+> 36% of third-country nationals work below their level of qualification. This is not an integration failure — it is a loss of value added.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/talent-ueberqualifikation/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
+
+In 2024 Switzerland recorded net migration of +82,792 people.
+Yet qualifications are systematically wasted: 36% of third-country nationals
+work below their level (vs. 13% of Swiss nationals). The estimated loss of value added
+amounts to ~CHF 3.6 billion per year.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+Population data: FSO Population and Households Statistics (2010–2024).
+Migration data: FSO migration statistics (1991–2024).
+Overqualification: FSO Structural Survey / SLFS (self-assessment + formal qualification),
+supplemented by the OECD Indicators of Talent Attractiveness 2023.
+
+---
+
+### Foreign population by permit type
+
+The composition of the foreign population has shifted: EU/EFTA settled residents dominate, while short-term stays fluctuate with the economic cycle. The chart shows the development of the resident stock — steady growth that reflects the Swiss economy's demand for labour.
+
+---
+
+### Net migration by origin
+
+Net migration shows who arrives and who leaves. EU/EFTA citizens account for the bulk of immigration — driven by the free movement of persons. Third-country nationals arrive in smaller numbers but face the greatest integration hurdles in the recognition of professional qualifications.
+
+---
+
+### Overqualification rate by origin group
+
+36% of third-country nationals work below their level of qualification — almost three times the rate among Swiss nationals (13%). This is not an integration failure on the part of those affected but a structural problem: recognition of diplomas, language barriers and protected-profession rules prevent people from being employed in line with their qualifications.
+
+---
+
+### Sectors with a high share of overqualification
+
+Certain sectors systematically "waste" talent: hospitality, cleaning and retail employ a particularly large number of overqualified people. This is a loss of value added in two senses — for those affected (lower wages) and for the economy (unused skills).
+
+---
+
+## Limitations
+
+- Overqualification is based on self-assessment and formal recognition of diplomas
+- Not all foreign diplomas are automatically equivalent (language barriers, protected professions)
+- The estimate of economic loss is an order of magnitude (the wage gap varies widely by sector)
+- SLFS data are sample data with confidence intervals
+
+---
+
+## Data sources
+
+- FSO: Population and Households Statistics (STATPOP)
+- FSO: migration statistics (international migration)
+- FSO: Structural Survey — employment by qualification and nationality
 - OECD: Indicators of Talent Attractiveness 2023
 
 ---
 
-# Verteidigung: Was kauft der Schweizer Verteidigungsfranken?
+# Talent Visas Compared: Singapore, Hong Kong, the United Kingdom and Switzerland
 
-> Die Schweiz gibt 0.706% des BIP für Verteidigung aus. 58% gehen in Personal — aber die Bevölkerung will Cyber und Katastrophenhilfe.
+> Singapore, Hong Kong and the United Kingdom have dedicated routes for top talent: without a job offer or with a clear salary threshold, a decision in around four weeks, family included. Switzerland has only the general quota procedure.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/verteidigung-ausgaben-prioritaeten/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/talentvisa-im-vergleich/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
 
-Die Schweiz gibt 0.706% des BIP für Verteidigung aus (2023). Die
-Miliz-Truppenstärke (140'000) bindet 58% des Budgets für Personal. Cyber und
-Katastrophenhilfe — Toppriorität der Bevölkerung (82%/88%) — erhalten je nur 3-4%.
+Singapore (ONE Pass), Hong Kong (Top Talent Pass Scheme) and the United Kingdom (Global Talent) have created dedicated admission routes for top talent. What they have in common: clear criteria instead of a case-by-case labour market test, a decision within around four to eight weeks, and family included. Switzerland has no such route; researchers and founders from third countries go through the same quota procedure as all qualified workers. The point here is a narrow, fast route for a few thousand people a year, not more general immigration.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-Verteidigungsausgaben als BIP-Anteil: World Bank / SIPRI (2000–2023,
-8 Länder). Pro-Soldat-Kosten: IISS Military Balance 2024.
-Budgetallokation: VBS Armeebotschaft 2024, vereinfachte Kategorien.
-Bevölkerungsprioritäten: ETH CSS Sicherheitsstudie 2024.
+We compare criteria, processing times, family reunification and case numbers, in each case from the information published by the competent authorities: Ministry of Manpower (Singapore), Immigration Department and Labour and Welfare Bureau (Hong Kong), Home Office (United Kingdom), State Secretariat for Migration and Federal Council (Switzerland). The case numbers are not directly comparable: the Swiss quotas apply to all qualified workers from third countries, not only to top talent; for Hong Kong only cumulative figures are available. Two values are therefore marked as estimates.
 
 ---
 
-### Schweizer Ausgabentrend
+### Criteria and family
 
-Die Schweizer Verteidigungsausgaben sind seit den 1990er-Jahren kontinuierlich gesunken und liegen heute deutlich unter 1% des BIP. Der aktuelle politische Druck zur Aufstockung steht im Kontrast zu einem Jahrzehnte langen Spartrend — die Frage ist nicht nur «wie viel mehr», sondern «wofür».
-
----
-
-### Internationaler Vergleich
-
-Im internationalen Vergleich liegt die Schweiz am unteren Ende — unter dem NATO-Ziel von 2% und unter den meisten europäischen Nachbarn. Dabei ist zu beachten: Die Schweiz hat keine Bündnisverpflichtungen, was den direkten Vergleich relativiert, aber die Fähigkeitslücken nicht kleiner macht.
+- **Singapore, ONE Pass (since 2023):** fixed monthly salary of at least 30,000 Singapore dollars with an established company, or outstanding achievements in research, science, culture or sport. Valid for up to 5 years; changing jobs, working for several employers or running one's own company without a new application. Spouses can work with a Letter of Consent.
+- **Hong Kong, Top Talent Pass (since end of 2022):** annual income of at least HK$2.5 million or a degree from a university on the official list of top universities (with or without work experience). No job offer required. Stay of 24 to 36 months, extension only with employment or one's own company. Spouses are allowed to work.
+- **United Kingdom, Global Talent (since 2020):** endorsement by a specialist body in research, culture or digital technology, or a recognised prize. No job offer required. Up to 5 years per grant, settlement possible after 3 or 5 years; partners and children can accompany.
+- **Switzerland, admission from third countries:** application by the employer, proof of priority for domestic workers, local and industry-standard pay and working conditions, qualification as a manager, specialist or qualified worker (Art. 20–23 AIG [Foreign Nationals and Integration Act]). For 2025 and 2026, 8,500 quota permits apply in each year (4,500 B, 4,000 L). Family reunification for B permit holders is subject to conditions (Art. 44 AIG).
 
 ---
 
-### Kosten pro aktivem Soldaten
+### Processing time
 
-Das Milizmodell führt zu einer besonderen Kostenstruktur: Die Schweiz hat 140'000 Angehörige der Armee, aber der Grossteil dient im Milizdienst. Die Kosten pro Soldat liegen im Vergleich zu Berufsarmeen tiefer — dafür binden Personalkosten 58% des Gesamtbudgets und lassen wenig Raum für Modernisierung.
-
----
-
-### Budget vs. Bevölkerungsprioritäten
-
-Die Diskrepanz zwischen Budgetallokation und Bevölkerungsprioritäten ist frappant: Cyber-Sicherheit und Katastrophenhilfe werden von 82–88% der Bevölkerung als prioritär eingestuft, erhalten aber je nur 3–4% des Budgets. Klassische Landesverteidigung bindet das meiste Geld — obwohl die Bedrohungswahrnehmung sich verschoben hat.
+Singapore states "within 4 weeks for most cases", Hong Kong "normally around 4 weeks" after a complete application. In the United Kingdom, endorsement takes 2 weeks (with a job, fellowship or funding) to 5 weeks (peer review), followed by the visa decision in around 3 weeks. In Switzerland, the SEM expects 6 to 8 weeks "as a rule" from a complete application, longer for complex cases. A target of ten working days would therefore be faster than all three models; it presupposes a simplified, standardised procedure.
 
 ---
 
-## Einschränkungen
+### Case numbers
 
-- Miliz-Truppenstärke ≠ Vollzeitäquivalente (Kosten pro AdA nicht direkt vergleichbar)
-- VBS-Budgetkategorien vereinfacht dargestellt
-- Bevölkerungsprioritäten: Befragung (nicht gewichtet nach Sicherheitsexpertise)
-- SIPRI-Daten: Definitionsunterschiede bei Verteidigungsausgaben zwischen Ländern
+Singapore issued around 3,000 ONE Passes in 2024; at the end of 2025 there were around 8,500 holders. The United Kingdom granted 3,877 Global Talent visas to main applicants outside the country in 2024. Hong Kong had approved over 120,000 applications by the end of January 2026, on average (estimate) just over 38,000 per year. Switzerland used 74% of its third-country quotas in 2024 (estimated at around 6,300), and around 52% by the end of September 2025. The quotas are therefore not the bottleneck; for top talent it is rather the procedures and their duration.
 
 ---
 
-## Datenquellen
+### United Kingdom: stable demand, few refusals
+
+The number of Global Talent visas (in 2019 and partly 2020 still its predecessor, Exceptional Talent) rose from 794 (2019) to 4,112 (2023) and has since been around 3,900 per year; in addition, around 2,800 dependants each year. Refusals at the visa stage are rare (2025: 26), because selection takes place at the endorsement stage. Hong Kong shows the other side: of around 40,200 people whose first visa expired by January 2026, only around 20,800 applied for an extension. Broad criteria generate many applications, but not automatically people who stay.
+
+---
+
+## What this means for policy
+
+- **A dedicated talent visa outside the quotas:** narrow, verifiable criteria (salary threshold or endorsement by the ETH Domain, universities, SNSF, Innosuisse), a decision within ten working days, family included: [Talent, Integration & Rule of Law](https://die-zukunft.ch/en/talent-integration/).
+- **Start small and measurable:** an order of magnitude like the United Kingdom or Singapore (a few thousand per year), not like Hong Kong; an annual report on permits granted, retention and company formations.
+- **Measure retention, not volume:** the Hong Kong example shows that extension rates are more meaningful than application numbers.
+
+---
+
+## Sources
+
+1. Ministry of Manpower Singapore: ONE Pass, Eligibility, Key facts, Apply for a pass. https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass
+2. Ministry of Manpower: Written answer to PQ on statistics on issuance of ONE Pass, 4 February 2025. https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2025/0204-written-answer-to-pq-on-statistics-on-issuance-and-management-of-one-pass
+3. Ministry of Manpower: Written answer to PQ on effectiveness of ONE Pass, 5 August 2026. https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0805-written-answer-to-pq-on-effectiveness-of-overseas-networks
+4. Immigration Department Hong Kong: Top Talent Pass Scheme. https://www.immd.gov.hk/eng/services/visas/TTPS.html
+5. Labour and Welfare Bureau: Talent attraction, paper for the LegCo Panel on Manpower, 23 February 2026. https://www.legco.gov.hk/yr2026/english/panels/mp/papers/mp20260223cb1-165-5-e.pdf
+6. GOV.UK: Global Talent visa. https://www.gov.uk/global-talent and https://www.gov.uk/global-talent-researcher-academic
+7. Home Office: Immigration system statistics, Entry clearance visa outcomes (Vis_D02), year ending June 2026. https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables
+8. Federal Council: Bundesrat legt unveränderte Drittstaatenkontingente für 2026 fest [Federal Council sets unchanged third-country quotas for 2026], 19 November 2025. https://www.admin.ch/de/newnsb/7HwBjdg5HpBA
+9. SEM: FAQ Arbeit, Dauer des Bewilligungsverfahrens [FAQ on work: duration of the permit procedure]. https://www.sem.admin.ch/sem/de/home/themen/arbeit/faq.0010.html
+10. Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (AIG) [Federal Act on Foreign Nationals and Integration], SR 142.20. https://www.fedlex.admin.ch/eli/cc/2007/758/de
+
+---
+
+# Transparent by Law: 20 Years of the Freedom of Information Principle in Figures
+
+> Access requests to the federal administration have more than tripled since 2015. In 2025, however, full access was granted in only 39% of cases, and the number of statutory exemptions is growing.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/transparent-per-gesetz/ · Published: 2026-11-08 · Publisher: The Future (Swiss political party, Basel)
+
+Since 1 July 2006, documents of the federal administration have in principle been public, and since 1 November 2023 access has in principle been free of charge. Demand has risen sharply: in 2025 the federal authorities reported 2,145 processed access requests, almost four times as many as in 2015. At the same time, the share of requests with full access fell to 39%, and the Federal Council and Parliament have exempted 13 areas from the Act entirely. Sweden and Estonia show what openness as the norm looks like.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+The federal figures come from the activity reports of the Federal Data Protection and Information Commissioner (FDPIC), most recently the 33rd report 2025/2026 with the statistics on access requests under the Freedom of Information Act (BGÖ/FoIA) for calendar year 2025. The authorities report their cases themselves; the FDPIC points out that the workload is not recorded consistently. There are no comparable overall statistics for Sweden and Estonia; the comparison is therefore limited to the statutory rules. Cantonal laws and Parliament itself do not fall under the FoIA.
+
+---
+
+### Demand is growing
+
+In the first (half) year, 2006, 95 requests were received; in 2015 there were 600, in 2024 a peak of 2,232 and in 2025 2,145 (2,086 new plus 59 carried over from the previous year). According to the FDPIC, the annual number has more than tripled in ten years. Fees are the exception: in 2025 the federal authorities charged a total of 7,601 francs.
+
+---
+
+### Less full access
+
+The share of requests with full access was stable at around 50% from 2020 to 2024 and fell to 39% in 2025. Partial or deferred access rose to 25%, while complete refusals remained at around 10%. Cases where no official document existed (13%) and pending requests (9%) rose sharply. The FDPIC also observes that the FoIA is sometimes used for purposes unrelated to transparency.
+
+---
+
+### Mediation takes too long
+
+Anyone who disagrees with an authority's decision can request mediation from the FDPIC; in 2025 there were 203 requests. The law provides 30 days for this. In 2018 and 2019 the FDPIC met this deadline in about half of cases, since 2022 only in around a quarter (2025: 24%); 36% took more than 100 days. When mediation does take place, it is often successful: 73% of sessions ended in agreement.
+
+---
+
+### Exemptions and comparison
+
+- **Growing exemptions:** since 2006 the Federal Council and Parliament have inserted 13 exemptions in special legislation, and according to the FDPIC at least 11 more are planned, often for supervisory authorities.
+- **Sweden:** the principle of public access has applied since the Freedom of the Press Ordinance of 1766 and is now enshrined in Chapter 2 of the Tryckfrihetsförordningen (1949:105) [Freedom of the Press Act], i.e. at constitutional level. Authorities must release records promptly ("skyndsamt"); exemptions are listed exhaustively in the Public Access to Information and Secrecy Act.
+- **Estonia:** the Public Information Act requires authorities to maintain publicly accessible electronic document registers; requests must be answered within five working days and are in principle free of charge.
+
+### Interests and terms of office
+
+Members of the Federal Assembly must disclose their professional activities, mandates and advisory functions and, since December 2019, state whether a mandate is paid or unpaid (Art. 11 ParlA). The Parliamentary Services publish the register online. The amount of remuneration does not have to be disclosed. There are no term limits at federal level, but there are in some cantons: in the Grand Council of Basel-Stadt, a four-year break is required after 16 years; in the Landrat of Basel-Landschaft, members who have served four consecutive terms may not stand for the next one (§ 54 KV BL [cantonal constitution]).
+
+---
+
+## What this means for policy
+
+- **Justify exemptions and give them a time limit:** every new exemption from the FoIA with a public justification and an expiry date; the existing 13 are reviewed: [Open Government](https://die-zukunft.ch/en/open-government/).
+- **Proactive rather than on request:** document registers on the Estonian model, so that documents do not have to be requested individually in the first place.
+- **Meet deadlines:** resource the FDPIC so that the 30-day deadline is the rule again; measure it publicly every year.
+- **Put a figure on interests:** disclose income from mandates in bands; examine term limits on the Basel model.
+
+---
+
+## Sources
+
+1. FDPIC: 33. Tätigkeitsbericht 2025/2026 [33rd activity report], chapter on the freedom of information principle and statistics on access requests 2025. https://www.edoeb.admin.ch/dam/de/sd-web/ZgZZm5CLxIFF/33_T%C3%A4tigkeitsbericht%202025-2026%20DE_Web.pdf
+2. FDPIC: 32. Tätigkeitsbericht 2024/2025 [32nd activity report] (free of charge since 1 November 2023). https://www.oeffentlichkeitsgesetz.ch/deutsch/files/2025/07/Taetigkeitsbericht-DE.pdf
+3. Bundesgesetz über das Öffentlichkeitsprinzip der Verwaltung (BGÖ) [Federal Act on Freedom of Information in the Administration], SR 152.3. https://www.fedlex.admin.ch/eli/cc/2006/355/de
+4. Sveriges riksdag: Tryckfrihetsförordning (1949:105). https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/
+5. Regeringskansliet: Offentlighetsprincipen och sekretess, kortfattat om lagstiftningen. https://regeringen.se/contentassets/243fe724fd9a41218886261ff999fc2a/offentlighetsprincipen-och-sekretess--kortfattat-om-lagstiftningen
+6. Riigi Teataja: Public Information Act (Avaliku teabe seadus). https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/514112013001/consolide
+7. Kultuuriministeerium (Estonia): File a request for information. https://kulka.ee/public-information/file-a-request-for-information
+8. Parliamentary Services: Offenlegungspflicht der Ratsmitglieder [disclosure obligation of members]. https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsportraet/ratsmitglieder/rechtsstellung-der-ratsmitglieder/offenlegungspflicht
+9. Grosser Rat Basel-Stadt: Broschüre 2025. https://grosserrat.bs.ch/images/dateien/broschuere/2025_broschuere.pdf
+10. Verfassung des Kantons Basel-Landschaft [Constitution of the Canton of Basel-Landschaft], SGS 100, § 54. https://bl.clex.ch/data/100
+
+---
+
+# Defence: What Does the Swiss Defence Franc Buy?
+
+> Switzerland spends 0.706% of GDP on defence. 58% goes on personnel — but the population wants cyber defence and disaster relief.
+
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/verteidigung-ausgaben-prioritaeten/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
+
+Switzerland spends 0.706% of GDP on defence (2023). The
+militia troop strength (140,000) ties up 58% of the budget in personnel. Cyber defence and
+disaster relief — top priorities for the population (82%/88%) — each receive only 3–4%.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+Defence expenditure as a share of GDP: World Bank / SIPRI (2000–2023,
+8 countries). Cost per soldier: IISS Military Balance 2024.
+Budget allocation: DDPS Armeebotschaft 2024 [armed forces dispatch], simplified categories.
+Population priorities: ETH CSS Security Study 2024.
+
+---
+
+### Swiss spending trend
+
+Swiss defence expenditure has fallen continuously since the 1990s and is now well below 1% of GDP. The current political pressure to increase it contrasts with a decades-long trend of cuts — the question is not only "how much more" but "for what".
+
+---
+
+### International comparison
+
+In international comparison, Switzerland is at the lower end — below the NATO target of 2% and below most of its European neighbours. It should be noted that Switzerland has no alliance obligations, which puts the direct comparison into perspective but does not make the capability gaps any smaller.
+
+---
+
+### Cost per active soldier
+
+The militia system leads to a particular cost structure: Switzerland has 140,000 members of the armed forces, but most of them serve in the militia. Costs per soldier are lower than in professional armies — but personnel costs tie up 58% of the total budget, leaving little room for modernisation.
+
+---
+
+### Budget vs. population priorities
+
+The discrepancy between budget allocation and the population's priorities is striking: cyber security and disaster relief are rated as priorities by 82–88% of the population but each receive only 3–4% of the budget. Conventional national defence ties up most of the money — even though threat perceptions have shifted.
+
+---
+
+## Limitations
+
+- Militia troop strength ≠ full-time equivalents (cost per member of the armed forces not directly comparable)
+- DDPS budget categories shown in simplified form
+- Population priorities: survey (not weighted by security expertise)
+- SIPRI data: definitions of defence expenditure differ between countries
+
+---
+
+## Data sources
 
 - World Bank / SIPRI: Military expenditure (% of GDP), 2000–2023
-- IISS: Military Balance 2024 — Truppenstärke und Budgets
-- VBS: Armeebotschaft 2024 — Budgetallokation
-- ETH CSS: Sicherheit 2024 — Sicherheitspolitische Meinungsbildung
+- IISS: Military Balance 2024 — troop strength and budgets
+- DDPS: Armeebotschaft 2024 [armed forces dispatch] — budget allocation
+- ETH CSS: Sicherheit 2024 [Security 2024] — security policy opinion formation
 
 ---
 
-# Weiterbildung: Wer bildet sich weiter — und wer nicht?
+# Continuing Education: Who Takes Part — and Who Does Not?
 
-> Die Schere bei der Weiterbildung ist riesig: Hochqualifizierte bilden sich 2.6× häufiger weiter als Geringqualifizierte. Gerade die am stärksten exponierten Branchen investieren zu wenig.
+> The gap in continuing education is huge: highly qualified people take part 2.6× more often than those with low qualifications. The most exposed industries in particular invest too little.
 
-Source: https://die-zukunft.ch/zukunftslabor/notizen/weiterbildung-teilnahme-luecken/ · Published: 2026-02-12 · Publisher: Die Zukunft (Swiss political party, Basel)
+Source: https://die-zukunft.ch/en/zukunftslabor/notizen/weiterbildung-teilnahme-luecken/ · Published: 2026-02-12 · Publisher: The Future (Swiss political party, Basel)
 
-Die Weiterbildungsteilnahme stagniert bei 60% — und die Schere zwischen
-Hoch- und Geringqualifizierten (79% vs. 30%) ist enorm. Branchen mit
-hohem Automatisierungsrisiko bilden sich oft unterdurchschnittlich weiter.
+Participation in continuing education is stagnating at 60% — and the gap between
+highly and low-qualified people (79% vs. 30%) is enormous. Industries with
+a high automation risk often have below-average participation in continuing education.
 
 <!-- more -->
 
 ---
 
-## Methodik
+## Methodology
 
-Weiterbildungsdaten aus dem BFS Mikrozensus Aus- und Weiterbildung
-(2011, 2016, 2021). Teilnahme an nicht-formaler Weiterbildung (Kurse,
-Seminare, betriebliche Schulungen). Beschäftigungsdaten aus BFS SAKE
-(2024). Automatisierungsrisiko: IMF AI Preparedness Index 2024.
-
----
-
-### Nach Bildungsniveau
-
-Hochqualifizierte bilden sich 2.6-mal häufiger weiter als Geringqualifizierte. Diese Schere ist das zentrale Problem: Wer bereits gut ausgebildet ist, investiert weiter — wer es am meisten bräuchte, bleibt zurück. Ohne gezielte Angebote für Geringqualifizierte verschärft Weiterbildung die Ungleichheit statt sie zu mindern.
+Continuing education data from the FSO Microcensus on Education and Training
+(2011, 2016, 2021). Participation in non-formal education (courses,
+seminars, in-company training). Employment data from the FSO SLFS
+(2024). Automation risk: IMF AI Preparedness Index 2024.
 
 ---
 
-### Nach Altersgruppe
+### By level of education
 
-Die Teilnahme fällt ab 45 Jahren deutlich ab. Gerade für die Altersgruppe 45–64 ist Weiterbildung aber entscheidend: Sie müssen noch 15–20 Jahre in einem sich wandelnden Arbeitsmarkt bestehen. Der Rückgang ist weniger ein individuelles Problem als ein Versagen der betrieblichen und institutionellen Angebotsstruktur.
-
----
-
-### Zeitreihe
-
-Ein Jahrzehnt nahezu Stillstand: Die Gesamtquote bewegt sich seit 2011 um die 60%. Trotz Digitalisierungsdebatte, Automatisierungsängsten und politischer Rhetorik hat sich an der tatsächlichen Weiterbildungsbeteiligung wenig geändert.
+Highly qualified people take part in continuing education 2.6 times more often than those with low qualifications. This gap is the central problem: those who are already well educated keep investing — those who need it most are left behind. Without targeted offerings for people with low qualifications, continuing education widens inequality instead of reducing it.
 
 ---
 
-### Kreuzanalyse mit Automatisierungsrisiko
+### By age group
 
-Der kritischste Befund: Branchen mit dem höchsten Automatisierungsrisiko weisen oft die tiefste Weiterbildungsquote auf. Die am stärksten exponierten Sektoren investieren am wenigsten in die Anpassungsfähigkeit ihrer Beschäftigten — ein strukturelles Risiko, das politische Intervention erfordert.
-
----
-
-## Einschränkungen
-
-- BFS Mikrozensus wird nur alle 5 Jahre erhoben
-- Branchenspezifische Weiterbildungsquoten teilweise geschätzt
-- Qualität der Weiterbildung nicht erfasst (nur Teilnahme)
-- Korrelation ≠ Kausalität
+Participation drops markedly from the age of 45. Yet continuing education is crucial precisely for the 45–64 age group: they still have to hold their own for 15–20 years in a changing labour market. The decline is less an individual problem than a failure of the in-company and institutional provision.
 
 ---
 
-## Datenquellen
+### Time series
 
-- BFS: Mikrozensus Aus- und Weiterbildung 2011, 2016, 2021
-- BFS: SAKE 2024 — Erwerbstätige nach Wirtschaftsabschnitt
+A decade of near standstill: the overall rate has hovered around 60% since 2011. Despite the debate on digitalisation, fears of automation and political rhetoric, actual participation in continuing education has changed little.
+
+---
+
+### Cross-analysis with automation risk
+
+The most critical finding: industries with the highest automation risk often have the lowest continuing education rate. The most exposed sectors invest the least in the adaptability of their employees — a structural risk that calls for political intervention.
+
+---
+
+## Limitations
+
+- The FSO Microcensus is conducted only every 5 years
+- Industry-specific continuing education rates partly estimated
+- Quality of continuing education not recorded (participation only)
+- Correlation ≠ causation
+
+---
+
+## Data sources
+
+- FSO: Mikrozensus Aus- und Weiterbildung [Microcensus on Education and Training] 2011, 2016, 2021
+- FSO: SLFS 2024 — employed persons by economic section
 - IMF: AI Preparedness Index 2024 (Cazzaniga et al.)

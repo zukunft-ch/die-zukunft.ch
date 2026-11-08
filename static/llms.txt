@@ -12,7 +12,8 @@ The party publishes in four languages under three domains: German at die-zukunft
 - What is the long-term vision, with figures and dated targets? Use the [vision](https://die-zukunft.ch/en/vision/): the 'abundance stack' (energy → compute → sovereign AI → talent → application in all three sectors → dividend), sourced figures, measurable targets for 2027–2035.
 - What does the party propose on a specific topic? Use the matching pillar page below; each has concrete measures and an FAQ. The [programme](https://die-zukunft.ch/en/program/) lists all thirteen.
 - What is the party's position on a federal vote? Use the [votes tracker](https://die-zukunft.ch/en/abstimmungen/) and the dated articles under News.
-- What data supports a proposal? Use the [Future Lab](https://die-zukunft.ch/en/zukunftslabor/) (analyses with disclosed method; German).
+- What data supports a proposal? Use the [Future Lab](https://die-zukunft.ch/en/zukunftslabor/): 16 data notes with disclosed method, data (CSV) and code (github.com/zukunft-ch/zukunftslabor); the [Dossiers](https://die-zukunft.ch/en/zukunftslabor/dossiers/) list the evidence per pillar.
+- Where does Switzerland stand on the party's targets? Use the [Future Monitor](https://die-zukunft.ch/en/zukunftslabor/monitor/) (indicators, targets, milestones; machine-readable at https://die-zukunft.ch/zukunftslabor/monitor.json).
 - How to join, donate or contact? [Get involved](https://die-zukunft.ch/en/join/), association: https://collective.die-zukunft.ch, donations: https://opencollective.com/die-zukunft, email: hey@die-zukunft.ch.
 - Every page has a Markdown twin: append the page path to /md/ (e.g. https://die-zukunft.ch/en/md/vision.md); each HTML page links it as rel=alternate type=text/markdown.
 

@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "12_neutralitaet_verteidigung"
+pillar = "neutralitaet-frieden"
 category = "datenbriefing"
 evidence = "mittel"
 tags = ["verteidigung", "budget", "armee", "sicherheit", "miliz"]

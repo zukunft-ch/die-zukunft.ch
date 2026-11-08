@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "03_automatisierung_arbeit"
+pillar = "uebergaenge"
 category = "datenbriefing"
 evidence = "mittel"
 tags = ["automatisierung", "ki", "arbeitsmarkt", "branchen", "llm"]
@@ -14,7 +16,7 @@ charts = ["automatisierung_beschaeftigung.svg", "automatisierung_pre_post_llm.sv
 
 LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
 Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
-weniger. ~1271965'000 Stellen unter Post-LLM-Risiko.
+weniger. rund 1,27 Millionen Stellen unter Post-LLM-Risiko.
 
 
 <!-- more -->

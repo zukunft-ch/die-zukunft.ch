@@ -5,4 +5,6 @@
 
 Source: https://die-zukunft.ch/zukunftslabor/ · Publisher: Die Zukunft (Swiss political party, Basel)
 
+- [Dossiers](https://die-zukunft.ch/zukunftslabor/dossiers/): Die Belege hinter jedem unserer dreizehn Pfeiler: Analysen aus dem Zukunftslabor und Messgrössen aus dem Zukunftsmonitor.
 - [Methodik](https://die-zukunft.ch/zukunftslabor/methodik/): Unsere redaktionellen Leitplanken: Evidenzstufen, Korrekturpolitik, Quellentransparenz.
+- [Zukunftsmonitor](https://die-zukunft.ch/zukunftslabor/monitor/): Wo steht die Schweiz bei KI, Robotik, offenem Staat und Talent? Die Messgrössen hinter unserer Vision, mit Quellen, Zielen und nächstem Update.

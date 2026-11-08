@@ -521,10 +521,10 @@
           "Dienstleistungen"
         ],
         "range": [
-          "#ef4444",
-          "#3b82f6",
-          "#f59e0b",
-          "#10b981"
+          "#e11d48",
+          "#c026d3",
+          "#d97706",
+          "#0d9488"
         ]
       },
       "type": "nominal"

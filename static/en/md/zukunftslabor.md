@@ -5,4 +5,6 @@
 
 Source: https://die-zukunft.ch/en/zukunftslabor/ · Publisher: The Future (Swiss political party, Basel)
 
+- [Dossiers](https://die-zukunft.ch/en/zukunftslabor/dossiers/): The evidence behind each of our thirteen pillars: analyses from the Future Lab and indicators from the Future Monitor.
 - [Methodology](https://die-zukunft.ch/en/zukunftslabor/methodik/): Our editorial guardrails: evidence levels, correction policy, source transparency.
+- [Future Monitor](https://die-zukunft.ch/en/zukunftslabor/monitor/): Where does Switzerland stand on AI, robotics, open government and talent? The indicators behind our vision, with sources, targets and next update.

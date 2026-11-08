@@ -26,13 +26,15 @@ active = false
 key = "dossiers"
 icon = "📂"
 title = "Dossiers"
-text = "Analyses approfondies avec données, contexte et propositions d'action concrètes."
-active = false
+text = "Preuves par pilier : analyses et indicateurs pour chacun de nos treize piliers."
+link = "@/zukunftslabor/dossiers.md"
+active = true
 
 [[extra.areas]]
 key = "zahlenraum"
 icon = "📊"
-title = "Espace données"
-text = "Visualisations interactives et tableaux de bord sur les indicateurs clés."
-active = false
+title = "Moniteur du futur"
+text = "Où en est la Suisse en IA, robotique, État ouvert et talents : indicateurs, objectifs, étapes."
+link = "@/zukunftslabor/monitor.md"
+active = true
 +++

@@ -84,8 +84,8 @@
           "Risiko gesunken"
         ],
         "range": [
-          "#ef4444",
-          "#10b981"
+          "#e11d48",
+          "#0d9488"
         ]
       },
       "type": "nominal"

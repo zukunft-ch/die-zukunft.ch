@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "02_digitale_souveraenitaet"
+pillar = "digitale-souveraenitaet"
 category = "datenbriefing"
 evidence = "stark"
 tags = ["digitale-souveraenitaet", "e-government", "open-data", "e-id", "vergleich"]

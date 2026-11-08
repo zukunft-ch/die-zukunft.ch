@@ -7,7 +7,7 @@ Source: https://die-zukunft.ch/zukunftslabor/notizen/automatisierungsrisiko-bran
 
 LLM-fähige KI verschiebt das Automatisierungsrisiko: Bürojobs (Finanz,
 Recht, Verwaltung) sind stärker exponiert als vor 2018, manuelle Berufe
-weniger. ~1271965'000 Stellen unter Post-LLM-Risiko.
+weniger. rund 1,27 Millionen Stellen unter Post-LLM-Risiko.
 
 <!-- more -->
 

@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "05_forschung_innovation"
+pillar = "research-innovation"
 category = "datenbriefing"
 evidence = "stark"
 tags = ["forschung", "innovation", "patente", "oecd", "f-und-e"]

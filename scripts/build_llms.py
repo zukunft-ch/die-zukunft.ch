@@ -259,6 +259,8 @@ def render(p: Page) -> str:
         body = render_vision(p)
     elif t == "index.html":
         body = render_home(p)
+    elif t == "monitor.html":
+        body = render_monitor(p) + "\n" + clean(p.body, p.lang)
     else:
         body = "\n".join(filter(None, [render_sections(p), render_chapters(p), clean(p.body, p.lang), render_faq(p)]))
         if p.is_section and p.dir:
@@ -320,7 +322,8 @@ def llms_txt() -> str:
     L.append(f"- What is the long-term vision, with figures and dated targets? Use the [vision]({vis.url}): the 'abundance stack' (energy → compute → sovereign AI → talent → application in all three sectors → dividend), sourced figures, measurable targets for 2027–2035.")
     L.append(f"- What does the party propose on a specific topic? Use the matching pillar page below; each has concrete measures and an FAQ. The [programme]({prog.url}) lists all thirteen.")
     L.append(f"- What is the party's position on a federal vote? Use the [votes tracker]({url_for('@/abstimmungen.md', 'en')}) and the dated articles under News.")
-    L.append(f"- What data supports a proposal? Use the [Future Lab]({url_for('@/zukunftslabor/_index.md', 'en')}) (analyses with disclosed method; German).")
+    L.append(f"- What data supports a proposal? Use the [Future Lab]({url_for('@/zukunftslabor/_index.md', 'en')}): 16 data notes with disclosed method, data (CSV) and code (github.com/zukunft-ch/zukunftslabor); the [Dossiers]({url_for('@/zukunftslabor/dossiers.md', 'en')}) list the evidence per pillar.")
+    L.append(f"- Where does Switzerland stand on the party's targets? Use the [Future Monitor]({url_for('@/zukunftslabor/monitor.md', 'en')}) (indicators, targets, milestones; machine-readable at https://die-zukunft.ch/zukunftslabor/monitor.json).")
     L.append(f"- How to join, donate or contact? [Get involved]({url_for('@/mitmachen.md', 'en')}), association: https://collective.die-zukunft.ch, donations: https://opencollective.com/die-zukunft, email: hey@die-zukunft.ch.")
     L.append("- Every page has a Markdown twin: append the page path to /md/ (e.g. https://die-zukunft.ch/en/md/vision.md); each HTML page links it as rel=alternate type=text/markdown.\n")
     L.append("## The thirteen pillars\n")
@@ -353,7 +356,34 @@ def llms_txt() -> str:
     return "\n".join(L) + "\n"
 
 
+def write_monitor_json() -> None:
+    """Export data/monitor.toml as /zukunftslabor/monitor.json (CC BY 4.0) for journalists and machines."""
+    import json
+    data = tomllib.loads((ROOT / "data" / "monitor.toml").read_text(encoding="utf-8"))
+    data["licence"] = "CC BY 4.0, https://creativecommons.org/licenses/by/4.0/"
+    data["publisher"] = "Die Zukunft, Zukunftslabor (https://die-zukunft.ch/zukunftslabor/monitor/)"
+    out = STATIC / "zukunftslabor" / "monitor.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(data, ensure_ascii=False, indent=1, default=str), encoding="utf-8")
+
+
+def render_monitor(p: "Page") -> str:
+    import tomllib as _t
+    m = _t.loads((ROOT / "data" / "monitor.toml").read_text(encoding="utf-8"))
+    L = p.lang
+    out = [f"As of {m['updated']}. Data: {BASE['de']}/zukunftslabor/monitor.json (CC BY 4.0).\n"]
+    for i in m["indicator"]:
+        series = ", ".join(f"{int(s['year']) if isinstance(s['year'], int) else s['year']}: {s['value']}" + (" (unconfirmed)" if s.get("uncertain") else "") for s in i["series"])
+        tgt = f" Target: {i['target']['label'][L]}." if i.get("target") else ""
+        note = f" {i['note'][L]}" if i.get("note") else ""
+        out.append(f"- **{i['title'][L]}** ({i['unit'][L]}): {series}.{tgt}{note} Source: {i.get('source', '')}.")
+    out.append("\n## Milestones\n")
+    out += [f"- [{ms['status']}] {ms['text'][L]} ({ms['date']}, {ms['url']})" for ms in m["milestone"]]
+    return "\n".join(out) + "\n"
+
+
 if __name__ == "__main__":
+    write_monitor_json()
     n = write_twins()
     (STATIC / "llms.txt").write_text(llms_txt(), encoding="utf-8")
     (STATIC / "llms-full.txt").write_text(corpus("en"), encoding="utf-8")

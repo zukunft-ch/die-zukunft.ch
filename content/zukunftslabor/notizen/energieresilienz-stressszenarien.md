@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "06_energie_resilienz"
+pillar = "energy-resilience"
 category = "datenbriefing"
 evidence = "stark"
 tags = ["energie", "resilienz", "strom", "szenarien", "infrastruktur"]

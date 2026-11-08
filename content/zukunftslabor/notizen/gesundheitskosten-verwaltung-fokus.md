@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "08_life_science_gesundheit"
+pillar = "life-science"
 category = "datenbriefing"
 evidence = "stark"
 tags = ["gesundheit", "kosten", "verwaltung", "oecd", "effizienz"]

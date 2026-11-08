@@ -1,0 +1,88 @@
++++
+title = "From 16th to 26th: Why Switzerland Is Falling Behind in E-Government"
+description = "In the UN E-Government Development Index, Switzerland fell from 16th (2020) to 23rd (2022) and 26th (2024). Infrastructure and education are strong; the gap lies in the state's online services."
+slug = "egovernment-rang-26"
+date = 2026-11-08
+template = "notiz.html"
+
+[extra]
+code_path = "output/datenbriefings-2026-11/egovernment-rang-26"
+data = "egovernment-rang-26.csv"
+category = "datenbriefing"
+evidence = "stark"
+tags = ["e-government", "open government", "e-id", "egdi", "comparison"]
+charts = ["egov_rang_verlauf.svg", "egov_teilindizes_2024.svg", "egov_osi_komponenten_2024.svg"]
+pillar = "offener-staat"
++++
+
+In the United Nations E-Government Development Index (EGDI), Switzerland fell from 16th place (2020) via 23rd (2022) to 26th (2024) out of 193 countries, even though its index score rose slightly (0.89 to 0.90). Other countries are simply improving faster. In infrastructure and education Switzerland is close to the top; the gap lies almost entirely in the state's online services. The state e-ID, narrowly approved in September 2025, has had no launch date since June 2026.
+
+<!-- more -->
+
+---
+
+## Methodology
+
+The EGDI is the average of three equally weighted sub-indices between 0 and 1: the Online Service Index (OSI, supply and quality of public online services), the Telecommunication Infrastructure Index (TII) and the Human Capital Index (HCI). All values come from the country profiles of the UN E-Government Knowledge Base (surveys 2018–2024). We compare Switzerland, Denmark, Estonia, South Korea, Singapore, Germany and Austria. Important: in 2024 the UN adjusted the methodology (TII with affordability instead of fixed broadband, HCI with an additional e-government literacy component). Absolute values are therefore only partly comparable across years; ranks within a given survey year are comparable.
+
+---
+
+### A decline at a high level
+
+{% chart(spec="egov_rang_verlauf", alt="Switzerland's rank in the UN E-Government Development Index, 2018 to 2024") %}
+Switzerland ranked 15th in 2018, 16th in 2020, 23rd in 2022 and 26th in 2024. Its EGDI score remained almost stable (2020: 0.8907; 2022: 0.8752; 2024: 0.9004). The decline is therefore relative: Switzerland is stagnating, while countries such as Singapore (2022: 12th, 2024: 3rd), Estonia (8th to 2nd) and Germany (22nd to 12th) are making clear gains. Austria fell from 20th to 22nd over the same period.
+{% end %}
+
+---
+
+### The gap lies with the state, not the population
+
+{% chart(spec="egov_teilindizes_2024", alt="EGDI sub-indices 2024 for seven countries") %}
+In telecommunications infrastructure (0.958) and human capital (0.903), Switzerland is among the leading countries. On the Online Service Index, by contrast, it scores only 0.841, compared with 0.999 (Denmark), 0.995 (Estonia), 1.000 (South Korea) and 0.983 (Singapore). Germany (0.924) is also clearly ahead; only Austria (0.838) is similarly weak. Switzerland's OSI was 0.829 in 2020 and 0.768 in 2022. This shows that the networks and education are in place; what is missing is the administration's digital offering.
+{% end %}
+
+---
+
+### Where exactly the Online Service Index loses points
+
+{% chart(spec="egov_osi_komponenten_2024", alt="Components of the Online Service Index 2024: Switzerland, Germany, Denmark, Estonia") %}
+On the institutional framework (strategies, laws), Switzerland, like all comparison countries, achieves the maximum score. The gaps arise in implementation: service provision 0.81 (Estonia 1.00, Denmark 0.99), content 0.89 (Estonia and Denmark 1.00), e-participation 0.82 and above all technology 0.63 (all three comparison countries 0.88). Switzerland, in other words, has the papers but too few end-to-end digital procedures.
+{% end %}
+
+---
+
+### E-ID: approved, but without a launch date
+
+Voters approved the e-ID Act on 28 September 2025 with 50.4% in favour. In February 2026 the Confederation named 1 December 2026 as the launch date. On 30 June 2026 it withdrew this date: because of new AI risks (deepfakes, malware on end devices), online issuance is to be additionally secured. There is no new date; the trust infrastructure is to go into operation in the first half of 2027. The reasons are understandable, but the consequence for the index is clear: without a widely used digital identity, end-to-end online procedures remain the exception.
+
+### What the leading countries do differently
+
+- **A shared data exchange layer:** in Estonia, X-Road connects public and private registers; according to e-Estonia, around 2.2 billion transactions run through it each year. Authorities query data from one another instead of asking the population for it again (once-only).
+- **Digital identity in everyday life:** Singpass has 5 million users and over 41 million transactions per month; with Myinfo, forms are pre-filled automatically.
+- **Digital channel as the default:** in Denmark, residents and businesses are legally required to be able to receive Digital Post; those who cannot communicate digitally continue to receive paper.
+
+Switzerland has a foundation too: since 1 January 2024 the EMBAG (Federal Act on the Use of Electronic Means for the Performance of Official Tasks) has applied, with the principle of "open by default" for government data; the transition period for this ends at the end of 2026.
+
+---
+
+## What this means for policy
+
+- **Make the goal measurable:** back into the top 15 by the 2028 UN survey, measured by the Online Service Index, not by strategy papers: [Open Government](@/offener-staat.md).
+- **Enshrine once-only in law:** data that one authority already holds may not be requested again by another; exchange takes place via documented interfaces (API by default).
+- **E-ID with a timetable:** document the security work openly and publish a binding launch date with milestones.
+- **Meet the EMBAG deadline:** from 2027, publicly report which federal offices actually make their data openly available.
+
+---
+
+## Sources
+
+1. UN DESA, E-Government Knowledge Base: country profile Switzerland (surveys 2020, 2022, 2024). https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland
+2. UN DESA, country profiles Denmark, Estonia, South Korea, Singapore, Germany, Austria (2024 survey). https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/48-Denmark (likewise id/57, 138, 154, 65, 10)
+3. UN DESA: E-Government Survey 2024 (methodology, Technical Appendix). https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024
+4. Federal Council: e-ID Act, popular vote of 28 September 2025. https://www.admin.ch/en/e-id-act
+5. FDJP: Akzeptanz der E-ID mit zusätzlichen Massnahmen stärken [strengthening acceptance of the e-ID with additional measures], 25 February 2026. https://www.ejpd.admin.ch/de/newnsb/L6Nbf7gStnDm
+6. Federal Office of Justice: Neuer Zeitplan für die Einführung der E-ID und der Vertrauensinfrastruktur [new timetable for the introduction of the e-ID and the trust infrastructure], 30 June 2026. https://www.admin.ch/de/newnsb/4ZNYpSk3J1-U
+7. e-Estonia: X-Road. https://e-estonia.com/solutions/interoperability-services/x-road/
+8. GovTech Singapore: Singpass. https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/
+9. Agency for Digital Government (Denmark): Digital Post. https://en.digst.dk/systems/digital-post/
+10. FSO: Open Government Data, EMBAG Art. 10 and Masterplan 2024–2027. https://www.bfs.admin.ch/de/strategie-og-de

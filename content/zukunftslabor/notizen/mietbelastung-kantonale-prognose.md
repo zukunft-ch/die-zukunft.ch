@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "04_wohnen_ungleichheit"
+pillar = "stadte-wohnen"
 category = "datenbriefing"
 evidence = "stark"
 tags = ["wohnen", "mieten", "kantone", "ungleichheit", "prognose"]

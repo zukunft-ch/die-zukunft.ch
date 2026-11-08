@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "07_uebergaenge_weiterbildung"
+pillar = "uebergaenge"
 category = "datenbriefing"
 evidence = "mittel"
 tags = ["weiterbildung", "bildung", "automatisierung", "arbeitsmarkt"]

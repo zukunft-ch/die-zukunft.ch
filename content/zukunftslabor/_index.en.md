@@ -26,13 +26,15 @@ active = false
 key = "dossiers"
 icon = "📂"
 title = "Dossiers"
-text = "Deep-dive analyses with data, context, and concrete policy proposals."
-active = false
+text = "Evidence per pillar: analyses and indicators for each of our thirteen pillars."
+link = "@/zukunftslabor/dossiers.md"
+active = true
 
 [[extra.areas]]
 key = "zahlenraum"
 icon = "📊"
-title = "Data Room"
-text = "Interactive data visualisations and dashboards on key indicators."
-active = false
+title = "Future Monitor"
+text = "Where Switzerland stands on AI, robotics, open government and talent: indicators, targets, milestones."
+link = "@/zukunftslabor/monitor.md"
+active = true
 +++

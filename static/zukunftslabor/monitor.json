@@ -1,0 +1,563 @@
+{
+ "updated": "2026-11-08",
+ "indicator": [
+  {
+   "id": "robot_density",
+   "pillar": "robotik",
+   "title": {
+    "de": "Roboterdichte in der Industrie",
+    "fr": "Densité de robots dans l'industrie",
+    "it": "Densità di robot nell'industria",
+    "en": "Industrial robot density"
+   },
+   "unit": {
+    "de": "Roboter je 10'000 Beschäftigte",
+    "fr": "robots pour 10'000 employés",
+    "it": "robot ogni 10'000 addetti",
+    "en": "robots per 10,000 employees"
+   },
+   "target": {
+    "value": 600,
+    "year": 2035,
+    "label": {
+     "de": "rund 600 bis 2035",
+     "fr": "env. 600 d'ici 2035",
+     "it": "circa 600 entro il 2035",
+     "en": "about 600 by 2035"
+    }
+   },
+   "next": "IFR World Robotics, Herbst 2027",
+   "series": [
+    {
+     "year": 2016,
+     "value": 128,
+     "url": "https://ifr.org/news/robot-density-rises-globally/"
+    },
+    {
+     "year": 2020,
+     "value": 181,
+     "uncertain": true,
+     "url": "https://www.netzwoche.ch/news/2021-12-15/globale-roboterdichte-schweiz-unter-den-top-20"
+    },
+    {
+     "year": 2022,
+     "value": 296,
+     "uncertain": true,
+     "url": "https://ifr.org/ifr-press-releases/news/global-robotics-race-korea-singapore-and-germany-in-the-lead"
+    },
+    {
+     "year": 2024,
+     "value": 294,
+     "url": "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas"
+    }
+   ],
+   "compare": [
+    {
+     "label": "KR",
+     "value": 1220
+    },
+    {
+     "label": "SG",
+     "value": 818
+    },
+    {
+     "label": "DE",
+     "value": 449
+    },
+    {
+     "label": "JP",
+     "value": 446
+    },
+    {
+     "label": "EU-27",
+     "value": 231
+    }
+   ],
+   "source": "IFR World Robotics",
+   "note": {
+    "de": "2024 neue chinesische Beschäftigtendaten bei der IFR: Vergleich mit früheren Jahren nur bedingt möglich.",
+    "fr": "En 2024, l'IFR utilise de nouvelles données chinoises sur l'emploi : comparaison avec les années précédentes limitée.",
+    "it": "Nel 2024 l'IFR usa nuovi dati cinesi sull'occupazione: confronto con gli anni precedenti limitato.",
+    "en": "In 2024 the IFR switched to new Chinese employment data, so comparisons with earlier years are limited."
+   }
+  },
+  {
+   "id": "egdi_rank",
+   "pillar": "offener-staat",
+   "lower_is_better": true,
+   "title": {
+    "de": "E-Government-Rang (UNO)",
+    "fr": "Rang e-gouvernement (ONU)",
+    "it": "Rango e-government (ONU)",
+    "en": "E-Government rank (UN)"
+   },
+   "unit": {
+    "de": "Rang von 193 Staaten",
+    "fr": "rang sur 193 États",
+    "it": "rango su 193 Stati",
+    "en": "rank of 193 countries"
+   },
+   "target": {
+    "value": 10,
+    "year": 2030,
+    "label": {
+     "de": "unter den besten 10 bis 2030",
+     "fr": "dans le top 10 d'ici 2030",
+     "it": "nei primi 10 entro il 2030",
+     "en": "top 10 by 2030"
+    }
+   },
+   "next": "UN E-Government Survey 2026",
+   "series": [
+    {
+     "year": 2003,
+     "value": 8
+    },
+    {
+     "year": 2008,
+     "value": 12
+    },
+    {
+     "year": 2010,
+     "value": 18
+    },
+    {
+     "year": 2012,
+     "value": 15
+    },
+    {
+     "year": 2014,
+     "value": 30
+    },
+    {
+     "year": 2016,
+     "value": 28
+    },
+    {
+     "year": 2018,
+     "value": 15
+    },
+    {
+     "year": 2020,
+     "value": 16
+    },
+    {
+     "year": 2022,
+     "value": 23
+    },
+    {
+     "year": 2024,
+     "value": 26
+    }
+   ],
+   "url": "https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/166-Switzerland/dataYear/2024",
+   "source": "UN DESA, E-Government Survey",
+   "note": {
+    "de": "Der Rang ist relativ: Der Index-Wert der Schweiz stieg 2024, andere Staaten wurden schneller besser.",
+    "fr": "Le rang est relatif : le score suisse a augmenté en 2024, d'autres pays ont progressé plus vite.",
+    "it": "Il rango è relativo: il punteggio svizzero è salito nel 2024, altri Paesi sono migliorati più in fretta.",
+    "en": "The rank is relative: Switzerland's score rose in 2024, others improved faster."
+   }
+  },
+  {
+   "id": "public_ai_compute",
+   "pillar": "souveraene-ki",
+   "title": {
+    "de": "Öffentlich zugängliche KI-Rechenkapazität",
+    "fr": "Puissance de calcul IA accessible au public",
+    "it": "Potenza di calcolo IA accessibile al pubblico",
+    "en": "Publicly accessible AI compute"
+   },
+   "unit": {
+    "de": "GPUs im Supercomputer Alps (CSCS)",
+    "fr": "GPU du supercalculateur Alps (CSCS)",
+    "it": "GPU del supercomputer Alps (CSCS)",
+    "en": "GPUs in the Alps supercomputer (CSCS)"
+   },
+   "target": {
+    "value": 107520,
+    "year": 2030,
+    "label": {
+     "de": "zehnmal mehr bis 2030",
+     "fr": "dix fois plus d'ici 2030",
+     "it": "dieci volte di più entro il 2030",
+     "en": "ten times more by 2030"
+    }
+   },
+   "next": "laufend (CSCS, Swiss AI Initiative)",
+   "series": [
+    {
+     "year": 2024,
+     "value": 10752,
+     "url": "https://www.cscs.ch/fileadmin/user_upload/contents_publications/news/news_2024/press-release-alps-supercomputer-inaugurated.pdf"
+    }
+   ],
+   "source": "CSCS",
+   "note": {
+    "de": "Alps ist ein Forschungsrechner des ETH-Bereichs, für Wirtschaft und Verwaltung nicht frei zugänglich. Eine Zielgrösse in GPUs ist eine Annäherung.",
+    "fr": "Alps est un calculateur de recherche du domaine des EPF, pas librement accessible à l'économie ni à l'administration. Une cible en GPU est une approximation.",
+    "it": "Alps è un calcolatore di ricerca del settore dei PF, non liberamente accessibile a economia e amministrazione. Un obiettivo in GPU è un'approssimazione.",
+    "en": "Alps is a research system of the ETH Domain, not freely accessible to business or government. A target in GPUs is an approximation."
+   }
+  },
+  {
+   "id": "alps_top500",
+   "pillar": "souveraene-ki",
+   "lower_is_better": true,
+   "title": {
+    "de": "Alps in der TOP500-Liste",
+    "fr": "Alps dans le classement TOP500",
+    "it": "Alps nella classifica TOP500",
+    "en": "Alps in the TOP500 list"
+   },
+   "unit": {
+    "de": "Rang weltweit",
+    "fr": "rang mondial",
+    "it": "rango mondiale",
+    "en": "world rank"
+   },
+   "next": "TOP500, November 2026",
+   "series": [
+    {
+     "year": 2024,
+     "value": 6
+    },
+    {
+     "year": 2024.5,
+     "value": 7
+    },
+    {
+     "year": 2025,
+     "value": 8
+    },
+    {
+     "year": 2025.5,
+     "value": 8
+    },
+    {
+     "year": 2026,
+     "value": 10
+    }
+   ],
+   "url": "https://top500.org/system/180259/",
+   "source": "TOP500",
+   "note": {
+    "de": "Leistung seit November 2024 unverändert (434.9 PFlop/s); der Rangverlust kommt von neuen Systemen anderswo.",
+    "fr": "Performance inchangée depuis novembre 2024 (434,9 PFlop/s) ; le recul vient de nouveaux systèmes ailleurs.",
+    "it": "Prestazioni invariate da novembre 2024 (434,9 PFlop/s); il calo viene da nuovi sistemi altrove.",
+    "en": "Performance unchanged since November 2024 (434.9 PFlop/s); the drop comes from new systems elsewhere."
+   }
+  },
+  {
+   "id": "dc_electricity_share",
+   "pillar": "energy-resilience",
+   "title": {
+    "de": "Strombedarf der Rechenzentren",
+    "fr": "Électricité consommée par les centres de données",
+    "it": "Elettricità consumata dai data center",
+    "en": "Data-centre electricity use"
+   },
+   "unit": {
+    "de": "% des Schweizer Stromverbrauchs",
+    "fr": "% de la consommation suisse",
+    "it": "% del consumo svizzero",
+    "en": "% of Swiss electricity use"
+   },
+   "next": "BFE, nächste Erhebung",
+   "series": [
+    {
+     "year": 2013,
+     "value": 2.8,
+     "uncertain": true
+    },
+    {
+     "year": 2019,
+     "value": 3.1
+    },
+    {
+     "year": 2024,
+     "value": 3.6
+    }
+   ],
+   "projection": {
+    "year": 2030,
+    "min": 4.3,
+    "max": 6.0
+   },
+   "url": "https://pubdb.bfe.admin.ch/de/publication/download/12677",
+   "source": "BFE / EnergieSchweiz, Grundlagenbericht 2026",
+   "note": {
+    "de": "2024: 2.1 TWh. Bis 2030 erwartet das BFE 4.3 bis 6 Prozent. Effizienzpotenzial rund 0.8 TWh.",
+    "fr": "2024 : 2,1 TWh. D'ici 2030, l'OFEN prévoit 4,3 à 6 %. Potentiel d'efficacité env. 0,8 TWh.",
+    "it": "2024: 2,1 TWh. Entro il 2030 l'UFE prevede dal 4,3 al 6%. Potenziale di efficienza circa 0,8 TWh.",
+    "en": "2024: 2.1 TWh. The SFOE expects 4.3 to 6 percent by 2030. Efficiency potential about 0.8 TWh."
+   }
+  },
+  {
+   "id": "third_country_quota",
+   "pillar": "talent-integration",
+   "title": {
+    "de": "Ausschöpfung der Drittstaaten-Kontingente",
+    "fr": "Utilisation des contingents pour États tiers",
+    "it": "Utilizzo dei contingenti per Stati terzi",
+    "en": "Use of third-country permit quotas"
+   },
+   "unit": {
+    "de": "% der 8'500 Bewilligungen",
+    "fr": "% des 8'500 autorisations",
+    "it": "% degli 8'500 permessi",
+    "en": "% of the 8,500 permits"
+   },
+   "next": "Bundesrat, Entscheid Kontingente 2027 (Ende November)",
+   "series": [
+    {
+     "year": 2020,
+     "value": 64
+    },
+    {
+     "year": 2021,
+     "value": 77
+    },
+    {
+     "year": 2022,
+     "value": 86,
+     "uncertain": true
+    },
+    {
+     "year": 2023,
+     "value": 78
+    },
+    {
+     "year": 2024,
+     "value": 74
+    }
+   ],
+   "url": "https://www.admin.ch/de/newnsb/7HwBjdg5HpBA",
+   "source": "SEM / Bundesrat",
+   "note": {
+    "de": "Die Kontingente werden nicht ausgeschöpft: Der Engpass ist nicht die Zahl der Bewilligungen, sondern die Attraktivität für Spitzenkräfte. Darum fordern wir ein Talent-Visum.",
+    "fr": "Les contingents ne sont pas épuisés : le goulet n'est pas le nombre d'autorisations, mais l'attrait pour les profils de pointe. D'où notre visa talents.",
+    "it": "I contingenti non vengono esauriti: il collo di bottiglia non è il numero di permessi, ma l'attrattività per i talenti di punta. Per questo chiediamo un visto per talenti.",
+    "en": "The quotas are not used up: the bottleneck is not the number of permits but attractiveness to top talent. Hence our talent visa."
+   }
+  },
+  {
+   "id": "ai_use_population",
+   "pillar": "souveraene-ki",
+   "title": {
+    "de": "Nutzung generativer KI in der Bevölkerung",
+    "fr": "Usage de l'IA générative dans la population",
+    "it": "Uso dell'IA generativa nella popolazione",
+    "en": "Use of generative AI in the population"
+   },
+   "unit": {
+    "de": "% der Bevölkerung (15–88)",
+    "fr": "% de la population (15–88)",
+    "it": "% della popolazione (15–88)",
+    "en": "% of the population (15–88)"
+   },
+   "next": "BFS Omnibus 2027",
+   "series": [
+    {
+     "year": 2025,
+     "value": 43
+    }
+   ],
+   "compare": [
+    {
+     "label": "EU-27",
+     "value": 33,
+     "uncertain": true
+    }
+   ],
+   "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36304417/master",
+   "source": "BFS, Internetnutzung in den Haushalten 2025"
+  },
+  {
+   "id": "agriculture_employment",
+   "pillar": "robotik",
+   "title": {
+    "de": "Beschäftigte in der Landwirtschaft",
+    "fr": "Personnes actives dans l'agriculture",
+    "it": "Occupati nell'agricoltura",
+    "en": "People working in agriculture"
+   },
+   "unit": {
+    "de": "Personen",
+    "fr": "personnes",
+    "it": "persone",
+    "en": "people"
+   },
+   "next": "BFS Strukturerhebung 2026",
+   "series": [
+    {
+     "year": 2000,
+     "value": 203793
+    },
+    {
+     "year": 2005,
+     "value": 181092
+    },
+    {
+     "year": 2010,
+     "value": 167462
+    },
+    {
+     "year": 2015,
+     "value": 155304
+    },
+    {
+     "year": 2020,
+     "value": 149521
+    },
+    {
+     "year": 2024,
+     "value": 147876
+    },
+    {
+     "year": 2025,
+     "value": 145628
+    }
+   ],
+   "url": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-0702000000_101/px-x-0702000000_101.px/",
+   "source": "BFS, Landwirtschaftliche Strukturerhebung"
+  },
+  {
+   "id": "manufacturing_share_gdp",
+   "pillar": "robotik",
+   "title": {
+    "de": "Anteil der Industrie an der Wirtschaftsleistung",
+    "fr": "Part de l'industrie dans l'économie",
+    "it": "Quota dell'industria nell'economia",
+    "en": "Manufacturing share of the economy"
+   },
+   "unit": {
+    "de": "% des BIP",
+    "fr": "% du PIB",
+    "it": "% del PIL",
+    "en": "% of GDP"
+   },
+   "next": "BFS Volkswirtschaftliche Gesamtrechnung",
+   "series": [
+    {
+     "year": 2015,
+     "value": 17.9
+    },
+    {
+     "year": 2017,
+     "value": 18.4
+    },
+    {
+     "year": 2019,
+     "value": 19.2
+    },
+    {
+     "year": 2021,
+     "value": 20.7
+    },
+    {
+     "year": 2023,
+     "value": 19.4
+    },
+    {
+     "year": 2024,
+     "value": 19.1
+    }
+   ],
+   "url": "https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=CH",
+   "source": "Weltbank (nationale Gesamtrechnung)"
+  }
+ ],
+ "milestone": [
+  {
+   "id": "ai_infra_strategy",
+   "status": "offen",
+   "target_year": 2027,
+   "date": "2026-05-12",
+   "text": {
+    "de": "Nationale KI-Infrastrukturstrategie: vom Wissenschaftsrat empfohlen, Bundesratsentscheid ausstehend.",
+    "fr": "Stratégie nationale d'infrastructure IA : recommandée par le Conseil de la science, décision du Conseil fédéral en attente.",
+    "it": "Strategia nazionale per l'infrastruttura IA: raccomandata dal Consiglio della scienza, decisione del Consiglio federale in sospeso.",
+    "en": "National AI infrastructure strategy: recommended by the Science Council, Federal Council decision pending."
+   },
+   "url": "https://www.admin.ch/de/newnsb/TuWsKZqat-kRc99SWg_nB"
+  },
+  {
+   "id": "sovereign_ai_motion",
+   "status": "in Arbeit",
+   "date": "2026-03-23",
+   "text": {
+    "de": "Motion für souveräne KI-Infrastruktur von beiden Räten angenommen; der Bundesrat muss eine Vorlage ausarbeiten.",
+    "fr": "Motion pour une infrastructure IA souveraine adoptée par les deux Chambres ; le Conseil fédéral doit présenter un projet.",
+    "it": "Mozione per un'infrastruttura IA sovrana approvata da entrambe le Camere; il Consiglio federale deve presentare un progetto.",
+    "en": "Motion for sovereign AI infrastructure passed by both chambers; the Federal Council must draft legislation."
+   },
+   "url": "https://www.netzwoche.ch/news/2026-03-23/staenderat-sagt-ja-zu-souveraener-ki-infrastruktur"
+  },
+  {
+   "id": "open_model_admin",
+   "status": "in Arbeit",
+   "target_year": 2028,
+   "date": "2026-07-24",
+   "text": {
+    "de": "Offenes Schweizer Modell: Apertus 1.0 (2025) und 1.5 (2026) veröffentlicht; Einsatz in der Bundesverwaltung noch nicht beschlossen.",
+    "fr": "Modèle suisse ouvert : Apertus 1.0 (2025) et 1.5 (2026) publiés ; utilisation dans l'administration fédérale pas encore décidée.",
+    "it": "Modello svizzero aperto: Apertus 1.0 (2025) e 1.5 (2026) pubblicati; uso nell'Amministrazione federale non ancora deciso.",
+    "en": "Open Swiss model: Apertus 1.0 (2025) and 1.5 (2026) released; use in the federal administration not yet decided."
+   },
+   "url": "https://www.cscs.ch/science/computer-science-hpc/2026/apertus-15-building-the-next-generation-of-open-ai-infrastructure"
+  },
+  {
+   "id": "talent_visa",
+   "status": "offen",
+   "target_year": 2027,
+   "date": "2026-05-27",
+   "text": {
+    "de": "Talent-Visum: existiert nicht. Die AIG-Revision (Parlament 2027) erleichtert nur die Stellensuche nach Postdoc und höherer Berufsbildung.",
+    "fr": "Visa talents : inexistant. La révision de la LEI (Parlement 2027) facilite seulement la recherche d'emploi après un postdoc ou une formation supérieure.",
+    "it": "Visto per talenti: non esiste. La revisione della LStrI (Parlamento 2027) facilita solo la ricerca di lavoro dopo postdoc e formazione superiore.",
+    "en": "Talent visa: does not exist. The Foreign Nationals Act revision (Parliament 2027) only eases job search after postdoc and higher vocational education."
+   },
+   "url": "https://www.admin.ch/de/newnsb/CoWK1pRQ0MgU"
+  },
+  {
+   "id": "basic_income_pilot",
+   "status": "offen",
+   "target_year": 2028,
+   "date": "2026-10-19",
+   "text": {
+    "de": "Grundeinkommens-Pilot: keiner in Betrieb. Zürich (2022) und Luzern (2023) an der Urne abgelehnt, Bern verzichtet vorerst.",
+    "fr": "Projet pilote de revenu de base : aucun en cours. Zurich (2022) et Lucerne (2023) l'ont refusé dans les urnes, Berne y renonce pour l'instant.",
+    "it": "Progetto pilota di reddito di base: nessuno in corso. Zurigo (2022) e Lucerna (2023) l'hanno respinto alle urne, Berna vi rinuncia per ora.",
+    "en": "Basic-income pilot: none running. Rejected at the ballot box in Zurich (2022) and Lucerne (2023); Bern has dropped it for now."
+   },
+   "url": "https://www.plattformj.ch/artikel/247726/"
+  },
+  {
+   "id": "e_id",
+   "status": "in Arbeit",
+   "date": "2026-06-30",
+   "text": {
+    "de": "E-ID: 2025 an der Urne angenommen, Einführung verschoben; Vertrauensinfrastruktur ab 1. Halbjahr 2027 geplant.",
+    "fr": "e-ID : acceptée en votation en 2025, introduction reportée ; infrastructure de confiance prévue au 1er semestre 2027.",
+    "it": "Identità elettronica: approvata alle urne nel 2025, introduzione rinviata; infrastruttura di fiducia prevista nel 1° semestre 2027.",
+    "en": "e-ID: approved at the ballot box in 2025, launch postponed; trust infrastructure planned for the first half of 2027."
+   },
+   "url": "https://www.admin.ch/de/newnsb/S-HhoNJa-wbO"
+  },
+  {
+   "id": "ai_regulation",
+   "status": "in Arbeit",
+   "date": "2025-02-12",
+   "text": {
+    "de": "KI-Regulierung: Vernehmlassungsvorlage zur KI-Konvention des Europarats bis Ende 2026 angekündigt, noch nicht eröffnet.",
+    "fr": "Régulation de l'IA : projet de consultation sur la Convention du Conseil de l'Europe annoncé pour fin 2026, pas encore ouvert.",
+    "it": "Regolamentazione dell'IA: progetto di consultazione sulla Convenzione del Consiglio d'Europa annunciato per fine 2026, non ancora aperto.",
+    "en": "AI regulation: consultation draft on the Council of Europe convention announced for end of 2026, not yet opened."
+   },
+   "url": "https://www.bj.admin.ch/de/kuenstliche-intelligenz"
+  }
+ ],
+ "licence": "CC BY 4.0, https://creativecommons.org/licenses/by/4.0/",
+ "publisher": "Die Zukunft, Zukunftslabor (https://die-zukunft.ch/zukunftslabor/monitor/)"
+}

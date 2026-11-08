@@ -26,13 +26,15 @@ active = true
 key = "dossiers"
 icon = "📂"
 title = "Dossiers"
-text = "Vertiefte Analysen mit Daten, Kontext und konkreten Handlungsvorschlägen."
-active = false
+text = "Belege pro Pfeiler: Analysen und Messgrössen zu jedem unserer dreizehn Pfeiler."
+link = "@/zukunftslabor/dossiers.md"
+active = true
 
 [[extra.areas]]
 key = "zahlenraum"
 icon = "📊"
-title = "Zahlenraum"
-text = "Interaktive Datenvisualisierungen und Dashboards zu Schlüsselindikatoren."
-active = false
+title = "Zukunftsmonitor"
+text = "Wo die Schweiz bei KI, Robotik, offenem Staat und Talent steht: Indikatoren, Ziele, Meilensteine."
+link = "@/zukunftslabor/monitor.md"
+active = true
 +++

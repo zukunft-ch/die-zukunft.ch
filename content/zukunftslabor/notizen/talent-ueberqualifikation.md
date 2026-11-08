@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "10_talent_migration"
+pillar = "talent-integration"
 category = "datenbriefing"
 evidence = "mittel"
 tags = ["migration", "talent", "ueberqualifikation", "arbeitsmarkt", "integration"]

@@ -6,6 +6,8 @@ date = 2026-02-12
 template = "notiz.html"
 
 [extra]
+notebook = "01_grundeinkommen"
+pillar = "grundeinkommen"
 category = "datenbriefing"
 evidence = "mittel"
 tags = ["grundeinkommen", "finanzierung", "einkommen", "ungleichheit", "simulation"]

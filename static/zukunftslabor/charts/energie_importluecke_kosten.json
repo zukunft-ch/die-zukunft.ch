@@ -50,10 +50,10 @@
           "D: Trockenjahr + Atomausstieg"
         ],
         "range": [
-          "#6b7280",
-          "#f59e0b",
-          "#3b82f6",
-          "#ef4444"
+          "#64748b",
+          "#d97706",
+          "#c026d3",
+          "#e11d48"
         ]
       },
       "type": "nominal"
