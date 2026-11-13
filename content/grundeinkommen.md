@@ -1,9 +1,10 @@
 +++
 title = "Grundeinkommen"
-description = "Das Grundeinkommen als Automatisierungsdividende: Stabilität, Freiheit, Vereinfachung."
+description = "Das Grundeinkommen als Automatisierungsdividende, die KI-Dividende für alle: Stabilität, Freiheit, Vereinfachung."
 template = "grundeinkommen.html"
 
 [extra]
+keywords = ["KI-Dividende", "Automatisierungsdividende", "bedingungsloses Grundeinkommen", "BGE", "Grundeinkommen Schweiz", "AI dividend", "Grundwohlstand", "Universal Basic Wealth"]
 show_cta = true
 cta_text = "Überzeugt? Setz dich mit uns für ein Grundeinkommen ein."
 faq_title = "Häufige Fragen"
@@ -16,6 +17,7 @@ faq = [
   { q = "Was passiert mit bestehenden Sozialleistungen?", a = "Das Grundeinkommen ersetzt und vereinfacht bestehende Transferleistungen. Es geht nicht darum, mehr draufzupacken, sondern das System einfacher, transparenter und gerechter zu machen." },
   { q = "Warum ein Pilot und nicht gleich einführen?", a = "Weil wir pragmatisch sind. Ein bundesweiter Pilot vergleicht Modelle (UBI, Negative Income Tax, Hybrid), misst Wirkung und schafft eine solide Entscheidungsgrundlage – statt Ideologie." },
   { q = "Was wird gemessen?", a = "Drei Kernbereiche: Wohlbefinden und Sicherheit (Existenzstress, Stabilität), Gründungen und Unternehmertum, sowie Bürokratiekosten und Verwaltungsaufwand." },
+  { q = "Was ist das langfristige Ziel?", a = "Das Grundeinkommen ist das Fundament, nicht das Ziel. Langfristig geht es um Grundwohlstand für alle (Universal Basic Wealth): Wenn KI und Robotik Energie, Güter und Dienstleistungen immer günstiger machen, wird ein guter Lebensstandard zur Selbstverständlichkeit, so verfügbar wie heute Strom oder Trinkwasser. Wohlstand wird vom knappen Gut zur Grundversorgung. Das ist eine Richtung, kein Versprechen mit Datum: Der Weg dorthin führt über Rechenkraft, Produktion im Land, tiefere Kosten im Alltag und eine Dividende, die alle erreicht." },
 ]
 
 # Calculator
@@ -64,7 +66,7 @@ sources_col_source = "Quelle"
 
 [[extra.sections]]
 title = "Die Automatisierungsdividende"
-text = "Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil dieser Dividende an die Gesellschaft zurückfliessen. Das Grundeinkommen ist kein Almosen — es ist eine strukturelle Antwort auf eine strukturelle Veränderung."
+text = "Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil dieser Dividende an die Gesellschaft zurückfliessen. Das Grundeinkommen ist kein Almosen — es ist eine strukturelle Antwort auf eine strukturelle Veränderung. Man kann sie auch KI-Dividende nennen: der Anteil an den Produktivitätsgewinnen aus KI und Robotik, der alle erreicht."
 
 [[extra.sections]]
 title = "Was es ermöglicht"

@@ -1,10 +1,11 @@
 +++
 title = "Reddito di base"
 slug = "reddito-di-base"
-description = "Il reddito di base come dividendo dell'automazione: stabilità, libertà, semplificazione."
+description = "Il reddito di base come dividendo dell'automazione, il dividendo dell'IA per tutti: stabilità, libertà, semplificazione."
 template = "grundeinkommen.html"
 
 [extra]
+keywords = ["dividendo dell'IA", "dividendo dell'automazione", "reddito di base incondizionato", "reddito di base Svizzera", "AI dividend", "benessere di base", "Universal Basic Wealth"]
 show_cta = true
 cta_text = "Convinto/a? Impegnati con noi per un reddito di base."
 faq_title = "Domande frequenti"
@@ -17,6 +18,7 @@ faq = [
   { q = "Cosa succede con le prestazioni sociali esistenti?", a = "Il reddito di base sostituisce e semplifica i trasferimenti esistenti. Non si tratta di aggiungere altro, ma di rendere il sistema più semplice, più trasparente e più equo." },
   { q = "Perché un progetto pilota e non un'introduzione diretta?", a = "Perché siamo pragmatici. Un pilota federale confronta i modelli (RBI, imposta negativa, ibrido), misura l'impatto e crea una base decisionale solida – invece dell'ideologia." },
   { q = "Cosa viene misurato?", a = "Tre ambiti chiave: benessere e sicurezza (stress esistenziale, stabilità), creazione di imprese e imprenditorialità, nonché costi burocratici e onere amministrativo." },
+  { q = "Qual è l'obiettivo a lungo termine?", a = "Il reddito di base è il fondamento, non il traguardo. A lungo termine si tratta di un benessere di base per tutti (Universal Basic Wealth): se IA e robotica rendono energia, beni e servizi sempre più convenienti, un buon tenore di vita diventa una cosa ovvia, disponibile come oggi l'elettricità o l'acqua potabile. Il benessere passa da bene scarso a servizio di base. È una direzione, non una promessa con una data: la strada passa per la potenza di calcolo, la produzione nel Paese, costi quotidiani più bassi e un dividendo che raggiunge tutti." },
 ]
 
 # Calculator
@@ -65,7 +67,7 @@ sources_col_source = "Fonte"
 
 [[extra.sections]]
 title = "Il dividendo dell'automazione"
-text = "Quando le macchine producono una quota crescente del valore aggiunto, una parte di questo dividendo deve tornare alla società. Il reddito di base non è un'elemosina — è una risposta strutturale a un cambiamento strutturale."
+text = "Quando le macchine producono una quota crescente del valore aggiunto, una parte di questo dividendo deve tornare alla società. Il reddito di base non è un'elemosina — è una risposta strutturale a un cambiamento strutturale. Lo si può chiamare anche dividendo dell'IA: la quota dei guadagni di produttività di IA e robotica che raggiunge tutti."
 
 [[extra.sections]]
 title = "Cosa rende possibile"

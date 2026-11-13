@@ -1,10 +1,11 @@
 +++
 title = "Revenu de base"
 slug = "revenu-de-base"
-description = "Le revenu de base comme dividende de l'automatisation : stabilité, liberté, simplification."
+description = "Le revenu de base comme dividende de l'automatisation, le dividende de l'IA pour tous : stabilité, liberté, simplification."
 template = "grundeinkommen.html"
 
 [extra]
+keywords = ["dividende de l'IA", "dividende de l'automatisation", "revenu de base inconditionnel", "RBI", "revenu de base Suisse", "AI dividend", "prospérité de base", "Universal Basic Wealth"]
 show_cta = true
 cta_text = "Convaincu·e ? Engage-toi avec nous pour un revenu de base."
 faq_title = "Questions fréquentes"
@@ -17,6 +18,7 @@ faq = [
   { q = "Qu'advient-il des prestations sociales existantes ?", a = "Le revenu de base remplace et simplifie les transferts existants. Il ne s'agit pas d'en rajouter, mais de rendre le système plus simple, plus transparent et plus juste." },
   { q = "Pourquoi un projet pilote plutôt qu'une introduction directe ?", a = "Parce que nous sommes pragmatiques. Un pilote fédéral compare les modèles (RBI, impôt négatif, hybride), mesure l'impact et crée une base de décision solide – plutôt que de l'idéologie." },
   { q = "Que mesure-t-on ?", a = "Trois domaines clés : bien-être et sécurité (stress existentiel, stabilité), créations d'entreprises et entrepreneuriat, ainsi que coûts bureaucratiques et charge administrative." },
+  { q = "Quel est l'objectif à long terme ?", a = "Le revenu de base est le socle, pas le but. À long terme, il s'agit d'une prospérité de base pour tous (Universal Basic Wealth) : si l'IA et la robotique rendent l'énergie, les biens et les services toujours moins chers, un bon niveau de vie devient une évidence, aussi disponible que l'électricité ou l'eau potable aujourd'hui. La prospérité passe du bien rare au service de base. C'est une direction, pas une promesse datée : le chemin passe par la puissance de calcul, la production dans le pays, des coûts du quotidien plus bas et un dividende qui atteint tout le monde." },
 ]
 
 # Calculator
@@ -65,7 +67,7 @@ sources_col_source = "Source"
 
 [[extra.sections]]
 title = "Le dividende de l'automatisation"
-text = "Quand les machines produisent une part croissante de la valeur ajoutée, une partie de ce dividende doit revenir à la société. Le revenu de base n'est pas une aumône — c'est une réponse structurelle à un changement structurel."
+text = "Quand les machines produisent une part croissante de la valeur ajoutée, une partie de ce dividende doit revenir à la société. Le revenu de base n'est pas une aumône — c'est une réponse structurelle à un changement structurel. On peut aussi l'appeler dividende de l'IA : la part des gains de productivité de l'IA et de la robotique qui atteint tout le monde."
 
 [[extra.sections]]
 title = "Ce qu'il permet"

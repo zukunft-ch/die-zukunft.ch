@@ -2,7 +2,7 @@
 
 > Programm, Manifest, Vision und Beiträge von Die Zukunft, einer neuen Schweizer Partei aus Basel. Deutsch ist die Originalsprache. Lizenz: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Bitte zitieren als: Die Zukunft, <Seitentitel>, <URL>.
 
-Generated 2026-11-08 from the site's content.
+Generated 2026-11-13 from the site's content.
 
 ---
 
@@ -682,13 +682,13 @@ Evidenzbasiert und case-by-case: auf Basis von Daten statt Ideologie. Regulierun
 
 # Grundeinkommen
 
-> Das Grundeinkommen als Automatisierungsdividende: Stabilität, Freiheit, Vereinfachung.
+> Das Grundeinkommen als Automatisierungsdividende, die KI-Dividende für alle: Stabilität, Freiheit, Vereinfachung.
 
 Source: https://die-zukunft.ch/grundeinkommen/ · Publisher: Die Zukunft (Swiss political party, Basel)
 
 ## Die Automatisierungsdividende
 
-Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil dieser Dividende an die Gesellschaft zurückfliessen. Das Grundeinkommen ist kein Almosen — es ist eine strukturelle Antwort auf eine strukturelle Veränderung.
+Wenn Maschinen einen wachsenden Teil der Wertschöpfung erbringen, muss ein Teil dieser Dividende an die Gesellschaft zurückfliessen. Das Grundeinkommen ist kein Almosen — es ist eine strukturelle Antwort auf eine strukturelle Veränderung. Man kann sie auch KI-Dividende nennen: der Anteil an den Produktivitätsgewinnen aus KI und Robotik, der alle erreicht.
 
 ## Was es ermöglicht
 
@@ -737,6 +737,9 @@ Weil wir pragmatisch sind. Ein bundesweiter Pilot vergleicht Modelle (UBI, Negat
 
 **Was wird gemessen?**  
 Drei Kernbereiche: Wohlbefinden und Sicherheit (Existenzstress, Stabilität), Gründungen und Unternehmertum, sowie Bürokratiekosten und Verwaltungsaufwand.
+
+**Was ist das langfristige Ziel?**  
+Das Grundeinkommen ist das Fundament, nicht das Ziel. Langfristig geht es um Grundwohlstand für alle (Universal Basic Wealth): Wenn KI und Robotik Energie, Güter und Dienstleistungen immer günstiger machen, wird ein guter Lebensstandard zur Selbstverständlichkeit, so verfügbar wie heute Strom oder Trinkwasser. Wohlstand wird vom knappen Gut zur Grundversorgung. Das ist eine Richtung, kein Versprechen mit Datum: Der Weg dorthin führt über Rechenkraft, Produktion im Land, tiefere Kosten im Alltag und eine Dividende, die alle erreicht.
 
 ---
 
