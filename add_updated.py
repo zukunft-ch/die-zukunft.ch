@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import glob, os
-content_dir = "/Users/zara/Development/github.com/zukunft-ch/die-zukunft.ch/content"
+content_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content")
 files = sorted(glob.glob(os.path.join(content_dir, "*.md")))
 for f in files:
     with open(f, "r") as fh:

@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const dir = "/Users/zara/Development/github.com/zukunft-ch/die-zukunft.ch/content";
+const dir = path.join(__dirname, "content");
 const files = fs.readdirSync(dir).filter(f => f.endsWith(".md")).sort();
 files.forEach(fname => {
   const fp = path.join(dir, fname);
