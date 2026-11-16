@@ -1,0 +1,96 @@
++++
+title = "Conduite automatisée : qui ne conduit pas n'a pas besoin de permis"
+description = "Depuis mars 2025, la loi sur la circulation routière autorise la conduite automatisée, mais aucun véhicule n'est encore homologué. Ce qui s'applique aujourd'hui, ce qui manque, et pourquoi les occupants de véhicules autonomes ne devraient pas avoir besoin d'un permis de conduire."
+slug = "automatisiertes-fahren"
+date = 2026-11-16
+template = "notiz.html"
+
+[extra]
+category = "datenbriefing"
+evidence = "mittel"
+tags = ["automatisiertes-fahren", "mobilitaet", "fuehrerausweis", "svg", "robotik"]
+pillar = "robotik"
+
+[extra.review]
+checked = 2026-11-16
+status = "aktuell"
+note = "Première publication le 16 novembre 2026 ; situation juridique et sources selon l'état à la publication."
+
+[[extra.changelog]]
+date = 2026-11-16
+text = "Première publication."
++++
+
+Depuis le 1er mars 2025, la Suisse dispose d'une base légale pour la conduite automatisée : pilote d'autoroute, véhicules sans conducteur sur des parcours approuvés par un canton et stationnement automatisé. Selon l'Office fédéral des routes (OFROU), aucun véhicule automatisé n'est toutefois encore homologué, et pour la voiture privée, la loi raisonne toujours en termes de conductrices et de conducteurs. Nous proposons deux étapes : les cantons désignent des zones d'exploitation, et la Confédération précise que les occupants d'un véhicule qui roule seul et n'exige aucune reprise en main n'ont pas besoin de permis de conduire.
+
+<!-- more -->
+
+---
+
+## Méthodologie
+
+Cette note résume la situation juridique selon la loi sur la circulation routière (LCR, titre IIa, art. 25a ss) et l'ordonnance sur la conduite automatisée (OCA), sur la base des pages de l'OFROU, du texte de l'ordonnance et d'une analyse juridique. Elle ne contient pas de données de mesure propres. État des essais pilotes selon l'aperçu de l'OFROU de juin 2026. Les propositions finales sont des revendications politiques du parti, pas un avis juridique.
+
+---
+
+### Ce qui s'applique aujourd'hui
+
+- **Pilote d'autoroute :** lorsqu'un système homologué est actif, on peut lâcher le volant sur les autoroutes suisses, mais il faut pouvoir reprendre la main à tout moment. La personne qui conduit ainsi reste conductrice et a besoin d'un permis. Depuis le 1er juillet 2025, ces systèmes font partie de l'examen de conduite.
+- **Véhicules sans conducteur :** ils ne peuvent circuler que sur des parcours approuvés par un canton. Un opérateur les surveille depuis une centrale en Suisse, peut suivre plusieurs véhicules à la fois et doit posséder au moins un permis de catégorie B. Les directives de l'OFROU sur l'approbation des zones d'exploitation s'appliquent depuis le 1er janvier 2026.
+- **Stationnement automatisé :** dans des parkings désignés et signalés, le véhicule peut se garer sans personne au volant.
+
+### Ce qui manque
+
+- **Véhicules :** selon l'OFROU, aucun véhicule automatisé n'est encore homologué pour les routes suisses. La Suisse reconnaît les réceptions par type de l'UE et de la CEE-ONU ; le rythme dépend donc fortement de l'Europe.
+- **Parcours :** il n'existe pas encore de liste publique des zones d'exploitation approuvées. Ce qui circule le fait comme essai pilote avec autorisation exceptionnelle (art. 25h LCR), par exemple l'offre de mobilité de niveau 4 « iamo » dans le Furttal (canton de Zurich) ou des essais de navettes antérieurs à Sion, Schaffhouse et Genève. La Poste prévoit des véhicules hautement automatisés en Suisse orientale.
+- **Véhicules privés :** aujourd'hui, seul un véhicule surveillé sur un parcours approuvé peut rouler sans conducteur, en pratique une flotte avec centrale. Une voiture privée qui roule seule dans une zone approuvée n'est pas prévue ; la personne qui y est assise est considérée comme conductrice dès qu'elle la commande.
+
+### Qui en profite
+
+Le gain tient moins au confort qu'aux personnes qui ne sont pas mobiles aujourd'hui : les personnes âgées qui ont dû rendre leur permis, les personnes avec un handicap visuel ou physique, les jeunes dans des villages sans liaison tardive, toutes celles et ceux qui n'ont jamais appris à conduire. S'y ajoutent les heures creuses et les lignes de rabattement des transports publics, où un bus avec chauffeur coûte trop cher.
+
+### International
+
+- **Convention de Vienne :** la Convention sur la circulation routière de 1968 (RS 0.741.10), à laquelle la Suisse est partie, exigeait un conducteur pour chaque véhicule. Le nouvel article 34bis, en vigueur depuis le 14 juillet 2022, considère cette exigence comme remplie tant qu'un système de conduite automatisée conforme aux règles du pays concerné conduit. Le droit international ne s'oppose donc pas à la suppression du permis.
+- **Allemagne :** depuis 2021, la loi allemande sur la circulation routière (§§ 1d–1l StVG) autorise des véhicules de niveau 4 sans conducteur dans des zones d'exploitation définies, avec une supervision technique hors du véhicule. Selon le Bundestag, le niveau 4 n'y est toutefois pas encore introduit à grande échelle.
+
+---
+
+## Ce que cela signifie pour la politique
+
+**Qui ne conduit pas n'a pas besoin de permis.** Qui conduit soi-même a toujours besoin d'un permis. Ce n'est que lorsque le système assume entièrement la conduite dans une zone approuvée et n'exige aucune reprise en main que les occupants sont des passagers, comme dans le bus ou le train.
+
+- **Cantons :** désigner des zones d'exploitation, d'abord là où les transports publics ont des lacunes (heures creuses, villages, rabattement vers la gare), avec un calendrier et une liste publique. Cela est possible avec des instruments cantonaux, par exemple une initiative individuelle ou populaire dans le canton de Zurich.
+- **Confédération :** modifier la LCR pour que les occupants de tels véhicules n'aient pas besoin de permis et que les véhicules privés puissent aussi rouler de manière automatisée dans des zones approuvées. Cela nécessite une intervention parlementaire (projet ci-dessous).
+- **Responsabilité :** les lésés sont déjà protégés par la responsabilité du détenteur (art. 58 LCR) et l'assurance responsabilité civile obligatoire. Il reste à régler dans la loi le recours contre les fabricants et les exploitants lorsque le système conduisait.
+- **Mesurer :** publier chaque année les zones d'exploitation approuvées, les kilomètres parcourus et les incidents : [Robotique](@/robotik.fr.md).
+
+---
+
+## Projet : motion
+
+**Conduite automatisée sans permis de conduire. Qui ne conduit pas est passager**
+
+Le Conseil fédéral est chargé de soumettre au Parlement une modification de la loi sur la circulation routière afin que :
+
+1. les personnes assises dans un véhicule dont le système d'automatisation assume entièrement la tâche de conduite dans une zone d'exploitation approuvée et n'exige aucune reprise en main ne soient pas considérées comme conductrices et n'aient pas besoin de permis de conduire ;
+2. les véhicules détenus à titre privé équipés de tels systèmes puissent aussi être exploités dans des zones d'exploitation approuvées par les cantons, avec une surveillance proportionnée au risque ;
+3. le recours de l'assureur responsabilité civile contre les fabricants et les exploitants pour les dommages survenus en mode automatisé soit réglé ;
+4. l'OFROU tienne un registre public des zones d'exploitation approuvées, des essais pilotes et des incidents signalés.
+
+*Développement :* depuis le 1er mars 2025, la LCR autorise des véhicules sans conducteur sur des parcours approuvés. Depuis 2022, la Convention de Vienne admet qu'un système de conduite automatisée remplisse l'exigence d'un conducteur. Reste ouverte la question de savoir qui peut prendre place dans le véhicule. Qui ne conduit pas ne devrait pas avoir besoin de permis. Cela ouvre la mobilité aux personnes âgées, aux personnes en situation de handicap et aux jeunes des régions rurales, sans abaisser les exigences de sécurité envers les véhicules.
+
+---
+
+## Sources
+
+1. OFROU (ASTRA) : Automatisiertes Fahren. https://www.astra.admin.ch/de/automatisiertes-fahren
+2. OFROU (ASTRA) : Verordnung über das automatisierte Fahren. https://www.astra.admin.ch/de/verordnung-ueber-das-automatisierte-fahren
+3. OFROU (ASTRA) : Führerlose Fahrzeuge (directives sur l'approbation des zones d'exploitation, en vigueur depuis le 1er janvier 2026). https://www.astra.admin.ch/de/fuehrerlose-fahrzeuge
+4. OFROU (ASTRA) : Pilotversuche. https://www.astra.admin.ch/de/pilotversuche
+5. Ordonnance sur la conduite automatisée (OCA). https://www.fedlex.admin.ch/eli/cc/2025/50/fr
+6. VISCHER : Autonomes Fahren, die Regulierung nach Schweizer Recht (26 février 2026). https://www.vischer.com/de/insights/autonomes-fahren-die-regulierung-nach-schweizer-recht
+7. swissinfo.ch / Keystone-ATS : Was beim automatisierten Fahren in der Schweiz erlaubt ist (17 mai 2026). https://www.swissinfo.ch/ger/was-beim-automatisierten-fahren-in-der-schweiz-erlaubt-ist/91426663
+8. Convention sur la circulation routière du 8 novembre 1968, art. 34bis (en vigueur depuis le 14 juillet 2022), aperçu. https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Traffic
+9. Ministère fédéral allemand des Transports : Gesetz zum autonomen Fahren. https://www.bmv.de/SharedDocs/DE/Artikel/StV/gesetz-zum-autonomen-fahren.html
+10. ADAC : Gesetz zum autonomen Fahren, diese Regeln gelten. https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/recht/gesetz-zum-autonomen-fahren/

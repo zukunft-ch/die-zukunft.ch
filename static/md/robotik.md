@@ -66,6 +66,17 @@ Bis 2035 die Roboterdichte in der Schweizer Industrie verdoppeln, von 294 auf ru
 
 Wir sind pro Automatisierung, wenn sie Menschen entlastet und Produktivität erhöht – mit dem klaren Ziel: mehr Zeit, mehr Freiheit, mehr Wohlstand.
 
+## Mobilität: Wer nicht fährt, braucht keinen Ausweis
+
+Dichte Netze, gepflegte Strassen und präzise Vermessung: Die Schweiz hat gute Voraussetzungen für automatisiertes Fahren. Seit März 2025 erlaubt das Gesetz den Autobahnpiloten, führerlose Fahrzeuge auf kantonal genehmigten Strecken und automatisiertes Parkieren. Zugelassen ist aber noch kein einziges Fahrzeug. Profitieren würden vor allem Menschen, die heute nicht mobil sind: Ältere, die ihren Ausweis abgegeben haben, Menschen mit Behinderung, Junge in Dörfern ohne späte Verbindung.
+
+- Kantone weisen Einsatzbereiche aus, zuerst dort, wo der öffentliche Verkehr Lücken hat: Randzeiten, Dörfer, Zubringer zum Bahnhof
+- Kein Führerausweis für Insassen eines Fahrzeugs, das im genehmigten Bereich selbst fährt und keine Übernahme verlangt. Wer selbst fährt, braucht weiterhin einen Ausweis
+- Auch private Fahrzeuge dürfen in genehmigten Bereichen automatisiert fahren, nicht nur Flotten mit Zentrale
+- Haftung klären: Geschädigte bleiben über die Halterhaftung geschützt, der Rückgriff auf Hersteller und Betreiber wird gesetzlich geregelt
+- Öffentliches Register der genehmigten Strecken, Pilotversuche und Störungen
+- Rechtslage, Quellen und Entwurf einer Motion: Notiz im Zukunftslabor
+
 ## Häufige Fragen
 
 **Nehmen Roboter den Menschen die Arbeit weg?**  
@@ -82,3 +93,6 @@ Mehr lokale Wertschöpfung, kürzere Lieferketten und weniger Abhängigkeit von 
 
 **Braucht es dafür nicht hochqualifizierte Fachkräfte?**  
 Ja — deshalb sind Ausbildungs- und Weiterbildungsprogramme Teil des Pakets. Robotik-Kompetenz darf kein Elitenwissen sein. Geteilte Labs und modulare Kurse machen den Einstieg niederschwellig.
+
+**Braucht man für selbstfahrende Autos keinen Führerausweis mehr?**  
+Wer selbst fährt, braucht weiterhin einen Ausweis. Nur wenn ein Fahrzeug in einem genehmigten Bereich vollständig selbst fährt und niemand übernehmen muss, sind die Insassen Passagiere, wie im Bus. Für sie verlangen wir keinen Ausweis.

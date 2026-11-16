@@ -14,6 +14,7 @@ faq = [
   { q = "What does re-industrialisation mean for Switzerland?", a = "More local value creation, shorter supply chains and less dependence on global disruptions. Production in Switzerland — modern, automated and competitive." },
   { q = "Which sectors should be automated?", a = "Wherever it makes sense: medtech, precision manufacturing, food tech, logistics. Not as an end in itself, but where automation improves quality, efficiency and resilience." },
   { q = "Doesn't this require highly qualified specialists?", a = "Yes — which is why training programmes are part of the package. Robotics expertise must not be elite knowledge. Shared labs and modular courses make entry accessible." },
+  { q = "So will nobody need a driving licence for self-driving cars?", a = "Whoever drives still needs a licence. Only when a vehicle drives itself entirely within an approved area and nobody has to take over are the occupants passengers, as on a bus. For them we want no licence requirement." },
 ]
 
 [[extra.sections]]
@@ -61,5 +62,16 @@ text = "Double robot density in Swiss industry by 2035, from 294 to around 600 r
 [[extra.sections]]
 title = "Automation in the Services Sector"
 text = "We are pro-automation when it relieves people and increases productivity — with the clear goal: more time, more freedom, more prosperity."
-+++
 
+[[extra.sections]]
+title = "Mobility: If You Don't Drive, You Don't Need a Licence"
+text = "Dense networks, well-kept roads and precise mapping: Switzerland is well placed for automated driving. Since March 2025 the law has allowed a motorway pilot, driverless vehicles on routes approved by a canton, and automated parking. Yet not a single vehicle has been approved. Those who would gain most are people who are not mobile today: older people who have given up their licence, people with disabilities, young people in villages without a late connection."
+points = [
+  "Cantons designate operating areas, first where public transport has gaps: off-peak hours, villages, feeders to the station",
+  "No driving licence for occupants of a vehicle that drives itself within an approved area and requires no takeover. Whoever drives still needs a licence",
+  "Private vehicles may also drive automatically within approved areas, not only fleets with a control centre",
+  "Settle liability: injured parties stay protected by the keeper's liability, recourse against manufacturers and operators is set out in law",
+  "A public register of approved routes, pilot projects and incidents",
+  "Legal situation, sources and a draft motion: <a href=\"/en/zukunftslabor/notizen/automatisiertes-fahren/\">Future Lab note</a>",
+]
++++

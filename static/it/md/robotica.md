@@ -66,6 +66,17 @@ Entro il 2035 raddoppiare la densità di robot nell'industria svizzera, da 294 a
 
 Siamo a favore dell'automazione quando alleggerisce le persone e aumenta la produttività – con un obiettivo chiaro: più tempo, più libertà, più prosperità.
 
+## Mobilità: chi non guida non ha bisogno della licenza
+
+Reti fitte, strade ben curate e misurazione precisa: la Svizzera ha buone premesse per la guida automatizzata. Da marzo 2025 la legge consente il pilota autostradale, veicoli senza conducente su percorsi approvati da un Cantone e il parcheggio automatizzato. Ma nessun veicolo è ancora omologato. Ne beneficerebbero soprattutto le persone che oggi non sono mobili: anziani che hanno restituito la licenza, persone con disabilità, giovani in paesi senza collegamenti serali.
+
+- I Cantoni designano aree d'impiego, prima dove i trasporti pubblici hanno lacune: fasce orarie marginali, paesi, collegamenti con la stazione
+- Nessuna licenza per chi viaggia su un veicolo che guida da sé in un'area approvata e non richiede di riprendere il controllo. Chi guida da sé ha ancora bisogno della licenza
+- Anche i veicoli privati possono circolare in modo automatizzato nelle aree approvate, non solo le flotte con centrale
+- Chiarire la responsabilità: i danneggiati restano protetti dalla responsabilità del detentore, il regresso verso costruttori e gestori è disciplinato per legge
+- Un registro pubblico dei percorsi approvati, delle sperimentazioni e degli incidenti
+- Situazione giuridica, fonti e bozza di mozione: nota del Laboratorio del futuro
+
 ## Domande frequenti
 
 **I robot toglieranno il lavoro alle persone?**  
@@ -82,3 +93,6 @@ Ovunque abbia senso: medtech, produzione di precisione, food-tech, logistica. No
 
 **Non servono specialisti altamente qualificati?**  
 Sì — per questo i programmi di formazione fanno parte del pacchetto. La competenza in robotica non deve essere un sapere d'élite. Laboratori condivisi e corsi modulari facilitano l'accesso.
+
+**Per le auto a guida autonoma non servirà più la licenza?**  
+Chi guida da sé ha ancora bisogno della licenza. Solo quando un veicolo guida completamente da sé in un'area approvata e nessuno deve riprendere il controllo, chi è a bordo è passeggero, come in bus. Per loro non chiediamo la licenza.

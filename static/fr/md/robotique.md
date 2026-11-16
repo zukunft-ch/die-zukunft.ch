@@ -66,6 +66,17 @@ D'ici 2035, doubler la densité de robots dans l'industrie suisse, de 294 à env
 
 Nous sommes pour l'automatisation quand elle soulage les gens et augmente la productivité – avec un objectif clair : plus de temps, plus de liberté, plus de prospérité.
 
+## Mobilité : qui ne conduit pas n'a pas besoin de permis
+
+Réseaux denses, routes bien entretenues et mensuration précise : la Suisse est bien placée pour la conduite automatisée. Depuis mars 2025, la loi autorise le pilote d'autoroute, les véhicules sans conducteur sur des parcours approuvés par un canton et le stationnement automatisé. Mais aucun véhicule n'est encore homologué. Celles et ceux qui en profiteraient le plus ne sont pas mobiles aujourd'hui : les aînés qui ont rendu leur permis, les personnes en situation de handicap, les jeunes dans des villages sans liaison tardive.
+
+- Les cantons désignent des zones d'exploitation, d'abord là où les transports publics ont des lacunes : heures creuses, villages, rabattement vers la gare
+- Pas de permis pour les occupants d'un véhicule qui roule seul dans une zone approuvée et n'exige aucune reprise en main. Qui conduit soi-même a toujours besoin d'un permis
+- Les véhicules privés peuvent aussi rouler de manière automatisée dans les zones approuvées, pas seulement les flottes avec centrale
+- Clarifier la responsabilité : les lésés restent protégés par la responsabilité du détenteur, le recours contre les fabricants et les exploitants est réglé dans la loi
+- Un registre public des parcours approuvés, des essais pilotes et des incidents
+- Situation juridique, sources et projet de motion : note du Laboratoire du futur
+
 ## Questions fréquentes
 
 **Les robots vont-ils prendre le travail des gens ?**  
@@ -82,3 +93,6 @@ Partout où cela fait sens : medtech, fabrication de précision, food-tech, logi
 
 **Cela ne nécessite-t-il pas des spécialistes hautement qualifiés ?**  
 Oui — c'est pourquoi des programmes de formation font partie du paquet. La compétence en robotique ne doit pas être un savoir d'élite. Des labs partagés et des cours modulaires facilitent l'accès.
+
+**Plus besoin de permis pour les voitures autonomes ?**  
+Qui conduit soi-même a toujours besoin d'un permis. Ce n'est que lorsqu'un véhicule roule entièrement seul dans une zone approuvée et que personne ne doit reprendre la main que les occupants sont des passagers, comme dans le bus. Pour eux, nous ne demandons pas de permis.

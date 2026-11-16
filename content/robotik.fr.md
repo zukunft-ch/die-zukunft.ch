@@ -14,6 +14,7 @@ faq = [
   { q = "Que signifie la réindustrialisation pour la Suisse ?", a = "Plus de création de valeur locale, des chaînes d'approvisionnement plus courtes et moins de dépendance aux perturbations mondiales. Production en Suisse — moderne, automatisée et compétitive." },
   { q = "Dans quels secteurs faut-il automatiser ?", a = "Partout où cela fait sens : medtech, fabrication de précision, food-tech, logistique. Pas comme une fin en soi, mais là où l'automatisation améliore la qualité, l'efficacité et la résilience." },
   { q = "Cela ne nécessite-t-il pas des spécialistes hautement qualifiés ?", a = "Oui — c'est pourquoi des programmes de formation font partie du paquet. La compétence en robotique ne doit pas être un savoir d'élite. Des labs partagés et des cours modulaires facilitent l'accès." },
+  { q = "Plus besoin de permis pour les voitures autonomes ?", a = "Qui conduit soi-même a toujours besoin d'un permis. Ce n'est que lorsqu'un véhicule roule entièrement seul dans une zone approuvée et que personne ne doit reprendre la main que les occupants sont des passagers, comme dans le bus. Pour eux, nous ne demandons pas de permis." },
 ]
 
 [[extra.sections]]
@@ -61,5 +62,16 @@ text = "D'ici 2035, doubler la densité de robots dans l'industrie suisse, de 29
 [[extra.sections]]
 title = "Automatisation dans le secteur des services"
 text = "Nous sommes pour l'automatisation quand elle soulage les gens et augmente la productivité – avec un objectif clair : plus de temps, plus de liberté, plus de prospérité."
-+++
 
+[[extra.sections]]
+title = "Mobilité : qui ne conduit pas n'a pas besoin de permis"
+text = "Réseaux denses, routes bien entretenues et mensuration précise : la Suisse est bien placée pour la conduite automatisée. Depuis mars 2025, la loi autorise le pilote d'autoroute, les véhicules sans conducteur sur des parcours approuvés par un canton et le stationnement automatisé. Mais aucun véhicule n'est encore homologué. Celles et ceux qui en profiteraient le plus ne sont pas mobiles aujourd'hui : les aînés qui ont rendu leur permis, les personnes en situation de handicap, les jeunes dans des villages sans liaison tardive."
+points = [
+  "Les cantons désignent des zones d'exploitation, d'abord là où les transports publics ont des lacunes : heures creuses, villages, rabattement vers la gare",
+  "Pas de permis pour les occupants d'un véhicule qui roule seul dans une zone approuvée et n'exige aucune reprise en main. Qui conduit soi-même a toujours besoin d'un permis",
+  "Les véhicules privés peuvent aussi rouler de manière automatisée dans les zones approuvées, pas seulement les flottes avec centrale",
+  "Clarifier la responsabilité : les lésés restent protégés par la responsabilité du détenteur, le recours contre les fabricants et les exploitants est réglé dans la loi",
+  "Un registre public des parcours approuvés, des essais pilotes et des incidents",
+  "Situation juridique, sources et projet de motion : <a href=\"/fr/zukunftslabor/notizen/automatisiertes-fahren/\">note du Laboratoire du futur</a>",
+]
++++
