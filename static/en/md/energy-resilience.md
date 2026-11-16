@@ -31,6 +31,18 @@ Where disruptions are costly, we secure components, spare parts and know-how —
 
 Resilience is **engineering**: standards, redundancy, testing, accountability.
 
+## Power from Your Own Neighbourhood
+
+Since 1 January 2026, neighbours, businesses and communes have been allowed to share solar power over the public grid, with a discount on the grid tariff. After six months there are about 1,800 local electricity communities, yet not a single one in some grid areas. Whether one gets started depends on the local utility, and most utilities belong to communes and cantons.
+
+- No setup, joining or exit fees, even before the Confederation requires it
+- Transformer areas and grid levels as a public map, so everyone can see with whom they can form a community
+- Online sign-up in one step, a model contract, billing by the utility at cost
+- Smart meters first where communities are forming, within weeks rather than months
+- School and municipal roofs as producers, open to residents
+- Stay honest: a community is a billing model, not an emergency power supply
+- Rules, examples and figures: Future Lab note
+
 ## Frequently asked questions
 
 **What does 'resilience is engineering' mean?**  

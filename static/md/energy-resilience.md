@@ -31,6 +31,18 @@ Dort, wo Unterbrüche teuer werden, sichern wir Komponenten, Ersatzteile und Kno
 
 Resilienz ist **Engineering**: Standards, Redundanz, Tests, Verantwortlichkeit.
 
+## Strom aus dem eigenen Quartier
+
+Seit dem 1. Januar 2026 dürfen Nachbarn, Betriebe und Gemeinden Solarstrom über das öffentliche Netz teilen, mit Rabatt auf den Netztarif. Nach einem halben Jahr gibt es rund 1'800 lokale Elektrizitätsgemeinschaften, in manchen Netzgebieten aber keine einzige. Ob eine entsteht, hängt vom lokalen Werk ab, und die meisten Werke gehören Gemeinden und Kantonen.
+
+- Keine Einrichtungs-, Ein- oder Austrittsgebühren, schon bevor der Bund es vorschreibt
+- Trafokreise und Netzebenen als öffentliche Karte, damit alle sehen, mit wem sie eine Gemeinschaft bilden können
+- Online-Anmeldung in einem Schritt, Mustervertrag, Abrechnung durch das Werk zu Selbstkosten
+- Smart Meter zuerst dort, wo Gemeinschaften entstehen, innert Wochen statt Monaten
+- Schul- und Gemeindedächer als Produzenten, offen für die Bevölkerung
+- Ehrlich bleiben: Eine Gemeinschaft ist ein Abrechnungsmodell, keine Notstromversorgung
+- Regeln, Beispiele und Zahlen: Notiz im Zukunftslabor
+
 ## Häufige Fragen
 
 **Was heisst 'Resilienz ist Engineering'?**  

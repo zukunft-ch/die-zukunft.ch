@@ -34,5 +34,17 @@ subsections = [
 [[extra.sections]]
 title = "Grundsatz"
 text = "Resilienz ist <strong>Engineering</strong>: Standards, Redundanz, Tests, Verantwortlichkeit."
-+++
 
+[[extra.sections]]
+title = "Strom aus dem eigenen Quartier"
+text = "Seit dem 1. Januar 2026 dürfen Nachbarn, Betriebe und Gemeinden Solarstrom über das öffentliche Netz teilen, mit Rabatt auf den Netztarif. Nach einem halben Jahr gibt es rund 1'800 lokale Elektrizitätsgemeinschaften, in manchen Netzgebieten aber keine einzige. Ob eine entsteht, hängt vom lokalen Werk ab, und die meisten Werke gehören Gemeinden und Kantonen."
+points = [
+  "Keine Einrichtungs-, Ein- oder Austrittsgebühren, schon bevor der Bund es vorschreibt",
+  "Trafokreise und Netzebenen als öffentliche Karte, damit alle sehen, mit wem sie eine Gemeinschaft bilden können",
+  "Online-Anmeldung in einem Schritt, Mustervertrag, Abrechnung durch das Werk zu Selbstkosten",
+  "Smart Meter zuerst dort, wo Gemeinschaften entstehen, innert Wochen statt Monaten",
+  "Schul- und Gemeindedächer als Produzenten, offen für die Bevölkerung",
+  "Ehrlich bleiben: Eine Gemeinschaft ist ein Abrechnungsmodell, keine Notstromversorgung",
+  "Regeln, Beispiele und Zahlen: <a href=\"/zukunftslabor/notizen/lokale-elektrizitaetsgemeinschaften/\">Notiz im Zukunftslabor</a>",
+]
++++

@@ -33,6 +33,17 @@ La collaboration entre l'État, la recherche et l'industrie est importante. Mais
 - Les citoyens méritent le contrôle sur leurs données de santé
 - Innovation et confiance ne sont pas contradictoires – mais des conditions préalables l'une pour l'autre
 
+## Échantillons de laboratoire par drone
+
+En 2017, la Suisse a été l'un des premiers pays à autoriser des vols de drones transportant des échantillons entre hôpitaux. Aujourd'hui, Londres et le Bade-Wurtemberg volent en service régulier, alors qu'en Suisse nous ne trouvons aucune ligne régulière. Les règles existent ; il manque un mandant. La plupart des hôpitaux appartiennent aux cantons et aux communes.
+
+- Les cantons intègrent le transport par drone d'échantillons, de sang et de médicaments urgents dans les mandats de prestations et les appels d'offres de leurs hôpitaux, là où il fait gagner du temps ou de l'argent
+- Un réseau pour plusieurs hôpitaux et laboratoires plutôt que des lignes isolées, avec une seule autorisation de l'OFAC
+- Clarifier à l'avance les sites d'atterrissage sur les toits des hôpitaux (aménagement et bruit)
+- Uniquement des exploitants certifiés, parachutes conformes aux normes, incidents publics
+- Publier chaque année vols, gain de temps et coûts, en comparaison avec les coursiers
+- Historique, comparaison et chiffres : note du Laboratoire du futur
+
 ## Questions fréquentes
 
 **À qui appartiennent les données de santé ?**  

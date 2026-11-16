@@ -33,6 +33,17 @@ La collaborazione tra Stato, ricerca e industria è importante. Ma ogni partners
 - I cittadini meritano il controllo sui propri dati sanitari
 - Innovazione e fiducia non sono in contraddizione – ma prerequisiti l'una dell'altra
 
+## Campioni di laboratorio in drone
+
+Nel 2017 la Svizzera è stata tra i primi Paesi ad autorizzare voli di droni con campioni di laboratorio tra ospedali. Oggi Londra e il Baden-Württemberg volano in servizio di linea, mentre in Svizzera non troviamo una linea regolare. Le regole ci sono; manca un committente. La maggior parte degli ospedali appartiene a Cantoni e Comuni.
+
+- I Cantoni inseriscono il trasporto in drone di campioni, sangue e farmaci urgenti nei mandati di prestazione e nei bandi dei loro ospedali, dove fa risparmiare tempo o denaro
+- Una rete per più ospedali e laboratori invece di linee singole, con un'unica autorizzazione dell'UFAC
+- Chiarire in anticipo i siti di atterraggio sui tetti degli ospedali (pianificazione e rumore)
+- Solo operatori certificati, paracadute conformi alle norme, incidenti pubblici
+- Pubblicare ogni anno voli, tempo risparmiato e costi, a confronto con il corriere
+- Storia, confronto e cifre: nota del Laboratorio del futuro
+
 ## Domande frequenti
 
 **A chi appartengono i dati sanitari?**  

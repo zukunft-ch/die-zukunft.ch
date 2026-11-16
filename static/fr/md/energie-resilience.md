@@ -31,6 +31,18 @@ Là où les interruptions coûtent cher, nous sécurisons composants, pièces de
 
 La résilience est de l'**ingénierie** : standards, redondance, tests, responsabilité.
 
+## L'électricité de son propre quartier
+
+Depuis le 1er janvier 2026, voisins, entreprises et communes peuvent partager du courant solaire via le réseau public, avec un rabais sur le tarif de réseau. Après six mois, on compte environ 1800 communautés électriques locales, mais aucune dans certaines zones de réseau. Qu'une communauté voie le jour dépend du service industriel local, et la plupart appartiennent aux communes et aux cantons.
+
+- Pas de frais de mise en place, d'entrée ou de sortie, avant même que la Confédération l'exige
+- Zones de transformateurs et niveaux de réseau sur une carte publique, pour que chacun voie avec qui former une communauté
+- Inscription en ligne en une étape, contrat type, facturation par le service industriel au prix coûtant
+- Compteurs intelligents d'abord là où des communautés se forment, en quelques semaines plutôt qu'en mois
+- Toits d'écoles et de bâtiments communaux comme producteurs, ouverts à la population
+- Rester honnête : une communauté est un modèle de facturation, pas une alimentation de secours
+- Règles, exemples et chiffres : note du Laboratoire du futur
+
 ## Questions fréquentes
 
 **Que signifie 'la résilience est de l'ingénierie' ?**  

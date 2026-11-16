@@ -675,6 +675,17 @@ Zusammenarbeit zwischen Staat, Forschung und Industrie ist wichtig. Aber jede Pa
 - Bürgerinnen und Bürger verdienen Kontrolle über ihre Gesundheitsdaten
 - Innovation und Vertrauen sind kein Widerspruch – sondern Voraussetzung füreinander
 
+## Laborproben per Drohne
+
+2017 bewilligte die Schweiz als eines der ersten Länder Drohnenflüge mit Laborproben zwischen Spitälern. Heute fliegen London und Baden-Württemberg im Linienbetrieb, in der Schweiz finden wir keine reguläre Route. Die Regeln gibt es; es fehlt ein Auftraggeber. Die meisten Spitäler gehören Kantonen und Gemeinden.
+
+- Kantone nehmen Drohnentransporte für Laborproben, Blut und dringende Medikamente in Leistungsaufträge und Ausschreibungen ihrer Spitäler auf, wo sie Zeit oder Geld sparen
+- Ein Netz für mehrere Spitäler und Labors statt Einzelrouten, mit einer Bewilligung des BAZL
+- Landeplätze auf Spitaldächern raumplanerisch und lärmrechtlich vorab klären
+- Nur zertifizierte Betreiber, Fallschirm nach Norm, Zwischenfälle öffentlich
+- Flüge, Zeitgewinn und Kosten jährlich veröffentlichen, im Vergleich zum Kurier
+- Geschichte, Vergleich und Zahlen: Notiz im Zukunftslabor
+
 ## Häufige Fragen
 
 **Wem gehören die Gesundheitsdaten?**  
@@ -913,6 +924,18 @@ Dort, wo Unterbrüche teuer werden, sichern wir Komponenten, Ersatzteile und Kno
 ## Grundsatz
 
 Resilienz ist **Engineering**: Standards, Redundanz, Tests, Verantwortlichkeit.
+
+## Strom aus dem eigenen Quartier
+
+Seit dem 1. Januar 2026 dürfen Nachbarn, Betriebe und Gemeinden Solarstrom über das öffentliche Netz teilen, mit Rabatt auf den Netztarif. Nach einem halben Jahr gibt es rund 1'800 lokale Elektrizitätsgemeinschaften, in manchen Netzgebieten aber keine einzige. Ob eine entsteht, hängt vom lokalen Werk ab, und die meisten Werke gehören Gemeinden und Kantonen.
+
+- Keine Einrichtungs-, Ein- oder Austrittsgebühren, schon bevor der Bund es vorschreibt
+- Trafokreise und Netzebenen als öffentliche Karte, damit alle sehen, mit wem sie eine Gemeinschaft bilden können
+- Online-Anmeldung in einem Schritt, Mustervertrag, Abrechnung durch das Werk zu Selbstkosten
+- Smart Meter zuerst dort, wo Gemeinschaften entstehen, innert Wochen statt Monaten
+- Schul- und Gemeindedächer als Produzenten, offen für die Bevölkerung
+- Ehrlich bleiben: Eine Gemeinschaft ist ein Abrechnungsmodell, keine Notstromversorgung
+- Regeln, Beispiele und Zahlen: Notiz im Zukunftslabor
 
 ## Häufige Fragen
 
@@ -2303,6 +2326,76 @@ Im Open Data Maturity Report 2025 erreicht die Schweiz 82% (2 Punkte mehr als 20
 
 ---
 
+# Laborproben per Drohne: Die Schweiz war zuerst, jetzt fliegen andere
+
+> 2017 bewilligte die Schweiz als eines der ersten Länder Drohnenflüge mit Laborproben über Städten. Heute fliegen London und Baden-Württemberg Laborproben im Linienbetrieb, und in der Schweiz finden wir keinen. Was die Kantone als Spitaleigentümer tun können.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/drohnen-fuer-spitaeler/ · Published: 2026-11-16 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Im März 2017 bewilligte das Bundesamt für Zivilluftfahrt (BAZL) der Post und Matternet die ersten kommerziellen Drohnenflüge ausser Sichtweite über Städten. In Lugano, Bern und Zürich flogen Drohnen Laborproben zwischen Spitälern. Nach zwei Abstürzen 2019 und wirtschaftlichen Problemen stieg die Post 2022 aus. Heute fliegen Spitäler in London und Baden-Württemberg Proben im Linienbetrieb; für die Schweiz haben wir keinen Nachweis eines regulären Betriebs gefunden. Die Regeln dafür gibt es. Was fehlt, ist ein Auftraggeber, und das können die Kantone als Eigentümer ihrer Spitäler sein.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Grundlage sind die Seiten des BAZL, der Bericht des Bundesrates «Entwicklung und Regulierung von zivilen Drohnen in der Schweiz» vom 20. Dezember 2024, der Schlussbericht der Schweizerischen Sicherheitsuntersuchungsstelle (SUST) zum Absturz in Zürich 2019 sowie Mitteilungen von Betreibern und Spitälern. Zum heutigen Betrieb in der Schweiz gibt es keine öffentliche Statistik; unsere Aussage stützt sich darauf, dass weder Betreiber noch Spitäler oder Behörden für 2025 und 2026 eine laufende Spitalroute ausweisen. Zeit- und Kostenangaben stammen von Betreibern, Spitälern und Presse.
+
+---
+
+### Die Schweizer Pionierzeit
+
+- **2017 Lugano:** Post, der Tessiner Spitalverbund EOC und Matternet fliegen Proben zwischen den Spitälern Civico und Italiano, im ersten Jahr rund 1'300 Flüge.
+- **2018 Bern und Zürich:** Proben vom Tiefenauspital ins Inselspital; über den Zürichsee von der Klinik Im Park zum Zentrallabor, 5,8 km in rund 7 Minuten.
+- **2019 zwei Abstürze:** im Januar in den Zürichsee, im Mai in Zürich-Oberstrass, ohne Verletzte. Die SUST fand Schwächen in der Flugsteuerung und einen durchtrennten Fallschirm. Das BAZL verlangte danach einen normgerechten Fallschirm, tiefere Geschwindigkeit und eine neue Risikobeurteilung.
+- **2020 Neustart, 2022 Ausstieg:** Laut Post kamen Proben in Lugano bis zu 45 Minuten schneller an als per Kurier. 2022 übergab die Post den Betrieb an Matternet, weil er nicht rentierte und Technik und Regulierung einen breiten Einsatz nicht zuliessen. Ende 2022 testete Matternet eine 5-km-Route zwischen den Stadtspitälern Triemli und Waid; einen Dauerbetrieb konnten wir nicht nachweisen.
+
+### Wie andere es heute machen
+
+- **London:** Seit Herbst 2024 fliegen Drohnen Proben zwischen den Labors von Guy's und St Thomas'. Statt über einer halben Stunde im Strassenverkehr dauert der Flug unter zwei Minuten; bis Februar 2026 wurden über 6'000 Proben geflogen.
+- **Baden-Württemberg:** Das Zollernalb Klinikum fliegt seit 2025 Laborproben über rund 20 km bewohntes Gebiet. Sieben Flüge täglich kosten etwa 75'000 Euro im Jahr, der frühere Fahrzeugtransport 180'000 bis 220'000 Euro.
+- **Ruanda:** Zipline-Drohnen liefern Blutkonserven im Schnitt 79 Minuten schneller als der Strassenweg; der Verfall von Blutkonserven sank laut einer Studie in The Lancet Global Health um geschätzt 67 Prozent.
+
+### Was heute gilt
+
+- **Regeln:** Seit 1. Januar 2023 gelten in der Schweiz die EU-Drohnenregeln. Flüge ausserhalb der Sichtweite brauchen eine Betriebsbewilligung des BAZL auf Basis einer Risikobeurteilung (SORA) oder ein Betreiberzertifikat (LUC), mit dem Betreiber Routen selbst freigeben dürfen. Matternet erhielt 2024 als erstes Unternehmen ein solches Zertifikat für Flüge über bewohntem Gebiet.
+- **Luftraum:** Der erste U-Space, ein Luftraum mit digitaler Verkehrsführung für Drohnen, ist im Raum Zürich geplant und soll Ende 2026 starten.
+- **Kantone:** Landeplätze gelten laut Bundesrat als Kleinstbauten, nicht als Flugplätze. Für Raumplanung, Baubewilligung und Lärmbeurteilung sind die Kantone zuständig. Und die meisten Spitäler gehören Kantonen oder Gemeinden.
+
+---
+
+## Was das für die Politik heisst
+
+Der Bund bewilligt Flüge und Luftraum. Ob eine Route entsteht, entscheidet aber, wer sie bestellt und bezahlt, und das sind bei Laborproben meist öffentliche Spitäler.
+
+- **Bestellen:** Der Kanton nimmt Drohnentransporte für Laborproben, Blut und dringende Medikamente in die Leistungsaufträge und Ausschreibungen der Laborlogistik seiner Spitäler auf, wo sie Zeit oder Geld sparen.
+- **Bündeln:** ein Netz für mehrere Spitäler und Labors statt Einzelrouten, damit ein Betreiber eine Bewilligung für ein ganzes Netz beantragen kann.
+- **Vorbereiten:** Landeplätze auf Spitaldächern raumplanerisch und lärmrechtlich vorab klären, damit eine Route nicht an der Baubewilligung scheitert.
+- **Sicherheit zuerst:** nur Betreiber mit Zertifikat, Fallschirm nach Norm und öffentlich gemeldeten Zwischenfällen; die Lehren aus 2019 sind Bedingung, nicht Hindernis.
+- **Messen:** Flüge, Zeitgewinn, Kosten und Zwischenfälle jährlich veröffentlichen, im Vergleich zum Kurier: [Life Science & Gesundheit](https://die-zukunft.ch/life-science/).
+- **Zürich als Start:** Mit dem U-Space Zürich (geplant Ende 2026) eine erste Route zwischen Universitätsspital, Stadtspitälern und Labors anstossen.
+
+---
+
+## Quellen
+
+1. Bundesrat: Entwicklung und Regulierung von zivilen Drohnen in der Schweiz, Bericht in Erfüllung des Postulats 22.4580 (20. Dezember 2024). https://www.parlament.ch/centers/eparl/curia/2022/20224580/Bericht%20BR%20D.pdf
+2. BAZL: Kategorie «speziell». https://www.bazl.admin.ch/en/specific-category
+3. BAZL: U-Space in der Schweiz und U-Space Zürich (Stand März 2026). https://www.bazl.admin.ch/en/u-space-zrh
+4. Post: Factsheet Drohne (Januar 2020). https://www.post.ch/-/media/portal-opp/k/dokumente/factsheet-drohne.pdf
+5. Netzwoche: Postdrohnen fliegen regelmässig über den Zürichsee (17. Dezember 2018). https://www.netzwoche.ch/news/2018-12-17/postdrohnen-fliegen-regelmaessig-ueber-den-zuerichsee
+6. SUST: Schlussbericht Nr. 2390, Unfall Matternet M2 in Zürich am 9. Mai 2019 (6. Juni 2023). https://www.sust.admin.ch/inhalte/AV-berichte/SUI-9903_SB_e.pdf
+7. swissinfo.ch: Swiss Post drone deliveries to resume after crashes (25. Januar 2020). https://www.swissinfo.ch/eng/business/medical-samples_swiss-post-drone-deliveries-to-resume-after-crashes/45517378
+8. IPC: Swiss Post hands over its drone operation to Matternet (1. Juni 2022). https://www.ipc.be/news-portal/general-news/2022/06/02/08/26/swiss-post-hands-over-its-drone-operation-to-matternet
+9. Matternet: Urban drone delivery route connecting hospitals in Zurich (12. Dezember 2022). https://investor.matternet.com/news-events/press-releases/detail/98/matternet-launches-worlds-longest-urban-drone-delivery-route-connecting-hospitals-and-laboratories-in-zurich-switzerland
+10. DroneLife: Matternet receives Swiss certification for advanced drone operations (13. September 2024). https://dronelife.com/2024/09/13/matternet-receives-swiss-certification-for-advanced-drone-operations/
+11. Guy's and St Thomas' NHS Foundation Trust: NHS delivery drones take flight (13. November 2024). https://guysandstthomas.nhs.uk/news/nhs-delivery-drones-take-flight-offering-faster-and-greener-patient-care
+12. VerkehrsRundschau / dpa: Drohnen übernehmen Labortransporte (28. April 2025). https://www.verkehrsrundschau.de/nachrichten/transport-logistik/baden-wuerttemberg-drohnen-uebernehmen-labortransporte-3662882
+13. Nisingizwe et al.: Effect of unmanned aerial vehicle (drone) delivery on blood product delivery time and wastage in Rwanda, The Lancet Global Health (2022). https://doi.org/10.1016/S2214-109X(22)00048-1
+
+---
+
 # Von Rang 16 auf Rang 26: Warum die Schweiz im E-Government zurückfällt
 
 > Im UN-E-Government-Index fiel die Schweiz von Rang 16 (2020) auf 23 (2022) und 26 (2024). Infrastruktur und Bildung sind stark, die Lücke liegt bei den Online-Diensten des Staates.
@@ -2689,6 +2782,85 @@ Unser Modell rechnet statisch. Wie stark Menschen ihr Arbeitsangebot anpassen, z
 - Vivalt, Rhodes, Bartik, Broockman, Krause, Miller: The Employment Effects of a Guaranteed Income, NBER Working Paper 32719 (Juli 2024, revidiert September 2025), https://www.nber.org/papers/w32719
 - Universität Helsinki / Kela: Ergebnisse des finnischen Grundeinkommensexperiments 2017–2018, https://www.helsinki.fi/en/news/fair-society/basic-income-experiment-finland-yields-surprising-results
 - Swissvotes: Volksinitiative «Für ein bedingungsloses Grundeinkommen», 5. Juni 2016, https://swissvotes.ch/vote/601.00/kurzbeschreibung-de.pdf
+
+---
+
+# Strom aus dem eigenen Quartier: Lokale Elektrizitätsgemeinschaften
+
+> Seit dem 1. Januar 2026 dürfen Nachbarn Solarstrom über das öffentliche Netz teilen. Nach einem halben Jahr gibt es rund 1'800 Gemeinschaften, aber in manchen Netzgebieten keine einzige. Was die Gemeinden und ihre Werke ändern können.
+
+Source: https://die-zukunft.ch/zukunftslabor/notizen/lokale-elektrizitaetsgemeinschaften/ · Published: 2026-11-16 · Publisher: Die Zukunft (Swiss political party, Basel)
+
+Mit dem Stromgesetz, das die Stimmberechtigten am 9. Juni 2024 mit 68,7 Prozent angenommen haben, dürfen sich seit dem 1. Januar 2026 Haushalte, Betriebe und Gemeinden zu lokalen Elektrizitätsgemeinschaften (LEG) zusammenschliessen: Strom vom Dach nebenan, über das öffentliche Netz, mit Rabatt auf den Netztarif. Ende Juni 2026 gab es hochgerechnet rund 1'800 LEG, aber sehr ungleich verteilt; in manchen Netzgebieten keine einzige. Ob eine LEG entsteht, hängt heute stark vom lokalen Netzbetreiber ab, und die meisten gehören Gemeinden und Kantonen.
+
+<!-- more -->
+
+---
+
+## Methodik
+
+Die Notiz stützt sich auf das Stromversorgungsgesetz (StromVG Art. 17d und 17e) und die Stromversorgungsverordnung (StromVV Art. 19e–19h, Fassung vom 1. Juli 2026), auf die Erhebung von Swissolar bei den 30 grössten Netzbetreibern (Stand Ende Juni 2026) und auf dokumentierte Praxisbeispiele. Die Zahl von rund 1'800 LEG ist eine Hochrechnung von Swissolar aus 1'323 erfassten Gemeinschaften, die etwa 71 Prozent der Bevölkerung abdecken. Spar-Beispiele stammen teils von Initianten oder Werken und sind keine unabhängigen Messungen.
+
+---
+
+### Was eine LEG ist
+
+- **Wer:** Endverbraucher, Produzenten erneuerbarer Energie und Speicherbetreiber im selben Netzgebiet, auf derselben Netzebene (bis 36 kV), örtlich nah, höchstens innerhalb einer Gemeinde. Eine Mindest- oder Höchstzahl an Mitgliedern gibt es nicht.
+- **Bedingung:** Die Produktionsleistung muss mindestens 5 Prozent der Anschlussleistung der beteiligten Verbraucher betragen. Alle brauchen einen Smart Meter des Netzbetreibers, eine schriftliche Vereinbarung und eine Vertretung gegenüber dem Werk.
+- **Rabatt:** 40 Prozent auf den Netznutzungstarif für den Strom, der innerhalb der LEG fliesst, oder 20 Prozent, wenn dafür eine Transformation zwischen Spannungsebenen nötig ist. Das Gesetz erlaubt bis zu 60 Prozent. Systemdienstleistungen, Stromreserve, Netzzuschlag und Abgaben sind nicht rabattiert.
+- **Abgrenzung:** Ein Zusammenschluss zum Eigenverbrauch (ZEV, seit 2018; virtueller ZEV seit 2025) teilt Strom über private Leitungen und zahlt dafür gar kein Netzentgelt, ist aber auf ein Areal beschränkt. Die LEG reicht über das Quartier bis zur Gemeindegrenze.
+
+### Was es bringt
+
+Ein Medianhaushalt zahlt 2027 rund 26,5 Rappen pro Kilowattstunde, davon 10,9 Rappen Netznutzung (ElCom). Der Rabatt bringt also höchstens etwa 4,4 Rappen pro Kilowattstunde aus der LEG, bei 20 Prozent rund 2,2 Rappen. Für Verbraucher sind das je nach Fall einige Dutzend bis wenige hundert Franken im Jahr. Interessanter ist es für Produzenten, die innerhalb der LEG mehr erhalten als die gesetzliche Mindestvergütung, und für Gemeinden mit grossen Dächern.
+
+- **Rickenbach (ZH):** Seit 1. Mai 2026 rund 40 Teilnehmende inklusive Gemeinde- und Schulhaus, 127 kWp, betrieben von den EKZ. Von der Idee im Herbst 2025 bis zum Start vergingen gut sechs Monate; Anmeldung online.
+- **Lupsingen (BL):** 68 Mitglieder, eine der grössten LEG. Laut Initiant rund 20 Prozent günstiger als der Standardtarif; Käufer sparten seit April zusammen rund 4'400 Franken.
+- **Laupersdorf (SO):** Eine Simulation des Werks für 15 Gemeindegebäude und ein Schulhausdach mit 220 kWp ergibt 5'200 Franken weniger Stromkosten pro Jahr (−19,7 Prozent).
+
+### Wo es hakt
+
+- **Gebühren:** Mehrere Netzbetreiber verlangen Einrichtungsgebühren, teils über 500 Franken. Der Bund will das mit einer Revision der Verordnung unterbinden (neuer Art. 12a StromVV: Kosten als Netzkosten, nicht einzeln verrechnet); die Vernehmlassung lief bis Juli 2026.
+- **Prozesse und IT:** Werke betreten Neuland; Abrechnung und Datenaustausch sind aufwendig, ein gemeinsamer Branchenstandard für die Datenlieferung ist noch nicht fertig. Die EKZ selbst nennen den Aufwand «erheblich».
+- **Smart Meter:** Ende 2024 hatte gut die Hälfte der Messpunkte einen Smart Meter; bis Ende 2027 müssen es 80 Prozent sein. Auf Gesuch muss das Werk innert drei Monaten einen installieren.
+- **Gemeindegrenze:** Eine LEG endet an der Gemeindegrenze und auf einer Netzebene; über Ebenen hinweg sinkt der Rabatt auf 20 Prozent.
+
+### Was eine LEG nicht ist
+
+Eine LEG ist ein Abrechnungsmodell auf dem öffentlichen Netz, keine Notstromversorgung. Fällt das Netz aus, schalten netzgekoppelte Solaranlagen ab; Inselbetrieb braucht Speicher und eigene Umschalttechnik im Gebäude. Und weil Solarstrom vor allem im Sommer anfällt, löst die LEG die Winterfrage nicht. Ihr Beitrag zur Resilienz: Strom und Geld bleiben im Ort, Gemeinden werden unabhängiger von Preisschwankungen, und Verbrauch, der sich nach lokaler Produktion richtet, kann Netze entlasten.
+
+---
+
+## Was das für die Politik heisst
+
+Die meisten Netzbetreiber gehören ganz oder teilweise der öffentlichen Hand. Gemeinden und Kantone können über die Eignerstrategie ihres Werks sofort handeln, ohne auf Bern zu warten:
+
+- **Keine Gebühren:** keine Einrichtungs-, Ein- oder Austrittsgebühren, schon bevor die Bundesverordnung es verlangt.
+- **Netzkarte öffentlich:** Die Trafokreise und Netzebenen als Karte veröffentlichen, damit Interessierte sofort sehen, wer mit wem eine LEG bilden kann.
+- **Online in einem Schritt:** Anmeldung mit Standardbedingungen und dem Mustervertrag von EnergieSchweiz und Branche; Abrechnung durch das Werk zu Selbstkosten; Daten kostenlos im Standardformat.
+- **Smart Meter zuerst dort, wo LEG entstehen**, und innert Wochen statt Monaten.
+- **Gemeinde als Anker:** Schul- und Gemeindedächer als Produzenten, Gemeindebauten als Grossverbraucher, offen für die Bevölkerung, nach dem Muster von Rickenbach.
+- **Messen:** Jedes Werk weist jährlich die Zahl der LEG, Mitglieder und geteilten Kilowattstunden aus: [Energie & Infrastruktur-Resilienz](https://die-zukunft.ch/energy-resilience/).
+- **Beim Bund:** den gesetzlichen Spielraum von 60 Prozent Rabatt nutzen und LEG über Netzebenen und Gemeindegrenzen hinweg ermöglichen.
+
+---
+
+## Quellen
+
+1. Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien, AS 2024 679 (StromVG Art. 17d, 17e). https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2024/679/de/html/fedlex-data-admin-ch-eli-oc-2024-679-de-html.html
+2. Stromversorgungsverordnung (StromVV), SR 734.71, Stand 1. Juli 2026, Art. 8a^decies, 19e–19h, 31e. https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/de/pdf-a/fedlex-data-admin-ch-eli-cc-2008-226-20260701-de-pdf-a.pdf
+3. Bundesrat: Erwahrung des Ergebnisses der Volksabstimmung vom 9. Juni 2024 (1'717'607 Ja, 781'811 Nein). https://swissvotes.ch/vote/668.00/erwahrung-de.pdf
+4. Swissolar: Rund 1'800 lokale Elektrizitätsgemeinschaften im ersten Halbjahr 2026 (2. September 2026). https://www.swissolar.ch/de/news/detail/rund-1-800-lokale-elektrizitaetsgemeinschaften-im-ersten-halbjahr-2026-86899
+5. lokalerstrom.ch (EnergieSchweiz, Swissolar, VSE, Swisspower): Betriebsmodell LEG, Mustervertrag. https://www.lokalerstrom.ch/betriebsmodelle/leg
+6. lokalerstrom.ch: Praxisbeispiel LEG Rickenbach (26. Mai 2026). https://www.lokalerstrom.ch/praxisbeispiele/leg-rickenbach
+7. SRF: Lupsingen setzt auf Strom aus dem eigenen Dorf (26. Juli 2026). https://www.srf.ch/news/schweiz/neue-regeln-fuer-solarstrom-lupsingen-setzt-auf-strom-aus-dem-eigenen-dorf-wie-geht-das
+8. Naturpark Thal / Primeo: Praxisbeispiel LEG Gemeinde Laupersdorf (24. Juni 2026). https://www.naturparkthal.ch/fileadmin/Der-Park/Projekte/Energie/Praxisbeispiel_LEG_Gemeinde_Solarstrom_gemeinsam_nutzen.pdf
+9. BFE: Erläuternder Bericht zur Revision der Stromversorgungsverordnung (Vernehmlassung 15. April bis 15. Juli 2026). https://pubdb.bfe.admin.ch/de/publication/download/12581
+10. BFE: Monitoring-Bericht 2025 (Smart-Meter-Anteil Ende 2024). https://pubdb.bfe.admin.ch/de/publication/download/12426
+11. Bundesrat / ElCom: Stromtarife 2027 (8. September 2026). https://www.admin.ch/de/newnsb/1miE201yRzoA
+12. EKZ: Tarifblatt LEG 2026. https://www.ekz.ch/dam/ekz/angebote/strom/produzenten-und-gemeinschaften/eigenstromx/EKZ-Tarifblatt-LEG-ENP26.pdf
+13. VSE: Branchendokument LEG – CH 2025 V2. https://www.strom.ch/de/media/15458/download
+14. Kanton Aargau: Infoblatt Inselbetrieb von PV-Anlagen mit Speicher (2. November 2022). https://www.ag.ch/media/kanton-aargau/bvu/energie/bauen-energie/broschueren/20221102-infoblatt-inselbetrieb-pv-anlagen-speicher-dev.pdf
 
 ---
 

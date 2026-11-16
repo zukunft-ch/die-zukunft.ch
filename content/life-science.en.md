@@ -41,5 +41,16 @@ points = [
   "Citizens deserve control over their health data",
   "Innovation and trust are not contradictory — they are prerequisites for each other",
 ]
-+++
 
+[[extra.sections]]
+title = "Lab Samples by Drone"
+text = "In 2017 Switzerland was one of the first countries to authorise drone flights carrying lab samples between hospitals. Today London and Baden-Württemberg fly on a scheduled basis, while in Switzerland we cannot find a regular route. The rules exist; what is missing is a client. Most hospitals belong to cantons and communes."
+points = [
+  "Cantons include drone transport for lab samples, blood and urgent medicines in their hospitals' service mandates and tenders, where it saves time or money",
+  "One network for several hospitals and labs instead of single routes, with one FOCA authorisation",
+  "Clear landing sites on hospital roofs for planning and noise in advance",
+  "Only certified operators, parachutes meeting the standard, incidents made public",
+  "Publish flights, time saved and costs every year, compared with couriers",
+  "History, comparison and figures: <a href=\"/en/zukunftslabor/notizen/drohnen-fuer-spitaeler/\">Future Lab note</a>",
+]
++++

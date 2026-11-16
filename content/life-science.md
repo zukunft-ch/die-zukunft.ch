@@ -40,5 +40,16 @@ points = [
   "Bürgerinnen und Bürger verdienen Kontrolle über ihre Gesundheitsdaten",
   "Innovation und Vertrauen sind kein Widerspruch – sondern Voraussetzung füreinander",
 ]
-+++
 
+[[extra.sections]]
+title = "Laborproben per Drohne"
+text = "2017 bewilligte die Schweiz als eines der ersten Länder Drohnenflüge mit Laborproben zwischen Spitälern. Heute fliegen London und Baden-Württemberg im Linienbetrieb, in der Schweiz finden wir keine reguläre Route. Die Regeln gibt es; es fehlt ein Auftraggeber. Die meisten Spitäler gehören Kantonen und Gemeinden."
+points = [
+  "Kantone nehmen Drohnentransporte für Laborproben, Blut und dringende Medikamente in Leistungsaufträge und Ausschreibungen ihrer Spitäler auf, wo sie Zeit oder Geld sparen",
+  "Ein Netz für mehrere Spitäler und Labors statt Einzelrouten, mit einer Bewilligung des BAZL",
+  "Landeplätze auf Spitaldächern raumplanerisch und lärmrechtlich vorab klären",
+  "Nur zertifizierte Betreiber, Fallschirm nach Norm, Zwischenfälle öffentlich",
+  "Flüge, Zeitgewinn und Kosten jährlich veröffentlichen, im Vergleich zum Kurier",
+  "Geschichte, Vergleich und Zahlen: <a href=\"/zukunftslabor/notizen/drohnen-fuer-spitaeler/\">Notiz im Zukunftslabor</a>",
+]
++++

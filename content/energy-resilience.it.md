@@ -35,5 +35,17 @@ subsections = [
 [[extra.sections]]
 title = "Principio"
 text = "La resilienza è <strong>ingegneria</strong>: standard, ridondanza, test, responsabilità."
-+++
 
+[[extra.sections]]
+title = "Corrente dal proprio quartiere"
+text = "Dal 1° gennaio 2026 vicini, aziende e Comuni possono condividere corrente solare attraverso la rete pubblica, con uno sconto sulla tariffa di rete. Dopo sei mesi le comunità elettriche locali sono circa 1800, ma in alcune aree di rete nemmeno una. Che una comunità nasca dipende dall'azienda elettrica locale, e la maggior parte appartiene a Comuni e Cantoni."
+points = [
+  "Nessuna tassa d'attivazione, d'entrata o d'uscita, già prima che lo imponga la Confederazione",
+  "Aree dei trasformatori e livelli di rete su una carta pubblica, così che tutti vedano con chi possono formare una comunità",
+  "Iscrizione online in un passo, contratto tipo, fatturazione da parte dell'azienda a prezzo di costo",
+  "Contatori intelligenti prima dove nascono comunità, in settimane anziché mesi",
+  "Tetti di scuole ed edifici comunali come produttori, aperti alla popolazione",
+  "Restare onesti: una comunità è un modello di fatturazione, non un'alimentazione d'emergenza",
+  "Regole, esempi e cifre: <a href=\"/it/zukunftslabor/notizen/lokale-elektrizitaetsgemeinschaften/\">nota del Laboratorio del futuro</a>",
+]
++++
