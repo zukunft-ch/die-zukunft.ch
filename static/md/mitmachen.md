@@ -11,7 +11,7 @@ Werde Mitglied im Verein Die Zukunft und gestalte die Partei aktiv mit. Alle Inf
 
 ## Mitglied werden
 
-Mitgliedschaft gibt dir Mitbestimmung, Updates und die Möglichkeit, Arbeitsgruppen zu prägen. Schreib uns an hey@die-zukunft.ch.
+Als Mitglied hast du Stimmrecht an der Mitgliederversammlung und kannst in Arbeitsgruppen mitwirken. Aktivitäten sind freiwillig, es gibt keine Pflichten ausser dem Jahresbeitrag.
 
 ## Newsletter
 

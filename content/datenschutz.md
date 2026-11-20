@@ -1,7 +1,7 @@
 +++
 title = "Datenschutz"
 description = "Datenschutzerklärung von Die Zukunft."
-updated = 2026-11-08
+updated = 2026-11-20
 template = "page.html"
 +++
 
@@ -24,6 +24,20 @@ Wenn du uns über das Kontaktformular kontaktierst, werden deine Angaben (Name, 
 ### Newsletter
 
 Wenn du dich für unseren Newsletter anmeldest, speichern wir deine E-Mail-Adresse. Du kannst dich jederzeit abmelden. Wir verwenden deine Adresse ausschliesslich für den Versand unserer Updates.
+
+### Mitgliedschaft {#mitgliedschaft}
+
+Wenn du über das Formular einen Mitgliedschaftsantrag stellst, bearbeiten wir: Vor- und Nachname, E-Mail, Postadresse und Land, optional deine Telefonnummer, die Korrespondenzsprache, die Beitragskategorie, deine freiwilligen Angaben zur Mitarbeit sowie deine Erklärungen (Alter, Statuten, Einwilligung) mit dem Zeitpunkt der Abgabe.
+
+**Zweck:** Entscheid über die Aufnahme, Führung des Mitgliederverzeichnisses, Beitragsverwaltung und Einladungen zu Versammlungen. Wir verwenden die Angaben für nichts anderes.
+
+**Besonders schützenswerte Daten:** Die Mitgliedschaft in einer Partei legt eine politische Ansicht offen. Wir geben deine Mitgliedschaft deshalb ohne deine ausdrückliche Einwilligung niemandem bekannt, auch nicht anderen Mitgliedern. Zugriff auf das Mitgliederverzeichnis hat nur der Vorstand.
+
+**Speicherort:** Die Angaben werden in unserer eigenen Anwendung auf der Infrastruktur von Cloudflare, Inc. (USA) gespeichert und können dabei auch ausserhalb der Schweiz liegen. Die Übermittlung stützt sich auf das Swiss-U.S. Data Privacy Framework. Die Benachrichtigung über einen neuen Antrag enthält keine Personendaten.
+
+**Aufbewahrung:** solange du Mitglied bist. Nach deinem Austritt oder einem abgelehnten Antrag löschen wir deine Angaben innert drei Monaten. Buchhaltungsbelege zu bezahlten Beiträgen bewahren wir so lange auf, wie das Gesetz es verlangt (zehn Jahre).
+
+Du kannst deine Einwilligung jederzeit widerrufen; das gilt als Austritt.
 
 ### Hosting und Schriften
 

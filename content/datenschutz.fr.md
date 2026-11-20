@@ -2,7 +2,7 @@
 title = "Protection des données"
 slug = "protection-des-donnees"
 description = "Politique de confidentialité de Le Futur."
-updated = 2026-11-08
+updated = 2026-11-20
 template = "page.html"
 +++
 
@@ -25,6 +25,20 @@ Lorsque tu nous contactes via le formulaire de contact, tes informations (nom, e
 ### Newsletter
 
 Si tu t'inscris à notre newsletter, nous conservons ton adresse e-mail. Tu peux te désinscrire à tout moment. Nous utilisons ton adresse exclusivement pour l'envoi de nos actualités.
+
+### Adhésion {#mitgliedschaft}
+
+Si tu déposes une demande d'adhésion via le formulaire, nous traitons : prénom et nom, e-mail, adresse postale et pays, éventuellement ton numéro de téléphone, la langue de correspondance, la catégorie de cotisation, tes indications facultatives sur ta participation ainsi que tes déclarations (âge, statuts, consentement) avec la date à laquelle tu les as faites.
+
+**But :** décision sur l'admission, tenue du registre des membres, gestion des cotisations et convocations aux assemblées. Nous n'utilisons ces données à aucune autre fin.
+
+**Données sensibles :** l'adhésion à un parti révèle une opinion politique. Nous ne communiquons donc ton adhésion à personne sans ton consentement exprès, pas même aux autres membres. Seul le comité a accès au registre des membres.
+
+**Lieu de stockage :** les données sont enregistrées dans notre propre application sur l'infrastructure de Cloudflare, Inc. (États-Unis) et peuvent se trouver hors de Suisse. Le transfert repose sur le Swiss-U.S. Data Privacy Framework. La notification d'une nouvelle demande ne contient aucune donnée personnelle.
+
+**Conservation :** tant que tu es membre. Après ta démission ou un refus, nous supprimons tes données dans les trois mois. Les pièces comptables relatives aux cotisations payées sont conservées aussi longtemps que la loi l'exige (dix ans).
+
+Tu peux retirer ton consentement à tout moment ; cela vaut démission.
 
 ### Hébergement et polices
 

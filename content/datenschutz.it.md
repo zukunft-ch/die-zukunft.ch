@@ -2,7 +2,7 @@
 title = "Protezione dei dati"
 slug = "protezione-dei-dati"
 description = "Informativa sulla privacy di Il Futuro."
-updated = 2026-11-08
+updated = 2026-11-20
 template = "page.html"
 +++
 
@@ -25,6 +25,20 @@ Quando ci contatti tramite il modulo di contatto, le tue informazioni (nome, e-m
 ### Newsletter
 
 Se ti iscrivi alla nostra newsletter, conserviamo il tuo indirizzo e-mail. Puoi cancellarti in qualsiasi momento. Utilizziamo il tuo indirizzo esclusivamente per l'invio dei nostri aggiornamenti.
+
+### Adesione {#mitgliedschaft}
+
+Se presenti una domanda di adesione tramite il modulo, trattiamo: nome e cognome, e-mail, indirizzo postale e paese, facoltativamente il tuo numero di telefono, la lingua di corrispondenza, la categoria di quota, le tue indicazioni facoltative sulla collaborazione e le tue dichiarazioni (età, statuto, consenso) con la data in cui le hai rilasciate.
+
+**Scopo:** decisione sull'ammissione, tenuta del registro dei membri, gestione delle quote e convocazioni alle assemblee. Non usiamo questi dati per nessun altro scopo.
+
+**Dati degni di particolare protezione:** l'adesione a un partito rivela un'opinione politica. Per questo non comunichiamo la tua adesione a nessuno senza il tuo consenso esplicito, nemmeno agli altri membri. Solo il comitato ha accesso al registro dei membri.
+
+**Luogo di conservazione:** i dati sono salvati nella nostra applicazione sull'infrastruttura di Cloudflare, Inc. (USA) e possono trovarsi anche fuori dalla Svizzera. Il trasferimento si basa sullo Swiss-U.S. Data Privacy Framework. La notifica di una nuova domanda non contiene dati personali.
+
+**Conservazione:** finché sei membro. Dopo le tue dimissioni o un rifiuto cancelliamo i tuoi dati entro tre mesi. I documenti contabili relativi alle quote pagate sono conservati per il tempo richiesto dalla legge (dieci anni).
+
+Puoi revocare il tuo consenso in qualsiasi momento; ciò vale come dimissioni.
 
 ### Hosting e caratteri
 

@@ -11,7 +11,7 @@ Diventa membro dell'associazione Il Futuro e partecipa attivamente alla costruzi
 
 ## Diventare membro
 
-L'adesione ti dà la codecisione, aggiornamenti e la possibilità di plasmare i gruppi di lavoro. Scrivici a hey@die-zukunft.ch.
+Come membro hai diritto di voto all'assemblea generale e puoi partecipare ai gruppi di lavoro. Le attività sono facoltative: l'unico obbligo è la quota annuale.
 
 ## Newsletter
 

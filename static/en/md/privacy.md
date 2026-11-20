@@ -25,6 +25,20 @@ When you contact us via the contact form, your details (name, email, message) ar
 
 When you sign up for our newsletter, we store your email address. You can unsubscribe at any time. We use your address exclusively for sending our updates.
 
+### Membership {#mitgliedschaft}
+
+If you apply for membership through the form, we process: first and last name, email, postal address and country, optionally your phone number, your preferred language, the fee category, any details you give about getting involved, and your declarations (age, statutes, consent) with the time you made them.
+
+**Purpose:** deciding on admission, keeping the member register, managing fees and sending invitations to assemblies. We use these details for nothing else.
+
+**Sensitive data:** membership of a party reveals a political opinion. We therefore never disclose your membership to anyone without your explicit consent, not even to other members. Only the board has access to the member register.
+
+**Where it is stored:** the details are stored in our own application on the infrastructure of Cloudflare, Inc. (USA) and may be located outside Switzerland. The transfer is based on the Swiss-U.S. Data Privacy Framework. The notification about a new application contains no personal data.
+
+**Retention:** for as long as you are a member. After you leave, or if your application is declined, we delete your details within three months. Accounting records of paid fees are kept for as long as the law requires (ten years).
+
+You can withdraw your consent at any time; this counts as leaving.
+
 ### Hosting and fonts
 
 This website is statically hosted on Cloudflare's infrastructure. No cookies are set and no tracking tools are used. All fonts, scripts and resources are served from our own domain — we do not embed any external CDNs or third-party services that could receive your IP address.

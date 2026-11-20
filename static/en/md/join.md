@@ -11,7 +11,7 @@ Become a member of The Future association and actively shape the party. All info
 
 ## Become a member
 
-Membership gives you co-determination, updates and the chance to shape working groups. Write to us at hey@die-zukunft.ch.
+As a member you vote at the general assembly and can take part in working groups. Activities are voluntary: the only obligation is the annual fee.
 
 ## Newsletter
 
