@@ -12,42 +12,36 @@ Usage (via mise):
   mise run forms left <key> [date]    member has left
   mise run forms delete <key>         erase an application (right to erasure)
 
-The admin token is read from $ADMIN_TOKEN or, if unset, from the macOS Keychain
-(service "die-zukunft-forms"). Store it once with:
-  security add-generic-password -s die-zukunft-forms -a admin -w
-(paste the same value you gave `npx wrangler secret put ADMIN_TOKEN`).
+The admin token is the secret "cloudflare-forms-admin" (Proton Pass via the `secret`
+tool): without $ADMIN_TOKEN the script re-runs itself under
+`secret run ADMIN_TOKEN=cloudflare-forms-admin`. Without `secret`, set ADMIN_TOKEN yourself.
 Nothing personal is written to disk; output goes to the terminal only.
 """
 
 import json
 import os
-import subprocess
+import shutil
 import sys
 import urllib.error
 import urllib.parse
 import urllib.request
 
 API = "https://api.die-zukunft.ch"
-KEYCHAIN_SERVICE = "die-zukunft-forms"
 FEES = {"regular": "ordentlich", "reduced": "reduziert"}
+
+
+SECRET_NAME = "cloudflare-forms-admin"
 
 
 def token():
     if os.environ.get("ADMIN_TOKEN"):
         return os.environ["ADMIN_TOKEN"]
-    try:
-        out = subprocess.run(
-            ["security", "find-generic-password", "-s", KEYCHAIN_SERVICE, "-w"],
-            capture_output=True, text=True, check=True,
-        )
-        return out.stdout.strip()
-    except (subprocess.CalledProcessError, FileNotFoundError):
-        sys.exit(
-            "No admin token. Store it once in the Keychain:\n"
-            f"  security add-generic-password -s {KEYCHAIN_SERVICE} -a admin -w\n"
-            "or set ADMIN_TOKEN. Lost it? Set a new one with "
-            "`cd worker-forms && npx wrangler secret put ADMIN_TOKEN`."
-        )
+    sys.exit(
+        "No admin token. With the `secret` tool: secret has " + SECRET_NAME + " (create it with\n"
+        "  secret gen " + SECRET_NAME + " && secret pipe " + SECRET_NAME
+        + " -- sh -c 'cd worker-forms && npx wrangler secret put ADMIN_TOKEN')\n"
+        "Otherwise set ADMIN_TOKEN to the worker's token."
+    )
 
 
 def call(path, method="GET", body=None):
@@ -169,4 +163,9 @@ def main(argv):
 
 
 if __name__ == "__main__":
+    # Fetch the token through `secret` (Proton Pass) when it isn't in the environment.
+    if not os.environ.get("ADMIN_TOKEN") and shutil.which("secret") and not os.environ.get("FORMS_NO_SECRET"):
+        os.environ["FORMS_NO_SECRET"] = "1"
+        os.execvp("secret", ["secret", "run", f"ADMIN_TOKEN={SECRET_NAME}", "--",
+                             sys.executable, os.path.abspath(__file__), *sys.argv[1:]])
     main(sys.argv[1:])

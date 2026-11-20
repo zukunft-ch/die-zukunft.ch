@@ -90,7 +90,7 @@ mise run forms admit <key>     # record the board's decision (also: reject, left
 mise run forms help
 ```
 
-The admin token comes from `$ADMIN_TOKEN` or the macOS Keychain (service `die-zukunft-forms`):
-`security add-generic-password -s die-zukunft-forms -a admin -w`. Without a token, the
+The admin token is the secret `cloudflare-forms-admin`, fetched through the `secret` tool (Proton Pass)
+when `$ADMIN_TOKEN` is not set. Without a token, the
 Cloudflare dashboard shows the same data under Storage & Databases → KV → `FORMS`.
 Notification failures are logged: `cd worker-forms && npx wrangler tail form-handler`.
