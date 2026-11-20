@@ -80,8 +80,8 @@
 ## Form submissions
 
 The form worker (`worker-forms/`, `api.die-zukunft.ch`) stores contact messages, newsletter
-sign-ups and membership applications in Workers KV and emails a notification to
-`hey@die-zukunft.ch` (membership notifications carry no personal data). To read them:
+sign-ups and membership applications in Workers KV and emails a notification to the
+verified inbox in the worker secret `NOTIFY_TO` (membership notifications carry no personal data). To read them:
 
 ```bash
 mise run forms                 # overview: open applications, latest contacts, counts

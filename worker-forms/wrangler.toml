@@ -12,11 +12,9 @@ id = "bba8fc0a26a54981ae5c716e8808dd18"
 
 [vars]
 NOTIFY_FROM = "forms@die-zukunft.ch"
-# Role address, not a personal inbox. NOTE: destination_address below must be a
-# *verified* destination in Cloudflare Email Routing for this zone before deploy,
-# otherwise Worker email delivery fails silently. Verify hey@die-zukunft.ch there first.
-NOTIFY_TO = "hey@die-zukunft.ch"
+# NOTIFY_TO is a worker secret (`npx wrangler secret put NOTIFY_TO`), not a var: it must be a
+# *verified* destination address in Cloudflare Email Routing (a routed address such as
+# hey@die-zukunft.ch does not count), and the private inbox stays out of this public repo.
 
 [[send_email]]
 name = "EMAIL"
-destination_address = "hey@die-zukunft.ch"
