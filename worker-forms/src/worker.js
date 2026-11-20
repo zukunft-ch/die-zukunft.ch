@@ -428,7 +428,9 @@ async function sendNotification(env, site, subject, body) {
 
     const email = new EmailMessage(env.NOTIFY_FROM, env.NOTIFY_TO, msg);
     await env.EMAIL.send(email);
-  } catch {
-    // Email failure should not break form submission
+  } catch (err) {
+    // Email failure should not break form submission, but must be visible in the logs
+    // (`npx wrangler tail form-handler`). The record is stored in KV either way.
+    console.error('notification failed:', err && err.message ? err.message : String(err));
   }
 }
