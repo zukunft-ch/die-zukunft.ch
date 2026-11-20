@@ -56,7 +56,7 @@ legend_fee = "Quota sociale"
 fee_regular = "Quota ordinaria"
 fee_reduced = "Quota ridotta (in formazione o con reddito basso, senza giustificativo)"
 per_year = "all'anno"
-fee_hint = "Dopo l'ammissione ricevi una fattura. Non puoi permetterti la quota? Scrivici, troveremo una soluzione."
+fee_hint = "Dopo l'ammissione ricevi le indicazioni di pagamento (Open Collective). Non puoi permetterti la quota? Scrivici, troveremo una soluzione."
 legend_help = "Collaborazione (facoltativo)"
 help_hint = "Che cosa ti piacerebbe fare? Senza impegno."
 help_options = [
@@ -80,7 +80,7 @@ decl_consent_post = "."
 decl_newsletter = "Desidero ricevere anche la newsletter (facoltativo)."
 btn_submit = "Invia la domanda"
 exit_note = "Puoi dimetterti in qualsiasi momento con un'e-mail a hey@die-zukunft.ch."
-success = "Grazie, {name}! Abbiamo ricevuto la tua domanda. Di regola decidiamo sull'ammissione entro 14 giorni. Riceverai poi una conferma e la fattura della quota annuale."
+success = "Grazie, {name}! Abbiamo ricevuto la tua domanda. Di regola decidiamo sull'ammissione entro 14 giorni. Riceverai poi una conferma e le indicazioni di pagamento della quota annuale."
 error = "Non è stato possibile inviare la domanda. Riprova o scrivi a hey@die-zukunft.ch."
 
 +++

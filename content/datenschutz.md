@@ -37,6 +37,8 @@ Wenn du über das Formular einen Mitgliedschaftsantrag stellst, bearbeiten wir: 
 
 **Aufbewahrung:** solange du Mitglied bist. Nach deinem Austritt oder einem abgelehnten Antrag löschen wir deine Angaben innert drei Monaten. Buchhaltungsbelege zu bezahlten Beiträgen bewahren wir so lange auf, wie das Gesetz es verlangt (zehn Jahre).
 
+**Zahlung des Beitrags:** Den Jahresbeitrag zahlst du über Open Collective (USA); dort gilt deren Datenschutzerklärung. Beiträge sind auf Open Collective standardmässig öffentlich sichtbar. Wähle beim Bezahlen «Inkognito», damit dein Name dort nicht erscheint und deine Mitgliedschaft nicht erkennbar wird.
+
 Du kannst deine Einwilligung jederzeit widerrufen; das gilt als Austritt.
 
 ### Hosting und Schriften

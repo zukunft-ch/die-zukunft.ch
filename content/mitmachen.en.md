@@ -56,7 +56,7 @@ legend_fee = "Membership fee"
 fee_regular = "Regular fee"
 fee_reduced = "Reduced fee (in education or on a low income, no proof needed)"
 per_year = "per year"
-fee_hint = "Once you're admitted, you'll receive an invoice. Can't afford the fee? Write to us and we'll find a solution."
+fee_hint = "Once you're admitted, you'll receive the payment details (Open Collective). Can't afford the fee? Write to us and we'll find a solution."
 legend_help = "Getting involved (optional)"
 help_hint = "What would you enjoy? No commitment."
 help_options = [
@@ -80,7 +80,7 @@ decl_consent_post = "."
 decl_newsletter = "I would also like to receive the newsletter (optional)."
 btn_submit = "Send application"
 exit_note = "You can leave at any time by emailing hey@die-zukunft.ch."
-success = "Thank you, {name}! We've received your application. We usually decide on admission within 14 days. You'll then receive a confirmation and the invoice for the annual fee."
+success = "Thank you, {name}! We've received your application. We usually decide on admission within 14 days. You'll then receive a confirmation and the payment details for the annual fee."
 error = "Your application could not be sent. Please try again or write to hey@die-zukunft.ch."
 
 +++

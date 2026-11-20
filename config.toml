@@ -40,8 +40,8 @@ contact_city = "Basel, Schweiz"
 # Membership form (theme macros/join_form.html). Fees in CHF per year as set by the
 # general assembly; leave empty to hide the amount. membership_exclusive = true adds the
 # "not a member of another party" declaration (statutes Art. 3 Abs. 3, if adopted).
-membership_fee_regular = ""
-membership_fee_reduced = ""
+membership_fee_regular = "100"
+membership_fee_reduced = "40"
 membership_exclusive = false
 
 # --- DE translations (default) ---

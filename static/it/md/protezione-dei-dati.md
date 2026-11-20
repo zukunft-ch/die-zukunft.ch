@@ -37,6 +37,8 @@ Se presenti una domanda di adesione tramite il modulo, trattiamo: nome e cognome
 
 **Conservazione:** finché sei membro. Dopo le tue dimissioni o un rifiuto cancelliamo i tuoi dati entro tre mesi. I documenti contabili relativi alle quote pagate sono conservati per il tempo richiesto dalla legge (dieci anni).
 
+**Pagamento della quota:** paghi la quota annuale tramite Open Collective (USA); si applica la sua informativa sulla privacy. Su Open Collective i contributi sono pubblici per impostazione predefinita. Scegli «Incognito» al momento del pagamento, così il tuo nome non appare e la tua adesione non è riconoscibile.
+
 Puoi revocare il tuo consenso in qualsiasi momento; ciò vale come dimissioni.
 
 ### Hosting e caratteri

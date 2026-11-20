@@ -37,6 +37,8 @@ Si tu déposes une demande d'adhésion via le formulaire, nous traitons : préno
 
 **Conservation :** tant que tu es membre. Après ta démission ou un refus, nous supprimons tes données dans les trois mois. Les pièces comptables relatives aux cotisations payées sont conservées aussi longtemps que la loi l'exige (dix ans).
 
+**Paiement de la cotisation :** tu paies la cotisation annuelle via Open Collective (États-Unis) ; sa politique de confidentialité s'applique. Les contributions sur Open Collective sont publiques par défaut. Choisis « Incognito » lors du paiement pour que ton nom n'apparaisse pas et que ton adhésion ne soit pas reconnaissable.
+
 Tu peux retirer ton consentement à tout moment ; cela vaut démission.
 
 ### Hébergement et polices

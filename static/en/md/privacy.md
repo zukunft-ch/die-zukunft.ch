@@ -37,6 +37,8 @@ If you apply for membership through the form, we process: first and last name, e
 
 **Retention:** for as long as you are a member. After you leave, or if your application is declined, we delete your details within three months. Accounting records of paid fees are kept for as long as the law requires (ten years).
 
+**Paying the fee:** you pay the annual fee through Open Collective (USA); its privacy policy applies. Contributions on Open Collective are public by default. Choose "Incognito" when paying so your name does not appear and your membership cannot be inferred.
+
 You can withdraw your consent at any time; this counts as leaving.
 
 ### Hosting and fonts

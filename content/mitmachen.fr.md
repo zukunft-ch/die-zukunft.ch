@@ -56,7 +56,7 @@ legend_fee = "Cotisation"
 fee_regular = "Cotisation ordinaire"
 fee_reduced = "Cotisation réduite (en formation ou à faible revenu, sans justificatif)"
 per_year = "par an"
-fee_hint = "Après ton admission, tu reçois une facture. Tu ne peux pas payer la cotisation ? Écris-nous, nous trouverons une solution."
+fee_hint = "Après ton admission, tu reçois les informations de paiement (Open Collective). Tu ne peux pas payer la cotisation ? Écris-nous, nous trouverons une solution."
 legend_help = "Participation (facultatif)"
 help_hint = "Qu'est-ce qui te plairait ? Sans engagement."
 help_options = [
@@ -80,7 +80,7 @@ decl_consent_post = "."
 decl_newsletter = "Je souhaite aussi recevoir la newsletter (facultatif)."
 btn_submit = "Envoyer la demande"
 exit_note = "Tu peux démissionner à tout moment par e-mail à hey@die-zukunft.ch."
-success = "Merci, {name} ! Nous avons bien reçu ta demande. Nous décidons en général de l'admission dans les 14 jours. Tu recevras ensuite une confirmation et la facture de la cotisation annuelle."
+success = "Merci, {name} ! Nous avons bien reçu ta demande. Nous décidons en général de l'admission dans les 14 jours. Tu recevras ensuite une confirmation et les informations de paiement de la cotisation annuelle."
 error = "La demande n'a pas pu être envoyée. Réessaie ou écris à hey@die-zukunft.ch."
 
 +++

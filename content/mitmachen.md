@@ -55,7 +55,7 @@ legend_fee = "Mitgliederbeitrag"
 fee_regular = "Ordentlicher Beitrag"
 fee_reduced = "Reduzierter Beitrag (in Ausbildung oder mit geringem Einkommen, ohne Nachweis)"
 per_year = "pro Jahr"
-fee_hint = "Nach der Aufnahme erhältst du eine Rechnung. Kannst du dir den Beitrag nicht leisten? Schreib uns, wir finden eine Lösung."
+fee_hint = "Nach der Aufnahme erhältst du die Zahlungsangaben (Open Collective). Kannst du dir den Beitrag nicht leisten? Schreib uns, wir finden eine Lösung."
 legend_help = "Mitarbeit (optional)"
 help_hint = "Woran hättest du Freude? Unverbindlich."
 help_options = [
@@ -79,7 +79,7 @@ decl_consent_post = "."
 decl_newsletter = "Ich möchte zusätzlich den Newsletter erhalten (optional)."
 btn_submit = "Antrag senden"
 exit_note = "Du kannst jederzeit mit einer E-Mail an hey@die-zukunft.ch austreten."
-success = "Danke, {name}! Dein Antrag ist bei uns. Wir entscheiden in der Regel innert 14 Tagen über die Aufnahme. Danach erhältst du eine Bestätigung und die Rechnung für den Jahresbeitrag."
+success = "Danke, {name}! Dein Antrag ist bei uns. Wir entscheiden in der Regel innert 14 Tagen über die Aufnahme. Danach erhältst du eine Bestätigung und die Zahlungsangaben für den Jahresbeitrag."
 error = "Der Antrag konnte nicht gesendet werden. Bitte versuch es erneut oder schreib an hey@die-zukunft.ch."
 
 +++
