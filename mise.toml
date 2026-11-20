@@ -27,3 +27,7 @@ run = [
 [tasks.clean]
 description = "Remove the public/ output directory"
 run = "rm -rf public/"
+
+[tasks.forms]
+description = "Read form submissions: membership applications, contacts, newsletter (`mise run forms help`)"
+run = "python scripts/forms.py"
